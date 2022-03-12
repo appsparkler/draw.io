@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T11:54:53.722Z" agent="5.0 (Macintosh)" etag="jdfYL-j2mau9xuxdN4pg" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T11:56:18.187Z" agent="5.0 (Macintosh)" etag="kG_Hpda3m147uNxdr6m_" version="16.1.0" type="github">
   <diagram id="7IqZU7v-QbU3dHQ2udvu" name="Page-1">
     <mxGraphModel dx="1186" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,12 +40,6 @@
         <mxCell id="3OlBQHeY5DATznDpSVn_-28" value="Check In" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="263" width="86" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="3OlBQHeY5DATznDpSVn_-29" value="Kanha Shanti Vanam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="482" y="188" width="197" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="3OlBQHeY5DATznDpSVn_-30" value="Youth Seminar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="216" width="140" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#999999;strokeWidth=3;" edge="1" parent="1" source="3OlBQHeY5DATznDpSVn_-3" target="3OlBQHeY5DATznDpSVn_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -64,13 +58,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-35" value="Name, Email OR Abhyasi ID" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
-          <mxGeometry x="793" y="212" width="240" height="20" as="geometry" />
+          <mxGeometry x="793" y="272" width="208" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-36" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="793" y="237" width="213" height="33" as="geometry" />
+          <mxGeometry x="793" y="296" width="213" height="33" as="geometry" />
         </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-37" value="Check In" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="830.25" y="322" width="138.5" height="33" as="geometry" />
+          <mxGeometry x="827.75" y="373" width="138.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="482" y="188" width="197" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-29" value="Kanha Shanti Vanam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="3OlBQHeY5DATznDpSVn_-38">
+          <mxGeometry width="197" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-30" value="Youth Seminar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#999999;" vertex="1" parent="3OlBQHeY5DATznDpSVn_-38">
+          <mxGeometry x="28.5" y="28" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="801" y="188" width="197" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-40" value="Kanha Shanti Vanam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="3OlBQHeY5DATznDpSVn_-39">
+          <mxGeometry width="197" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-41" value="Youth Seminar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#999999;" vertex="1" parent="3OlBQHeY5DATznDpSVn_-39">
+          <mxGeometry x="28.5" y="28" width="140" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
