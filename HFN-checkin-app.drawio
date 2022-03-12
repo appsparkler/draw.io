@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T17:11:55.191Z" agent="5.0 (Macintosh)" etag="5kbOnGgN07o4d2f1jCIb" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T17:14:47.545Z" agent="5.0 (Macintosh)" etag="HbVC1S7Dc0GJ6QK7esdj" version="16.1.0" type="github">
   <diagram id="7IqZU7v-QbU3dHQ2udvu" name="Page-1">
     <mxGraphModel dx="1113" dy="724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
           <mxGeometry x="1145" y="718" width="208" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-106" value="Check In" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1179.75" y="806" width="138.5" height="33" as="geometry" />
+          <mxGeometry x="1224" y="802" width="73" height="33" as="geometry" />
         </mxCell>
         <mxCell id="3OlBQHeY5DATznDpSVn_-68" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Profile with the email-id not found.&amp;nbsp; Please enter &lt;br style=&quot;font-size: 12px;&quot;&gt;the following details to checkin&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;sketch=0;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1149" y="382" width="206" height="66" as="geometry" />
@@ -244,6 +244,9 @@
           <mxGeometry x="-0.2409" y="2" relative="1" as="geometry">
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3OlBQHeY5DATznDpSVn_-112" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=13;spacing=5;labelBackgroundColor=none;labelBorderColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1146.5" y="803" width="65.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
