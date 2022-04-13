@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T04:50:49.080Z" agent="5.0 (Macintosh)" etag="nsMH85FF4WFMLOu0dC6A" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-13T04:54:48.445Z" agent="5.0 (Macintosh)" etag="n3kN7UoSUcglENPhNdtI" version="17.4.3" type="github" pages="5">
   <diagram name="Bootstrap" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -604,11 +604,59 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9-Q0yi6N_ZoJvwGadGe-" name="Page-5">
-    <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="9-Q0yi6N_ZoJvwGadGe-" name="technical-flow-chart">
+    <mxGraphModel dx="946" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kt-I9J399CdGjaOsNbyN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kt-I9J399CdGjaOsNbyN-1" target="kt-I9J399CdGjaOsNbyN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-1" value="user enters a value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kt-I9J399CdGjaOsNbyN-2" target="kt-I9J399CdGjaOsNbyN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-8" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kt-I9J399CdGjaOsNbyN-7">
+          <mxGeometry x="-0.0337" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-2" value="is it an abhyasi ID?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="180" width="160" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kt-I9J399CdGjaOsNbyN-6" target="kt-I9J399CdGjaOsNbyN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kt-I9J399CdGjaOsNbyN-10">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kt-I9J399CdGjaOsNbyN-6" target="kt-I9J399CdGjaOsNbyN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kt-I9J399CdGjaOsNbyN-15">
+          <mxGeometry x="-0.0928" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-6" value="is abhyasi id found?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="362" width="154" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kt-I9J399CdGjaOsNbyN-9" target="kt-I9J399CdGjaOsNbyN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-9" value="are all details available?" style="rhombus;whiteSpace=wrap;html=1;spacingTop=0;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="208" y="519" width="146" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-12" value="check in Abhyasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="709" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kt-I9J399CdGjaOsNbyN-14" value="Show error message" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
