@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T06:26:07.141Z" agent="5.0 (Macintosh)" etag="KbKlBS8OuJqZlar2UblK" version="17.4.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-26T06:26:42.071Z" agent="5.0 (Macintosh)" etag="3V2C8AD3L_CNE0ZvLJkn" version="17.4.4" type="github" pages="6">
   <diagram name="Bootstrap" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1186" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
         <mxCell id="e7T_YDly4-PsObtO_TO6-83" value="&lt;b&gt;PNR/email/mobile&lt;/b&gt; has registrations mapped?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=default;fontSize=24;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1183" y="-348" width="246" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="e7T_YDly4-PsObtO_TO6-86" value="Continue with current registration flow" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=24;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e7T_YDly4-PsObtO_TO6-86" value="Continue with current check-in flow" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=24;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1555" y="-265" width="250" height="92" as="geometry" />
         </mxCell>
       </root>
