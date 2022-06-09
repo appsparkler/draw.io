@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T01:17:58.351Z" agent="5.0 (Macintosh)" etag="MEyXTnVhNvu3ZiyNLHl6" version="19.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-09T01:18:38.006Z" agent="5.0 (Macintosh)" etag="GF1fggkiFFcmO2SHNA81" version="19.0.3" type="github" pages="8">
   <diagram name="Bootstrap" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PNR Flow" id="8WVQCKC-QzfG9X0CIQT7">
-    <mxGraphModel dx="3784" dy="2860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2636" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="y1sUgtYmWt-l7pSTF5X2-0" />
         <mxCell id="y1sUgtYmWt-l7pSTF5X2-1" parent="y1sUgtYmWt-l7pSTF5X2-0" />
@@ -469,6 +469,27 @@
         </mxCell>
         <mxCell id="opqa0DA6xFf-MsypHC1s-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="y1sUgtYmWt-l7pSTF5X2-1">
           <mxGeometry x="860" y="30" width="410" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-0" value="" style="group" vertex="1" connectable="0" parent="y1sUgtYmWt-l7pSTF5X2-1">
+          <mxGeometry x="860" y="910" width="474" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-1" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;labelBackgroundColor=default;labelBorderColor=none;fontSize=24;fontColor=#808080;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-2" value="Selected for check-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry x="70" y="2.5" width="328" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-3" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;fontSize=34;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry y="73" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-4" value="Already checked-in earlier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;fontColor=#808080;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry x="71" y="75.5" width="403" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-5" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;fontSize=24;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry x="1" y="146" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KsVqqiEKexLlSrXNz1mt-6" value="Not Selected for check-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;" vertex="1" parent="KsVqqiEKexLlSrXNz1mt-0">
+          <mxGeometry x="71" y="148.5" width="390" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
