@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T12:34:38.659Z" agent="5.0 (Macintosh)" etag="m-UPub3ApYf8ulQTkucF" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-16T12:35:59.817Z" agent="5.0 (Macintosh)" etag="lhsKi0cUOWSYtQBuvN4f" version="20.0.3" type="github">
   <diagram id="OrNNwfRCXPKhJFVZhT2Z" name="Page-1">
     <mxGraphModel dx="586" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="WHjEqRTiTxIkEHhcoX1E-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHjEqRTiTxIkEHhcoX1E-7">
           <mxGeometry x="0.0345" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WHjEqRTiTxIkEHhcoX1E-2" value="&lt;div&gt;is scanner &lt;br&gt;&lt;/div&gt;&lt;div&gt;on?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="WHjEqRTiTxIkEHhcoX1E-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHjEqRTiTxIkEHhcoX1E-9">
           <mxGeometry x="-0.2759" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WHjEqRTiTxIkEHhcoX1E-6" value="Has user&lt;br&gt;&lt;div&gt;given permission for video?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
