@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T12:26:43.547Z" agent="5.0 (Macintosh)" version="20.0.3" etag="m9s04cabVk7HDju_MxQN" type="github"><diagram id="OrNNwfRCXPKhJFVZhT2Z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-16T12:29:43.960Z" agent="5.0 (Macintosh)" etag="0pIjSPzt1VolwGeG8xpX" version="20.0.3" type="github">
+  <diagram id="OrNNwfRCXPKhJFVZhT2Z" name="Page-1">
+    <mxGraphModel dx="586" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHjEqRTiTxIkEHhcoX1E-1" target="WHjEqRTiTxIkEHhcoX1E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHjEqRTiTxIkEHhcoX1E-2" target="WHjEqRTiTxIkEHhcoX1E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHjEqRTiTxIkEHhcoX1E-7">
+          <mxGeometry x="0.0345" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-2" value="&lt;div&gt;is scanner &lt;br&gt;&lt;/div&gt;&lt;div&gt;on?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="189" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WHjEqRTiTxIkEHhcoX1E-6" target="WHjEqRTiTxIkEHhcoX1E-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WHjEqRTiTxIkEHhcoX1E-9">
+          <mxGeometry x="-0.2759" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-6" value="Has user&lt;br&gt;&lt;div&gt;given permission for video?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="327" width="140" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="WHjEqRTiTxIkEHhcoX1E-8" value="LIST video-devices &lt;br&gt;AND set selectedDeviceId as the first one" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
