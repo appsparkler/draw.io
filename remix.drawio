@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T03:42:00.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YqlApwxsVAwDZC_Vdc-p" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T04:50:35.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NvcpQyDuNjw6RaQLlWvn" version="20.2.2" type="github">
   <diagram id="tx-EgkOs6txUjuiGDX3E" name="Page-1">
     <mxGraphModel dx="586" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="122XdRqf02ET5fMc67Rw-1" value="dynamic routing&lt;br&gt;with $&amp;lt;param&amp;gt;&amp;nbsp;&lt;br&gt;for ex $slug.tsx" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="824" width="127" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="122XdRqf02ET5fMc67Rw-3" value="nested-routing for Admin Route" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="191" y="939" width="127" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
