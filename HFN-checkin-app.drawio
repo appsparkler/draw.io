@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T14:37:38.570Z" agent="5.0 (Macintosh)" etag="PfTGScwxfiYjWTQKj9PP" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-22T14:38:31.687Z" agent="5.0 (Macintosh)" etag="MqhscvIe4gGLEJqkLjsB" version="20.2.2" type="github" pages="3">
   <diagram id="7IqZU7v-QbU3dHQ2udvu" name="signed-in-user-flow">
     <mxGraphModel dx="946" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -567,7 +567,7 @@
         <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OwdA4Yt4TLRBJ9pB_iR-13" target="8OwdA4Yt4TLRBJ9pB_iR-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-13" value="Success page" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-17" value="DONE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
@@ -682,7 +682,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-50" value="Success page" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-50" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="526.25" y="523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-51" value="DONE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
@@ -737,6 +737,12 @@
         </mxCell>
         <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-67" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1887" y="456" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-2/256/confetti-light-128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="569.75" y="540" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8OwdA4Yt4TLRBJ9pB_iR-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-2/256/confetti-light-128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="581" y="178.75" width="33" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
