@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:12:10.424Z" agent="5.0 (Macintosh)" etag="9K41hZcJfMq4D2CAfwtp" version="20.2.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:18:37.434Z" agent="5.0 (Macintosh)" etag="eFy94g8qpAbX6hDv4H5o" version="20.2.2" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="2765" dy="3538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,29 +325,23 @@
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
           <mxGeometry width="410" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="KU8V8JnQrCe2EcihJzQ0-8" value="" style="group" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-2">
-          <mxGeometry x="40" y="320" width="330" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KU8V8JnQrCe2EcihJzQ0-9" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-8">
-          <mxGeometry y="20" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KU8V8JnQrCe2EcihJzQ0-10" value="Abhyasi ID / Mobile # / Email" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-8">
-          <mxGeometry width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-6" value="START CHECK IN" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
           <mxGeometry x="105.25" y="430" width="199.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8V9wThBiYiArrR2XwRkS-5" value="" style="group" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-2">
-          <mxGeometry x="101" y="530" width="210" height="70" as="geometry" />
+        <mxCell id="8V9wThBiYiArrR2XwRkS-9" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="20" y="690" width="53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8V9wThBiYiArrR2XwRkS-4" value="Scan Abhyasi Id" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;spacingRight=9;" vertex="1" parent="8V9wThBiYiArrR2XwRkS-5">
-          <mxGeometry width="210" height="70" as="geometry" />
+        <mxCell id="8V9wThBiYiArrR2XwRkS-4" value="Scan Abhyasi Id" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;spacingRight=9;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="170" y="530" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8V9wThBiYiArrR2XwRkS-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-barcode-128.png" vertex="1" parent="8V9wThBiYiArrR2XwRkS-5">
-          <mxGeometry x="10" width="70" height="70" as="geometry" />
+        <mxCell id="8V9wThBiYiArrR2XwRkS-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-barcode-128.png" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="180" y="530" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9wThBiYiArrR2XwRkS-10" value="ON" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.onOffButton;gradientColor=none;strokeColor=#999999;buttonState=on;fillColor2=#008cff;fontColor=#ffffff;fontSize=17;mainText=;spacingRight=40;fontStyle=1;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="50" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8V9wThBiYiArrR2XwRkS-6" value="" style="group" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-2">
-          <mxGeometry x="101" y="620" width="210" height="70" as="geometry" />
+          <mxGeometry x="170" y="620" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8V9wThBiYiArrR2XwRkS-7" value="Scan QR Code" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;spacingRight=9;" vertex="1" parent="8V9wThBiYiArrR2XwRkS-6">
           <mxGeometry width="210" height="70" as="geometry" />
@@ -355,8 +349,23 @@
         <mxCell id="8V9wThBiYiArrR2XwRkS-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-4/24/scan-qr-code-128.png" vertex="1" parent="8V9wThBiYiArrR2XwRkS-6">
           <mxGeometry x="10" y="5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8V9wThBiYiArrR2XwRkS-9" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
-          <mxGeometry x="20" y="690" width="53" height="50" as="geometry" />
+        <mxCell id="8V9wThBiYiArrR2XwRkS-25" value="ON" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.onOffButton;gradientColor=none;strokeColor=#999999;buttonState=on;fillColor2=#008cff;fontColor=#ffffff;fontSize=17;mainText=;spacingRight=40;fontStyle=1;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="50" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9wThBiYiArrR2XwRkS-28" value="" style="group" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-2">
+          <mxGeometry x="40" y="280" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KU8V8JnQrCe2EcihJzQ0-8" value="" style="group" vertex="1" connectable="0" parent="8V9wThBiYiArrR2XwRkS-28">
+          <mxGeometry width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KU8V8JnQrCe2EcihJzQ0-9" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-8">
+          <mxGeometry y="20" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU8V8JnQrCe2EcihJzQ0-10" value="Abhyasi ID / Mobile # / Email" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-8">
+          <mxGeometry width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9wThBiYiArrR2XwRkS-27" value="QR code is not valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=2;fontColor=#FF8000;" vertex="1" parent="8V9wThBiYiArrR2XwRkS-28">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-11" value="" style="group" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-1">
           <mxGeometry x="880" y="90" width="560" height="820" as="geometry" />
@@ -424,6 +433,11 @@
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;" edge="1" parent="KU8V8JnQrCe2EcihJzQ0-1" source="KU8V8JnQrCe2EcihJzQ0-4" target="KU8V8JnQrCe2EcihJzQ0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8V9wThBiYiArrR2XwRkS-26" value="User scans &lt;br&gt;valid&lt;br&gt;QR Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-32">
+          <mxGeometry x="-0.2147" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-33" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-1">
           <mxGeometry x="1480" y="28" width="450" height="820" as="geometry" />
         </mxCell>
@@ -448,14 +462,14 @@
             <mxPoint x="1540" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KU8V8JnQrCe2EcihJzQ0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;strokeWidth=7;dashed=1;" edge="1" parent="KU8V8JnQrCe2EcihJzQ0-1" source="KU8V8JnQrCe2EcihJzQ0-34" target="KU8V8JnQrCe2EcihJzQ0-4">
+        <mxCell id="KU8V8JnQrCe2EcihJzQ0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;strokeWidth=7;dashed=1;" edge="1" parent="KU8V8JnQrCe2EcihJzQ0-1" source="KU8V8JnQrCe2EcihJzQ0-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="439" as="targetPoint" />
+            <mxPoint x="230" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2100" y="439" />
               <mxPoint x="2100" y="-110" />
               <mxPoint x="30" y="-110" />
-              <mxPoint x="30" y="440" />
+              <mxPoint x="30" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
