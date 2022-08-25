@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:35:55.302Z" agent="5.0 (Macintosh)" etag="qcVZOYNLkE6_VWJUuKw_" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:36:12.103Z" agent="5.0 (Macintosh)" etag="imairq_qTW7jjivGGgAB" version="20.2.2" type="github" pages="3">
   <diagram id="7IqZU7v-QbU3dHQ2udvu" name="signed-in-user-flow">
     <mxGraphModel dx="1186" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -826,10 +826,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-640" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.25" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-10" value="DONE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="253.25" y="-540" width="73.5" height="33" as="geometry" />
+          <mxGeometry x="271.5" y="-539" width="73.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-12" value="Data is stored offline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="87.75" y="-500" width="114.5" height="59" as="geometry" />
@@ -841,7 +841,7 @@
           <mxGeometry x="-108.62" y="-799" width="118.5" height="67" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-2/256/confetti-light-128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="-626.5" width="33" height="33" as="geometry" />
+          <mxGeometry x="291.75" y="-626.5" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-16" value="5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=41;" vertex="1" parent="1">
           <mxGeometry x="-140" y="-768" width="62" height="60" as="geometry" />
