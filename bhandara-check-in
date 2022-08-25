@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:18:37.434Z" agent="5.0 (Macintosh)" etag="eFy94g8qpAbX6hDv4H5o" version="20.2.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:18:55.069Z" agent="5.0 (Macintosh)" etag="yzHl80s4db-lHHyvzTmP" version="20.2.2" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="2765" dy="3538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
-    <mxGraphModel dx="1455" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3153" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-0" />
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-1" parent="KU8V8JnQrCe2EcihJzQ0-0" />
@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-33" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="KU8V8JnQrCe2EcihJzQ0-1">
-          <mxGeometry x="1480" y="28" width="450" height="820" as="geometry" />
+          <mxGeometry x="1480" y="90" width="450" height="820" as="geometry" />
         </mxCell>
         <mxCell id="KU8V8JnQrCe2EcihJzQ0-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KU8V8JnQrCe2EcihJzQ0-33">
           <mxGeometry x="7" y="61" width="398" height="700" as="geometry" />
