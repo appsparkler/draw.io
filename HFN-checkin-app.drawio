@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:31:49.959Z" agent="5.0 (Macintosh)" etag="WIGHiyKnZRS3Lxdgz6gD" version="20.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:34:22.065Z" agent="5.0 (Macintosh)" etag="SAl78TMGHTwkGtsM8WoC" version="20.2.2" type="github" pages="3">
   <diagram id="7IqZU7v-QbU3dHQ2udvu" name="signed-in-user-flow">
     <mxGraphModel dx="1186" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u0FKkPeouXB3PLhQOTN-" name="flow-chart-september-2022">
-    <mxGraphModel dx="2094" dy="2879" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="2615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -795,16 +795,10 @@
         <mxCell id="txycD63IlpVxLsD3jU6v-16" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="610.9499999999999" y="-142" width="65.36" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-5" target="bS2e0cF0soI5e_RjjqQT-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-2" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bS2e0cF0soI5e_RjjqQT-1">
-          <mxGeometry x="-0.25" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="bS2e0cF0soI5e_RjjqQT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" target="bS2e0cF0soI5e_RjjqQT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-199.2" y="-492" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-5" target="bS2e0cF0soI5e_RjjqQT-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bS2e0cF0soI5e_RjjqQT-3">
           <mxGeometry x="-0.1131" y="-1" relative="1" as="geometry">
@@ -812,42 +806,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-5" value="has &lt;br&gt;network?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-89.37" y="-676" width="80" height="80" as="geometry" />
+          <mxGeometry x="-395" y="-572" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-7" target="bS2e0cF0soI5e_RjjqQT-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-7" value="Abbhyasi ID&lt;br&gt;Check In." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50.629999999999995" y="-666" width="120" height="60" as="geometry" />
+        <mxCell id="bS2e0cF0soI5e_RjjqQT-7" value="List of users for &lt;br&gt;QR checkin&lt;br&gt;&lt;br&gt;&lt;br&gt;Users are selected and checked-in" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-109.37" y="-688" width="120" height="156" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-9" target="bS2e0cF0soI5e_RjjqQT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250.63" y="-666" width="120" height="60" as="geometry" />
+          <mxGeometry x="250.63" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-10" value="DONE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="273.88" y="-569" width="73.5" height="33" as="geometry" />
+          <mxGeometry x="273.88" y="-543" width="73.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-12" target="bS2e0cF0soI5e_RjjqQT-5">
+        <mxCell id="bS2e0cF0soI5e_RjjqQT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-126.87" y="-521" />
-              <mxPoint x="-126.87" y="-636" />
+              <mxPoint x="-263.07" y="-407" />
+              <mxPoint x="-263.07" y="-522" />
             </Array>
+            <mxPoint x="-239.2" y="-532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-12" value="Data is stored offline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-106.62" y="-551" width="114.5" height="59" as="geometry" />
+          <mxGeometry x="-242.82" y="-437" width="114.5" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="bS2e0cF0soI5e_RjjqQT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-14" target="bS2e0cF0soI5e_RjjqQT-5">
+        <mxCell id="bS2e0cF0soI5e_RjjqQT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bS2e0cF0soI5e_RjjqQT-14" target="bS2e0cF0soI5e_RjjqQT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-14" value="User scans QR code" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-108.62" y="-799" width="118.5" height="67" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-2/256/confetti-light-128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="294.13" y="-647.25" width="33" height="33" as="geometry" />
+          <mxGeometry x="294.13" y="-626.5" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="bS2e0cF0soI5e_RjjqQT-16" value="5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=41;" vertex="1" parent="1">
           <mxGeometry x="-140" y="-768" width="62" height="60" as="geometry" />
