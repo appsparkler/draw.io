@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:13:02.239Z" agent="5.0 (Macintosh)" etag="cXPZ7oD8WiMjBKYjZoQV" version="17.4.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:13:48.753Z" agent="5.0 (Macintosh)" etag="D4xmicjxsOUUrYqOWyXz" version="17.4.5" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="1766" dy="3679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -392,8 +392,8 @@
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-51" value="Delete&lt;br&gt;additional EmailOrMobile checkin-docs to avoid duplicates" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1681" y="-2445" width="156" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-53" value="Update aggregations for each deleted" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1699" y="-2224" width="120" height="60" as="geometry" />
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-53" value="Update aggregations for each deleted EmailOrMobileCheckin" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1664.5" y="-2256" width="189" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
