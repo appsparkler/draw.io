@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:08:29.356Z" agent="5.0 (Macintosh)" etag="OZ_rttg3CzYS4EyH2nM2" version="17.4.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:13:02.239Z" agent="5.0 (Macintosh)" etag="cXPZ7oD8WiMjBKYjZoQV" version="17.4.5" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
-    <mxGraphModel dx="1327" dy="3396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1766" dy="3679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,8 +314,8 @@
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-25" target="SLp6KXDbg-IP0TZ6SUuv-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3290.56" y="-2522" />
-              <mxPoint x="3290.56" y="-2108" />
+              <mxPoint x="2399" y="-2528" />
+              <mxPoint x="2399" y="-2114" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -325,28 +325,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-25" value="More than one&lt;br&gt;document with same Abhyasi Id?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2932.56" y="-2591" width="208" height="138.5" as="geometry" />
+          <mxGeometry x="2041" y="-2597" width="208" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-27" target="SLp6KXDbg-IP0TZ6SUuv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-27" value="Delete&lt;br&gt;additional documents to avoid duplicates" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2958.56" y="-2375" width="156" height="77.5" as="geometry" />
+          <mxGeometry x="2067" y="-2381" width="156" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-28" target="SLp6KXDbg-IP0TZ6SUuv-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-28" value="Update aggregations for each deleted document" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2938.06" y="-2238" width="197" height="89.5" as="geometry" />
+          <mxGeometry x="2046.5" y="-2244" width="197" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-29" target="SLp6KXDbg-IP0TZ6SUuv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-29" value="&lt;div&gt;removeDuplicateAbhyasiIdCheckins&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2922.56" y="-2698" width="228" height="60" as="geometry" />
+          <mxGeometry x="2031" y="-2704" width="228" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-31" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3006.06" y="-2124.5" width="61" height="32.5" as="geometry" />
+          <mxGeometry x="2114.5" y="-2130.5" width="61" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-37" target="FFW6rsLA7XfBOjf5-KqK-59">
           <mxGeometry relative="1" as="geometry" />
@@ -380,8 +380,20 @@
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-48" value="removeDuplicateEmailOrMobileCheckins" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1633" y="-2704" width="252" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-49" target="SLp6KXDbg-IP0TZ6SUuv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-49" value="more than one document with name + email or name + mobile exists?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="1689.5" y="-2623" width="139" height="126.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-51" target="SLp6KXDbg-IP0TZ6SUuv-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-51" value="Delete&lt;br&gt;additional EmailOrMobile checkin-docs to avoid duplicates" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1681" y="-2445" width="156" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-53" value="Update aggregations for each deleted" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1699" y="-2224" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
