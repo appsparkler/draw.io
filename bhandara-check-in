@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T06:30:30.337Z" agent="5.0 (Macintosh)" etag="bXvINhE4W9vJMnPJh4cz" version="17.4.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-31T06:31:07.568Z" agent="5.0 (Macintosh)" etag="kyZK4v-QlxICEjI1jY9N" version="17.4.5" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="1636" dy="3195" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
           <mxGeometry x="1048" y="-1362.75" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-40" value="is EmailOrMobile&lt;br&gt;checkin?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-1173" width="120.25" height="115" as="geometry" />
+          <mxGeometry x="544.62" y="-1192" width="188" height="146" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-9" target="SLp6KXDbg-IP0TZ6SUuv-40">
           <mxGeometry relative="1" as="geometry">
