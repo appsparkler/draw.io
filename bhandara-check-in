@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:13:58.747Z" agent="5.0 (Macintosh)" etag="rWwHQZFLHFas0XZHIgVg" version="17.4.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:14:48.138Z" agent="5.0 (Macintosh)" etag="U7_h7L8Pa0e4-6kLNQhP" version="17.4.5" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="1766" dy="3679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -377,11 +377,29 @@
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-48" target="SLp6KXDbg-IP0TZ6SUuv-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-49" target="SLp6KXDbg-IP0TZ6SUuv-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1546" y="-2560" />
+              <mxPoint x="1546" y="-2125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-58" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SLp6KXDbg-IP0TZ6SUuv-57">
+          <mxGeometry x="-0.2143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-48" value="removeDuplicateEmailOrMobileCheckins" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1633" y="-2704" width="252" height="37" as="geometry" />
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-49" target="SLp6KXDbg-IP0TZ6SUuv-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-59" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SLp6KXDbg-IP0TZ6SUuv-52">
+          <mxGeometry x="-0.3613" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-49" value="more than one document with name + email or name + mobile exists?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="1689.5" y="-2623" width="139" height="126.5" as="geometry" />
@@ -392,8 +410,14 @@
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-51" value="Delete&lt;br&gt;additional EmailOrMobile checkin-docs to avoid duplicates" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1681" y="-2445" width="156" height="114" as="geometry" />
         </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLp6KXDbg-IP0TZ6SUuv-53" target="SLp6KXDbg-IP0TZ6SUuv-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLp6KXDbg-IP0TZ6SUuv-53" value="Update aggregations for each deleted EmailOrMobileCheckin" style="whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1664.5" y="-2256" width="189" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SLp6KXDbg-IP0TZ6SUuv-55" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1728.5" y="-2141" width="61" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
