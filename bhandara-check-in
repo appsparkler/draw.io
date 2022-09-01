@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T15:10:51.953Z" agent="5.0 (Macintosh)" etag="1-Mhaa7_pJWvOF1KlJT4" version="20.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-09-01T15:11:15.091Z" agent="5.0 (Macintosh)" etag="RVbQ2kYytM3gZpv-EAxc" version="20.2.7" type="github" pages="12">
   <diagram id="aQL85isAmttFdIO5XqK0" name="September Bhandara">
     <mxGraphModel dx="4109" dy="4786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         </mxCell>
         <mxCell id="FFW6rsLA7XfBOjf5-KqK-57" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="FFW6rsLA7XfBOjf5-KqK-56" vertex="1" connectable="0">
           <mxGeometry x="0.1933" y="-4" relative="1" as="geometry">
-            <mxPoint x="1" y="-2" as="offset" />
+            <mxPoint x="-16" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FFW6rsLA7XfBOjf5-KqK-59" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
