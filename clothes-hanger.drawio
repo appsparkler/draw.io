@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T04:05:39.033Z" agent="5.0 (Macintosh)" etag="XXi3Adsve6Rle4Bq0nXH" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-01T04:06:02.583Z" agent="5.0 (Macintosh)" etag="EYa-ftri9Y9XYc4Kyild" version="20.2.7" type="github" pages="2">
   <diagram id="Unyh-1CdF54ImqMLzRGK" name="hanging thread">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,6 +38,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="360" as="sourcePoint" />
             <mxPoint x="680" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O_a6c1Ur9gTzJGV34FGG-1" value="7&amp;nbsp; feet" style="endArrow=none;html=1;rounded=0;strokeWidth=4;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="60" as="sourcePoint" />
+            <mxPoint x="680" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
