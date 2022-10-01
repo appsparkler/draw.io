@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T04:07:29.413Z" agent="5.0 (Macintosh)" etag="hTONnu_aiqm42HbxRxDR" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-01T04:11:11.529Z" agent="5.0 (Macintosh)" etag="81jls7VLjkq4xQFofYFt" version="20.2.7" type="github" pages="2">
   <diagram id="Unyh-1CdF54ImqMLzRGK" name="hanging thread">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,6 +107,40 @@
               <mxPoint x="240" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="420" as="sourcePoint" />
+            <mxPoint x="680" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-6" value="7 FEET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;spacingTop=1;spacing=0;fontSize=16;" vertex="1" connectable="0" parent="ToHKy7WGLjXZTQisnMmH-5">
+          <mxGeometry x="0.1182" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-7" value="7 feet X 6 = 42 feet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="445" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="720" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-9" value="2.5 feet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;spacingTop=1;spacing=0;fontSize=16;" vertex="1" connectable="0" parent="ToHKy7WGLjXZTQisnMmH-8">
+          <mxGeometry x="0.1182" relative="1" as="geometry">
+            <mxPoint y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-10" value="3 feet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-11" value="10 feet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="405" y="505" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-12" value="&lt;b&gt;55 feet&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="535" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
