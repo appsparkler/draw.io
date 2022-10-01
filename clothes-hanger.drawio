@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T04:06:02.583Z" agent="5.0 (Macintosh)" etag="EYa-ftri9Y9XYc4Kyild" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-01T04:07:29.413Z" agent="5.0 (Macintosh)" etag="hTONnu_aiqm42HbxRxDR" version="20.2.7" type="github" pages="2">
   <diagram id="Unyh-1CdF54ImqMLzRGK" name="hanging thread">
     <mxGraphModel dx="946" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,12 +90,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="apoxgPY27GQ_0oNJoeqN-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="360" as="sourcePoint" />
-            <mxPoint x="800" y="360" as="targetPoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToHKy7WGLjXZTQisnMmH-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
