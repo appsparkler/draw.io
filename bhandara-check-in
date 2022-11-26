@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:33:36.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kR_P5SUL88S9FFXn7nlF" version="20.6.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:38:21.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9FfPuagLt9YMKxm8b-cy" version="20.6.0" type="github" pages="13">
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
     <mxGraphModel dx="1795" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,6 +268,19 @@
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-29" value="RETURN TO MAIN PAGE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-24">
           <mxGeometry x="96" y="552" width="220" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="4FozM3KWlholY6agWwrs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;exitX=0.983;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SsqLRHuGFXVwjK5-pNeb-24" source="4FozM3KWlholY6agWwrs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="469" as="sourcePoint" />
+            <mxPoint x="10" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-85" y="426" />
+              <mxPoint x="-85" y="440" />
+              <mxPoint x="-100" y="440" />
+              <mxPoint x="-100" y="426" />
+              <mxPoint x="10" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;exitX=1.012;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.012;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SsqLRHuGFXVwjK5-pNeb-1" target="4FozM3KWlholY6agWwrs-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1294.9199999999992" y="499.1800000000003" as="sourcePoint" />
@@ -352,7 +365,7 @@
           <mxGeometry x="970" y="410" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-0" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="SsqLRHuGFXVwjK5-pNeb-1">
-          <mxGeometry x="1450" y="90" width="450" height="820" as="geometry" />
+          <mxGeometry x="1440" y="90" width="450" height="820" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="7" y="61" width="398" height="700" as="geometry" />
@@ -360,8 +373,8 @@
         <mxCell id="4FozM3KWlholY6agWwrs-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry width="410" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="4FozM3KWlholY6agWwrs-7" value="Bed Allocation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=44;fontColor=#000000;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
-          <mxGeometry x="56.5" y="101" width="300" height="70" as="geometry" />
+        <mxCell id="4FozM3KWlholY6agWwrs-7" value="Dorm/Bed &lt;br&gt;Allocation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=44;fontColor=#000000;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
+          <mxGeometry x="96.5" y="76" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=6;fontSize=48;fontColor=#808080;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="30" y="210" width="340" height="260" as="geometry" />
@@ -372,7 +385,7 @@
         <mxCell id="4FozM3KWlholY6agWwrs-11" value="CONTINUE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=24;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="106" y="610" width="158" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4FozM3KWlholY6agWwrs-13" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 48px;&quot;&gt;Default text&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#808080;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
+        <mxCell id="4FozM3KWlholY6agWwrs-13" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;Enter allocated bed number&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#808080;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="45" y="350" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;East Comfort Dorm 1, NP&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;strokeWidth=6;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
@@ -383,9 +396,6 @@
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-22" value="Only for users that have both - dorm and birth preference" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#d6b656;fontSize=26;fillColor=#fff2cc;dashed=1;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="-100" y="-140" width="320" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="4FozM3KWlholY6agWwrs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="SsqLRHuGFXVwjK5-pNeb-1" source="4FozM3KWlholY6agWwrs-1" target="SsqLRHuGFXVwjK5-pNeb-26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-27" value="Phase 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontColor=#000000;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
           <mxGeometry x="950" y="15" width="210" height="70" as="geometry" />
