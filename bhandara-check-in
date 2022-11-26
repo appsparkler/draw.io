@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:43:34.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="32MjdIYiSCz0pztRYiyi" version="20.6.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:44:44.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZesHXfHd_EBUsFn6bZhj" version="20.6.0" type="github" pages="13">
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
     <mxGraphModel dx="1795" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,8 +222,8 @@
         <mxCell id="4FozM3KWlholY6agWwrs-36" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;Enter allocated dorm/bed number&lt;/i&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#808080;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="45" y="360" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4FozM3KWlholY6agWwrs-11" value="CONTINUE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=24;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
-          <mxGeometry x="106" y="660" width="158" height="70" as="geometry" />
+        <mxCell id="4FozM3KWlholY6agWwrs-11" value="CHECK IN" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=24;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
+          <mxGeometry x="126" y="660" width="158" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-2" value="" style="group" vertex="1" connectable="0" parent="SsqLRHuGFXVwjK5-pNeb-1">
           <mxGeometry x="230" y="110" width="410" height="820" as="geometry" />
@@ -349,7 +349,7 @@
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
           <mxGeometry x="880" y="90" width="410" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="SsqLRHuGFXVwjK5-pNeb-34" value="CHECK IN" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=24;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
+        <mxCell id="SsqLRHuGFXVwjK5-pNeb-34" value="CONTINUE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=24;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
           <mxGeometry x="1090" y="730" width="158" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-35" value="CANCEL" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;fontSize=24;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
