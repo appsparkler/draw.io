@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:32:33.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wNijFegY73Fg0A70YNzI" version="20.6.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:33:36.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kR_P5SUL88S9FFXn7nlF" version="20.6.0" type="github" pages="13">
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
     <mxGraphModel dx="1795" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,6 +386,12 @@
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="SsqLRHuGFXVwjK5-pNeb-1" source="4FozM3KWlholY6agWwrs-1" target="SsqLRHuGFXVwjK5-pNeb-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FozM3KWlholY6agWwrs-27" value="Phase 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontColor=#000000;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
+          <mxGeometry x="950" y="15" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4FozM3KWlholY6agWwrs-28" value="Phase 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontColor=#000000;" vertex="1" parent="SsqLRHuGFXVwjK5-pNeb-1">
+          <mxGeometry x="1550" y="-40" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
