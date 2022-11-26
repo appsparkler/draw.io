@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:46:24.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S7y3f76dzSdqNVoIRJ5U" version="20.6.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:48:39.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cZiGQ1Va6yowzatVjhBv" version="20.6.0" type="github" pages="13">
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
     <mxGraphModel dx="1795" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Accomodation QR Code Checkin" id="Ly-jCvzc2whDRiE5sZG7">
-    <mxGraphModel dx="2292" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2772" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-0" />
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-1" parent="SsqLRHuGFXVwjK5-pNeb-0" />
