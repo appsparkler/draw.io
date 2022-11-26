@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:27:08.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ii2cc5VP6EeA_XuhbCqj" version="20.6.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:31:25.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jNOGMLz4_Lpv8Gh_muec" version="20.6.0" type="github" pages="13">
   <diagram name="QR Code Checkin" id="17Crn1CRpLhGFeiDPWDD">
     <mxGraphModel dx="1795" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Accomodation QR Code Checkin" id="Ly-jCvzc2whDRiE5sZG7">
-    <mxGraphModel dx="2292" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2292" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-0" />
         <mxCell id="SsqLRHuGFXVwjK5-pNeb-1" parent="SsqLRHuGFXVwjK5-pNeb-0" />
@@ -375,11 +375,14 @@
         <mxCell id="4FozM3KWlholY6agWwrs-13" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 48px;&quot;&gt;Default text&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#808080;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="45" y="350" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4FozM3KWlholY6agWwrs-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;East Comfort Dorm 1, LB&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;strokeWidth=6;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
+        <mxCell id="4FozM3KWlholY6agWwrs-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;East Comfort Dorm 1, NP&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;strokeWidth=6;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="25" y="290" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=45.353;fillColor2=#99ddff;strokeColor2=none;direction=north;fontSize=24;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
           <mxGeometry x="380" y="140" width="20" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="4FozM3KWlholY6agWwrs-22" value="Only for users that have both - dorm and birth preference" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#d6b656;fontSize=26;fillColor=#fff2cc;dashed=1;" vertex="1" parent="4FozM3KWlholY6agWwrs-0">
+          <mxGeometry x="-100" y="-140" width="320" height="250" as="geometry" />
         </mxCell>
         <mxCell id="4FozM3KWlholY6agWwrs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="SsqLRHuGFXVwjK5-pNeb-1" source="4FozM3KWlholY6agWwrs-1" target="SsqLRHuGFXVwjK5-pNeb-26">
           <mxGeometry relative="1" as="geometry" />
