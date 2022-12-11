@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T12:40:46.882Z" agent="5.0 (Macintosh)" etag="E39d9txXu4rTdeX40Z0_" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T12:44:28.437Z" agent="5.0 (Macintosh)" etag="_QI17sfNiGEurpV4UcBA" version="20.6.2" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="1698" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,20 +13,32 @@
         <mxCell id="ldBgtZnnCFYndxNRsuC7-6" value="I want to get married, have a family with everyone living together lovingly and happily." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=5;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-144" y="51" width="287" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="ldBgtZnnCFYndxNRsuC7-7" value="Add P Task (3/10)" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="139" width="125" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="ldBgtZnnCFYndxNRsuC7-8" value="Add A Task (1/5)" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="4" y="139" width="118" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="ldBgtZnnCFYndxNRsuC7-9" value="Add E Task (2/10)" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-9" value="E" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-144" y="195" width="125" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="ldBgtZnnCFYndxNRsuC7-10" value="Add I Task (2/5)" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="4" y="195" width="116" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ldBgtZnnCFYndxNRsuC7-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/538_wifi_love_wedding_heart_valentine_valentines_day_love-128.png;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-64.5" y="280" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-12" value="2/5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="201.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-16" value="I" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="4" y="197" width="125" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-17" value="2/5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="88" y="203.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-22" value="A" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="4" y="139" width="125" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-23" value="4/5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="88" y="145.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-24" value="P" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="139" width="125" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-25" value="3/12" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="145.5" width="35" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
