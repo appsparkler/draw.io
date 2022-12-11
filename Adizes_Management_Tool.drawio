@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T12:48:20.351Z" agent="5.0 (Macintosh)" etag="MYAm8XScuk8L-QMrSpBS" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T13:01:28.403Z" agent="5.0 (Macintosh)" etag="R9wIdLl0_Ol5tkys8DTz" version="20.6.2" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="2098" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,6 +71,85 @@
         </mxCell>
         <mxCell id="ldBgtZnnCFYndxNRsuC7-34" value="Goals" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-590" y="-1" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-35" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="-24" width="317" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-36" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="298" y="126" width="267" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-37" value="Cras justo odio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry width="267" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-38" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-39" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-40" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-41" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry y="1" width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-54" value="a" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#3333FF;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry x="176" y="64.5" width="25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-55" value="p" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#3333FF;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry x="206" y="64.5" width="25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-56" value="i" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#3333FF;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-36">
+          <mxGeometry x="239" y="64.5" width="25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3-2/24/_p-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="-9" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-44" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="296" y="329" width="267" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-45" value="Cras justo odio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-44">
+          <mxGeometry width="267" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-46" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-44">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-47" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-44">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-48" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-44">
+          <mxGeometry width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-49" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=20;" vertex="1" parent="ldBgtZnnCFYndxNRsuC7-44">
+          <mxGeometry y="1" width="267" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/bold-purple-free-samples/32/Done_Circle_Symbol_Downloaded-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="296" y="296" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-51" value="Completed" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="315" y="291" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-52" value="Pending" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="321" y="76" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldBgtZnnCFYndxNRsuC7-53" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="298" y="81" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
