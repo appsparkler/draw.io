@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T11:15:15.937Z" agent="5.0 (Macintosh)" etag="ETh3jri3OotjrUx-S2wH" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T11:16:19.997Z" agent="5.0 (Macintosh)" etag="dVkrboE0EdEmfOyDYraP" version="20.7.4" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="2394" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,40 +187,14 @@
         <mxCell id="PBSiZa_zdig3zNEb0ZuU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-970" y="-24" width="317" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-951" y="76" width="229" height="183" as="geometry" />
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-3" value="Live in a happy family" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry width="229" height="30" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-4" value="Live in beautiful simple house" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry width="229" height="30" relative="1" as="geometry">
-            <mxPoint y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-5" value="Grow in professional life" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry width="229" height="30" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-6" value="Have a heartful friend circle" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry width="229" height="30" relative="1" as="geometry">
-            <mxPoint y="90" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-7" value="Build the book sharing app" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry y="1" width="229" height="30" relative="1" as="geometry">
-            <mxPoint y="-30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-8" value="Prepare dinner" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;" vertex="1" parent="PBSiZa_zdig3zNEb0ZuU-2">
-          <mxGeometry y="120.99641593710918" width="229" height="31.551724137931036" as="geometry" />
-        </mxCell>
-        <mxCell id="PBSiZa_zdig3zNEb0ZuU-9" value="Goals" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-959" y="-1" width="100" height="40" as="geometry" />
+        <mxCell id="PBSiZa_zdig3zNEb0ZuU-9" value="IS-WANT-SHOULDS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-888.25" y="-5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PBSiZa_zdig3zNEb0ZuU-10" value="+ IS-WANT-SHOULD" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-907" y="321" width="137.5" height="33" as="geometry" />
+          <mxGeometry x="-880.25" y="316" width="137.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="PBSiZa_zdig3zNEb0ZuU-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-937.5" y="61.75" width="252" height="41.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
