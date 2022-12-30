@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T23:27:35.714Z" agent="5.0 (Macintosh)" etag="qiRGhG7yoIoBV22Te2eU" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T23:30:05.573Z" agent="5.0 (Macintosh)" etag="WVNJgjCS5W0J_FLRkatA" version="20.7.4" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="2393" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,6 +239,25 @@
         </mxCell>
         <mxCell id="Z5-2CfbO67zMX4dl92EX-23" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-149" y="-24" width="317" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-25" value="Nickname" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="-135.5" y="23" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-26" value="The Healthy Me" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-135.5" y="48" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;" edge="1" parent="1" source="Z5-2CfbO67zMX4dl92EX-27" target="Z5-2CfbO67zMX4dl92EX-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-602" y="367" />
+              <mxPoint x="-602" y="548" />
+              <mxPoint x="-202" y="548" />
+              <mxPoint x="-202" y="241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;imageBackground=default;imageBorder=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-799.75" y="338" width="57" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
