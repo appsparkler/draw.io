@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T23:30:05.573Z" agent="5.0 (Macintosh)" etag="WVNJgjCS5W0J_FLRkatA" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T23:33:44.841Z" agent="5.0 (Macintosh)" etag="FX-R6iR2WO3BFbRFMECz" version="20.7.4" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="2393" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -258,6 +258,21 @@
         </mxCell>
         <mxCell id="Z5-2CfbO67zMX4dl92EX-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;imageBackground=default;imageBorder=none;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="-799.75" y="338" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-41" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#000000;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="133" width="290.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-43" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#000000;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-135.5" y="242" width="290.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-45" value="IS" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="-135.5" y="110" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-46" value="WANT" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="-135.5" y="216" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5-2CfbO67zMX4dl92EX-47" value="START" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="338" width="137.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
