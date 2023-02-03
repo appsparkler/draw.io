@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T10:04:02.987Z" agent="5.0 (Macintosh)" etag="eEa65MsV1uMn9NbxC5jd" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T10:06:44.314Z" agent="5.0 (Macintosh)" etag="X7xgzYdTbFGa5glNU-qm" version="20.8.16" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
     <mxGraphModel dx="2322" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -434,6 +434,21 @@
         </mxCell>
         <mxCell id="SFm8-h7HOzF-S3nGmmEU-4" value="TODOs" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="659" y="-7" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="40" width="279" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-7" value="Important &amp;amp; Urgent" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="212" width="143" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-8" value="30 minute walk every day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="23.5" width="289" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3-2/24/_p-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="686" y="63" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-10" value="30 minute walk every day" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="733" y="64.87" width="172" height="29.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
