@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T10:10:48.578Z" agent="5.0 (Macintosh)" etag="6QfiZFsiZs6jExB3QwN5" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T10:13:50.699Z" agent="5.0 (Macintosh)" etag="m8A48ol_0peaxfngiefU" version="20.8.16" type="github">
   <diagram id="WmPAR5XZmnSed2sJa4RS" name="Page-1">
-    <mxGraphModel dx="3926" dy="2163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,15 +465,6 @@
         <mxCell id="SFm8-h7HOzF-S3nGmmEU-31" value="30 minute walk every day" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="736.5" y="178.87" width="172" height="29.13" as="geometry" />
         </mxCell>
-        <mxCell id="SFm8-h7HOzF-S3nGmmEU-32" value="a" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="750.5" y="224.5" width="25" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="SFm8-h7HOzF-S3nGmmEU-33" value="p" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="785.5" y="224.5" width="30" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="SFm8-h7HOzF-S3nGmmEU-34" value="i" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;labelBackgroundColor=none;spacing=0;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="825.5" y="224.5" width="25" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="SFm8-h7HOzF-S3nGmmEU-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3-2/24/_e-128.png;strokeWidth=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="686" y="180" width="32" height="32" as="geometry" />
         </mxCell>
@@ -484,6 +475,12 @@
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-42" value="You have capi" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="747" y="221" width="132" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="SFm8-h7HOzF-S3nGmmEU-43" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=cancel;strokeWidth=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="854" y="222.25" width="20.5" height="20.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
