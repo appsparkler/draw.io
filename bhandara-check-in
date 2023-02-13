@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T16:11:45.847Z" agent="5.0 (Macintosh)" etag="113Q1jpGvXKR0KWnovJX" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:12:08.922Z" agent="5.0 (Macintosh)" etag="CTjd268x8a5ftjRCiyO6" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="867" dy="961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -235,8 +235,8 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-111" value="INAAAE382" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="1949" y="210" width="330" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-112" value="&lt;div&gt;Search with PNR, AbhyasiID, &lt;br&gt;&lt;/div&gt;&lt;div&gt;email, mobile or regsitration Id &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="1949" y="261" width="313" height="65" as="geometry" />
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-112" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Search with PNR, AbhyasiID, email, mobile &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;or regsitration Id &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1949" y="261" width="306" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1941" y="338" width="345" height="184" as="geometry" />
