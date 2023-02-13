@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T16:09:19.360Z" agent="5.0 (Macintosh)" etag="b5uup2DSlxxNAnb9vBkv" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:09:53.521Z" agent="5.0 (Macintosh)" etag="Gz5F6ndYpvF-8XPzh5gk" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="909" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,13 +232,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-111" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Search&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-111" value="INAAAE382" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="1949" y="210" width="330" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-112" value="Search with PNR, AbhyasiID, email, &lt;br style=&quot;font-size: 22px;&quot;&gt;mobile or regsitration Id " style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="1941" y="270" width="369" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;b&gt;...Details&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1941" y="338" width="345" height="184" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-114" value="&lt;b&gt;Dorm not allocated yet&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-113">
