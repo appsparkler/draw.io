@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T16:07:49.434Z" agent="5.0 (Macintosh)" etag="RnzA7lF6mUKFNwUDsN-D" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:09:19.360Z" agent="5.0 (Macintosh)" etag="b5uup2DSlxxNAnb9vBkv" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
-    <mxGraphModel dx="3180" dy="2320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,12 @@
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-112" value="Search with PNR, AbhyasiID, email, &lt;br style=&quot;font-size: 22px;&quot;&gt;mobile or regsitration Id " style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="1941" y="270" width="369" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;b&gt;...Details&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1941" y="338" width="345" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-114" value="&lt;b&gt;Dorm not allocated yet&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-113">
+          <mxGeometry width="345" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
