@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:17:00.726Z" agent="5.0 (Macintosh)" etag="vq6ULy-Ixgy1ODh7oyJS" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:19:23.405Z" agent="5.0 (Macintosh)" etag="gbLrklAL3NbZowt7GqO1" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1735" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UiqAR64mVkFXNVuHLPn0-1" value="]" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="110" width="410" height="820" as="geometry" />
+          <mxGeometry x="230" y="110" width="438" height="820" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="7" y="61" width="398" height="700" as="geometry" />
@@ -37,15 +37,6 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-17" value="QR code is not valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=2;fontColor=#FF8000;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-13">
           <mxGeometry y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-18" value="Batch 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=1;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=24;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
-          <mxGeometry x="40" y="150" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-19" value="Batch 2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=24;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
-          <mxGeometry x="40" y="170" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-20" value="Batch 1 &amp;amp; 2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=24;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
-          <mxGeometry x="40" y="190" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-9" value="" style="group" vertex="1" connectable="0" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="220" y="410" width="160" height="70" as="geometry" />
         </mxCell>
@@ -63,6 +54,12 @@
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-23" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Scanner&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="170" y="540" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/ellipsis-v-128.png;fontSize=30;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
+          <mxGeometry x="340" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#666666;sketch=0;fontSize=30;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
+          <mxGeometry x="260" y="86.25" width="80" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
