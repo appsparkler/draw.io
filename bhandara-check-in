@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:19:23.405Z" agent="5.0 (Macintosh)" etag="gbLrklAL3NbZowt7GqO1" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:19:43.633Z" agent="5.0 (Macintosh)" etag="kaNalT9J45S8Al7QJNJt" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1735" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#666666;sketch=0;fontSize=30;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="260" y="86.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
+          <mxGeometry x="200" y="130" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
