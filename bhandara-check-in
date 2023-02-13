@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:44:30.834Z" agent="5.0 (Macintosh)" etag="6v_EeNBwxnMqCKrScWtY" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:45:44.921Z" agent="5.0 (Macintosh)" etag="A9FS5O6jXuoiQCe6tkR1" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1735" dy="1047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UiqAR64mVkFXNVuHLPn0-1" value="]" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="110" width="510" height="820" as="geometry" />
+          <mxGeometry x="230" y="110" width="540" height="820" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="200" y="130" width="170" height="140" as="geometry" />
@@ -82,6 +82,9 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
           <mxGeometry x="280" y="231" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-1">
+          <mxGeometry x="460" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-36" value="&lt;div&gt;Dashboard&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="440.75" y="244" width="120" height="40" as="geometry" />
         </mxCell>
@@ -140,13 +143,10 @@
           <mxGeometry x="1057" y="196.25" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1017.75" y="245" width="167.25" height="130" as="geometry" />
+          <mxGeometry x="1017.75" y="245" width="167.25" height="175" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-62" value="" style="line;strokeWidth=2;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1017.75" y="331" width="170" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-63" value="Sign In" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1013.75" y="338" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-64" value="" style="line;strokeWidth=2;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1018.75" y="280" width="170" height="10" as="geometry" />
@@ -154,14 +154,17 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-65" value="Refresh App" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1025.75" y="292" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="341" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-67" value="&lt;div&gt;Dashboard&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1025.75" y="244" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/user-circle-128.png;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1145.75" y="187" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-63" value="Sign Out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1025.75" y="387" width="96" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-68" value="" style="line;strokeWidth=2;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1016.37" y="363" width="170" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
