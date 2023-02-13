@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:57:18.749Z" agent="5.0 (Macintosh)" etag="bGdGIex3YGkrMwz8q1-Z" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:57:48.917Z" agent="5.0 (Macintosh)" etag="-ZTDv46oBdL0WemumhSh" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="2120" dy="1280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,9 +115,6 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-51" value="Abhyasi ID / Mobile # / Email" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-49">
           <mxGeometry width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-49">
-          <mxGeometry x="274" y="-47" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-52" value="QR code is not valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=2;fontColor=#FF8000;" vertex="1" parent="UiqAR64mVkFXNVuHLPn0-48">
           <mxGeometry y="80" width="120" height="30" as="geometry" />
         </mxCell>
@@ -177,6 +174,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1095.25" y="391" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1554.8600000000001" y="341" width="170" height="140" as="geometry" />
         </mxCell>
@@ -219,8 +219,8 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-104" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1929" y="802" width="53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1095.25" y="391" width="80" height="80" as="geometry" />
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/finger-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="341" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
