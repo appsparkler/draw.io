@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:45:44.921Z" agent="5.0 (Macintosh)" etag="A9FS5O6jXuoiQCe6tkR1" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:46:23.622Z" agent="5.0 (Macintosh)" etag="ktyiT5_kqcP2urvs6MS0" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1735" dy="1047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,10 +161,13 @@
           <mxGeometry x="1145.75" y="187" width="53" height="53" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-63" value="Sign Out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1025.75" y="387" width="96" height="36" as="geometry" />
+          <mxGeometry x="1020.75" y="387" width="96" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-68" value="" style="line;strokeWidth=2;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1016.37" y="363" width="170" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-69" value="Search&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1019.75" y="346" width="107" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
