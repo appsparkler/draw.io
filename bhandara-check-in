@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T15:49:08.645Z" agent="5.0 (Macintosh)" etag="4RNQwqds-i4Q_etr9H5x" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:50:33.705Z" agent="5.0 (Macintosh)" etag="JgjLRJKyPbv5n-1OyOQ-" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1735" dy="1047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-75" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1370" y="801" width="53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-96" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=20;image=https://tse4.mm.bing.net/th?id=OIP.AulM6I--sucxyfKeMKUnUwAAAA&amp;pid=Api;" vertex="1" parent="1">
+          <mxGeometry x="1411.49" y="367" width="287.02" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
