@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T02:51:18.225Z" agent="5.0 (Macintosh)" etag="jEBfk70ozyHAw54Dq4Rk" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-15T02:52:00.865Z" agent="5.0 (Macintosh)" etag="UYJd2vVTt_KCl_Z1kG0p" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
-    <mxGraphModel dx="1272" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,6 +259,39 @@
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-5" value="Scenario 1:&lt;br&gt;&lt;br&gt;If&amp;nbsp; the user is not checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="2217" y="96.25" width="227" height="115.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2637" y="186.75" width="398" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="125.75" width="410" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-8" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="2650" y="815.75" width="53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-9" value="INAAAE382" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="223.75" width="330" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-10" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Search with PNR, AbhyasiID, email, mobile &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;or regsitration Id &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="274.75" width="306" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-11" value="&lt;div&gt;&lt;b&gt;...Registration Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Profile details, etc.&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Registration Details&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Other details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2662" y="351.75" width="344" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-12" value="&lt;b&gt;Not Checked in&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-11">
+          <mxGeometry width="306.66666666666663" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-13" value="" style="group" vertex="1" connectable="0" parent="YuSJBa7D-omdTH_yW8cC-11">
+          <mxGeometry x="301.00444444444446" y="6" width="75.55555555555556" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/signin-128.png;fontSize=29;fontColor=#666666;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-13">
+          <mxGeometry width="36.44444444444445" height="36.44444444444445" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-15" value="checkin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fillColor=default;gradientColor=none;labelBorderColor=default;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-13">
+          <mxGeometry x="17.77777777777778" y="31" width="65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-16" value="Scenario 2:&lt;br&gt;&lt;br&gt;If user is checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="2938" y="110" width="227" height="115.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
