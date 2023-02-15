@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T02:50:05.981Z" agent="5.0 (Macintosh)" etag="UvcEK9oOdyr23uTWbzzK" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-15T02:51:18.225Z" agent="5.0 (Macintosh)" etag="jEBfk70ozyHAw54Dq4Rk" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1272" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -256,6 +256,9 @@
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-1" value="Sign in with your &lt;br style=&quot;font-size: 29px;&quot;&gt;HFN Profile credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1398" y="212" width="316" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-5" value="Scenario 1:&lt;br&gt;&lt;br&gt;If&amp;nbsp; the user is not checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="2217" y="96.25" width="227" height="115.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
