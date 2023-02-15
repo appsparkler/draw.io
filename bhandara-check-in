@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T02:58:27.747Z" agent="5.0 (Macintosh)" etag="poDjeIZJ-2_hKl2JtsoQ" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-15T03:14:07.647Z" agent="5.0 (Macintosh)" etag="ZeIanZgd-AhlNvJw6lnB" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In &amp; Search">
     <mxGraphModel dx="3180" dy="2457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -298,6 +298,12 @@
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-24" value="ONLINE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2967" y="982" width="146" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;labelBorderColor=none;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="180" y="46.5" width="1077" height="1007.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-26" value="OFFLINE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1079.5" y="979" width="163" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
