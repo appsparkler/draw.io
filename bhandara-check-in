@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T02:54:28.728Z" agent="5.0 (Macintosh)" etag="hlPPXTVgqt17F0coqGF4" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-15T02:56:03.130Z" agent="5.0 (Macintosh)" etag="nsdWYAU7OU4X29Wt7WkJ" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1272" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,6 +210,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-21" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=default;strokeWidth=6;endArrow=none;endFill=0;" edge="1" parent="1" source="UiqAR64mVkFXNVuHLPn0-102" target="YuSJBa7D-omdTH_yW8cC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1916" y="173" width="398" height="700" as="geometry" />
         </mxCell>
@@ -257,7 +260,7 @@
         <mxCell id="YuSJBa7D-omdTH_yW8cC-1" value="Sign in with your &lt;br style=&quot;font-size: 29px;&quot;&gt;HFN Profile credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1398" y="212" width="316" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="YuSJBa7D-omdTH_yW8cC-5" value="Scenario 1:&lt;br&gt;&lt;br&gt;If&amp;nbsp; the user is not checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-5" value="Scenario 1:&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;If&amp;nbsp; the user is not checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="2217" y="96.25" width="227" height="115.75" as="geometry" />
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -276,7 +279,7 @@
           <mxGeometry x="2568" y="269.88" width="306" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-11" value="&lt;div&gt;&lt;b&gt;...Registration Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Profile details, etc.&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Registration Details&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Other details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="346.88" width="344" height="184" as="geometry" />
+          <mxGeometry x="2560" y="346.88" width="372.0022222222224" height="184" as="geometry" />
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-12" value="&lt;b&gt;Dorm Allocated : B1 56&lt;br&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-11">
           <mxGeometry width="344" height="50" relative="1" as="geometry" />
@@ -284,7 +287,10 @@
         <mxCell id="YuSJBa7D-omdTH_yW8cC-19" value="" style="dashed=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.edit;strokeColor=none;fillColor=#737373;shadow=0;sketch=0;dashPattern=12 12;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fontColor=default;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-11">
           <mxGeometry x="305" y="10.12" width="27.88" height="27.88" as="geometry" />
         </mxCell>
-        <mxCell id="YuSJBa7D-omdTH_yW8cC-16" value="Scenario 2:&lt;br&gt;&lt;br&gt;If user is checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-22" value="edit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fillColor=default;gradientColor=none;labelBorderColor=default;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-11">
+          <mxGeometry x="319.0022222222224" y="38" width="41" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-16" value="Scenario 2:&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;If user is checked in" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="2836" y="105.13" width="227" height="115.75" as="geometry" />
         </mxCell>
       </root>
