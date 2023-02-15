@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T02:46:47.471Z" agent="5.0 (Macintosh)" etag="Y9Wsg-SAzMYUS0CG9xL7" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-02-15T02:50:05.981Z" agent="5.0 (Macintosh)" etag="UvcEK9oOdyr23uTWbzzK" version="20.8.20" type="github" pages="14">
   <diagram id="u_7RP6YLFi0c19lkbRnZ" name="Sign In">
     <mxGraphModel dx="1272" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,11 +239,20 @@
         <mxCell id="UiqAR64mVkFXNVuHLPn0-112" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Search with PNR, AbhyasiID, email, mobile &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;or regsitration Id &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="1949" y="261" width="306" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1941" y="338" width="345" height="184" as="geometry" />
+        <mxCell id="UiqAR64mVkFXNVuHLPn0-113" value="&lt;div&gt;&lt;b&gt;...Registration Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Profile details, etc.&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Registration Details&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;...Other details&lt;/b&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1941" y="338" width="344" height="184" as="geometry" />
         </mxCell>
         <mxCell id="UiqAR64mVkFXNVuHLPn0-114" value="&lt;b&gt;Not Checked in&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" parent="UiqAR64mVkFXNVuHLPn0-113" vertex="1">
-          <mxGeometry width="345" height="50" relative="1" as="geometry" />
+          <mxGeometry width="306.66666666666663" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-4" value="" style="group" vertex="1" connectable="0" parent="UiqAR64mVkFXNVuHLPn0-113">
+          <mxGeometry x="301.00444444444446" y="6" width="75.55555555555556" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/signin-128.png;fontSize=29;fontColor=#666666;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-4">
+          <mxGeometry width="36.44444444444445" height="36.44444444444445" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSJBa7D-omdTH_yW8cC-3" value="checkin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fillColor=default;gradientColor=none;labelBorderColor=default;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="YuSJBa7D-omdTH_yW8cC-4">
+          <mxGeometry x="17.77777777777778" y="31" width="65" height="29" as="geometry" />
         </mxCell>
         <mxCell id="YuSJBa7D-omdTH_yW8cC-1" value="Sign in with your &lt;br style=&quot;font-size: 29px;&quot;&gt;HFN Profile credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1398" y="212" width="316" height="82" as="geometry" />
