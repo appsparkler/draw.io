@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T16:37:17.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="gltI0_sI6qOHBbhkIaQI" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T16:37:53.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="h85XSmlWVC88GKQrdOWi" version="21.2.1" type="github">
   <diagram name="Page-1" id="gWOQzrso8Atp6gNEhlsF">
     <mxGraphModel dx="954" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,11 +13,11 @@
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="rfJibXWuo8m3Vh0Ya6If-2" target="rfJibXWuo8m3Vh0Ya6If-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rfJibXWuo8m3Vh0Ya6If-2" value="React - Learn Theming" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
+        <mxCell id="rfJibXWuo8m3Vh0Ya6If-2" value="React Business Card App - Learn Theming" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
           <mxGeometry x="406" y="-11" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-4" value="&lt;div&gt;Thinking of creating a theme-switcher for Storybook&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
-          <mxGeometry x="653" y="-147" width="148" height="79" as="geometry" />
+          <mxGeometry x="665" y="-161" width="148" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
