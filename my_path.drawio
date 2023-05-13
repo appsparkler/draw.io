@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T21:43:17.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="_hU8Lk66LsD5Ec5rRGiy" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T22:36:33.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="MMkxeKWTEBb3XkTVQGad" version="21.2.1" type="github">
   <diagram name="Page-1" id="gWOQzrso8Atp6gNEhlsF">
     <mxGraphModel dx="954" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="406" y="-11" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-4" value="&lt;div&gt;&lt;b&gt;13th May&lt;/b&gt;&lt;br&gt;Thinking of creating a theme-switcher for Storybook&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
-          <mxGeometry x="597" y="-187" width="148" height="79" as="geometry" />
+          <mxGeometry x="600" y="-200" width="148" height="79" as="geometry" />
         </mxCell>
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-6" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Figma - Learning how to create gradients" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
-          <mxGeometry x="757" y="-84" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="-75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
