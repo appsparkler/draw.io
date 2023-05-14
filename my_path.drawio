@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T01:37:15.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="CK7WM8cSf8W2Fnz4an2b" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T06:07:24.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Ro2TEyC5_EV2PAjfT-Rk" version="21.3.0" type="github">
   <diagram name="Page-1" id="gWOQzrso8Atp6gNEhlsF">
-    <mxGraphModel dx="1460" dy="1086" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,20 +22,23 @@
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-4" value="&lt;div&gt;&lt;b&gt;13th May&lt;/b&gt;&lt;br&gt;Thinking of creating a theme-switcher for Storybook&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" parent="1" vertex="1">
           <mxGeometry x="600" y="-200" width="148" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;" edge="1" parent="1" source="rfJibXWuo8m3Vh0Ya6If-6" target="3L2z6PyX_E9Ab5YrGkWX-3">
+        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;" parent="1" source="rfJibXWuo8m3Vh0Ya6If-6" target="3L2z6PyX_E9Ab5YrGkWX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfJibXWuo8m3Vh0Ya6If-6" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Figma - Learning how to create gradients,&lt;br&gt;&lt;div&gt;InfoItem Row is completed&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" parent="1" vertex="1">
           <mxGeometry x="770" y="-75" width="182" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3L2z6PyX_E9Ab5YrGkWX-1" target="rfJibXWuo8m3Vh0Ya6If-1">
+        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3L2z6PyX_E9Ab5YrGkWX-1" target="rfJibXWuo8m3Vh0Ya6If-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-1" value="13th May - Want to build an app that helps book readers share their books with others" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-1" value="13th May - Want to build an app that helps book readers share their books with others" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-371" y="183" width="268" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-3" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Start Business Card App in Android" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
+        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-3" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Start Business Card App in Android" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" parent="1" vertex="1">
           <mxGeometry x="1070" y="-146" width="219" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WqQrcuLiesJuJ7hRnjDI-1" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Start Business Card App in Android" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="-139" width="219" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
