@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T06:07:49.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="w-Ca7lVCQ1GJkS7N23ng" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T06:08:12.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="j0WHqMu95Crp-BbNJ7ZE" version="21.3.0" type="github">
   <diagram name="Page-1" id="gWOQzrso8Atp6gNEhlsF">
-    <mxGraphModel dx="1354" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2520" dy="1771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="3L2z6PyX_E9Ab5YrGkWX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;" parent="1" source="rfJibXWuo8m3Vh0Ya6If-6" target="3L2z6PyX_E9Ab5YrGkWX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rfJibXWuo8m3Vh0Ya6If-6" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Figma - Learning how to create gradients,&lt;br&gt;&lt;div&gt;InfoItem Row is completed&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" parent="1" vertex="1">
+        <mxCell id="rfJibXWuo8m3Vh0Ya6If-6" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Figma - Learning how to create gradients,&lt;br&gt;&lt;div&gt;InfoItem Row is completed&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="770" y="-75" width="182" height="98" as="geometry" />
         </mxCell>
         <mxCell id="3L2z6PyX_E9Ab5YrGkWX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3L2z6PyX_E9Ab5YrGkWX-1" target="rfJibXWuo8m3Vh0Ya6If-1" edge="1">
@@ -37,10 +37,10 @@
         <mxCell id="WqQrcuLiesJuJ7hRnjDI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3L2z6PyX_E9Ab5YrGkWX-3" target="WqQrcuLiesJuJ7hRnjDI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-3" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Start Business Card App in Android" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" parent="1" vertex="1">
+        <mxCell id="3L2z6PyX_E9Ab5YrGkWX-3" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Start Business Card App in Android" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="1070" y="-146" width="219" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="WqQrcuLiesJuJ7hRnjDI-1" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Finish InfoItem&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#61dbfb;" vertex="1" parent="1">
+        <mxCell id="WqQrcuLiesJuJ7hRnjDI-1" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Finish InfoItem&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="1379" y="-146" width="219" height="88" as="geometry" />
         </mxCell>
       </root>
