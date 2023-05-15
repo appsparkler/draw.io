@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T22:23:16.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="eJwJLTvcGgNVnux1v0JG" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T07:12:01.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="QtZUE46ucfy7fvLwQytv" version="21.3.0" type="github">
   <diagram name="Page-1" id="gWOQzrso8Atp6gNEhlsF">
     <mxGraphModel dx="1354" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,31 +57,43 @@
         <mxCell id="WqQrcuLiesJuJ7hRnjDI-3" value="&lt;b&gt;14th May&lt;/b&gt;&lt;br&gt;Add custom fonts&lt;br&gt;&lt;br&gt;&lt;br&gt;Found new way to add fonts :)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" parent="1" vertex="1">
           <mxGeometry x="1688" y="-164" width="237" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdRE7tFdsl0-iKICJOXP-2" target="T3rdhm0dPMP_kiXG8oww-1">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdRE7tFdsl0-iKICJOXP-2" target="T3rdhm0dPMP_kiXG8oww-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdRE7tFdsl0-iKICJOXP-2" value="Deeper dive into fonts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" parent="1" vertex="1">
           <mxGeometry x="2005" y="-164" width="237" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3rdhm0dPMP_kiXG8oww-1" target="T3rdhm0dPMP_kiXG8oww-3">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T3rdhm0dPMP_kiXG8oww-1" target="T3rdhm0dPMP_kiXG8oww-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-1" value="Final touches" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" vertex="1" parent="1">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-1" value="Final touches" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" parent="1" vertex="1">
           <mxGeometry x="2318" y="-164" width="237" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=13;labelBackgroundColor=#003A4A;labelBorderColor=default;" edge="1" parent="1" source="T3rdhm0dPMP_kiXG8oww-3" target="T3rdhm0dPMP_kiXG8oww-5">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=13;labelBackgroundColor=#003A4A;labelBorderColor=default;" parent="1" source="T3rdhm0dPMP_kiXG8oww-3" target="T3rdhm0dPMP_kiXG8oww-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-7" value="2023, May 15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=16;spacingTop=7;labelBackgroundColor=#003A4A;fontColor=#FFFFFF;fontSize=19;labelBorderColor=default;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="T3rdhm0dPMP_kiXG8oww-6">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-7" value="2023, May 15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=16;spacingTop=7;labelBackgroundColor=#003A4A;fontColor=#FFFFFF;fontSize=19;labelBorderColor=default;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="T3rdhm0dPMP_kiXG8oww-6" vertex="1" connectable="0">
           <mxGeometry x="0.0929" y="-2" relative="1" as="geometry">
             <mxPoint x="-11" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-3" value="&lt;div&gt;Final touches&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;use string instead of svg or vector graphics for &quot;React &amp;amp; Android Developer&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" vertex="1" parent="1">
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-3" value="&lt;div&gt;Final touches&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;use string instead of svg or vector graphics for &quot;React &amp;amp; Android Developer&quot;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" parent="1" vertex="1">
           <mxGeometry x="2635" y="-164" width="237" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="T3rdhm0dPMP_kiXG8oww-5" value="Struggling to get the dark-app-bar " style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" vertex="1" parent="1">
+        <mxCell id="5py03iGlfMN-J2reuQzo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3rdhm0dPMP_kiXG8oww-5" target="5py03iGlfMN-J2reuQzo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3rdhm0dPMP_kiXG8oww-5" value="Struggling to get the dark-app-bar " style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#66FF66;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" parent="1" vertex="1">
           <mxGeometry x="3046" y="-173" width="237" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="5py03iGlfMN-J2reuQzo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5py03iGlfMN-J2reuQzo-1" target="5py03iGlfMN-J2reuQzo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5py03iGlfMN-J2reuQzo-1" value="PS - RFP - Researching Spartacus :)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;gradientColor=#FF0000;fontFamily=Righteous;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;" vertex="1" parent="1">
+          <mxGeometry x="3363" y="-173" width="237" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="5py03iGlfMN-J2reuQzo-3" value="Adizes HFN - HALF14 review and started" style="whiteSpace=wrap;html=1;fontFamily=Righteous;rounded=1;arcSize=14;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRighteous;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3680" y="-156.25" width="182.5" height="75.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
