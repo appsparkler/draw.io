@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T07:47:28.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="-qjwBd3kyq5SUhFwDHul" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T07:48:23.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="WRHntuqZqYOkmuwKB63o" version="21.3.2" type="github" pages="2">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="954" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1050,10 +1050,10 @@
           <mxGeometry x="71" y="790" width="899" height="40" as="geometry" />
         </mxCell>
         <object label="test_plan_background" id="rvDw2qmcxDjoMM1U6POY-9">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <object label="test_plan_west_face" id="EsZBCSH1cmaLcPhkic-L-24">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-25" value="" style="group" vertex="1" connectable="0" parent="EsZBCSH1cmaLcPhkic-L-24">
           <mxGeometry x="73" y="776" width="900" height="89" as="geometry" />
@@ -1074,7 +1074,7 @@
           <mxGeometry x="627" y="4" width="80" height="85" as="geometry" />
         </mxCell>
         <object label="test_plan_west_face_measurements" id="rvDw2qmcxDjoMM1U6POY-13">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
         <mxCell id="rvDw2qmcxDjoMM1U6POY-16" value="side gate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="rvDw2qmcxDjoMM1U6POY-13" vertex="1">
           <mxGeometry x="707" y="752" width="60" height="30" as="geometry" />
@@ -1092,8 +1092,17 @@
           <mxGeometry x="70" y="742" width="630" height="40" as="geometry" />
         </mxCell>
         <object label="temp" id="EsZBCSH1cmaLcPhkic-L-37">
-          <mxCell parent="0" visible="0" />
+          <mxCell parent="0" />
         </object>
+        <mxCell id="EsZBCSH1cmaLcPhkic-L-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-37">
+          <mxGeometry x="70" y="40" width="10" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="EsZBCSH1cmaLcPhkic-L-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-37">
+          <mxGeometry x="960" y="40" width="10" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="EsZBCSH1cmaLcPhkic-L-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-37">
+          <mxGeometry x="70" y="40" width="900" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
