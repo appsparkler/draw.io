@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T08:20:26.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rzQUYbjr-Cx9P3mOS6ZW" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T08:23:38.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="PHseYcrI8_nCe9gD9hTG" version="21.3.2" type="github" pages="2">
   <diagram name="template" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="2385" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1026,13 +1026,13 @@
           <mxGeometry x="80" y="880" width="150" height="30" as="geometry" />
         </mxCell>
         <object label="directions" id="EsZBCSH1cmaLcPhkic-L-43">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-44" value="East" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="EsZBCSH1cmaLcPhkic-L-43" vertex="1">
           <mxGeometry x="490" y="8" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-45" value="West" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="EsZBCSH1cmaLcPhkic-L-43" vertex="1">
-          <mxGeometry x="480" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-46" value="North" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="EsZBCSH1cmaLcPhkic-L-43" vertex="1">
           <mxGeometry x="-30" y="340" width="60" height="30" as="geometry" />
