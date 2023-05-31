@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T07:43:35.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="usENOVhGrcT0LIRsxz9V" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T07:45:16.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="DHiXAbwysXtCRByJRlrR" version="21.3.2" type="github" pages="2">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="954" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1026,7 +1026,7 @@
           <mxGeometry x="80" y="880" width="150" height="30" as="geometry" />
         </mxCell>
         <object label="plot-boundary" id="EsZBCSH1cmaLcPhkic-L-1">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;fontSize=16;rotation=-90;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-1">
           <mxGeometry x="515" y="335" width="10" height="900" as="geometry" />
@@ -1049,14 +1049,11 @@
         <mxCell id="EsZBCSH1cmaLcPhkic-L-8" value="60 feet" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-2">
           <mxGeometry x="71" y="790" width="899" height="40" as="geometry" />
         </mxCell>
-        <object label="test-plan" id="rvDw2qmcxDjoMM1U6POY-9">
+        <object label="test_plan_background" id="rvDw2qmcxDjoMM1U6POY-9">
           <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="EsZBCSH1cmaLcPhkic-L-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;fontSize=16;" vertex="1" parent="rvDw2qmcxDjoMM1U6POY-9">
-          <mxGeometry x="73" y="775" width="900" height="10" as="geometry" />
-        </mxCell>
         <object label="test_plan_west_face" id="EsZBCSH1cmaLcPhkic-L-24">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-25" value="" style="group" vertex="1" connectable="0" parent="EsZBCSH1cmaLcPhkic-L-24">
           <mxGeometry x="73" y="776" width="900" height="89" as="geometry" />
@@ -1077,7 +1074,7 @@
           <mxGeometry x="627" y="4" width="80" height="85" as="geometry" />
         </mxCell>
         <object label="test_plan_west_face_measurements" id="rvDw2qmcxDjoMM1U6POY-13">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="rvDw2qmcxDjoMM1U6POY-16" value="side gate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="rvDw2qmcxDjoMM1U6POY-13" vertex="1">
           <mxGeometry x="707" y="752" width="60" height="30" as="geometry" />
@@ -1094,7 +1091,9 @@
         <mxCell id="EsZBCSH1cmaLcPhkic-L-33" value="42" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="rvDw2qmcxDjoMM1U6POY-13">
           <mxGeometry x="70" y="742" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EsZBCSH1cmaLcPhkic-L-37" value="Untitled Layer" parent="0" />
+        <object label="temp" id="EsZBCSH1cmaLcPhkic-L-37">
+          <mxCell parent="0" visible="0" />
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
