@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T04:24:35.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Yqi6PIV8uoSXSgjXmN0-" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T04:25:16.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="G4TLs0aV8tbgrf21HTI_" version="21.3.2" type="github" pages="2">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="954" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yfsnqTLE0RscFiPD6avc" name="Page-2">
-    <mxGraphModel dx="867" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="legend" id="rvDw2qmcxDjoMM1U6POY-19">
@@ -1026,7 +1026,7 @@
           <mxGeometry x="80" y="880" width="150" height="30" as="geometry" />
         </mxCell>
         <object label="plot-boundary" id="EsZBCSH1cmaLcPhkic-L-1">
-          <mxCell parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;fontSize=16;rotation=-90;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-1">
           <mxGeometry x="515" y="335" width="10" height="900" as="geometry" />
@@ -1041,7 +1041,7 @@
           <mxGeometry x="515" y="-405" width="10" height="900" as="geometry" />
         </mxCell>
         <object label="plot-boundary-measurement" id="EsZBCSH1cmaLcPhkic-L-2">
-          <mxCell parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-7" value="&lt;div&gt;50 feet&lt;/div&gt;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;fontSize=16;rotation=-180;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-2">
           <mxGeometry x="30" y="40" width="50" height="750" as="geometry" />
@@ -1050,7 +1050,7 @@
           <mxGeometry x="71" y="790" width="899" height="40" as="geometry" />
         </mxCell>
         <object label="test-plan" id="rvDw2qmcxDjoMM1U6POY-9">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;fontSize=16;" vertex="1" parent="rvDw2qmcxDjoMM1U6POY-9">
           <mxGeometry x="73" y="775" width="900" height="10" as="geometry" />
@@ -1071,7 +1071,7 @@
           <mxGeometry x="810" y="790" width="160" height="30" as="geometry" />
         </mxCell>
         <object label="test_plan_west_face" id="EsZBCSH1cmaLcPhkic-L-24">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="EsZBCSH1cmaLcPhkic-L-25" value="" style="group" vertex="1" connectable="0" parent="EsZBCSH1cmaLcPhkic-L-24">
           <mxGeometry x="73" y="775" width="900" height="85" as="geometry" />
