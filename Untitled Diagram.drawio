@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T04:37:29.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="7ZgS5AbZbZpY67E0ao6v" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T04:37:55.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="xEIPM2WxKB79DsTyEB5F" version="21.3.2" type="github" pages="2">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="954" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1073,7 +1073,7 @@
         <mxCell id="EsZBCSH1cmaLcPhkic-L-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-25">
           <mxGeometry x="-3" y="4" width="630" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="EsZBCSH1cmaLcPhkic-L-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-25">
+        <mxCell id="EsZBCSH1cmaLcPhkic-L-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fontSize=16;" vertex="1" parent="EsZBCSH1cmaLcPhkic-L-25">
           <mxGeometry x="627" y="4" width="80" height="85" as="geometry" />
         </mxCell>
         <object label="test_plan_west_face_measurements" id="rvDw2qmcxDjoMM1U6POY-13">
