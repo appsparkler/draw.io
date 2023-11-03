@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-11-03T05:42:14.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="94haYTiwTftZkEmYB--c" version="22.0.8" type="github">
+  <diagram name="Page-1" id="jDYOCZK_IVWhtti--ZCN">
+    <mxGraphModel dx="545" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kMBJ-gQiWSIOu6XSU_WG-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kMBJ-gQiWSIOu6XSU_WG-4" value="33&quot;" style="verticalLabelPosition=middle;dashed=0;shadow=0;html=1;shape=mxgraph.cabinets.dimensionBottom;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMBJ-gQiWSIOu6XSU_WG-6" value="14&quot;" style="verticalLabelPosition=middle;dashed=0;shadow=0;html=1;shape=mxgraph.cabinets.dimensionBottom;verticalAlign=bottom;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMBJ-gQiWSIOu6XSU_WG-8" value="&lt;div&gt;16&lt;/div&gt;&quot;" style="verticalLabelPosition=middle;dashed=0;shadow=0;html=1;shape=mxgraph.cabinets.dimension;verticalAlign=top;align=center;rotation=47;" vertex="1" parent="1">
+          <mxGeometry x="619.8199999999999" y="66" width="57" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
