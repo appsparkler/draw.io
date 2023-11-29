@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T09:54:47.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vDpTn4xxqdVBwLSAY-7U" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T09:55:30.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="B-Tng0Kvy2GeLgvpAaXk" version="22.1.4" type="github">
   <diagram name="Page-1" id="e1RGGrZxxhzuxi-Nd0hM">
     <mxGraphModel dx="954" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="ZYC0NnvtjXSlAY5eB8kO-7" value="&lt;div&gt;/verify-email&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZYC0NnvtjXSlAY5eB8kO-8" value="/landing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="ZYC0NnvtjXSlAY5eB8kO-8" value="/" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
