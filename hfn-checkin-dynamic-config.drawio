@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T00:46:30.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ppSk8Y4UQS6oMOsrcgVP" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T00:49:44.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="A-XGEdKfrtsBvEsNODwI" version="22.1.15" type="github">
   <diagram name="Page-1" id="e16I_iggwwKTDk8mDlf-">
     <mxGraphModel dx="734" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="5NzwI8vK-NiVtR_CG50q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="yOfnd-_MH76rNG8jAbrq-6" target="5NzwI8vK-NiVtR_CG50q-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yOfnd-_MH76rNG8jAbrq-6" value="on mount, the events are fetched from the server" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
+        <mxCell id="yOfnd-_MH76rNG8jAbrq-6" value="on mount, the events are fetched from the server" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
           <mxGeometry x="45" y="34" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-1" value="a dialog opens for user to select the event." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
@@ -73,7 +73,7 @@
         <mxCell id="5NzwI8vK-NiVtR_CG50q-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="5NzwI8vK-NiVtR_CG50q-24" target="5NzwI8vK-NiVtR_CG50q-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5NzwI8vK-NiVtR_CG50q-24" value="these events are stored in a json file for offline retreival." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
+        <mxCell id="5NzwI8vK-NiVtR_CG50q-24" value="these events are stored in a json file for offline retreival." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="175" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-26" value="In the App Content, the file is read and the list of events are stored in Events ViewModel" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
