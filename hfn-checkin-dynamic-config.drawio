@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T00:49:44.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="A-XGEdKfrtsBvEsNODwI" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T00:53:41.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="f53fpjhrY-yIfFbYhIxg" version="22.1.15" type="github">
   <diagram name="Page-1" id="e16I_iggwwKTDk8mDlf-">
     <mxGraphModel dx="734" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           <mxGeometry x="45" y="34" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-1" value="a dialog opens for user to select the event." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
-          <mxGeometry x="512" y="25" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-14" value="the event is stored in persistent memory so that when user opens the app again, that event is pre-selected" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="699" y="24" width="120" height="80" as="geometry" />
