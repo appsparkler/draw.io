@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T00:44:25.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="OzgiVyY79RI60urS4glU" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T00:45:23.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="OvBTNnklVKlKmzuVr1PH" version="22.1.15" type="github">
   <diagram name="Page-1" id="e16I_iggwwKTDk8mDlf-">
     <mxGraphModel dx="734" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yOfnd-_MH76rNG8jAbrq-1" value="HFN Checkin" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
+        <mxCell id="yOfnd-_MH76rNG8jAbrq-1" value="Th" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="62" width="1051" height="240" as="geometry">
             <mxRectangle x="60" y="50" width="32" height="104" as="alternateBounds" />
           </mxGeometry>
@@ -14,7 +14,7 @@
             <mxRectangle x="20" width="558" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yOfnd-_MH76rNG8jAbrq-3" value="client app" style="swimlane;startSize=20;horizontal=0;html=1;" parent="yOfnd-_MH76rNG8jAbrq-1" vertex="1">
+        <mxCell id="yOfnd-_MH76rNG8jAbrq-3" value="the" style="swimlane;startSize=20;horizontal=0;html=1;" parent="yOfnd-_MH76rNG8jAbrq-1" vertex="1">
           <mxGeometry x="20" y="120" width="1031" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yOfnd-_MH76rNG8jAbrq-5" value="user clicks on &quot;Select Event&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
@@ -25,6 +25,9 @@
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-21" value="checkins..." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="666" y="-93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NzwI8vK-NiVtR_CG50q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="yOfnd-_MH76rNG8jAbrq-6" target="5NzwI8vK-NiVtR_CG50q-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yOfnd-_MH76rNG8jAbrq-6" value="on mount, the events are fetched from the server" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
           <mxGeometry x="45" y="34" width="110" height="50" as="geometry" />
@@ -37,16 +40,6 @@
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-16" value="all checkins are stored in the collection-id of the selected event" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="760" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5NzwI8vK-NiVtR_CG50q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.419;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="yOfnd-_MH76rNG8jAbrq-6" target="yOfnd-_MH76rNG8jAbrq-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="-16" />
-              <mxPoint x="187" y="-16" />
-              <mxPoint x="187" y="-28" />
-              <mxPoint x="344" y="-28" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="yOfnd-_MH76rNG8jAbrq-5" target="5NzwI8vK-NiVtR_CG50q-1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,6 +69,9 @@
               <mxPoint x="820" y="8" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5NzwI8vK-NiVtR_CG50q-24" value="these events are stored in a json file for offline retreival." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
+          <mxGeometry x="175" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
