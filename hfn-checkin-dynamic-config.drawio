@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T00:55:15.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="OfQqNof-_9-G1--B0Jea" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T00:57:10.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="dz7WypDUHXxtw-iMB06f" version="22.1.15" type="github">
   <diagram name="Page-1" id="e16I_iggwwKTDk8mDlf-">
     <mxGraphModel dx="734" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,12 +42,7 @@
           <mxGeometry x="887" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="yOfnd-_MH76rNG8jAbrq-5" target="5NzwI8vK-NiVtR_CG50q-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="478" y="-13" />
-              <mxPoint x="577" y="-13" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="5NzwI8vK-NiVtR_CG50q-14" target="5NzwI8vK-NiVtR_CG50q-21">
           <mxGeometry relative="1" as="geometry">
@@ -74,15 +69,15 @@
         <mxCell id="5NzwI8vK-NiVtR_CG50q-26" value="In the App Content, the file is read and the list of events are stored in Events ViewModel" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="320" y="30" width="175" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="5NzwI8vK-NiVtR_CG50q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-1" source="5NzwI8vK-NiVtR_CG50q-19" target="5NzwI8vK-NiVtR_CG50q-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-1" source="5NzwI8vK-NiVtR_CG50q-1" target="5NzwI8vK-NiVtR_CG50q-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="605" y="57" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5NzwI8vK-NiVtR_CG50q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-1" source="5NzwI8vK-NiVtR_CG50q-19" target="5NzwI8vK-NiVtR_CG50q-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
