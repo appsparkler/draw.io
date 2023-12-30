@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T07:40:53.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-GiPrUbYv04cR_m57seB" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T14:58:31.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="MkDqoTIUW9BViguZHPe6" version="22.1.15" type="github">
   <diagram name="Page-1" id="e16I_iggwwKTDk8mDlf-">
     <mxGraphModel dx="1354" dy="932" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="5NzwI8vK-NiVtR_CG50q-1" value="a dialog opens for user to select the event." style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
           <mxGeometry x="566" y="28" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5NzwI8vK-NiVtR_CG50q-14" value="the event is stored in persistent memory so that when user opens the app again, that event is pre-selected" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
+        <mxCell id="5NzwI8vK-NiVtR_CG50q-14" value="the event is stored in persistent memory so that when user opens the app again, that event is pre-selected" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
           <mxGeometry x="889" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NzwI8vK-NiVtR_CG50q-16" value="all checkins are stored in the collection-id of the selected event" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yOfnd-_MH76rNG8jAbrq-3" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="JTJI2VB_dF4KZD-4-fyj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yOfnd-_MH76rNG8jAbrq-3" source="JTJI2VB_dF4KZD-4-fyj-1" target="5NzwI8vK-NiVtR_CG50q-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTJI2VB_dF4KZD-4-fyj-1" value="the event title is updated on the main screen" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
+        <mxCell id="JTJI2VB_dF4KZD-4-fyj-1" value="the event title is updated on the main screen" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yOfnd-_MH76rNG8jAbrq-3">
           <mxGeometry x="722" y="28" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgRHjQMim8mg-PBpIQXL-1" value="Android Jetpack Compose with Kotlin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
