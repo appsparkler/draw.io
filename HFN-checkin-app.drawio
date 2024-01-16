@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T07:01:33.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="P6ULu_78aH2FZKVYaBmA" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-16T07:01:43.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="LdtY35dl8p5B2ksxkMfX" version="22.1.18" type="github" pages="4">
   <diagram id="yiW4KR10rKdyCjURFJfU" name="Event Manager">
     <mxGraphModel dx="1781" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="LnD4LrjeHp7iDvhUhv6c-11" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LnD4LrjeHp7iDvhUhv6c-10">
           <mxGeometry x="0.2462" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-36" value="is ongoing events null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
