@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T08:16:05.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HWO7q_ilRnB2Kzn-MmVI" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-16T10:19:26.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="vc8-Kuxn1LHlH4s9z0id" version="22.1.18" type="github" pages="4">
   <diagram id="yiW4KR10rKdyCjURFJfU" name="Event Manager">
     <mxGraphModel dx="1781" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="LnD4LrjeHp7iDvhUhv6c-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-TcLPKgh1l1aYkD0BIWJ-2" source="o1COfC8zm7L3AXukx2hK-1" target="o1COfC8zm7L3AXukx2hK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1COfC8zm7L3AXukx2hK-1" value="User opens the app from the app-drawer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="o1COfC8zm7L3AXukx2hK-1" value="User opens the app from the app-drawer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="50" y="100" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o1COfC8zm7L3AXukx2hK-21" value="Users sees list of ongoing events to select from" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="o1COfC8zm7L3AXukx2hK-21" value="Users sees list of ongoing events to select from" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LnD4LrjeHp7iDvhUhv6c-8" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-TcLPKgh1l1aYkD0BIWJ-2" source="o1COfC8zm7L3AXukx2hK-36" target="o1COfC8zm7L3AXukx2hK-33">
@@ -34,13 +34,13 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o1COfC8zm7L3AXukx2hK-36" value="is ongoing events null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="o1COfC8zm7L3AXukx2hK-36" value="is ongoing events null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="200" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-33" value="Users sees, &quot;fetching events&quot; screen" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LnD4LrjeHp7iDvhUhv6c-6" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="LnD4LrjeHp7iDvhUhv6c-6" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="650" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LnD4LrjeHp7iDvhUhv6c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-TcLPKgh1l1aYkD0BIWJ-2" source="LnD4LrjeHp7iDvhUhv6c-9" target="LnD4LrjeHp7iDvhUhv6c-6">
@@ -66,7 +66,7 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnD4LrjeHp7iDvhUhv6c-9" value="is selected event null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="LnD4LrjeHp7iDvhUhv6c-9" value="is selected event null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="330" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-TcLPKgh1l1aYkD0BIWJ-3" value="&lt;div&gt;System&lt;/div&gt;" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-1">
