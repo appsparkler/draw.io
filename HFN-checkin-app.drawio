@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T05:20:13.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="cEhHOIZaYzKXpTXchWRm" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-16T05:26:50.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="A4H3wgvwZ1ZtzFDUSVd1" version="22.1.18" type="github" pages="4">
   <diagram id="yiW4KR10rKdyCjURFJfU" name="Page-4">
     <mxGraphModel dx="734" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o1COfC8zm7L3AXukx2hK-4" target="o1COfC8zm7L3AXukx2hK-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1COfC8zm7L3AXukx2hK-16" value="ongoingEvents&lt;br&gt;selectedEvent" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
