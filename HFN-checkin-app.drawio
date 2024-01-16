@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T07:04:45.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="O3GB8ZeUENztXal6r5Z2" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-16T08:16:05.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HWO7q_ilRnB2Kzn-MmVI" version="22.1.18" type="github" pages="4">
   <diagram id="yiW4KR10rKdyCjURFJfU" name="Event Manager">
-    <mxGraphModel dx="2295" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="o1COfC8zm7L3AXukx2hK-36" value="is ongoing events null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="200" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o1COfC8zm7L3AXukx2hK-33" value="Users sees, &quot;fetching events&quot; screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+        <mxCell id="o1COfC8zm7L3AXukx2hK-33" value="Users sees, &quot;fetching events&quot; screen" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LnD4LrjeHp7iDvhUhv6c-6" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
