@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T06:46:04.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Qa6Oj8x_7QWsRIHlTYlL" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-16T07:00:14.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8Z43-H_gQl3rHbchzKIE" version="22.1.18" type="github" pages="4">
   <diagram id="yiW4KR10rKdyCjURFJfU" name="Event Manager">
     <mxGraphModel dx="1781" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,16 @@
           <mxGeometry x="50" y="100" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-21" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
-          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-36" value="is ongoing events null?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
           <mxGeometry x="200" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o1COfC8zm7L3AXukx2hK-33" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LnD4LrjeHp7iDvhUhv6c-6" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-2">
+          <mxGeometry x="650" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TcLPKgh1l1aYkD0BIWJ-3" value="&lt;div&gt;System&lt;/div&gt;" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="-TcLPKgh1l1aYkD0BIWJ-1">
           <mxGeometry x="20" y="220" width="1120" height="280" as="geometry" />
@@ -70,9 +76,6 @@
         </mxCell>
         <mxCell id="o1COfC8zm7L3AXukx2hK-16" value="initial values - &lt;br&gt;&lt;div&gt;ongoingEvents - null&lt;br&gt;&lt;/div&gt;selectedEvent - null" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-70" y="240" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="o1COfC8zm7L3AXukx2hK-33" value="User sees the main screen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
