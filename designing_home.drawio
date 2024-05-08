@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T03:53:31.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="9uz171mh3PREFBAt_rXI" version="24.2.8" type="github">
+  <diagram name="Page-1" id="of3lFQsRo5HqSWlQ9vZJ">
+    <mxGraphModel dx="1444" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OfnWG1LUpAFpdYO-hWLi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-10" width="790" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OfnWG1LUpAFpdYO-hWLi-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_22;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="129.37" width="138.75" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OfnWG1LUpAFpdYO-hWLi-3" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="90.41" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
