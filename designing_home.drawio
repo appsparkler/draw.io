@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T09:47:40.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="GlvGMwI-1JOIWQ7qp_w-" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T09:48:30.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="CAdRNq2jj237VZm5GWTo" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r9XL-YfL63rLHkhZEyh2" name="Drawing Room">
-    <mxGraphModel dx="2812" dy="4620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4797" dy="5732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,6 +241,9 @@
         </mxCell>
         <mxCell id="aIrd_1Hqyf8tElkh3JbG-18" value="2 IKEA tables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-100" y="450" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="992.19" y="650" width="390" height="414.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
