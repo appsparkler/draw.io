@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:58:44.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="jL0Y_QT9GWI1SlA_wnYV" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T09:25:59.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="0J-Y205soq7kUaPZsgRD" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r9XL-YfL63rLHkhZEyh2" name="Drawing Room">
-    <mxGraphModel dx="3096" dy="3609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,8 @@
             <mxPoint x="114" y="-583" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIrd_1Hqyf8tElkh3JbG-4" value="&lt;div&gt;3rd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Cellophane tape dispenser&lt;/li&gt;&lt;li&gt;Ayurveda book&lt;/li&gt;&lt;li&gt;A4 yellow covers&lt;/li&gt;&lt;li&gt;stick files&lt;/li&gt;&lt;li&gt;printer cables&lt;/li&gt;&lt;li&gt;Mom&#39;s writing book&lt;/li&gt;&lt;li&gt;copies of pears from The Brighter World&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-1570" width="340" height="390" as="geometry" />
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-4" value="&lt;div&gt;3rd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Charger&lt;/li&gt;&lt;li&gt;Basket &lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;measuring tape&lt;/li&gt;&lt;li&gt;stapler&lt;/li&gt;&lt;li&gt;steel scale&lt;/li&gt;&lt;li&gt;round-edge cutter&lt;/li&gt;&lt;li&gt;time-management sheets&lt;/li&gt;&lt;li&gt;spare headphone (new)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Appsparklers Stamp&lt;/li&gt;&lt;li&gt;scissor&lt;/li&gt;&lt;li&gt;screw driver&lt;/li&gt;&lt;li&gt;stapler pins&lt;/li&gt;&lt;li&gt;binder clips&lt;/li&gt;&lt;li&gt;paper/cardboard cutting blade&lt;/li&gt;&lt;li&gt;markers X 2&lt;/li&gt;&lt;li&gt;glue stick&lt;/li&gt;&lt;li&gt;pen&lt;/li&gt;&lt;li&gt;mobile stand&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-2040" width="340" height="860" as="geometry" />
         </mxCell>
         <mxCell id="aIrd_1Hqyf8tElkh3JbG-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="aIrd_1Hqyf8tElkh3JbG-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
