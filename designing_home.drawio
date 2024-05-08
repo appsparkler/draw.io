@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:08:17.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="gyFQubIQ1z3WXBksaZnN" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:11:19.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="_4qIVb_Nw7s1UFKV19gI" version="24.2.8" type="github">
   <diagram name="Page-1" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,22 +50,43 @@
             <mxPoint x="81" y="413" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB-65ZYokO6Gkxu9hn_-10" value="&lt;div&gt;3rd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;masks bag&lt;/li&gt;&lt;li&gt;neem oil bottle&lt;/li&gt;&lt;li&gt;soap dispenser with sponge holder for sink&lt;/li&gt;&lt;li&gt;massi trap&lt;/li&gt;&lt;li&gt;scrubbers&lt;/li&gt;&lt;li&gt;2 eye wear boxes&lt;/li&gt;&lt;li&gt;Triphala Gugullu bottles&lt;/li&gt;&lt;li&gt;ping pong ball&lt;/li&gt;&lt;li&gt;2 finger round hair brush&lt;/li&gt;&lt;li&gt;nail clipper&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1340" width="340" height="470" as="geometry" />
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-10" value="&lt;div&gt;3rd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;hangers&lt;/li&gt;&lt;li&gt;2.5 feet elastic rope&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1340" width="340" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ioB-65ZYokO6Gkxu9hn_-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfnWG1LUpAFpdYO-hWLi-3" target="ioB-65ZYokO6Gkxu9hn_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="102" y="380" as="sourcePoint" />
             <mxPoint x="275" y="1085" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="960" />
-              <mxPoint x="20" y="1550" />
+              <mxPoint x="30" y="980" />
+              <mxPoint x="120" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ioB-65ZYokO6Gkxu9hn_-12" value="Third Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="ioB-65ZYokO6Gkxu9hn_-11">
           <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
-            <mxPoint x="-4" y="643" as="offset" />
+            <mxPoint x="104" y="705" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-13" value="&lt;div&gt;Need&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;fruit basket&lt;/li&gt;&lt;li&gt;storage for bed-sheets &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-14" value="&lt;div&gt;4th Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;hangers&lt;/li&gt;&lt;li&gt;2.5 feet elastic rope&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1550" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfnWG1LUpAFpdYO-hWLi-3" target="ioB-65ZYokO6Gkxu9hn_-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="97" y="380" as="sourcePoint" />
+            <mxPoint x="275" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="980" />
+              <mxPoint x="50" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-16" value="Fourth Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="ioB-65ZYokO6Gkxu9hn_-15">
+          <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
+            <mxPoint x="66" y="819" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
