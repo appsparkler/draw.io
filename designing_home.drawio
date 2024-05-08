@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:58:36.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="jucBJOYI26ytrjN8gJVY" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:58:44.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="jL0Y_QT9GWI1SlA_wnYV" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="6R7jjs2dVLkLlqGUlhiG-2" value="Ground Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="6R7jjs2dVLkLlqGUlhiG-1">
           <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
-            <mxPoint x="4" y="-148" as="offset" />
+            <mxPoint x="24" y="-148" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6R7jjs2dVLkLlqGUlhiG-3" value="&lt;div&gt;First Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Saraja clinic file&lt;/li&gt;&lt;li&gt;micro-fiber cloth&lt;/li&gt;&lt;li&gt;laptop cover dupatta cloths&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
