@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:36:46.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="dJUMCtydS_JmeBUr3BsX" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:53:31.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BJU5F9wIpD73QvQL17l-" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,8 +68,8 @@
             <mxPoint x="104" y="705" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB-65ZYokO6Gkxu9hn_-13" value="&lt;div&gt;Need&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;fruit basket&lt;/li&gt;&lt;li&gt;storage for bed-sheets &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="880" y="320" width="340" height="200" as="geometry" />
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-13" value="&lt;div&gt;Need&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;fruit basket&lt;/li&gt;&lt;li&gt;storage for bed-sheet-curtains, yoga mats and shetranji &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="890" y="240" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ioB-65ZYokO6Gkxu9hn_-14" value="&lt;div&gt;4th Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;mosquito coil holder&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="265" y="1550" width="340" height="180" as="geometry" />
