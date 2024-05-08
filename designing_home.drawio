@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T03:58:32.071Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="_OYv3r_tHv_N-zFdEkC3" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:01:46.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="TQLqpzTvvPZwGQCZaQyL" version="24.2.8" type="github">
   <diagram name="Page-1" id="of3lFQsRo5HqSWlQ9vZJ">
-    <mxGraphModel dx="1444" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,12 +16,12 @@
         <mxCell id="ioB-65ZYokO6Gkxu9hn_-1" value="&lt;div&gt;Constraints&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;clothes hanging&lt;/li&gt;&lt;li&gt;curtains opening/closing&lt;/li&gt;&lt;li&gt;wash basin using space&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="880" y="-10" width="340" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ioB-65ZYokO6Gkxu9hn_-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="OfnWG1LUpAFpdYO-hWLi-3" target="ioB-65ZYokO6Gkxu9hn_-3">
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1" source="OfnWG1LUpAFpdYO-hWLi-3" target="ioB-65ZYokO6Gkxu9hn_-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="650" as="sourcePoint" />
-            <mxPoint x="200" y="610" as="targetPoint" />
+            <mxPoint x="260" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="600" />
+              <mxPoint x="80" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,8 +30,25 @@
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB-65ZYokO6Gkxu9hn_-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-5" value="&lt;div&gt;Top Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;tooth brush holder&lt;br&gt;&lt;/li&gt;&lt;li&gt;soap dish&lt;br&gt;&lt;/li&gt;&lt;li&gt;tumbler X 2&lt;/li&gt;&lt;ul&gt;&lt;li&gt;one tumbler has cloth pins&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="265" y="540" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-6" value="&lt;div&gt;2nd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;tooth brush holder&lt;br&gt;&lt;/li&gt;&lt;li&gt;soap dish&lt;br&gt;&lt;/li&gt;&lt;li&gt;tumbler X 2&lt;/li&gt;&lt;ul&gt;&lt;li&gt;one tumbler has cloth pins&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="265" y="840" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfnWG1LUpAFpdYO-hWLi-3" target="ioB-65ZYokO6Gkxu9hn_-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="380" as="sourcePoint" />
+            <mxPoint x="275" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioB-65ZYokO6Gkxu9hn_-9" value="Second Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="ioB-65ZYokO6Gkxu9hn_-8">
+          <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
+            <mxPoint x="-7" y="220" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
