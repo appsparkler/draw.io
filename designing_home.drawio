@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:53:31.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BJU5F9wIpD73QvQL17l-" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:58:25.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="tBIRaE5EFtzbliL_GGZ3" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r9XL-YfL63rLHkhZEyh2" name="Drawing Room">
-    <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="3609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,40 @@
         </mxCell>
         <mxCell id="6R7jjs2dVLkLlqGUlhiG-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="531.5" y="180" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-1" value="&lt;div&gt;2nd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Cellophane tape dispenser&lt;/li&gt;&lt;li&gt;Ayurveda book&lt;/li&gt;&lt;li&gt;A4 yellow covers&lt;/li&gt;&lt;li&gt;stick files&lt;/li&gt;&lt;li&gt;printer cables&lt;/li&gt;&lt;li&gt;Mom&#39;s writing book&lt;/li&gt;&lt;li&gt;copies of pears from The Brighter World&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1150" width="340" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0.003;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aIrd_1Hqyf8tElkh3JbG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="50" as="sourcePoint" />
+            <mxPoint x="368" y="-623" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-3" value="2nd Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="aIrd_1Hqyf8tElkh3JbG-2">
+          <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
+            <mxPoint x="114" y="-583" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-4" value="&lt;div&gt;3rd Floor&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Cellophane tape dispenser&lt;/li&gt;&lt;li&gt;Ayurveda book&lt;/li&gt;&lt;li&gt;A4 yellow covers&lt;/li&gt;&lt;li&gt;stick files&lt;/li&gt;&lt;li&gt;printer cables&lt;/li&gt;&lt;li&gt;Mom&#39;s writing book&lt;/li&gt;&lt;li&gt;copies of pears from The Brighter World&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;verticalAlign=top;fontSize=42;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1559" width="340" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="aIrd_1Hqyf8tElkh3JbG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="60" as="sourcePoint" />
+            <mxPoint x="371" y="-1105" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIrd_1Hqyf8tElkh3JbG-6" value="3rd Floor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBorderColor=default;spacing=10;spacingTop=10;spacingLeft=10;spacingBottom=10;spacingRight=10;textShadow=1;" vertex="1" connectable="0" parent="aIrd_1Hqyf8tElkh3JbG-5">
+          <mxGeometry x="-0.426" y="-3" relative="1" as="geometry">
+            <mxPoint x="183" y="-939" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
