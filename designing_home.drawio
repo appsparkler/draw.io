@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T09:37:57.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="1NV5d12NVVUHpTRHugTI" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T09:47:40.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="GlvGMwI-1JOIWQ7qp_w-" version="24.2.8" type="github" pages="2">
   <diagram name="Balcony" id="of3lFQsRo5HqSWlQ9vZJ">
     <mxGraphModel dx="3096" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r9XL-YfL63rLHkhZEyh2" name="Drawing Room">
-    <mxGraphModel dx="3474" dy="4990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="4620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           <mxGeometry x="500" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="6R7jjs2dVLkLlqGUlhiG-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="165.46" height="140" as="geometry" />
+          <mxGeometry x="760" y="30" width="165.46" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6R7jjs2dVLkLlqGUlhiG-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="1">
           <mxGeometry x="570" y="54" width="180" height="116" as="geometry" />
