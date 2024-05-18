@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T04:09:54.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="rLA8sDlgw4FhwZqC_ZoG" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T04:10:31.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="4wmGAm3ZjR55i02qnSET" version="24.4.4" type="github">
   <diagram name="Join Seller Program" id="py46rxaH6P93tPUjjsjk">
     <mxGraphModel dx="1444" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="pwCoVehc74oGvvkLCsKb-5" value="Show message to join seller program" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="pwCoVehc74oGvvkLCsKb-2">
           <mxGeometry x="40" y="30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwCoVehc74oGvvkLCsKb-17" value="Show thank you message for joining seller program" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="pwCoVehc74oGvvkLCsKb-2">
+        <mxCell id="pwCoVehc74oGvvkLCsKb-17" value="Show thank you message for requesting to join seller program" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="pwCoVehc74oGvvkLCsKb-2">
           <mxGeometry x="244" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwCoVehc74oGvvkLCsKb-3" value="Seller" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="pwCoVehc74oGvvkLCsKb-1">
