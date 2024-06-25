@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T06:38:57.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="RLkRWhcQvtCRl6ID8eUe" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T06:47:20.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="FB79Kv4IdqzhuztEKnkL" version="24.6.2" type="github" pages="2">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel dx="858" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,6 +23,21 @@
           <mxGeometry x="35" y="220" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a5rxuozpXgu31T1SbxIO-7" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="a5rxuozpXgu31T1SbxIO-6">
+          <mxGeometry width="250" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="80" width="320" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
+          <mxGeometry width="320" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-6" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp; Lets Recite - The Essence of The Bha...&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;align=left;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
+          <mxGeometry width="320" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-9" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;html=1;whiteSpace=wrap;fillColor=#FF99FF;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
+          <mxGeometry x="35" y="220" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-10" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-9">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
