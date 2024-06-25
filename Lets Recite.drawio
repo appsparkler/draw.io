@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T06:50:26.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="T1Yx8DiJTGbiO_SSFX5N" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T06:53:09.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="id8f_mEdianuQongZ43k" version="24.6.2" type="github" pages="2">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel dx="858" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="a5rxuozpXgu31T1SbxIO-7" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="a5rxuozpXgu31T1SbxIO-6">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FgUyRgX1d-CwVRAhHDfW-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FgUyRgX1d-CwVRAhHDfW-4" value="" style="group;fontSize=42;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="840" y="80" width="320" height="430" as="geometry" />
         </mxCell>
         <mxCell id="FgUyRgX1d-CwVRAhHDfW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
@@ -34,17 +34,17 @@
         <mxCell id="FgUyRgX1d-CwVRAhHDfW-6" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp; Lets Recite - The Essence of The Bha...&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;align=left;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
           <mxGeometry width="320" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="FgUyRgX1d-CwVRAhHDfW-9" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;html=1;whiteSpace=wrap;fillColor=#FF99FF;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
-          <mxGeometry x="35" y="220" width="250" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="FgUyRgX1d-CwVRAhHDfW-10" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-9">
-          <mxGeometry width="250" height="50" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UcMiy5Lkr7W-LVcpt4RS-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIGNsYXNzPSJiaSBiaS1saXN0IiBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPiYjeGE7ICA8cGF0aCBkPSJNMi41IDEyYS41LjUgMCAwIDEgLjUtLjVoMTBhLjUuNSAwIDAgMSAwIDFIM2EuNS41IDAgMCAxLS41LS41bTAtNGEuNS41IDAgMCAxIC41LS41aDEwYS41LjUgMCAwIDEgMCAxSDNhLjUuNSAwIDAgMS0uNS0uNW0wLTRhLjUuNSAwIDAgMSAuNS0uNWgxMGEuNS41IDAgMCAxIDAgMUgzYS41LjUgMCAwIDEtLjUtLjUiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPiYjeGE7PC9zdmc+;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
           <mxGeometry x="284.99552984437105" y="1.660000000000025" width="32.68580767373621" height="32.68580767373621" as="geometry" />
         </mxCell>
         <mxCell id="UcMiy5Lkr7W-LVcpt4RS-2" value="&lt;font color=&quot;#3399ff&quot;&gt;LR / The Essence Of The Bhagavad Gita &lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontColor=#0000FF;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=0" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
           <mxGeometry x="20" y="50" width="230" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UcMiy5Lkr7W-LVcpt4RS-5" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;7 Gems&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Cedarville Cursive;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCedarville%2BCursive;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
+          <mxGeometry x="37.5" y="90" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UcMiy5Lkr7W-LVcpt4RS-6" value="&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Cedarville Cursive&quot;&gt;3 Secrets&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FgUyRgX1d-CwVRAhHDfW-4">
+          <mxGeometry x="37.5" y="185" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
