@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T05:31:49.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="JbDJ3TAqdok0tsXxStuc" version="24.6.2" type="github">
-  <diagram name="Page-1" id="UMCraz2ozo_AV8kpycfj">
+<mxfile host="app.diagrams.net" modified="2024-06-25T05:34:50.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="-ol71wvEdNOEwTgpy7r0" version="24.6.2" type="github">
+  <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel dx="858" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eZoxNU9tQxJHcXoy28vK-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="20" width="261.54" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="eZoxNU9tQxJHcXoy28vK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eZoxNU9tQxJHcXoy28vK-3">
+          <mxGeometry x="9" y="30" width="245" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="eZoxNU9tQxJHcXoy28vK-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="eZoxNU9tQxJHcXoy28vK-3">
+          <mxGeometry width="261.54" height="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
