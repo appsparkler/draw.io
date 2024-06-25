@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T06:34:59.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Ynm65FLCHCcP1ocDFh3v" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T06:35:56.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Yg8vjKymRQioPe_fpQMz" version="24.6.2" type="github" pages="2">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel dx="858" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZuJus-tTKDJ1kqn0xQW3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="280" width="300" height="460" as="geometry" />
+          <mxGeometry x="920" y="280" width="300" height="430" as="geometry" />
         </mxCell>
         <mxCell id="eZoxNU9tQxJHcXoy28vK-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="280" width="300" height="510" as="geometry" />
@@ -35,15 +35,15 @@
           <mxGeometry x="1190" y="283" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuJus-tTKDJ1kqn0xQW3-6" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#188C9C;html=1;whiteSpace=wrap;fillColor=#99FF99;fontColor=#003300;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="945" y="326.34" width="250" height="143.66" as="geometry" />
+          <mxGeometry x="945" y="326.34" width="250" height="133.66" as="geometry" />
         </mxCell>
         <mxCell id="ZuJus-tTKDJ1kqn0xQW3-7" value="The Essence Of The Bhagavad Gita" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#66FF66;strokeColor=#188C9C;fontColor=#003300;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="ZuJus-tTKDJ1kqn0xQW3-6">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZuJus-tTKDJ1kqn0xQW3-8" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;html=1;whiteSpace=wrap;fillColor=#fff2cc;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="945" y="500" width="250" height="143.66" as="geometry" />
+        <mxCell id="ZuJus-tTKDJ1kqn0xQW3-8" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;html=1;whiteSpace=wrap;fillColor=#FF99FF;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="945" y="500" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZuJus-tTKDJ1kqn0xQW3-9" value="The Essence Of The Bhagavad Gita" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="ZuJus-tTKDJ1kqn0xQW3-8">
+        <mxCell id="ZuJus-tTKDJ1kqn0xQW3-9" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#d79b00;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="ZuJus-tTKDJ1kqn0xQW3-8">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
