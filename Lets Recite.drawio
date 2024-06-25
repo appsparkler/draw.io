@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T05:46:00.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="lIOayQxSc2QVP544PvkQ" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T05:53:56.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="fYnEa_dWGTpr4NeqGHyS" version="24.6.2" type="github" pages="2">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel dx="858" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry width="261.54" height="510" as="geometry" />
         </mxCell>
         <mxCell id="PqptVg4q-9022nQI9lEx-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#BA2239;html=1;whiteSpace=wrap;fillColor=#DB2843;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="eZoxNU9tQxJHcXoy28vK-3">
-          <mxGeometry x="20.77" y="90" width="220" height="170" as="geometry" />
+          <mxGeometry x="20.77" y="90" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PqptVg4q-9022nQI9lEx-6" value="The Essence of the &lt;br&gt;Bhagavad Gita" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#D42741;strokeColor=#BA2239;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="PqptVg4q-9022nQI9lEx-5">
           <mxGeometry width="220" height="70" relative="1" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="PqptVg4q-9022nQI9lEx-8" value="Narad Bhakti Sutras" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#31A14A;strokeColor=#2B8D40;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="PqptVg4q-9022nQI9lEx-7">
           <mxGeometry width="219.23" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqptVg4q-9022nQI9lEx-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.00000000000001" y="86" width="243" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
