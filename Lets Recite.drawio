@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T02:21:54.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HYVMSk9de89vDJZlGhKu" version="24.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-12T02:23:15.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HvRZu5HZdXfoCh71t1KL" version="24.4.4" type="github" pages="3">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj" />
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="lUIRG_Bwub9U58f09o2p-3" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; Lets Recite&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;align=left;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-1">
           <mxGeometry width="260.36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-4" value="Sorry, you do not have access to admin section." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-1">
+          <mxGeometry x="10.36" y="45" width="239.64" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-5" value="REQUEST ACCESS" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-1">
+          <mxGeometry x="58.77000000000001" y="125" width="142.82" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
