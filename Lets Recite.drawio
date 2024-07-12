@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T02:21:22.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="WiBeNXRBV7uxrfVoZCXn" version="24.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-12T02:21:54.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HYVMSk9de89vDJZlGhKu" version="24.4.4" type="github" pages="3">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj" />
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -41,13 +41,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_w7CS4srGtuG1yYbDBaT-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="40" width="280" height="520" as="geometry" />
+          <mxGeometry y="40" width="329.64" height="520" as="geometry" />
         </mxCell>
         <mxCell id="_w7CS4srGtuG1yYbDBaT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_w7CS4srGtuG1yYbDBaT-1">
           <mxGeometry x="9.635237439779765" y="30.588235294117645" width="262.2925747495603" height="448.62745098039215" as="geometry" />
         </mxCell>
         <mxCell id="_w7CS4srGtuG1yYbDBaT-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="_w7CS4srGtuG1yYbDBaT-1">
           <mxGeometry width="280" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-1" value="" style="group" vertex="1" connectable="0" parent="_w7CS4srGtuG1yYbDBaT-1">
+          <mxGeometry x="9.64" y="45" width="260.36" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-1">
+          <mxGeometry width="260.36" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-3" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; Lets Recite&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;align=left;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-1">
+          <mxGeometry width="260.36" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
