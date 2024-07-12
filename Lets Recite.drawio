@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T02:26:13.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="4QsajipHrdrbqbhi2goP" version="24.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-12T02:26:49.929Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="VsqW_7y6wBMs7zO17u1b" version="24.4.4" type="github" pages="3">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj" />
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -36,7 +36,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYn-bSAtTAXGG6n-DN5X" name="Admin Root App">
-    <mxGraphModel dx="882" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,14 @@
         </mxCell>
         <mxCell id="lUIRG_Bwub9U58f09o2p-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.progressBar;fillColor=#cccccc;strokeColor=none;fillColor2=#99ddff;barPos=80;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-14">
           <mxGeometry x="90.26999999999998" y="185" width="79.82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lUIRG_Bwub9U58f09o2p-5" target="lUIRG_Bwub9U58f09o2p-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lUIRG_Bwub9U58f09o2p-21" value="on&lt;br&gt; request &lt;br&gt;access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lUIRG_Bwub9U58f09o2p-20">
+          <mxGeometry x="-0.0494" y="2" relative="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
