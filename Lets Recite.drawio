@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T02:15:54.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="uYcPC6XUSwKttoEpCISE" version="24.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-12T02:19:21.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="TIShAYPFvz3MfCuJrJqi" version="24.4.4" type="github" pages="3">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj" />
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="953" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -40,6 +40,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_w7CS4srGtuG1yYbDBaT-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="261.54" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="_w7CS4srGtuG1yYbDBaT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_w7CS4srGtuG1yYbDBaT-1">
+          <mxGeometry x="9" y="30" width="245" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_w7CS4srGtuG1yYbDBaT-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="_w7CS4srGtuG1yYbDBaT-1">
+          <mxGeometry width="261.54" height="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
