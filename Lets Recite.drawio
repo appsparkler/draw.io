@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T02:33:03.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="hYVuft3yhqeWXSxnMRKJ" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:08:36.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="wVr3XcmZByupBENN8sIT" version="24.6.5" type="github" pages="3">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel>
       <root>
@@ -124,11 +124,11 @@
         <mxCell id="lUIRG_Bwub9U58f09o2p-27" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp; Lets Recite&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C8EFB;strokeColor=none;align=left;" parent="lUIRG_Bwub9U58f09o2p-25" vertex="1">
           <mxGeometry width="260.36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="lUIRG_Bwub9U58f09o2p-28" value="Your access request has been received.&amp;nbsp; We&#39;ll get in touch with you soon." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;" parent="lUIRG_Bwub9U58f09o2p-25" vertex="1">
-          <mxGeometry x="10.36" y="55" width="239.64" height="65" as="geometry" />
+        <mxCell id="lUIRG_Bwub9U58f09o2p-28" value="Your access request has been received.&amp;nbsp; We&#39;ll get in touch with you soon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;" parent="lUIRG_Bwub9U58f09o2p-25" vertex="1">
+          <mxGeometry x="10.36" y="55" width="239.64" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="hciujd0qg2BxFG72r044-2" value="Lets Recite" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="lUIRG_Bwub9U58f09o2p-25">
-          <mxGeometry x="58.76999999999998" y="135" width="142.82" height="33" as="geometry" />
+        <mxCell id="hciujd0qg2BxFG72r044-3" value="Lets Recite Home" style="fillColor=none;strokeColor=none;html=1;fontColor=#0057D8;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" vertex="1" parent="lUIRG_Bwub9U58f09o2p-25">
+          <mxGeometry x="87.18" y="150" width="86" height="33" as="geometry" />
         </mxCell>
         <mxCell id="lUIRG_Bwub9U58f09o2p-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lUIRG_Bwub9U58f09o2p-15" target="lUIRG_Bwub9U58f09o2p-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
