@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T11:44:49.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="0rxQrGXOzchDIt-xgKF9" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:49:15.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="dGVVUiMhA4-Vo2n9qgE_" version="24.7.1" type="github" pages="7">
   <diagram id="Qg3pGSzQi0wPKBLdQkdO" name="/">
     <mxGraphModel dx="1045" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CmFQPVSHpGHk2E2v54Jk" name="/admin">
-    <mxGraphModel dx="2589" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,17 @@
             <mxGeometry x="-260" y="663" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfoW-IPGney1dG4eT16u-11" target="4h-of_imEdQEhbL9OhgR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfoW-IPGney1dG4eT16u-11" target="4h-of_imEdQEhbL9OhgR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-478" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Admin Dashboard App" link="data:page/id,lhvkhw5zZD36CZMKM76M" id="UfoW-IPGney1dG4eT16u-11">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="-556.5" y="870" width="157" height="70" as="geometry" />
@@ -150,6 +161,24 @@
             <mxGeometry x="-260" y="150" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4h-of_imEdQEhbL9OhgR-1" target="4h-of_imEdQEhbL9OhgR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-1" value="User clicks Messages/Suggestions/Issues/Contributions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="870" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-3" value="ContributionViewer App " style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h-of_imEdQEhbL9OhgR-6" target="4h-of_imEdQEhbL9OhgR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-6" value="User Clicks Recitations" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4h-of_imEdQEhbL9OhgR-7" value="Recitations Viewer App" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
