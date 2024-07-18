@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T12:14:02.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EAPA0swHcnTh98D7SIHH" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-18T12:14:31.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="05wEwskIVzY9F25dTcDl" version="24.7.1" type="github" pages="7">
   <diagram id="Qg3pGSzQi0wPKBLdQkdO" name="/">
     <mxGraphModel dx="1045" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
           <mxGeometry x="-280" y="870" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4h-of_imEdQEhbL9OhgR-3" value="ContributionViewer App &lt;br&gt;&lt;br&gt;&lt;b&gt;/contribution/&amp;lt;type&amp;gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="875" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="875" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4h-of_imEdQEhbL9OhgR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h-of_imEdQEhbL9OhgR-6" target="4h-of_imEdQEhbL9OhgR-7">
           <mxGeometry relative="1" as="geometry" />
