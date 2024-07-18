@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T11:23:48.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="vm4ijB3CSNAoClZ_DKPB" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:24:54.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="jtzm3yggIO1fTiYptdXf" version="24.7.1" type="github" pages="5">
   <diagram name="Version 2" id="UMCraz2ozo_AV8kpycfj">
     <mxGraphModel>
       <root>
@@ -43,7 +43,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CmFQPVSHpGHk2E2v54Jk" name="/admin">
-    <mxGraphModel dx="2589" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,8 +120,16 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="1FYi6Hw_A0HGvhlaRe2R" name="Page-5">
+    <mxGraphModel dx="1045" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="dYn-bSAtTAXGG6n-DN5X" name="Admin Root App">
-    <mxGraphModel dx="2038" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,43 +223,6 @@
           <mxGeometry x="-0.0551" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" y="-3" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-4" value="User visits /admin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-551" y="10" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8quW3ShygWIsjZj6DGn-5" target="j8quW3ShygWIsjZj6DGn-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8quW3ShygWIsjZj6DGn-9">
-          <mxGeometry x="-0.125" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-5" value="is user signed in with phone number?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-562" y="143" width="170" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j8quW3ShygWIsjZj6DGn-4" target="j8quW3ShygWIsjZj6DGn-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8quW3ShygWIsjZj6DGn-8" target="j8quW3ShygWIsjZj6DGn-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8quW3ShygWIsjZj6DGn-12">
-          <mxGeometry x="-0.1033" y="-6" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8quW3ShygWIsjZj6DGn-8" target="j8quW3ShygWIsjZj6DGn-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-8" value="is user admin?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-562" y="383" width="170" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-11" value="Admin Request App" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-287" y="433" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j8quW3ShygWIsjZj6DGn-14" value="Admin Dashboard" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
