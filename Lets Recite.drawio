@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T11:50:29.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="keq4-6fnP-USsaIDDn7w" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:50:46.539Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="PAlT3wGj7X84vttnn-Q9" version="24.7.1" type="github" pages="7">
   <diagram id="Qg3pGSzQi0wPKBLdQkdO" name="/">
     <mxGraphModel dx="1045" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CmFQPVSHpGHk2E2v54Jk" name="/admin">
-    <mxGraphModel dx="2813" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
         <mxCell id="4h-of_imEdQEhbL9OhgR-6" value="User Clicks Recitations" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4h-of_imEdQEhbL9OhgR-7" value="Recitations Viewer App" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4h-of_imEdQEhbL9OhgR-7" value="RecitationsViewer App" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
