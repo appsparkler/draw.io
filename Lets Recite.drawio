@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T06:27:42.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="NPkLq3X9xjo0zKgj-v4p" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:28:59.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="MOu-UwkmaBc4RgchJ7fz" version="24.7.1" type="github" pages="6">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1985" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,8 +291,11 @@
         <mxCell id="mqdpCY8Kcx1ffin96GN1-7" value="Oops!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Tahoma;" parent="mqdpCY8Kcx1ffin96GN1-4" vertex="1">
           <mxGeometry x="68.05474936800793" y="45" width="99.01171338519627" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mqdpCY8Kcx1ffin96GN1-8" value="Lets Recite Home" style="fillColor=none;strokeColor=none;html=1;fontColor=#0057D8;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" parent="mqdpCY8Kcx1ffin96GN1-4" vertex="1">
-          <mxGeometry x="78.72894174499645" y="198.5" width="77.66332863121926" height="33" as="geometry" />
+        <mxCell id="mqdpCY8Kcx1ffin96GN1-8" value="Go back to previous page" style="fillColor=none;strokeColor=none;html=1;fontColor=#0057D8;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" parent="mqdpCY8Kcx1ffin96GN1-4" vertex="1">
+          <mxGeometry x="46.93000000000001" y="105" width="141.27" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="yvjZMJ6yldlt8YCk32us-17" value="Go to Lets Recite homepage" style="fillColor=none;strokeColor=none;html=1;fontColor=#0057D8;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" vertex="1" parent="mqdpCY8Kcx1ffin96GN1-4">
+          <mxGeometry x="46.93000000000001" y="175" width="141.27" height="33" as="geometry" />
         </mxCell>
         <mxCell id="mqdpCY8Kcx1ffin96GN1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lUIRG_Bwub9U58f09o2p-13" target="mqdpCY8Kcx1ffin96GN1-3" edge="1">
           <mxGeometry relative="1" as="geometry">
