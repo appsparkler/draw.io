@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T06:57:31.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="eYCsiQpLAOaMebZr391d" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:57:36.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="e68Hc5carA6jve8Xc3ua" version="24.7.1" type="github" pages="8">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1222" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-10" value="All" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-4">
           <mxGeometry x="171.1267082781556" y="50.78" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="W5uNvGvyfLrirEvbfz7N-12" value="Raw denim you probably haven&#39;t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui." style="strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="830" width="780" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
