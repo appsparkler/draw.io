@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T06:30:21.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HAt5nDuMs8GcfPS8NkUp" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:32:51.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="C0O8hFddbAvul-OYi8HX" version="24.7.1" type="github" pages="7">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1985" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dYn-bSAtTAXGG6n-DN5X" name="Admin Request App">
-    <mxGraphModel dx="1222" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,10 +270,11 @@
             <mxPoint x="-1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mqdpCY8Kcx1ffin96GN1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lUIRG_Bwub9U58f09o2p-13" edge="1">
+        <mxCell id="mqdpCY8Kcx1ffin96GN1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lUIRG_Bwub9U58f09o2p-13" target="T3J4K9g6jxCeVncAxNG4-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="919" />
+              <mxPoint x="840" y="919" />
             </Array>
             <mxPoint x="829.75" y="918.4800000000002" as="targetPoint" />
           </mxGeometry>
@@ -281,6 +282,11 @@
         <mxCell id="yvjZMJ6yldlt8YCk32us-1" value="on request&lt;br&gt; failure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="530.0021052631577" y="760" as="geometry" />
         </mxCell>
+        <UserObject label="Error App" link="data:page/id,nMLpL8qrKKw6AU_1d5M_" id="T3J4K9g6jxCeVncAxNG4-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="940" y="870" width="280" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
