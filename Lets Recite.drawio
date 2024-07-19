@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T05:59:45.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="iIcbUDNaxVPE5x-clTqv" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:08:42.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Y0taNamWwwblro3DQGSC" version="24.7.1" type="github" pages="6">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1985" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -487,6 +487,9 @@
         </mxCell>
         <mxCell id="gDwML4bT0H2exgvZamGX-27" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="gDwML4bT0H2exgvZamGX-24">
           <mxGeometry x="35" y="5" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gDwML4bT0H2exgvZamGX-62" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.progressBar;fillColor=#cccccc;strokeColor=none;fillColor2=#99ddff;barPos=80;" vertex="1" parent="gDwML4bT0H2exgvZamGX-4">
+          <mxGeometry x="85" y="360.78" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
