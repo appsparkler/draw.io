@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T12:15:05.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="2o6gIzKUAFMyOnEFLly_" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-19T12:21:56.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="8-v53IdvIh6UY-ZAKvXw" version="24.7.1" type="github" pages="8">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1222" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
           <mxGeometry x="171.1267082781556" y="50.78" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-4">
-          <mxGeometry x="16" y="170.78" width="229.33" height="109.22" as="geometry" />
+          <mxGeometry x="16" y="170.78" width="229.33" height="119.22" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-20" value="" style="group" vertex="1" connectable="0" parent="W5uNvGvyfLrirEvbfz7N-4">
           <mxGeometry x="15.666708278155596" y="101.78" width="229.3332917218444" height="39.22" as="geometry" />
@@ -230,7 +230,7 @@
           <mxGeometry x="205.46" y="16.610000000000014" width="12" height="6" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-21" value="" style="group" vertex="1" connectable="0" parent="W5uNvGvyfLrirEvbfz7N-4">
-          <mxGeometry x="15.666708278155596" y="300.78" width="229.3332917218444" height="39.22" as="geometry" />
+          <mxGeometry x="15.666708278155596" y="307.78" width="229.3332917218444" height="39.22" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-22" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-21">
           <mxGeometry x="0.003291721844403739" width="229.33" height="39.22" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="205.46" y="16.610000000000014" width="12" height="6" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-25" value="" style="group" vertex="1" connectable="0" parent="W5uNvGvyfLrirEvbfz7N-4">
-          <mxGeometry x="15.666708278155596" y="340" width="229.3332917218444" height="39.22" as="geometry" />
+          <mxGeometry x="15.666708278155596" y="347" width="229.3332917218444" height="39.22" as="geometry" />
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-26" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-25">
           <mxGeometry x="0.003291721844403739" width="229.33" height="39.22" as="geometry" />
@@ -258,6 +258,12 @@
         </mxCell>
         <mxCell id="W5uNvGvyfLrirEvbfz7N-32" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;rotation=-180;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-4">
           <mxGeometry x="221.1267082781556" y="192.77999999999997" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="W5uNvGvyfLrirEvbfz7N-33" value="Vocabulary Test" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-4">
+          <mxGeometry x="15.670000000000002" y="195" width="139.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W5uNvGvyfLrirEvbfz7N-34" value="Include a section for testing our Sanskrit vocabulary.&amp;nbsp; This will really help us do some serious learning. " style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="W5uNvGvyfLrirEvbfz7N-4">
+          <mxGeometry x="23.8" y="224.78" width="209.33" height="50.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
