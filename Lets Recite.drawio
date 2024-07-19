@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T06:08:42.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Y0taNamWwwblro3DQGSC" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:09:16.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="RfYYwIUAPgRq6FIlABd8" version="24.7.1" type="github" pages="6">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1985" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
           <mxGeometry x="35" y="5" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gDwML4bT0H2exgvZamGX-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="-40" width="300.0013375181072" height="560" as="geometry" />
+          <mxGeometry x="420" y="-40" width="300.0013375181072" height="560" as="geometry" />
         </mxCell>
         <mxCell id="gDwML4bT0H2exgvZamGX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gDwML4bT0H2exgvZamGX-1">
           <mxGeometry x="9.635237439779765" y="30.588235294117645" width="262.2925747495603" height="448.62745098039215" as="geometry" />
@@ -490,6 +490,14 @@
         </mxCell>
         <mxCell id="gDwML4bT0H2exgvZamGX-62" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.progressBar;fillColor=#cccccc;strokeColor=none;fillColor2=#99ddff;barPos=80;" vertex="1" parent="gDwML4bT0H2exgvZamGX-4">
           <mxGeometry x="85" y="360.78" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gDwML4bT0H2exgvZamGX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-mMgyln58Hz6t3cybIWb-5" target="gDwML4bT0H2exgvZamGX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDwML4bT0H2exgvZamGX-64" value="while transitioning &lt;br style=&quot;font-size: 16px;&quot;&gt;to another page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gDwML4bT0H2exgvZamGX-63">
+          <mxGeometry x="0.0039" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
