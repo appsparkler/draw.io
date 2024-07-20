@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T12:31:48.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Rddbr8aUDXVjyKiGiP9p" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-20T12:33:30.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="JKu2nLoEu0vQ6-zTwd4R" version="24.7.1" type="github" pages="8">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1588" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muUq87UQDmmYVfJfbFuu" name="Contributions Reviewer App">
-    <mxGraphModel dx="2564" dy="3013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="2912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,25 +681,25 @@
           <mxGeometry x="230.46" y="252.97329113924036" width="12" height="5.924050632911392" as="geometry" />
         </mxCell>
         <mxCell id="fgoPFAXFQ5q_dUkb5NV7-33" value="" style="group" vertex="1" connectable="0" parent="fgoPFAXFQ5q_dUkb5NV7-40">
-          <mxGeometry x="35.00329172184445" y="284.56822784810106" width="209.33" height="153.2551898734176" as="geometry" />
+          <mxGeometry x="35" y="284.57" width="209.33" height="155.43" as="geometry" />
         </mxCell>
         <mxCell id="fgoPFAXFQ5q_dUkb5NV7-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vocabulary Tests&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;Please add a section that can helps us for testing our Sanskrit vocabulary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-33">
-          <mxGeometry x="-1" y="1.0553311518621238" width="209.33" height="153.2551898734176" as="geometry" />
+          <mxGeometry x="-1" y="1.0703071202313732" width="209.33" height="155.42999999999998" as="geometry" />
         </mxCell>
         <mxCell id="fgoPFAXFQ5q_dUkb5NV7-35" value="MARK AS REVIEWED" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-33">
-          <mxGeometry x="8.934204400000013" y="110.62302412724844" width="133.9712" height="26.618006662225163" as="geometry" />
-        </mxCell>
-        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-36" value="" style="group" vertex="1" connectable="0" parent="fgoPFAXFQ5q_dUkb5NV7-40">
-          <mxGeometry x="35.00329172184445" y="448.4669620253162" width="209.33" height="153.2551898734176" as="geometry" />
-        </mxCell>
-        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;More Shlokas!&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;Please add more shlokas from The Bhagavad Gita and Ahstavakra Gita" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-36">
-          <mxGeometry x="-1" y="1.0553311518621238" width="209.33" height="153.2551898734176" as="geometry" />
-        </mxCell>
-        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-38" value="MARK AS REVIEWED" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-36">
-          <mxGeometry x="8.934204400000013" y="110.62302412724844" width="133.9712" height="26.618006662225163" as="geometry" />
+          <mxGeometry x="8.934204400000013" y="112.19285072368423" width="133.9712" height="26.995736842105263" as="geometry" />
         </mxCell>
         <mxCell id="fgoPFAXFQ5q_dUkb5NV7-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;points=[[1,0.14,0,2,0]];" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-40">
           <mxGeometry width="280" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-44" value="" style="group" vertex="1" connectable="0" parent="fgoPFAXFQ5q_dUkb5NV7-40">
+          <mxGeometry x="33.1332917218445" y="449.9969620253162" width="209.33" height="153.2551898734176" as="geometry" />
+        </mxCell>
+        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;More Shlokas!&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#6c767d&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;Please add more shlokas from The Bhagavad Gita and Ahstavakra Gita" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-44">
+          <mxGeometry x="-1" y="1.0553311518621238" width="209.33" height="153.2551898734176" as="geometry" />
+        </mxCell>
+        <mxCell id="fgoPFAXFQ5q_dUkb5NV7-46" value="MARK AS UNREVIEWED" style="rounded=1;fillColor=#FFD966;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#1A1A1A;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="fgoPFAXFQ5q_dUkb5NV7-44">
+          <mxGeometry x="8.93" y="110.62" width="171.07" height="26.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
