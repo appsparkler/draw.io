@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T05:57:31.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="9QLP1heAnyQtz8J7wxVc" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-20T05:59:01.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HQTZAU7SNurw0hVXhPDG" version="24.7.1" type="github" pages="8">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1588" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muUq87UQDmmYVfJfbFuu" name="Contributions Reviewer App">
-    <mxGraphModel dx="3069" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,17 +591,9 @@
         <mxCell id="RrPEQqxhqvK0Dm8EsWu2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.14;exitDx=2;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=24;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="W5uNvGvyfLrirEvbfz7N-3" target="Nohsd4DF2EsbfSHM9Hrm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RrPEQqxhqvK0Dm8EsWu2-36" value="on click &quot;reviewed&quot;&lt;br&gt;(loading)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-68.99999999999955" y="411.2" as="geometry">
+        <mxCell id="RrPEQqxhqvK0Dm8EsWu2-36" value="on click any link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-69.99999999999955" y="403" as="geometry">
             <mxPoint x="2" y="-244" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RrPEQqxhqvK0Dm8EsWu2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.12;exitDx=2;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=24;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="Nohsd4DF2EsbfSHM9Hrm-30" target="RrPEQqxhqvK0Dm8EsWu2-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RrPEQqxhqvK0Dm8EsWu2-38" value="new page loaded" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=24;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="RrPEQqxhqvK0Dm8EsWu2-37">
-          <mxGeometry x="0.1738" width="210" height="40" relative="1" as="geometry">
-            <mxPoint x="-105" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RrPEQqxhqvK0Dm8EsWu2-39" value="" style="shape=line;strokeColor=#dddddd;" vertex="1" parent="1">
