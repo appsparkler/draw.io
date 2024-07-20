@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T12:43:18.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="oSlrL-vt7OwYQgXm_Swf" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-20T04:58:24.143Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="U73s-m25NyrJKDpwtaY1" version="24.7.1" type="github" pages="8">
   <diagram id="FrvKU-1WmwjjgQu90Lsc" name="components">
     <mxGraphModel dx="1222" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
           <mxGeometry x="-280" y="870" width="130" height="70" as="geometry" />
         </mxCell>
         <UserObject label="ContributionViewer App &lt;br&gt;&lt;br&gt;&lt;b&gt;/contribution/&amp;lt;type&amp;gt;&lt;/b&gt;" link="data:page/id,muUq87UQDmmYVfJfbFuu" id="4h-of_imEdQEhbL9OhgR-3">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="10" y="875" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="muUq87UQDmmYVfJfbFuu" name="Contributions Reviewer App">
-    <mxGraphModel dx="2388" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,14 @@
         </mxCell>
         <mxCell id="OF01DVchzSFKJCT4cgAO-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="280" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="J8wnELBOGH56sH24yUGr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W5uNvGvyfLrirEvbfz7N-2" target="OF01DVchzSFKJCT4cgAO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8wnELBOGH56sH24yUGr-2" value="on click mark-as-reviewed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="J8wnELBOGH56sH24yUGr-1">
+          <mxGeometry x="-0.134" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
