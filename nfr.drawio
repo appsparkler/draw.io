@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9tmtyQ-8fhGdTBr26bhv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9tmtyQ-8fhGdTBr26bhv-1" value="SEO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9grGnqk3tpCFQDE0WmU-1" value="Server Side Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9grGnqk3tpCFQDE0WmU-2" value="Client Side Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9grGnqk3tpCFQDE0WmU-3" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9grGnqk3tpCFQDE0WmU-4" value="Accessibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
