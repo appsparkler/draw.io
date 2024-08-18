@@ -33,17 +33,25 @@
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="80" width="280" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-2" value="www.google.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lKLFR3DL2J9VLYMlDI5P-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKLFR3DL2J9VLYMlDI5P-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKLFR3DL2J9VLYMlDI5P-2" value="www.google.com" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-3" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="80" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="280" height="440" as="geometry" />
+        <mxCell id="lKLFR3DL2J9VLYMlDI5P-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="80" width="280" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-7" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="lKLFR3DL2J9VLYMlDI5P-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="lKLFR3DL2J9VLYMlDI5P-8">
+          <mxGeometry width="280" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="lKLFR3DL2J9VLYMlDI5P-7" value="Server &lt;br&gt;- could be far or near" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="lKLFR3DL2J9VLYMlDI5P-8">
+          <mxGeometry x="75" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
