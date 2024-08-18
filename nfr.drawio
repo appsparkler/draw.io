@@ -56,7 +56,7 @@
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-12" value="domain look up" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lKLFR3DL2J9VLYMlDI5P-11">
           <mxGeometry x="0.1976" relative="1" as="geometry">
-            <mxPoint y="-26" as="offset" />
+            <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
