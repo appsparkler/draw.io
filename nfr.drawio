@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-19" value="returns IP Address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lKLFR3DL2J9VLYMlDI5P-18">
           <mxGeometry x="0.1986" y="-1" relative="1" as="geometry">
-            <mxPoint x="88" y="-69" as="offset" />
+            <mxPoint x="1" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-20" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.dns_server;fillColor=#005073;strokeColor=none;" vertex="1" parent="lKLFR3DL2J9VLYMlDI5P-17">
