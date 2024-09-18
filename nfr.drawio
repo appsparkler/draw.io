@@ -123,10 +123,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="858" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1708" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fG6j18foGbW66ThMf-k3-1" value="If developers are unable to provide accessible experience, the disability is upon them." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fG6j18foGbW66ThMf-k3-3" value="&lt;div&gt;- show billing address is same as shipping address checkbox&lt;/div&gt;&lt;div&gt;- avoid drag and drop or have alternate like - move to top, move up, etc.&lt;/div&gt;&lt;div&gt;- have large CTAs&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fG6j18foGbW66ThMf-k3-4" value="Help Pages&lt;br&gt;&lt;div&gt;- phone numbers and hours&lt;/div&gt;&lt;div&gt;- contact form&lt;/div&gt;&lt;div&gt;- email address&lt;/div&gt;&lt;div&gt;- chat bot&lt;/div&gt;&lt;div&gt;- human messaging/chat&lt;/div&gt;&lt;div&gt;- FAQ&lt;/div&gt;&lt;div&gt;- support/help pages&lt;/div&gt;&lt;div&gt;- social media channels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fG6j18foGbW66ThMf-k3-5" value="&lt;div&gt;- check website in B/W mode&lt;/div&gt;&lt;div&gt;- use screen-readers such as Voice Over and NVDA to test the website&#39;s accessibility &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="120" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="fG6j18foGbW66ThMf-k3-6" value="&lt;div&gt;Focus Indicator&lt;/div&gt;&lt;div&gt;- needs to be visible clearly on B/W mode of our website.&lt;/div&gt;&lt;div&gt;- should not be hidden behind other elements - for ex. by the chat box&lt;/div&gt;&lt;div&gt;- focused element should have solid outline&lt;/div&gt;&lt;div&gt;- focused v/s unfocused contrast &amp;gt; 3:1&lt;/div&gt;&lt;div&gt;- adjacent contrast &amp;gt; 3:1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="160" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
