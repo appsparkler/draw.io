@@ -123,12 +123,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="1409" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2116" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fG6j18foGbW66ThMf-k3-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-240" width="320" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-1" value="If developers are unable to provide accessible experience, the disability is upon them." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="170" y="-40" width="320" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-100" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-3" value="&lt;div&gt;&lt;b&gt;Practicals:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- show billing address is same as shipping address checkbox&lt;/div&gt;&lt;div&gt;- avoid drag and drop or have alternate like - move to top, move up, etc.&lt;/div&gt;&lt;div&gt;- have large CTAs&lt;/div&gt;&lt;div&gt;&lt;div&gt;- use &lt;b&gt;sr-only &lt;/b&gt;class&lt;/div&gt;&lt;div&gt;- use &lt;b&gt;landmark tags&lt;/b&gt; - main, header, footer, nav, etc.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="160" height="240" as="geometry" />
@@ -143,16 +146,16 @@
           <mxGeometry x="520" y="120" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-7" value="Equity, not equality." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="160" y="-9" width="320" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-70" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-8" value="Use personas to step into the shoes of users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="160" y="20" width="320" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-40" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-9" value="compliant !== accessible" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="320" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-10" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-11" value="Our application is accessible if it is:&lt;br&gt;- PERCEIVABLE&lt;br&gt;- OPERABLE&lt;br&gt;&lt;div&gt;- UNDERSTANDABLE&lt;br&gt;- ROBUST&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="160" y="-140" width="320" height="100" as="geometry" />
+          <mxGeometry x="-80" y="-200" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fG6j18foGbW66ThMf-k3-12" value="&lt;div&gt;&lt;b&gt;ARIA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;role=&quot;alert&quot;&lt;/b&gt; to publish any content that needs to be announced&lt;/div&gt;&lt;div&gt;- &lt;b&gt;aria-live=&quot;assertive&quot; &lt;/b&gt;to jump the queue and announce the contents&lt;/div&gt;&lt;div&gt;- use &lt;b&gt;aria-labelledby &lt;/b&gt;with &lt;b&gt;sr-only class &lt;/b&gt;instead of aria-label for translated content.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="160" height="240" as="geometry" />
