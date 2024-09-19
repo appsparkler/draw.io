@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="1934" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="xMTG2CMzGAB8xeqRqj2v-3" value="&lt;div&gt;&lt;b&gt;Keyboard Goals:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Users must, with the keyboard,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- be able to get through navigational links and sections&lt;/div&gt;&lt;div&gt;- get into and out of search and form fields easily&lt;/div&gt;&lt;div&gt;- navigate through forms&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-440" y="120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xMTG2CMzGAB8xeqRqj2v-4" value="&lt;div&gt;&lt;b&gt;&amp;lt;form&amp;gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- ensure focus is always visible - it shouldn&#39;t be hidden by another element or out of viewport&lt;/div&gt;&lt;div&gt;- clearly identify input errors and suggest `how to fix them`&lt;br&gt;&lt;/div&gt;&lt;div&gt;- avoid only color to identify significant things such as errors - &lt;b&gt;design-phase&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- clearly label form-controls and give instructions on how to fill them&lt;/div&gt;&lt;div&gt;- label should be on top of the form-control and instruction/helper-text should be at the bottom of the field.&lt;/div&gt;&lt;div&gt;- provide help option&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="120" width="200" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
