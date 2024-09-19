@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="1988" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1934" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="xMTG2CMzGAB8xeqRqj2v-2" value="&lt;div&gt;&lt;b&gt;&amp;lt;audio&amp;gt; and &amp;lt;video&amp;gt; tags&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- add captions and transcriptions&lt;/div&gt;&lt;div&gt;- sign language interpretation where necessary.&lt;/div&gt;&lt;div&gt;- avoid auto play&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="1400" y="120" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xMTG2CMzGAB8xeqRqj2v-3" value="&lt;div&gt;&lt;b&gt;Keyboard Goals:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Users must, with the keyboard,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- be able to get through navigational links and sections&lt;/div&gt;&lt;div&gt;- get into and out of search and form fields easily&lt;/div&gt;&lt;div&gt;- navigate through forms&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="120" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
