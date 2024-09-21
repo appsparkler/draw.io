@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="3430" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,8 @@
         <mxCell id="xMTG2CMzGAB8xeqRqj2v-6" value="&lt;div&gt;&lt;b&gt;&amp;lt;title&amp;gt; tag inside &amp;lt;head&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &amp;lt;what-the-page-is-for&amp;gt;-&amp;lt;app-name&amp;gt;.&amp;nbsp; for ex. &quot;Bhagavad Gita, Shloka 2.77 - Lets Recite&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xMTG2CMzGAB8xeqRqj2v-7" value="&lt;div&gt;&lt;b&gt;Watch out!&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- avoid assuming that only small screens upto tablet are touch.&amp;nbsp; A 1920 width screen could be touch as well.&lt;/div&gt;&lt;div&gt;- ensure &lt;b&gt;alt=&quot;&quot; &lt;/b&gt;if using &lt;b&gt;aria-labelledby=&quot;...&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- avoid title tag on &amp;lt;a&amp;gt; else screen-readers will announce it twice.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="320" width="160" height="240" as="geometry" />
+        <mxCell id="xMTG2CMzGAB8xeqRqj2v-7" value="&lt;div&gt;&lt;b&gt;Watch out!&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- avoid assuming that only small screens upto tablet are touch.&amp;nbsp; A 1920 width screen could be touch as well.&lt;/div&gt;&lt;div&gt;- ensure &lt;b&gt;alt=&quot;&quot; &lt;/b&gt;if using &lt;b&gt;aria-labelledby=&quot;...&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- avoid title tag on &amp;lt;a&amp;gt; else screen-readers will announce it twice.&lt;/div&gt;&lt;div&gt;- ensure focus is moved when removing an element from the DOM&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="320" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="cbKrktfgYTRHqOkoiASQ-1" value="&lt;b&gt;PERCEIVABLE&lt;br&gt;content can be perceived by&amp;nbsp; all users&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-240" width="200" height="80" as="geometry" />
