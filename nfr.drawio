@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nm3DymPliKEBzI2Rtd-W" name="Accessibility">
-    <mxGraphModel dx="2058" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2458" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="cbKrktfgYTRHqOkoiASQ-4" value="&lt;b&gt;ROBUST&lt;br&gt;ensure our site works will all agents and assistive tech&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbKrktfgYTRHqOkoiASQ-5" value="&lt;div&gt;&lt;b&gt;Types Of Content:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Informational - information that is valuable to a user - these need an equivalent&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Functional - useful to execute a task - play/pause, etc.&amp;nbsp; these need to have appropriate labels for the user to interact with&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Decorative - these are only for site ambience and its not mandatory to convey it to the user&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="80" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
