@@ -185,10 +185,16 @@
           <mxGeometry x="80" y="360" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cbKrktfgYTRHqOkoiASQ-1" value="&lt;b&gt;PERCEIVABLE&lt;br&gt;content can be perceived by&amp;nbsp; all users&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-280" width="200" height="80" as="geometry" />
+          <mxGeometry x="-320" y="-240" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cbKrktfgYTRHqOkoiASQ-2" value="&lt;b&gt;OPERABLE&lt;br&gt;content can reach all users&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-160" width="200" height="40" as="geometry" />
+        <mxCell id="cbKrktfgYTRHqOkoiASQ-2" value="&lt;b&gt;OPERABLE&lt;br&gt;do everything with the accessible device (keyboard) as with a mouse&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbKrktfgYTRHqOkoiASQ-3" value="&lt;b&gt;UNDERSTANDABLE&lt;br&gt;ensure that content is digested by everyone&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbKrktfgYTRHqOkoiASQ-4" value="&lt;b&gt;ROBUST&lt;br&gt;ensure our site works will all agents and assistive tech&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-120" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
