@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="2794" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2722" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="VWg9TyHmX9HyZmOPCugE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-440" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hlEZkU7rYzRqf5MHaA3T-1" value="&lt;div&gt;&lt;b&gt;How to:&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Performance Culture - &lt;/b&gt;performance goals, 20% faster than average, simulate on various devices and networks, have performance budgets, closely follow the metrics, consider various customer personas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-1" value="&lt;div&gt;&lt;b&gt;How to:&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Performance Culture - &lt;/b&gt;performance goals, 20% faster than average, simulate on various devices and networks, have performance budgets, closely follow the metrics, consider various customer personas&lt;br&gt;&lt;/div&gt;- &lt;b&gt;Control over API - &lt;/b&gt;with control over API, you can deliver customized need based payloads, else consider GraphQL" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="80" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-2" value="&lt;b&gt;Metrics&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- &lt;b&gt;FID&lt;/b&gt; - First Input Delay&lt;/div&gt;&lt;div&gt;- &lt;b&gt;LCP&lt;/b&gt; - Largest Contentful Paint&lt;br&gt;&lt;/div&gt;- &lt;b&gt;TBT&lt;/b&gt; - Total Blocking Time&lt;br&gt;- &lt;b&gt;CLS - &lt;/b&gt;Cumulative Layout Shift&lt;br&gt;- &lt;b&gt;TTI - &lt;/b&gt;Time To Interactive&lt;br&gt;&lt;div&gt;- &lt;b&gt;HRT - &lt;/b&gt;Hero Rendering Times&lt;br&gt;&lt;br&gt;&lt;i&gt;Search on web.dev on how to improve these metrics&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
