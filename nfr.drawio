@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="3236" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3090" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,8 @@
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-4" value="&lt;b&gt;Methods&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Ideal Until Urgent&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- code splitting &amp;amp; tree shaking&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Progressive Enhancement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- PRPL pattern&lt;br&gt;- AMP &lt;/b&gt;or &lt;b&gt;Instant Articles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="80" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hlEZkU7rYzRqf5MHaA3T-6" value="&lt;b&gt;Progressive Enhancement&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Build the core feature first&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- enhance the experience with advanced features for capable browsers&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="240" width="200" height="160" as="geometry" />
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-6" value="&lt;b&gt;Progressive Enhancement&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Build the core feature first&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- enhance the experience with advanced features for capable browsers&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- send the core-experience &lt;/b&gt;to legacy browsers and and enhanced experience to modern browsers (that use native ES2017+ JS modules - &amp;lt;script type=&quot;module&quot; /&amp;gt;) - legacy browsers will ignore it so they&#39;ll see only the core-experience&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="240" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-7" value="&lt;b&gt;Critical Path - 170KB GZIPPED&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- HTML/JS/CSS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Images&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Router&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- State Management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Utilities&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Framework&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- app logic&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="280" width="200" height="200" as="geometry" />
