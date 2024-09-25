@@ -76,7 +76,7 @@
           <mxGeometry x="-1120" y="80" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-9" value="&lt;b&gt;Optimization with Headers&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Accept - &lt;/b&gt;use this header for image optimization?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="80" width="200" height="160" as="geometry" />
+          <mxGeometry x="-1120" y="320" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-10" value="&lt;div&gt;&lt;b&gt;Tools &amp;amp; Resources:&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;MozJPEG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- SVGO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- PINGO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- SQUOOSH&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- IMAGING-HEAP -&lt;/b&gt; to check efficiency of responsive markup&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="80" width="200" height="360" as="geometry" />
