@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="2794" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,11 +60,17 @@
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-2" value="&lt;b&gt;Metrics&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- &lt;b&gt;FID&lt;/b&gt; - First Input Delay&lt;/div&gt;&lt;div&gt;- &lt;b&gt;LCP&lt;/b&gt; - Largest Contentful Paint&lt;br&gt;&lt;/div&gt;- &lt;b&gt;TBT&lt;/b&gt; - Total Blocking Time&lt;br&gt;- &lt;b&gt;CLS - &lt;/b&gt;Cumulative Layout Shift&lt;br&gt;- &lt;b&gt;TTI - &lt;/b&gt;Time To Interactive&lt;br&gt;&lt;div&gt;- &lt;b&gt;HRT - &lt;/b&gt;Hero Rendering Times&lt;br&gt;&lt;br&gt;&lt;i&gt;Search on web.dev on how to improve these metrics&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="80" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="hlEZkU7rYzRqf5MHaA3T-3" value="&lt;b&gt;Goals&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;- 100ms response time, 60 fps&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;- LCP &amp;lt; 2.5s&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- FID &amp;lt; 100ms&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- CLS &amp;lt; 0.1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- TTI &amp;lt; 5s on 3G&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- File Size - 170KB GZIPPED&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-3" value="&lt;b&gt;Goals&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;- 100ms response time, 60 fps&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;- LCP &amp;lt; 2.5s&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- FID &amp;lt; 100ms&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- CLS &amp;lt; 0.1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- TTI &amp;lt; 5s on 3G&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Critical Path Size - 170KB GZIPPED&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="80" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hlEZkU7rYzRqf5MHaA3T-4" value="&lt;b&gt;Methods&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Ideal Until Urgent&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- code splitting &amp;amp; tree shaking&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-4" value="&lt;b&gt;Methods&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Ideal Until Urgent&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- code splitting &amp;amp; tree shaking&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Progressive Enhancement - &lt;/b&gt;i.e. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="80" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-6" value="&lt;b&gt;Progressive Enhancement&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- Build the core feature first&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- enhance the experience with advanced features for capable browsers&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="80" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hlEZkU7rYzRqf5MHaA3T-7" value="&lt;b&gt;Critical Path - 170KB GZIPPED&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- HTML/JS/CSS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Images&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Router&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- State Management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Utilities&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Framework&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- app logic&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="240" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-17" value="DNS Lookup" style="" parent="0" visible="0" />
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="lKLFR3DL2J9VLYMlDI5P-17" source="lKLFR3DL2J9VLYMlDI5P-20" edge="1">
