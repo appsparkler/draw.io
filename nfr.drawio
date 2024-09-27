@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="3393" dy="2564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,9 @@
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-11" value="&lt;b&gt;Improve Rendering Performance&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;- optimize expensive components with granular CSS containment &lt;br&gt;- ensure consistent FPS&lt;br&gt;&lt;b&gt;- CSS will-change&lt;/b&gt; to inform browser about which elements will change.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="1320" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3YuzGTxXN0ptLrdvKr-12" value="&lt;b&gt;Layout Shift&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- IntersectionObserver - &lt;/b&gt;for lazy loading&lt;/div&gt;&lt;div&gt;- &lt;b&gt;NetworkInformation - &lt;/b&gt;for network stats on users device&lt;/div&gt;&lt;div&gt;- &lt;b&gt;DeviceMemory - &lt;/b&gt;for users memory status&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-17" value="DNS Lookup" style="" parent="0" visible="0" />
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="lKLFR3DL2J9VLYMlDI5P-17" source="lKLFR3DL2J9VLYMlDI5P-20" edge="1">
