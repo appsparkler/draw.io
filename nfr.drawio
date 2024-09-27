@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="3393" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-2" value="&lt;b&gt;3rd Party Scripts&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- CDNs too are 3rd party - 1st party scripts have a better chance of staying in the cache.&lt;/div&gt;&lt;div&gt;- 3rd party scripts often end up calling a long tail of other scripts.&amp;nbsp; consider service workers by racing the resource download with a timeout.&lt;/div&gt;&lt;div&gt;- establish CSP to restrict impack of 3rd party scripts - ex. disallowing downloading of audio or video, etc.&lt;br&gt;&lt;/div&gt;&lt;div&gt;- embed scripts via i-frame - so that they don&#39;t have access to DOM&lt;/div&gt;&lt;div&gt;- examine &lt;b&gt;bottom-up summaries &lt;/b&gt;in &lt;b&gt;Performance profile page&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- load 3rd party scripts only once the app has initialized&lt;/div&gt;&lt;div&gt;- watch out for&lt;b&gt; anti-flicker snippets&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="-800" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3YuzGTxXN0ptLrdvKr-4" value="&lt;b&gt;CRITICAL CSS&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- Put ATF CSS in the &amp;lt;head&amp;gt; tag of the page&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="-1160" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-17" value="DNS Lookup" style="" parent="0" visible="0" />
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="lKLFR3DL2J9VLYMlDI5P-17" source="lKLFR3DL2J9VLYMlDI5P-20" edge="1">
