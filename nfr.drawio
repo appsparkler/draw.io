@@ -26,19 +26,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="3156" dy="2390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="2513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-8" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="600" y="80" width="280" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-6" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lKLFR3DL2J9VLYMlDI5P-8" vertex="1">
-          <mxGeometry width="280" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="lKLFR3DL2J9VLYMlDI5P-7" value="Server &lt;br&gt;&lt;div&gt;-&amp;nbsp; location is unknown&lt;br&gt;&lt;/div&gt;&lt;div&gt;- could be far or near&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="lKLFR3DL2J9VLYMlDI5P-8" vertex="1">
-          <mxGeometry x="70" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hlEZkU7rYzRqf5MHaA3T-1" value="&lt;div&gt;&lt;b&gt;How to:&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Performance Culture - &lt;/b&gt;performance goals, 20% faster than average, simulate on various devices and networks, have performance budgets, closely follow the metrics, consider various customer personas&lt;br&gt;&lt;/div&gt;- &lt;b&gt;Control over API - &lt;/b&gt;with control over API, you can deliver customized need based payloads, else consider GraphQL&lt;br&gt;- &lt;b&gt;Consider CDN -&lt;/b&gt; features such as edge-service-workers, image-optimization, compression, etc." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="-2000" y="80" width="200" height="360" as="geometry" />
         </mxCell>
