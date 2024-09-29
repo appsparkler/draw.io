@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="2745" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2761" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-13" value="&lt;b&gt;Testing &amp;amp; Monitoring&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- Mixed Content Scan - do a scan if we have recently shifted from http to https&lt;/div&gt;&lt;div&gt;- optimize auditing and debugging workflow - webpage test, lighthouse tests all should be part of the pipeline &lt;br&gt;&lt;/div&gt;&lt;div&gt;- test in proxy browsers (UC Browser, Opera Mini, etc.) and legacy browsers&lt;br&gt;- test with network throttling&lt;br&gt;&lt;/div&gt;&lt;div&gt;- check performance of 404 pages - avoid sending all JS and CSS on 404 pages as well&lt;/div&gt;&lt;div&gt;- test performance of GDPR consent box - Osano or cookie-consent-box&lt;br&gt;&lt;/div&gt;- test the impact on Accessibility&lt;br&gt;- setup continuous monitoring" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="-2000" width="200" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="jt3YuzGTxXN0ptLrdvKr-15" value="&lt;b&gt;Caching with appropriate invalidation strategy&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- &lt;/b&gt;page level caching with CDN&lt;/div&gt;&lt;div&gt;- API cache with CDN and/or Redis&lt;/div&gt;&lt;div&gt;- Content caching in rendering layer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="jt3YuzGTxXN0ptLrdvKr-15" value="&lt;b&gt;Caching with appropriate invalidation strategy&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- &lt;/b&gt;page level caching with CDN&lt;/div&gt;&lt;div&gt;- API cache with CDN and/or Redis&lt;/div&gt;&lt;div&gt;- Content caching in rendering layer&lt;/div&gt;&lt;div&gt;- service worker cache&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-17" value="DNS Lookup" style="" parent="0" visible="0" />
