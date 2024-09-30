@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="3393" dy="2513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2694" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-15" value="&lt;b&gt;Caching with appropriate invalidation strategy&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- &lt;/b&gt;page level caching with CDN&lt;/div&gt;&lt;div&gt;- API cache with CDN and/or Redis&lt;/div&gt;&lt;div&gt;- Content caching in rendering layer&lt;/div&gt;&lt;div&gt;- service worker cache&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3YuzGTxXN0ptLrdvKr-16" value="&lt;b&gt;Network Tab Analysis&amp;nbsp; or Web Page Test&lt;/b&gt; &lt;b&gt;Result&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- Waterfall chart - try re-loading with/without cache and compare the speed/time.&lt;/div&gt;&lt;div&gt;- Analyze the HAR file on every build&lt;/div&gt;&lt;div&gt;- &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-17" value="DNS Lookup" style="" parent="0" visible="0" />
         <mxCell id="lKLFR3DL2J9VLYMlDI5P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="lKLFR3DL2J9VLYMlDI5P-17" source="lKLFR3DL2J9VLYMlDI5P-20" edge="1">
