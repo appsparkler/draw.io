@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QFHpXjn3C43bWI-Y3m1n" name="Performance">
-    <mxGraphModel dx="2797" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3062" dy="2340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,8 +81,8 @@
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-6" value="&lt;b&gt;Save-Data&lt;/b&gt; in request header&lt;br&gt; &lt;br&gt;&lt;b&gt;- &lt;/b&gt;serve a shell optimized for low data&lt;br&gt;&lt;div&gt;- low DPI images,&lt;/div&gt;&lt;div&gt;- turn off parallax&lt;/div&gt;&lt;div&gt;- remove web fonts&lt;/div&gt;&lt;div&gt;- turn off video-autoplay&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-80" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jt3YuzGTxXN0ptLrdvKr-7" value="&lt;b&gt;APIs&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- IntersectionObserver - &lt;/b&gt;for lazy loading&lt;/div&gt;&lt;div&gt;- &lt;b&gt;NetworkInformation - &lt;/b&gt;for network stats on users device&lt;/div&gt;&lt;div&gt;- &lt;b&gt;DeviceMemory - &lt;/b&gt;for users memory status&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="80" width="200" height="280" as="geometry" />
+        <mxCell id="jt3YuzGTxXN0ptLrdvKr-7" value="&lt;b&gt;APIs&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- IntersectionObserver - &lt;/b&gt;for lazy loading&lt;/div&gt;&lt;div&gt;- &lt;b&gt;NetworkInformation - &lt;/b&gt;for network stats on users device&lt;/div&gt;&lt;div&gt;- &lt;b&gt;DeviceMemory - &lt;/b&gt;for users memory status&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Performance API&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="80" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-8" value="&lt;b&gt;Warming up connection&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;- dns-prefetch &lt;/b&gt;- DNS lookup in the backgorund.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- preconnect&lt;/b&gt; - start the connection handshake proactively (even before the asset is requested)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- preload - &lt;/b&gt;prefetch resource without executing them - consider including &lt;b&gt;crossorigin&lt;/b&gt; too else it will result in double call - use them just before the external blocking scripts.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- prefetch - &lt;/b&gt;request a resource&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- prerender - &lt;/b&gt;fetches a resource but doesn&#39;t execute JS or render any part of the page in advance.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="480" width="200" height="320" as="geometry" />
