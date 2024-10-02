@@ -106,7 +106,7 @@
           <mxGeometry x="280" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-16" value="&lt;b&gt;Network Tab Analysis&amp;nbsp; or Web Page Test&lt;/b&gt; &lt;b&gt;Result&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- Waterfall chart - try re-loading with/without cache and compare the speed/time.&lt;/div&gt;&lt;div&gt;- Analyze the HAR file on every build&lt;/div&gt;&lt;div&gt;- &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="530" y="80" width="200" height="170" as="geometry" />
+          <mxGeometry x="520" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jt3YuzGTxXN0ptLrdvKr-17" value="&lt;b&gt;Web Page Speed Test&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- waterfall charts&lt;/div&gt;&lt;div&gt;- HAR format&lt;/div&gt;&lt;div&gt;- check all milestones (TTFB, etc..)&lt;/div&gt;&lt;div&gt;- filmstrip views&lt;/div&gt;&lt;div&gt;- speed index - aka perceptual speed index.&lt;br&gt;&lt;/div&gt;&lt;div&gt;- create custom scripts&lt;/div&gt;&lt;div&gt;- include in build-pipeline&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=20;spacingLeft=8;spacingBottom=0;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="200" height="200" as="geometry" />
