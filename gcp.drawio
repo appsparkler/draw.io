@@ -19,14 +19,20 @@
         <mxCell id="KAvUaj9pVtg9C1uEODdc-5" value="us-central1 region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="174" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KAvUaj9pVtg9C1uEODdc-6" value="dadf" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="210" height="190" as="geometry" />
+        <mxCell id="KAvUaj9pVtg9C1uEODdc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KAvUaj9pVtg9C1uEODdc-8" value="Firewall Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="163.25" y="467" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KAvUaj9pVtg9C1uEODdc-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;imageBackground=default;" vertex="1" parent="1">
-          <mxGeometry x="136.75" y="456" width="30.5" height="50" as="geometry" />
+          <mxGeometry x="134.75" y="430" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KAvUaj9pVtg9C1uEODdc-9" value="1. ALLOW all internal connections" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="490" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAvUaj9pVtg9C1uEODdc-10" value="2. ALLOW health checks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
