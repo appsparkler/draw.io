@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q3-_mW-O56svg3lOy0ug" name="Creating a custom image">
-    <mxGraphModel dx="1165" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1012" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,8 +75,14 @@
         <mxCell id="AJzr-ZDvJ11keXfEIXa_-2" value="update and install apache&lt;br&gt;start apache&lt;br&gt;set auto start apache" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="-305" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AJzr-ZDvJ11keXfEIXa_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AJzr-ZDvJ11keXfEIXa_-4" target="AJzr-ZDvJ11keXfEIXa_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AJzr-ZDvJ11keXfEIXa_-4" value="Confirm autoDelete is set to false&lt;br&gt;&lt;br&gt;Delete VM" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="-305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AJzr-ZDvJ11keXfEIXa_-6" value="create a custom image (which we will use to create the instance groups)" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
