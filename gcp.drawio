@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KAvUaj9pVtg9C1uEODdc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="590" height="570" as="geometry" />
+        </mxCell>
         <mxCell id="KAvUaj9pVtg9C1uEODdc-3" value="&lt;div&gt;My Internal App VPC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="135" width="140" height="30" as="geometry" />
         </mxCell>
@@ -16,7 +19,7 @@
         <mxCell id="KAvUaj9pVtg9C1uEODdc-5" value="us-central1 region" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="174" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KAvUaj9pVtg9C1uEODdc-6" value="&lt;div style=&quot;padding-top: 0px;&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KAvUaj9pVtg9C1uEODdc-6" value="dadf" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="210" height="190" as="geometry" />
         </mxCell>
         <mxCell id="KAvUaj9pVtg9C1uEODdc-8" value="Firewall Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
