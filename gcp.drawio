@@ -67,10 +67,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AJzr-ZDvJ11keXfEIXa_-1" value="create an instance in us-central1&lt;br&gt;with keep boot-disk" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-330" width="170" height="110" as="geometry" />
+          <mxGeometry x="-170" y="-330" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AJzr-ZDvJ11keXfEIXa_-2" value="" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="-305" width="120" height="60" as="geometry" />
+        <mxCell id="AJzr-ZDvJ11keXfEIXa_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AJzr-ZDvJ11keXfEIXa_-2" target="AJzr-ZDvJ11keXfEIXa_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJzr-ZDvJ11keXfEIXa_-2" value="update and install apache&lt;br&gt;start apache&lt;br&gt;set auto start apache" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AJzr-ZDvJ11keXfEIXa_-4" value="Confirm autoDelete is set to false&lt;br&gt;&lt;br&gt;Delete VM" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
