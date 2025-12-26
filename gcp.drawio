@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="28.0.9" pages="2">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
-    <mxGraphModel dx="1129" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,11 @@
         <mxCell id="LQ6awP9vN8QeLnnWzZ0V-5" value="us-central1-a zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="165.25" y="230" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LQ6awP9vN8QeLnnWzZ0V-7" value="3. ALLOW ssh, rdp, icmp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="550" width="160" height="30" as="geometry" />
+        <mxCell id="LQ6awP9vN8QeLnnWzZ0V-7" value="3. ALLOW ssh, rdp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQ6awP9vN8QeLnnWzZ0V-8" value="4. ALLOW icmp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
