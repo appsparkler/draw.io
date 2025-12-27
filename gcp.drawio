@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="2">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
-    <mxGraphModel dx="1080" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,18 @@
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="150" width="130" x="90" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-45" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;fontStyle=1" value="us-central1-a" vertex="1">
+          <mxGeometry height="30" width="90" x="120" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-46" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="90" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-47" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.disk_partition;" value="" vertex="1">
+          <mxGeometry height="57.2" width="57.2" x="120" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp-for-custom-image disk" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="37.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
