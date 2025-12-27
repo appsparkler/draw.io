@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="2">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
-    <mxGraphModel dx="971" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry height="20" width="20" x="27.5" y="35" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-30" parent="KAvUaj9pVtg9C1uEODdc-12" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;load balancer front-end IP&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;10.10.2.50&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="100" x="60" y="46" as="geometry" />
+          <mxGeometry height="34" width="100" x="60" y="46" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-32" parent="KAvUaj9pVtg9C1uEODdc-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="instance group 2" vertex="1">
           <mxGeometry height="30" width="60" x="80" y="141" as="geometry" />
