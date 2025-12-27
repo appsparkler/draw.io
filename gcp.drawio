@@ -163,6 +163,12 @@
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-36" parent="xjIzTiW6fo3fs2FvsqmV-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="subnet-a-template" vertex="1">
           <mxGeometry height="30" width="60" x="8" y="81" as="geometry" />
         </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-40" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="284" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="my-app-image" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="-210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
