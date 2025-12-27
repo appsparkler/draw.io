@@ -187,6 +187,9 @@
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp-for-custom-image disk" vertex="1">
           <mxGeometry height="30" width="60" x="110" y="37.2" as="geometry" />
         </mxCell>
+        <mxCell id="xjIzTiW6fo3fs2FvsqmV-49" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;fontStyle=1" value="us-central1" vertex="1">
+          <mxGeometry height="30" width="80" x="265" y="-105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
