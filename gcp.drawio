@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="2">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
-    <mxGraphModel dx="1352" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="930" width="1022.5" x="-212.5" y="-140" as="geometry" />
+          <mxGeometry height="930" width="792.5" x="-212.5" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="LQ6awP9vN8QeLnnWzZ0V-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="620" width="730" x="-180" y="130" as="geometry" />
@@ -146,10 +146,10 @@
           <mxGeometry height="30" width="50" x="-55" y="375" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="190" width="510" x="70" y="-90" as="geometry" />
+          <mxGeometry height="190" width="510" x="40" y="-75" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-39" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="135" width="150" x="410" y="-70" as="geometry" />
+          <mxGeometry height="135" width="150" x="380" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-38" parent="xjIzTiW6fo3fs2FvsqmV-39" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="135" width="150" as="geometry" />
@@ -170,31 +170,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-40" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="" vertex="1">
-          <mxGeometry height="90" width="90" x="284" y="-70" as="geometry" />
+          <mxGeometry height="90" width="90" x="254" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;internal-app-image&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="299" y="30" as="geometry" />
+          <mxGeometry height="30" width="60" x="269" y="45" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-50" edge="1" parent="1" source="xjIzTiW6fo3fs2FvsqmV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xjIzTiW6fo3fs2FvsqmV-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="150" width="130" x="90" y="-70" as="geometry" />
+          <mxGeometry height="150" width="130" x="60" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-45" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;fontStyle=1" value="us-central1-a" vertex="1">
-          <mxGeometry height="30" width="90" x="120" y="-80" as="geometry" />
+          <mxGeometry height="30" width="90" x="90" y="-65" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-46" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="90" y="-80" as="geometry" />
+          <mxGeometry height="40" width="40" x="60" y="-65" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-47" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.disk_partition;" value="" vertex="1">
-          <mxGeometry height="57.2" width="57.2" x="120" y="-20" as="geometry" />
+          <mxGeometry height="57.2" width="57.2" x="90" y="-5" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp-for-custom-image disk" vertex="1">
-          <mxGeometry height="30" width="60" x="110" y="37.2" as="geometry" />
+          <mxGeometry height="30" width="60" x="80" y="52.2" as="geometry" />
         </mxCell>
         <mxCell id="xjIzTiW6fo3fs2FvsqmV-49" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;fontStyle=1" value="us-central1" vertex="1">
-          <mxGeometry height="30" width="80" x="265" y="-105" as="geometry" />
+          <mxGeometry height="30" width="80" x="235" y="-90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
