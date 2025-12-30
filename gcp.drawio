@@ -296,7 +296,7 @@
           <mxGeometry height="30" width="310" x="140" y="-180" as="geometry" />
         </mxCell>
         <mxCell id="pvMRu41Tw2L1FTioK8iv-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacingTop=0;spacing=10;verticalAlign=top;" value="&lt;b&gt;name: &lt;/b&gt;order service subscription&lt;br&gt;&lt;div&gt;&lt;b&gt;push end-point&lt;/b&gt;: order-service-url&lt;/div&gt;&lt;b&gt;push auth service-account&lt;/b&gt;: pubsub-cloud-run-invoker@..." vertex="1">
-          <mxGeometry height="80" width="270" x="590" y="-144" as="geometry" />
+          <mxGeometry height="80" width="270" x="590" y="-135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
