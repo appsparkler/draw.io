@@ -283,6 +283,18 @@
         <mxCell id="pvMRu41Tw2L1FTioK8iv-14" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="" vertex="1">
           <mxGeometry height="56.00000000000001" width="69" x="80" y="-160" as="geometry" />
         </mxCell>
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-15" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.policy" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="160" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;member: pubsub-cloud-run-invoker&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="220" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-17" edge="1" parent="1" source="pvMRu41Tw2L1FTioK8iv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pvMRu41Tw2L1FTioK8iv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;role: roles/run.invoker&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="220" y="-140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
