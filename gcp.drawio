@@ -295,7 +295,7 @@
         <mxCell id="pvMRu41Tw2L1FTioK8iv-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;role: roles/iam.serviceAccountTokenCreator&lt;/pre&gt;" vertex="1">
           <mxGeometry height="30" width="310" x="140" y="-180" as="geometry" />
         </mxCell>
-        <mxCell id="pvMRu41Tw2L1FTioK8iv-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacingTop=12;spacing=12;verticalAlign=top;" value="order service subscription&lt;br&gt;&lt;div&gt;push end-point: order-service-url&lt;/div&gt;push auth service-account: pubsub-cloud-run-invoker@..." vertex="1">
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacingTop=12;spacing=12;verticalAlign=top;" value="&lt;b&gt;name: &lt;/b&gt;order service subscription&lt;br&gt;&lt;div&gt;&lt;b&gt;push end-point&lt;/b&gt;: order-service-url&lt;/div&gt;&lt;b&gt;push auth service-account&lt;/b&gt;: pubsub-cloud-run-invoker@..." vertex="1">
           <mxGeometry height="100" width="270" x="590" y="-145" as="geometry" />
         </mxCell>
       </root>
