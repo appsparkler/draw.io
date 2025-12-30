@@ -238,7 +238,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hPbD5vwSmLRx3nNtUnyW" name="Using PubSub with CloudRun">
-    <mxGraphModel dx="1456" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1537" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
         <mxCell id="pvMRu41Tw2L1FTioK8iv-24" edge="1" parent="1" source="pvMRu41Tw2L1FTioK8iv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pvMRu41Tw2L1FTioK8iv-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pvMRu41Tw2L1FTioK8iv-25" connectable="0" parent="pvMRu41Tw2L1FTioK8iv-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Publish" vertex="1">
+        <mxCell id="pvMRu41Tw2L1FTioK8iv-25" connectable="0" parent="pvMRu41Tw2L1FTioK8iv-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="Publish" vertex="1">
           <mxGeometry relative="1" x="-0.2117" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
