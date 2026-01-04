@@ -419,7 +419,7 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
           <mxGeometry height="40" width="80" x="-400" y="-440" as="geometry" />
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-16" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#fa6800;strokeColor=#C73500;">
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-16" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-530" y="-430" as="sourcePoint" />
             <mxPoint x="-390" y="-430" as="targetPoint" />
