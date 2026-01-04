@@ -467,6 +467,9 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-27" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-650" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-28" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-485" y="-440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
