@@ -536,6 +536,9 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-47" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;labelBackgroundColor=#FFFFFF;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-690" y="841" as="geometry" />
         </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- this configuration provides 99.99% Service availability&lt;/div&gt;&lt;div&gt;- From the perspective of each HA VPN gateway we create two tunnels.&amp;nbsp; We connect &lt;b&gt;interface 0&lt;/b&gt; on one HA VPN gateway to &lt;b&gt;interface 0&lt;/b&gt; on the other HA VPN gateway and &lt;b&gt;interface 1&lt;/b&gt; on one HA VPN gateway to &lt;b&gt;interface 1&lt;/b&gt; on the other HA VPN gateway&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="400" x="-400" y="760" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
