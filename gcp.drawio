@@ -411,28 +411,28 @@
           <mxGeometry height="40" width="160" x="-800" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Provides &lt;b&gt;99.99%&lt;/b&gt; SLA (only if 2 or 4 tunnels are properly configured between gateways)&lt;/div&gt;&lt;div&gt;- When we create a HA VPN gateway, GC automatically chooses two external IP addresses from a unique IP address pool&lt;/div&gt;&lt;div&gt;- VPN tunnels connected to HA VPN gateways must use dynamic routing (BGP).&lt;/div&gt;&lt;div&gt;- Supports site-to-site VPN for different topologies - 1. HA VPN gateway to peer VPN devices 2. HA VPN gateway to AWS virtual private gateway 3. Two HA VPN gateways connected to each other&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="-440" y="-280" as="geometry" />
+          <mxGeometry height="200" width="400" x="-440" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway" vertex="1">
-          <mxGeometry height="40" width="120" x="-640" y="-370" as="geometry" />
+          <mxGeometry height="40" width="120" x="-640" y="-440" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-400" y="-370" as="geometry" />
+          <mxGeometry height="40" width="80" x="-400" y="-440" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-16" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#fa6800;strokeColor=#C73500;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-530" y="-360" as="sourcePoint" />
-            <mxPoint x="-390" y="-360" as="targetPoint" />
+            <mxPoint x="-530" y="-430" as="sourcePoint" />
+            <mxPoint x="-390" y="-430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-17" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-530" y="-340" as="sourcePoint" />
-            <mxPoint x="-390" y="-340" as="targetPoint" />
+            <mxPoint x="-530" y="-410" as="sourcePoint" />
+            <mxPoint x="-390" y="-410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud HA VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two or four VPN tunnels&amp;nbsp;&lt;/b&gt;for 99.99% service level SLA.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;The VPN tunnels &lt;/b&gt;connected to HA VPN gateway must use dynamic (&lt;b&gt;BGP)&amp;nbsp;&lt;/b&gt;routing.&amp;nbsp; Depending on the way that we configure route priorities for HA VPN tunnels, we can create active/active or active/passive routing configuration.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="320" x="-800" y="-280" as="geometry" />
+          <mxGeometry height="210" width="320" x="-800" y="-350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
