@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="2347" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,10 +399,10 @@
           <mxGeometry height="100" width="280" x="-560" y="-700" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;- Provides 99.9% SLA&lt;br&gt;- supports site-to-site VPN&lt;br&gt;- static and dynamic routes&lt;br&gt;- IKEv1 and IKEv2 ciphers&lt;br&gt;- doesn&#39;t support &quot;dial-in&quot; to a VPN using client VPN software" vertex="1">
-          <mxGeometry height="160" width="280" x="-560" y="-400" as="geometry" />
+          <mxGeometry height="160" width="280" x="-320" y="-400" as="geometry" />
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- IPSec tunnel&lt;/div&gt;- traffic is encrypted by one gateway and decrypted by other VPN gateway" vertex="1">
-          <mxGeometry height="100" width="170" x="-770" y="-400" as="geometry" />
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure Cloud VPN gateway, on-prem VPN gateway and two VPN tunnels&lt;/div&gt;&lt;div&gt;- The Cloud VPN gateway is a regional resource that uses a regional external IP address&lt;/div&gt;&lt;div&gt;- The on-prem VPN gateway can&amp;nbsp;&lt;/div&gt;be a physical device in our data center or a physical or software-based VPN offering in another cloud-providers network.&amp;nbsp; This VPN gateway also has an external IP address" vertex="1">
+          <mxGeometry height="240" width="280" x="-720" y="-400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
