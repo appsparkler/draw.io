@@ -398,8 +398,8 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="- IPSec tunnel&lt;br&gt;- traffic is encrypted by one gateway and decrypted by other VPN gateway" vertex="1">
           <mxGeometry height="100" width="280" x="-560" y="-700" as="geometry" />
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=bottom;dashed=1;" value="&lt;ul&gt;&lt;li&gt;Provides 99.9% SLA&lt;/li&gt;&lt;li&gt;supports site-to-site VPN&lt;/li&gt;&lt;li&gt;static and dynamic routes&lt;/li&gt;&lt;li&gt;IKEv1 and IKEv2 ciphers&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="100" width="280" x="-560" y="-400" as="geometry" />
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;ul&gt;&lt;li&gt;Provides 99.9% SLA&lt;/li&gt;&lt;li&gt;supports site-to-site VPN&lt;/li&gt;&lt;li&gt;static and dynamic routes&lt;/li&gt;&lt;li&gt;IKEv1 and IKEv2 ciphers&lt;/li&gt;&lt;li&gt;doesn&#39;t support &quot;dial-in&quot; to a VPN using client VPN software&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="-560" y="-400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
