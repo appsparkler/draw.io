@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1942" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,6 +484,18 @@
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-36" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="500" as="sourcePoint" />
+            <mxPoint x="-505" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-37" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-649" y="544" as="sourcePoint" />
+            <mxPoint x="-507" y="527.5735193231192" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
