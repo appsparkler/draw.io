@@ -494,9 +494,6 @@
             <mxPoint x="-507" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
-        </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- When configuring external VPN gateway to AWS, we can use either a &lt;b&gt;transit gateway&lt;/b&gt; or &lt;b&gt;virtual private gateway&lt;/b&gt;. Only Transit gateway ECMP (Equal Cost Multi-Path) routing.&amp;nbsp; When enabled, ECMP distributes traffic equally across active tunnels.&lt;/div&gt;&lt;div&gt;- In this topology, there are three major gateway components:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. HA VPN gateway in GC with two interfaces&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.&amp;nbsp;&lt;b&gt;Two&lt;/b&gt;&amp;nbsp;AWS virtual private gateways which connects to our HA VPN gateway&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. An external VPN gateway resource in GC that represents our AWS virtual private gateway.&amp;nbsp; This resource provides information to GC about the AWS gateway.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This configuration uses total of 4 tunnels - two tunnels from one AWS gateway to one interface of the HA VPN gateway and two tunnels from the other AWS gateway to the other interface of the HA VPN gateway.&lt;/div&gt;" vertex="1">
           <mxGeometry height="260" width="400" x="-420" y="440" as="geometry" />
         </mxCell>
@@ -514,6 +511,15 @@
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
           <mxGeometry height="40" width="80" x="-800" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
+          <mxGeometry height="40" width="80" x="-640" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-43" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-700" y="835" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
