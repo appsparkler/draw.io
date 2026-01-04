@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="2347" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,6 +409,9 @@
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="HA VPN" vertex="1">
           <mxGeometry height="40" width="160" x="-800" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Provides &lt;b&gt;99.99%&lt;/b&gt; SLA&lt;/div&gt;&lt;div&gt;- GC automatically chooses two external IP addresses&lt;/div&gt;&lt;div&gt;- VPN tunnels connected to HA VPN gateways must use dynamic routing (BGP).&lt;/div&gt;&lt;div&gt;- Supports site-to-site VPN for different topologies - 1. HA VPN gateway to peer VPN devices 2. HA VPN gateway to AWS virtual private gateway 3. Two HA VPN gateways connected to each other&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="280" x="-330" y="-480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
