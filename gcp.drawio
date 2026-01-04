@@ -513,13 +513,16 @@
           <mxGeometry height="40" width="80" x="-800" y="840" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-640" y="840" as="geometry" />
+          <mxGeometry height="40" width="80" x="-600" y="840" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-43" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-700" y="835" as="geometry" />
+          <mxGeometry height="50" width="50" x="-690" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN between GC networks" vertex="1">
+          <mxGeometry height="40" width="480" x="-800" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
