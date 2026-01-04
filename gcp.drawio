@@ -368,41 +368,44 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1496" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gsbneUqQGO2pmt4NGT6P-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway" vertex="1">
-          <mxGeometry height="40" width="120" x="-600" y="-520" as="geometry" />
+          <mxGeometry height="40" width="120" x="-640" y="-920" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="on-prem VPN gateway" vertex="1">
-          <mxGeometry height="40" width="120" x="-360" y="-520" as="geometry" />
+          <mxGeometry height="40" width="120" x="-400" y="-920" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-3" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#fa6800;strokeColor=#C73500;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="-510" as="sourcePoint" />
-            <mxPoint x="-350" y="-510" as="targetPoint" />
+            <mxPoint x="-530" y="-910" as="sourcePoint" />
+            <mxPoint x="-390" y="-910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-4" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="-490" as="sourcePoint" />
-            <mxPoint x="-350" y="-490" as="targetPoint" />
+            <mxPoint x="-530" y="-890" as="sourcePoint" />
+            <mxPoint x="-390" y="-890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-6" edge="1" parent="1" source="gsbneUqQGO2pmt4NGT6P-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-420" y="-510" as="targetPoint" />
+            <mxPoint x="-460" y="-910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;The Tunnels&lt;br&gt;&lt;/b&gt;&lt;div&gt;- IPSec tunnel&lt;/div&gt;- traffic is encrypted by one gateway and decrypted by other VPN gateway" vertex="1">
-          <mxGeometry height="100" width="280" x="-560" y="-700" as="geometry" />
+          <mxGeometry height="100" width="280" x="-600" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;- Provides 99.9% SLA&lt;br&gt;- supports site-to-site VPN&lt;br&gt;- static and dynamic routes&lt;br&gt;- IKEv1 and IKEv2 ciphers&lt;br&gt;&lt;div&gt;- doesn&#39;t support &quot;dial-in&quot; to a VPN using client VPN software&lt;/div&gt;&lt;div&gt;- the maximum transmission unit (MTU) cannot be greater than 1460 bytes.&amp;nbsp; This is because of encryption and encapsulation of packets.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="280" x="-320" y="-400" as="geometry" />
+          <mxGeometry height="200" width="280" x="-360" y="-800" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two VPN tunnels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;The Cloud VPN gateway&lt;/b&gt; is a regional resource that uses a regional external IP address&lt;/div&gt;&lt;div&gt;- &lt;b&gt;The on-prem VPN gateway&lt;/b&gt; can&amp;nbsp;&lt;/div&gt;be a physical device in our data center or a physical or software-based VPN offering in another cloud-providers network.&amp;nbsp; This VPN gateway also has an external IP address.&lt;br&gt;-&amp;nbsp;&lt;b&gt;The VPN tunnels&lt;/b&gt; then then connects the VPN gateways and serves as a virtual medium through which encrypted traffic is passed.&amp;nbsp; In order to create a connection between two VPN gateways, you must establish two VPN tunnels.&amp;nbsp; Each tunnel defines the connection from the perspective of its gateway and traffic can only when the pair of tunnels is established." vertex="1">
-          <mxGeometry height="240" width="360" x="-760" y="-400" as="geometry" />
+          <mxGeometry height="240" width="360" x="-800" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Classic VPN" vertex="1">
+          <mxGeometry height="10" width="200" x="-780" y="-1130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
