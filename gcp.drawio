@@ -476,6 +476,9 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to AWS gateway topology" vertex="1">
           <mxGeometry height="40" width="480" x="-800" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="Transit gateway&lt;br&gt;OR&lt;br&gt;Virtual Private Gateway" vertex="1">
+          <mxGeometry height="80" width="160" x="-800" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
