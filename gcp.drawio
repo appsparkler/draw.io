@@ -405,7 +405,10 @@
           <mxGeometry height="240" width="360" x="-800" y="-800" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Classic VPN" vertex="1">
-          <mxGeometry height="10" width="200" x="-810" y="-1110" as="geometry" />
+          <mxGeometry height="40" width="190" x="-800" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="HA VPN" vertex="1">
+          <mxGeometry height="40" width="200" x="-800" y="-520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
