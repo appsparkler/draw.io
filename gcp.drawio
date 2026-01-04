@@ -479,6 +479,12 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="Transit gateway&lt;br&gt;OR&lt;br&gt;Virtual Private Gateway" vertex="1">
           <mxGeometry height="80" width="160" x="-800" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
+          <mxGeometry height="40" width="80" x="-515" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
