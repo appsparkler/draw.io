@@ -533,8 +533,8 @@
             <mxPoint x="-600" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-43" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="-680" y="840" as="geometry" />
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-47" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;labelBackgroundColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-690" y="841" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
