@@ -431,7 +431,7 @@
             <mxPoint x="-390" y="-340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud HA VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two or four VPN tunnels&amp;nbsp;&lt;/b&gt;for 99.99% service level SLA.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud HA VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two or four VPN tunnels&amp;nbsp;&lt;/b&gt;for 99.99% service level SLA.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;VPN tunnels &lt;/b&gt;connected to HA VPN gateway must use dynamic (&lt;b&gt;BGP)&amp;nbsp;&lt;/b&gt;routing.&amp;nbsp; Depending on the way that we configure route priorities for HA VPN tunnels, we can create active/active or active/passive routing configuration.&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="320" x="-800" y="-280" as="geometry" />
         </mxCell>
       </root>
