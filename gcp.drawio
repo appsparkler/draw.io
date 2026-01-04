@@ -518,9 +518,6 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-600" y="495" as="geometry" />
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-43" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="-680" y="840" as="geometry" />
-        </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN between GC networks" vertex="1">
           <mxGeometry height="40" width="480" x="-800" y="760" as="geometry" />
         </mxCell>
@@ -535,6 +532,9 @@
             <mxPoint x="-730" y="870" as="sourcePoint" />
             <mxPoint x="-600" y="875" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-43" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-680" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
