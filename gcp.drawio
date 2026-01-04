@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="2220" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1623" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,22 +437,25 @@
         <mxCell id="gsbneUqQGO2pmt4NGT6P-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to AWS peer gateway topology" vertex="1">
           <mxGeometry height="40" width="480" x="-800" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway" vertex="1">
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 1" vertex="1">
           <mxGeometry height="40" width="120" x="-600" y="120" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-360" y="120" as="geometry" />
+          <mxGeometry height="40" width="80" x="-360" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-22" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#fa6800;strokeColor=#C73500;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-490" y="130" as="sourcePoint" />
-            <mxPoint x="-350" y="130" as="targetPoint" />
+            <mxPoint x="-350" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsbneUqQGO2pmt4NGT6P-23" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 2" vertex="1">
+          <mxGeometry height="40" width="120" x="-600" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gsbneUqQGO2pmt4NGT6P-23" edge="1" parent="1" source="gsbneUqQGO2pmt4NGT6P-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;exitX=0.833;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="150" as="sourcePoint" />
-            <mxPoint x="-350" y="150" as="targetPoint" />
+            <mxPoint x="-490" y="179.52" as="sourcePoint" />
+            <mxPoint x="-350" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
