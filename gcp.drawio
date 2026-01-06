@@ -599,6 +599,9 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="OSI Model" vertex="1">
           <mxGeometry height="40" width="200" x="-520" y="1720" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Open Systems Interconnection" vertex="1">
+          <mxGeometry height="40" width="286" x="-554.64" y="1750" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
