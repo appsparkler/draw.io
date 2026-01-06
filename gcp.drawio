@@ -1201,7 +1201,7 @@
           <mxGeometry height="30" width="120" x="-314.5" y="5550" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-224" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=#CCFFCC;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Layer 3 partner interconnect" vertex="1">
-          <mxGeometry height="30" width="120" x="-180" y="5460" as="geometry" />
+          <mxGeometry height="30" width="120" x="-175" y="5460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
