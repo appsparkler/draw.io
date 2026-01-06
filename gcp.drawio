@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="2021" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,16 +603,16 @@
           <mxGeometry height="40" width="286" x="-554.64" y="1750" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Interconnecting Networks" vertex="1">
-          <mxGeometry height="40" width="400" x="-800" y="2040" as="geometry" />
+          <mxGeometry height="40" width="400" x="-800" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Two Types:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Dedicated/Direct connection - &lt;/b&gt;provide direct connection&lt;b&gt;&amp;nbsp;&lt;/b&gt;to Google&#39;s network.&amp;nbsp; Ex.&amp;nbsp;&lt;b&gt;Dedicated interconnect and Direct Peering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Shared connection -&amp;nbsp;&lt;/b&gt;provides a connection to Googles Network through a partner.&amp;nbsp; Ex.&amp;nbsp;&lt;b&gt;Partner Interconnection and Carrier Peering&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="-800" y="2090" as="geometry" />
+          <mxGeometry height="110" width="400" x="-800" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Dedicated Interconnect" vertex="1">
           <mxGeometry height="40" width="320" x="-760" y="2360" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Layer 2&amp;nbsp;&lt;/b&gt;connections use&lt;b&gt; VLAN (Virtual Local Area Network)&amp;nbsp;&lt;/b&gt;that pipes directly into our Google Cloud environment providing connectivity to internal IP addresses in RFC1918 space. Ex.&amp;nbsp;&lt;b&gt;Dedicated and Partner Interconnect&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Layer 3&amp;nbsp;&lt;/b&gt;provides access to Google Workspace services, YouTube and Google Cloud APIs using public address.&amp;nbsp;&lt;b&gt;ex.&amp;nbsp;Partner Interconnect, Direct Peering and Carrier Peering&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="320" x="-360" y="2040" as="geometry" />
+          <mxGeometry height="160" width="320" x="-360" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-29" parent="1" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCAyMCAxOCI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzQyODVmNDt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00IDhIMHYyaDR6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTMgNGgxMHYxMEgzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMCA4aC00LjY3djJIMjB6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTE1IDJ2MTRINnYyaDExdi0yVjIgMEg2djJ6TTggNGg1djEwSDh6Ii8+JiN4YTs8L3N2Zz4=;fontColor=default;" value="" vertex="1">
           <mxGeometry height="36" width="40" x="-800" y="2360" as="geometry" />
@@ -639,7 +639,7 @@
           <mxGeometry height="160" width="320" x="-440" y="2760" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-75" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="120" width="270" x="-800" y="3040" as="geometry" />
+          <mxGeometry height="120" width="270" x="-790" y="2190" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-76" parent="mr_n5P6o90uTnWHHjz-A-75" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="60" width="270" as="geometry" />
