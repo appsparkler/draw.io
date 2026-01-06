@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1756" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,37 +435,37 @@
           <mxGeometry height="210" width="320" x="-800" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to peer gateway topology" vertex="1">
-          <mxGeometry height="40" width="480" x="-800" y="40" as="geometry" />
+          <mxGeometry height="80" width="320" x="-800" y="120" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 1" vertex="1">
-          <mxGeometry height="40" width="120" x="-800" y="120" as="geometry" />
+          <mxGeometry height="40" width="120" x="-800" y="200" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-560" y="160" as="geometry" />
+          <mxGeometry height="40" width="80" x="-560" y="240" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-22" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-690" y="130" as="sourcePoint" />
-            <mxPoint x="-550" y="170" as="targetPoint" />
+            <mxPoint x="-690" y="210" as="sourcePoint" />
+            <mxPoint x="-550" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 2" vertex="1">
-          <mxGeometry height="40" width="120" x="-800" y="200" as="geometry" />
+          <mxGeometry height="40" width="120" x="-800" y="280" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-23" edge="1" parent="1" source="gsbneUqQGO2pmt4NGT6P-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;exitX=0.833;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-690" y="179.52" as="sourcePoint" />
-            <mxPoint x="-550" y="190" as="targetPoint" />
+            <mxPoint x="-690" y="259.52" as="sourcePoint" />
+            <mxPoint x="-550" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- one HA VPN gateway connects to two peer devices&lt;/div&gt;&lt;div&gt;- each peer device has one interface and one external IP address&lt;/div&gt;&lt;div&gt;- the HA VPN gateway uses &lt;b&gt;two tunnels&lt;/b&gt;, one tunnel to each peer device.&amp;nbsp; Having a second peer-side gateway provides redundancy and fail-over on that side of the connection.&amp;nbsp; Allows to take one of the gateways offline for software upgrades or other scheduled maintenance.&amp;nbsp; It also works as a back-up if there&#39;s failure in one of the devices.&lt;/div&gt;&lt;div&gt;- In GC, the&amp;nbsp;&lt;b&gt;REDUNDANCY_TYPE&lt;/b&gt;&amp;nbsp;for this configuration takes the value of&amp;nbsp;&lt;b&gt;TWO_IPS_REDUNDANCY.&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="400" x="-440" y="120" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-26" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-645" y="130" as="geometry" />
+          <mxGeometry height="50" width="50" x="-645" y="210" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-27" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-650" y="180" as="geometry" />
+          <mxGeometry height="50" width="50" x="-650" y="260" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-28" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-485" y="-440" as="geometry" />
