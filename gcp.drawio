@@ -596,6 +596,9 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;4. Transport Layer&lt;/b&gt;&amp;nbsp;- ensures &lt;b&gt;end-to-end communication&lt;/b&gt; between applications" vertex="1">
           <mxGeometry height="55" width="420" x="-554.64" y="1790" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="OSI Model" vertex="1">
+          <mxGeometry height="40" width="200" x="-520" y="1720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
