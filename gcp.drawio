@@ -822,6 +822,12 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;Google allows us to establish a&amp;nbsp;&lt;b&gt;Direct Peering &lt;/b&gt;connection between our business network and Googles.&amp;nbsp; With this connection we&#39;ll be able to exchange internet traffic between our network and Googles at on of &lt;b&gt;Google broad-reaching edge network.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;How?&amp;nbsp;&lt;/b&gt;its done by exchanging BGP routes between Google and the peering entity.&amp;nbsp; After the direct peering is in place, we can use it to reach all of Google&#39;s services, including the full suite of Google Cloud products.&lt;/div&gt;&lt;div&gt;- Direct Peering doesn&#39;t have an SLA.&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="316" x="-800" y="3560" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Carrier Peering" vertex="1">
+          <mxGeometry height="40" width="280" x="-440" y="3520" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- Need to get in touch with a Carrier Peering partner&lt;/div&gt;&lt;div&gt;- We need to adhere to partner requirements to provision this connection.&lt;/div&gt;&lt;div&gt;- No SLA&lt;/div&gt;&lt;div&gt;- With this too, we can reach all of Google&#39;s services&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="421" x="-461" y="3560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
