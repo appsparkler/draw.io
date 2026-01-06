@@ -572,6 +572,9 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Cloud CDN" vertex="1">
           <mxGeometry height="40" width="200" x="-800" y="1360" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Content Delivery Network" vertex="1">
+          <mxGeometry height="40" width="240" x="-800" y="1400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
