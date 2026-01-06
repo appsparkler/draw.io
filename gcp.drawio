@@ -396,157 +396,157 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;The Tunnels&lt;br&gt;&lt;/b&gt;&lt;div&gt;- IPSec tunnel&lt;/div&gt;- traffic is encrypted by one gateway and decrypted by other VPN gateway" vertex="1">
-          <mxGeometry height="100" width="280" x="-600" y="-1100" as="geometry" />
+          <mxGeometry height="100" width="280" x="-610" y="-1060" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;- Provides 99.9% SLA&lt;br&gt;- supports site-to-site VPN&lt;br&gt;- static and dynamic routes&lt;br&gt;- IKEv1 and IKEv2 ciphers&lt;br&gt;&lt;div&gt;- doesn&#39;t support &quot;dial-in&quot; to a VPN using client VPN software&lt;/div&gt;&lt;div&gt;- the maximum transmission unit (MTU) cannot be greater than 1460 bytes.&amp;nbsp; This is because of encryption and encapsulation of packets.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="280" x="-360" y="-800" as="geometry" />
+          <mxGeometry height="200" width="280" x="-360" y="-840" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two VPN tunnels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;The Cloud VPN gateway&lt;/b&gt; is a regional resource that uses a regional external IP address&lt;/div&gt;&lt;div&gt;- &lt;b&gt;The on-prem VPN gateway&lt;/b&gt; can&amp;nbsp;&lt;/div&gt;be a physical device in our data center or a physical or software-based VPN offering in another cloud-providers network.&amp;nbsp; This VPN gateway also has an external IP address.&lt;br&gt;-&amp;nbsp;&lt;b&gt;The VPN tunnels&lt;/b&gt; then then connects the VPN gateways and serves as a virtual medium through which encrypted traffic is passed.&amp;nbsp; In order to create a connection between two VPN gateways, you must establish two VPN tunnels.&amp;nbsp; Each tunnel defines the connection from the perspective of its gateway and traffic can only when the pair of tunnels is established." vertex="1">
-          <mxGeometry height="240" width="360" x="-800" y="-800" as="geometry" />
+          <mxGeometry height="240" width="360" x="-800" y="-840" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Classic VPN" vertex="1">
           <mxGeometry height="40" width="190" x="-800" y="-1120" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="HA VPN" vertex="1">
-          <mxGeometry height="40" width="160" x="-800" y="-440" as="geometry" />
+          <mxGeometry height="40" width="160" x="-800" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Provides &lt;b&gt;99.99%&lt;/b&gt; SLA (only if 2 or 4 tunnels are properly configured between gateways)&lt;/div&gt;&lt;div&gt;- When we create a HA VPN gateway, GC automatically chooses two external IP addresses from a unique IP address pool&lt;/div&gt;&lt;div&gt;- VPN tunnels connected to HA VPN gateways must use dynamic routing (BGP).&lt;/div&gt;&lt;div&gt;- Supports site-to-site VPN for different topologies - 1. HA VPN gateway to peer VPN devices 2. HA VPN gateway to AWS virtual private gateway 3. Two HA VPN gateways connected to each other&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="-440" y="-350" as="geometry" />
+          <mxGeometry height="200" width="400" x="-440" y="-470" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway" vertex="1">
-          <mxGeometry height="40" width="120" x="-435" y="-440" as="geometry" />
+          <mxGeometry height="40" width="120" x="-435" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-195" y="-440" as="geometry" />
+          <mxGeometry height="40" width="80" x="-195" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-16" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-325" y="-430" as="sourcePoint" />
-            <mxPoint x="-185" y="-430" as="targetPoint" />
+            <mxPoint x="-325" y="-550" as="sourcePoint" />
+            <mxPoint x="-185" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-17" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-325" y="-410" as="sourcePoint" />
-            <mxPoint x="-185" y="-410" as="targetPoint" />
+            <mxPoint x="-325" y="-530" as="sourcePoint" />
+            <mxPoint x="-185" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud HA VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two or four VPN tunnels&amp;nbsp;&lt;/b&gt;for 99.99% service level SLA.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;The VPN tunnels &lt;/b&gt;connected to HA VPN gateway must use dynamic (&lt;b&gt;BGP)&amp;nbsp;&lt;/b&gt;routing.&amp;nbsp; Depending on the way that we configure route priorities for HA VPN tunnels, we can create active/active or active/passive routing configuration.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="320" x="-800" y="-350" as="geometry" />
+          <mxGeometry height="210" width="320" x="-800" y="-470" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to peer gateway topology" vertex="1">
-          <mxGeometry height="80" width="320" x="-800" y="120" as="geometry" />
+          <mxGeometry height="80" width="320" x="-800" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 1" vertex="1">
-          <mxGeometry height="40" width="120" x="-800" y="200" as="geometry" />
+          <mxGeometry height="40" width="120" x="-800" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-560" y="240" as="geometry" />
+          <mxGeometry height="40" width="80" x="-560" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-22" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-690" y="210" as="sourcePoint" />
-            <mxPoint x="-550" y="250" as="targetPoint" />
+            <mxPoint x="-690" y="-150" as="sourcePoint" />
+            <mxPoint x="-550" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway 2" vertex="1">
-          <mxGeometry height="40" width="120" x="-800" y="280" as="geometry" />
+          <mxGeometry height="40" width="120" x="-800" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-23" edge="1" parent="1" source="gsbneUqQGO2pmt4NGT6P-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;exitX=0.833;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-690" y="259.52" as="sourcePoint" />
-            <mxPoint x="-550" y="270" as="targetPoint" />
+            <mxPoint x="-690" y="-100.48000000000002" as="sourcePoint" />
+            <mxPoint x="-550" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- one HA VPN gateway connects to two peer devices&lt;/div&gt;&lt;div&gt;- each peer device has one interface and one external IP address&lt;/div&gt;&lt;div&gt;- the HA VPN gateway uses &lt;b&gt;two tunnels&lt;/b&gt;, one tunnel to each peer device.&amp;nbsp; Having a second peer-side gateway provides redundancy and fail-over on that side of the connection.&amp;nbsp; Allows to take one of the gateways offline for software upgrades or other scheduled maintenance.&amp;nbsp; It also works as a back-up if there&#39;s failure in one of the devices.&lt;/div&gt;&lt;div&gt;- In GC, the&amp;nbsp;&lt;b&gt;REDUNDANCY_TYPE&lt;/b&gt;&amp;nbsp;for this configuration takes the value of&amp;nbsp;&lt;b&gt;TWO_IPS_REDUNDANCY.&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="-440" y="120" as="geometry" />
+          <mxGeometry height="200" width="400" x="-440" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-26" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-645" y="210" as="geometry" />
+          <mxGeometry height="50" width="50" x="-645" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-27" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-650" y="260" as="geometry" />
+          <mxGeometry height="50" width="50" x="-650" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-28" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-280" y="-440" as="geometry" />
+          <mxGeometry height="50" width="50" x="-280" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-30" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="-461" y="-920" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to AWS gateway topology" vertex="1">
-          <mxGeometry height="80" width="360" x="-800" y="440" as="geometry" />
+          <mxGeometry height="80" width="360" x="-800" y="40" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="Transit gateway&lt;br&gt;OR&lt;br&gt;Virtual Private Gateway" vertex="1">
-          <mxGeometry height="80" width="160" x="-800" y="545" as="geometry" />
+          <mxGeometry height="80" width="160" x="-800" y="145" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-515" y="565" as="geometry" />
+          <mxGeometry height="40" width="80" x="-515" y="165" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-36" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-650" y="565" as="sourcePoint" />
-            <mxPoint x="-505" y="577" as="targetPoint" />
+            <mxPoint x="-650" y="165" as="sourcePoint" />
+            <mxPoint x="-505" y="177" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-37" edge="1" parent="1" source="gsbneUqQGO2pmt4NGT6P-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-649" y="609" as="sourcePoint" />
-            <mxPoint x="-507" y="575" as="targetPoint" />
+            <mxPoint x="-649" y="209" as="sourcePoint" />
+            <mxPoint x="-507" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- When configuring external VPN gateway to AWS, we can use either a &lt;b&gt;transit gateway&lt;/b&gt; or &lt;b&gt;virtual private gateway&lt;/b&gt;. Only Transit gateway ECMP (Equal Cost Multi-Path) routing.&amp;nbsp; When enabled, ECMP distributes traffic equally across active tunnels.&lt;/div&gt;&lt;div&gt;- In this topology, there are three major gateway components:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. HA VPN gateway in GC with two interfaces&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.&amp;nbsp;&lt;b&gt;Two&lt;/b&gt;&amp;nbsp;AWS virtual private gateways which connects to our HA VPN gateway&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. An external VPN gateway resource in GC that represents our AWS virtual private gateway.&amp;nbsp; This resource provides information to GC about the AWS gateway.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This configuration uses total of 4 tunnels - two tunnels from one AWS gateway to one interface of the HA VPN gateway and two tunnels from the other AWS gateway to the other interface of the HA VPN gateway.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="380" x="-420" y="440" as="geometry" />
+          <mxGeometry height="260" width="380" x="-420" y="40" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-39" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#f0a30a;strokeColor=#BD7000;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-650" y="613" as="sourcePoint" />
-            <mxPoint x="-506.5" y="595" as="targetPoint" />
+            <mxPoint x="-650" y="213" as="sourcePoint" />
+            <mxPoint x="-506.5" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-40" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#f0a30a;strokeColor=#BD7000;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-651.75" y="605" as="sourcePoint" />
-            <mxPoint x="-508.25" y="587" as="targetPoint" />
+            <mxPoint x="-651.75" y="205" as="sourcePoint" />
+            <mxPoint x="-508.25" y="187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-800" y="840" as="geometry" />
+          <mxGeometry height="40" width="80" x="-800" y="440" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="HA VPN gateway" vertex="1">
-          <mxGeometry height="40" width="80" x="-600" y="840" as="geometry" />
+          <mxGeometry height="40" width="80" x="-600" y="440" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-35" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-600" y="560" as="geometry" />
+          <mxGeometry height="50" width="50" x="-600" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN between GC networks" vertex="1">
-          <mxGeometry height="40" width="360" x="-800" y="760" as="geometry" />
+          <mxGeometry height="40" width="360" x="-800" y="360" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-45" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;" target="gsbneUqQGO2pmt4NGT6P-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-730" y="854" as="sourcePoint" />
-            <mxPoint x="-585" y="866" as="targetPoint" />
+            <mxPoint x="-730" y="454" as="sourcePoint" />
+            <mxPoint x="-585" y="466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-46" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;startArrow=oval;startFill=0;fillColor=#b1ddf0;strokeColor=#10739e;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-730" y="870" as="sourcePoint" />
-            <mxPoint x="-600" y="875" as="targetPoint" />
+            <mxPoint x="-730" y="470" as="sourcePoint" />
+            <mxPoint x="-600" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-47" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;labelBackgroundColor=#FFFFFF;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="-690" y="841" as="geometry" />
+          <mxGeometry height="50" width="50" x="-690" y="441" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;About:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- this configuration provides 99.99% Service availability&lt;/div&gt;&lt;div&gt;- From the perspective of each HA VPN gateway we create two tunnels.&amp;nbsp; We connect &lt;b&gt;interface 0&lt;/b&gt; on one HA VPN gateway to &lt;b&gt;interface 0&lt;/b&gt; on the other HA VPN gateway and &lt;b&gt;interface 1&lt;/b&gt; on one HA VPN gateway to &lt;b&gt;interface 1&lt;/b&gt; on the other HA VPN gateway&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="360" x="-400" y="760" as="geometry" />
+          <mxGeometry height="120" width="360" x="-400" y="360" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Cloud Router" vertex="1">
-          <mxGeometry height="40" width="200" x="-800" y="910" as="geometry" />
+          <mxGeometry height="40" width="200" x="-796" y="560" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Features:&lt;/b&gt;&lt;div&gt;- it supports both static and dynamic routing&lt;/div&gt;&lt;div&gt;- to use dynamic routes, we need to configure Cloud Router.&amp;nbsp; It can manage routes for a Cloud VPN tunnel using Broader Gateway Protocol (BGP).&amp;nbsp; This routing method allows for routes to be updated without changing the tunnel configuration.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="320" x="-800" y="1000" as="geometry" />
+          <mxGeometry height="130" width="320" x="-796" y="650" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- To setup BGP, an additional IP address has to be assigned to each end of the VPN tunnel. These two IP addresses must be link-local IP addresses, belonging to the IP address range 169.254.0.0/16.&amp;nbsp; These addresses are not part of IP address space either network and are used exclusively for establishing a BGP session.&lt;/div&gt;&lt;div&gt;&lt;b&gt;How it works?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Once configured, the new subnets are then seamlessly advertised between networks.&amp;nbsp; This means that instances in the new subnets can start sending and receiving traffic immediately.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="360" x="-440" y="920" as="geometry" />
+          <mxGeometry height="200" width="360" x="-436" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
