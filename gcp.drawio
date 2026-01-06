@@ -934,7 +934,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-140" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Direct access to RFC1918 IPs in our VPC &lt;b&gt;with SLA&lt;/b&gt;?" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-140" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Direct access to RFC1918 IPs in our VPC &lt;b&gt;with SLA&lt;/b&gt;?" vertex="1">
           <mxGeometry height="110" width="130" x="-800" y="3880" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-148" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-147" value="">
@@ -945,7 +945,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-141" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Access to public IPs only and &lt;b&gt;without SLA&lt;/b&gt;?" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-141" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Access to public IPs only and &lt;b&gt;without SLA&lt;/b&gt;?" vertex="1">
           <mxGeometry height="120" width="130" x="-600" y="3875" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-144" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" value="Interconnect" vertex="1">
@@ -957,8 +957,19 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a peering type" vertex="1">
           <mxGeometry height="80" width="280" x="-360" y="3880" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Access only to Google Workspace and Google APIs?" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-153" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-152" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-154" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-153" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.3667" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Access only to Google Workspace and Google APIs?" vertex="1">
           <mxGeometry height="110" width="130" x="-300" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-152" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBorderColor=default;labelBackgroundColor=default;" value="Meet Google&#39;s peering requirements?" vertex="1">
+          <mxGeometry height="110" width="130" x="-300" y="4150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
