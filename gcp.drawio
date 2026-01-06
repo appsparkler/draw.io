@@ -957,6 +957,9 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a peering type" vertex="1">
           <mxGeometry height="80" width="280" x="-360" y="3880" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Access only to Google Workspace and Google APIs?" vertex="1">
+          <mxGeometry height="110" width="130" x="-300" y="3960" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
