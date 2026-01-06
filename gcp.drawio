@@ -638,6 +638,35 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;How?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Identify supported co-location where we want Google to place our connections&lt;/div&gt;&lt;div&gt;2. Purchase primary and redundant Cross-Cloud interconnect ports.&amp;nbsp; We also need to be primary and redundant ports from our cloud service provider&lt;/div&gt;&lt;div&gt;3. After provisioning the connection, Google supports the connection up to the point where it reaches the network of other cloud service provider.&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="320" x="-440" y="2760" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-75" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="120" width="270" x="-800" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-76" parent="mr_n5P6o90uTnWHHjz-A-75" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="60" width="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-77" parent="mr_n5P6o90uTnWHHjz-A-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Layer 3" vertex="1">
+          <mxGeometry height="60" width="106" as="geometry">
+            <mxRectangle height="60" width="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-78" parent="mr_n5P6o90uTnWHHjz-A-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;Partner Interconnect, Direct Peering, Carrier Peering&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="164" x="106" as="geometry">
+            <mxRectangle height="60" width="164" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-79" parent="mr_n5P6o90uTnWHHjz-A-75" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="60" width="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-80" parent="mr_n5P6o90uTnWHHjz-A-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Layer 2" vertex="1">
+          <mxGeometry height="60" width="106" as="geometry">
+            <mxRectangle height="60" width="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-81" parent="mr_n5P6o90uTnWHHjz-A-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;Dedicated Interconnect, Partner Interconnect&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="164" x="106" as="geometry">
+            <mxRectangle height="60" width="164" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
