@@ -1113,6 +1113,14 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-190" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Minimum dedicated bandwidth of 10Gbps?" vertex="1">
           <mxGeometry height="100" width="100" x="-800" y="5460" as="geometry" />
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-212" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mr_n5P6o90uTnWHHjz-A-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-219" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-212" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.1507" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-192" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Dedicated interconnect" vertex="1">
           <mxGeometry height="60" width="120" x="-810" y="5600" as="geometry" />
         </mxCell>
@@ -1141,8 +1149,41 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-202" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="Self managed encryption tunnels" vertex="1">
           <mxGeometry height="60" width="120" x="-480" y="5350" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-206" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Partner Interconnect" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-210" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-209" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-211" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-210" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0727" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-206" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=#CCFFCC;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Partner Interconnect" vertex="1">
           <mxGeometry height="30" width="120" x="-496" y="5510" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-214" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-213" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-215" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-214" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6222" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-217" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-216" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-218" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-217" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.3" y="4" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-209" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;" value="Optional: encryption managed by Google?" vertex="1">
+          <mxGeometry height="80" width="80" x="-476" y="5595" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-213" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;" value="Cloud VPN over Cloud Interconnect" vertex="1">
+          <mxGeometry height="60" width="120" x="-496" y="5710" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-216" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;" value="Self managed encryption tunnels" vertex="1">
+          <mxGeometry height="60" width="120" x="-336" y="5605" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
