@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="2917" dy="2502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1256" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,6 +547,12 @@
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- To setup BGP, an additional IP address has to be assigned to each end of the VPN tunnel. These two IP addresses must be link-local IP addresses, belonging to the IP address range 169.254.0.0/16.&amp;nbsp; These addresses are not part of IP address space either network and are used exclusively for establishing a BGP session.&lt;/div&gt;&lt;div&gt;&lt;b&gt;How it works?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Once configured, the new subnets are then seamlessly advertised between networks.&amp;nbsp; This means that instances in the new subnets can start sending and receiving traffic immediately.&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="360" x="-436" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Features:&lt;/b&gt;&lt;div&gt;- it supports both static and dynamic routing&lt;/div&gt;&lt;div&gt;- to use dynamic routes, we need to configure Cloud Router.&amp;nbsp; It can manage routes for a Cloud VPN tunnel using Broader Gateway Protocol (BGP).&amp;nbsp; This routing method allows for routes to be updated without changing the tunnel configuration.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="-800" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="MIGs" vertex="1">
+          <mxGeometry height="40" width="120" x="-800" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
