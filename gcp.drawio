@@ -1073,7 +1073,7 @@
           <mxGeometry height="30" width="120" x="-367" y="5109" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect on-prem with GC" vertex="1">
-          <mxGeometry height="80" width="366" x="-796" y="5310" as="geometry" />
+          <mxGeometry height="40" width="366" x="-800" y="5280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
