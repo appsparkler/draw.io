@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1554" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,7 +546,7 @@
           <mxGeometry height="130" width="320" x="-800" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuration:&lt;/b&gt;&lt;/div&gt;- To setup BGP, an additional IP address has to be assigned to each end of the VPN tunnel. These two IP addresses must be link-local IP addresses, belonging to the IP address range 169.254.0.0/16.&amp;nbsp; These addresses are not part of IP address space either network and are used exclusively for establishing a BGP session." vertex="1">
-          <mxGeometry height="130" width="320" x="-435" y="1000" as="geometry" />
+          <mxGeometry height="130" width="320" x="-440" y="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
