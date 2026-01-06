@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1663" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1217,6 +1217,84 @@
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-233" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What?&lt;/b&gt;&amp;nbsp;allows private RFC 1918 connectivity across two VPC networks regardless of whether they belong to same project or the same organization.&amp;nbsp; It is a decentralized and distributed approach to multi-project networking, because each VPC network may remain under the control of separate administrator groups and maintains its own global firewall and routing tables.&amp;nbsp; Historically, such projects would consider external IP address or VPNs to facilitate private communication between VPC Networks.&amp;nbsp; However, VPC Network Peering does not incur network latency, security and cost drawbacks that are present when using external IP addresses or VPNs.&lt;/div&gt;&lt;div&gt;&lt;b&gt;How?&amp;nbsp;&amp;nbsp;&lt;/b&gt;In order for VPC network peering to be established, the Producer network admin needs to peer the Producer Network with the Consumer Network, and the Consumer Network Admin needs to peer the Consumer Network with the Producer Network.&amp;nbsp; Only when both the peering connections are created, the VPC Network Peering session becomes active and the routes are exchanged.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="721" x="-800" y="6200" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-251" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" value="Shared VPC compared with VPC (network) peering" vertex="1">
+          <mxGeometry height="190" width="752" x="-802" y="6400" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-252" parent="mr_n5P6o90uTnWHHjz-A-251" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="752" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-253" parent="mr_n5P6o90uTnWHHjz-A-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Consideration&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="192" as="geometry">
+            <mxRectangle height="40" width="192" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-254" parent="mr_n5P6o90uTnWHHjz-A-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Shared VPC" vertex="1">
+          <mxGeometry height="40" width="309" x="192" as="geometry">
+            <mxRectangle height="40" width="309" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-255" parent="mr_n5P6o90uTnWHHjz-A-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="VPC Network Peering" vertex="1">
+          <mxGeometry height="40" width="251" x="501" as="geometry">
+            <mxRectangle height="40" width="251" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-256" parent="mr_n5P6o90uTnWHHjz-A-251" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="752" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-257" parent="mr_n5P6o90uTnWHHjz-A-256" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Across organizations?" vertex="1">
+          <mxGeometry height="40" width="192" as="geometry">
+            <mxRectangle height="40" width="192" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-258" parent="mr_n5P6o90uTnWHHjz-A-256" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
+          <mxGeometry height="40" width="309" x="192" as="geometry">
+            <mxRectangle height="40" width="309" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-259" parent="mr_n5P6o90uTnWHHjz-A-256" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
+          <mxGeometry height="40" width="251" x="501" as="geometry">
+            <mxRectangle height="40" width="251" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-260" parent="mr_n5P6o90uTnWHHjz-A-251" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="752" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-261" parent="mr_n5P6o90uTnWHHjz-A-260" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Within Projects" vertex="1">
+          <mxGeometry height="40" width="192" as="geometry">
+            <mxRectangle height="40" width="192" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-262" parent="mr_n5P6o90uTnWHHjz-A-260" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
+          <mxGeometry height="40" width="309" x="192" as="geometry">
+            <mxRectangle height="40" width="309" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-263" parent="mr_n5P6o90uTnWHHjz-A-260" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
+          <mxGeometry height="40" width="251" x="501" as="geometry">
+            <mxRectangle height="40" width="251" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-264" parent="mr_n5P6o90uTnWHHjz-A-251" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="752" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-265" parent="mr_n5P6o90uTnWHHjz-A-264" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Network Administration" vertex="1">
+          <mxGeometry height="40" width="192" as="geometry">
+            <mxRectangle height="40" width="192" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-266" parent="mr_n5P6o90uTnWHHjz-A-264" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Centralized" vertex="1">
+          <mxGeometry height="40" width="309" x="192" as="geometry">
+            <mxRectangle height="40" width="309" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-267" parent="mr_n5P6o90uTnWHHjz-A-264" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Decentralized and Distributed" vertex="1">
+          <mxGeometry height="40" width="251" x="501" as="geometry">
+            <mxRectangle height="40" width="251" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-268" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="Shared VPC only works across projects" vertex="1">
+          <mxGeometry height="40" width="281" x="-801" y="6600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
