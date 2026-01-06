@@ -570,13 +570,13 @@
           <mxGeometry height="40" width="290" x="-550" y="840" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Cloud CDN" vertex="1">
-          <mxGeometry height="40" width="200" x="-800" y="1360" as="geometry" />
+          <mxGeometry height="40" width="200" x="-800" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=19;fontStyle=1" value="Content Delivery Network" vertex="1">
-          <mxGeometry height="40" width="240" x="-800" y="1400" as="geometry" />
+          <mxGeometry height="40" width="240" x="-800" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;What it is?&amp;nbsp;&amp;nbsp;&lt;/b&gt;It uses Google&#39;s&amp;nbsp; globally distributed &lt;b&gt;edge points of service to cache HTTP(S) load balanced content&lt;/b&gt; close to our users" vertex="1">
-          <mxGeometry height="80" width="240" x="-520" y="1360" as="geometry" />
+          <mxGeometry height="80" width="240" x="-520" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
