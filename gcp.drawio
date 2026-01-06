@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1663" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2499" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -674,13 +674,13 @@
           <mxGeometry height="40" width="760" y="30" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-108" parent="mr_n5P6o90uTnWHHjz-A-107" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Connection" vertex="1">
-          <mxGeometry height="40" width="152" as="geometry">
-            <mxRectangle height="40" width="152" as="alternateBounds" />
+          <mxGeometry height="40" width="120" as="geometry">
+            <mxRectangle height="40" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-109" parent="mr_n5P6o90uTnWHHjz-A-107" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Providers" vertex="1">
-          <mxGeometry height="40" width="188" x="152" as="geometry">
-            <mxRectangle height="40" width="188" as="alternateBounds" />
+          <mxGeometry height="40" width="220" x="120" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-110" parent="mr_n5P6o90uTnWHHjz-A-107" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Capacity&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
@@ -702,13 +702,13 @@
           <mxGeometry height="39" width="760" y="70" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-84" parent="mr_n5P6o90uTnWHHjz-A-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;VPN Tunnel&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39" width="152" as="geometry">
-            <mxRectangle height="39" width="152" as="alternateBounds" />
+          <mxGeometry height="39" width="120" as="geometry">
+            <mxRectangle height="39" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-85" parent="mr_n5P6o90uTnWHHjz-A-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Encrypted tunnel to VPC networks through the public internet" vertex="1">
-          <mxGeometry height="39" width="188" x="152" as="geometry">
-            <mxRectangle height="39" width="188" as="alternateBounds" />
+          <mxGeometry height="39" width="220" x="120" as="geometry">
+            <mxRectangle height="39" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-86" parent="mr_n5P6o90uTnWHHjz-A-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="1.5-3Gbps per tunnel" vertex="1">
@@ -730,13 +730,13 @@
           <mxGeometry height="60" width="760" y="109" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-90" parent="mr_n5P6o90uTnWHHjz-A-89" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Dedicated Interconnect" vertex="1">
-          <mxGeometry height="60" width="152" as="geometry">
-            <mxRectangle height="60" width="152" as="alternateBounds" />
+          <mxGeometry height="60" width="120" as="geometry">
+            <mxRectangle height="60" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-91" parent="mr_n5P6o90uTnWHHjz-A-89" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Dedicated, direct connection to VPC networks" vertex="1">
-          <mxGeometry height="60" width="188" x="152" as="geometry">
-            <mxRectangle height="60" width="188" as="alternateBounds" />
+          <mxGeometry height="60" width="220" x="120" as="geometry">
+            <mxRectangle height="60" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-92" parent="mr_n5P6o90uTnWHHjz-A-89" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="10Gbps or 100Gbps per link" vertex="1">
@@ -758,13 +758,13 @@
           <mxGeometry height="60" width="760" y="169" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-96" parent="mr_n5P6o90uTnWHHjz-A-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Partner Interconnect" vertex="1">
-          <mxGeometry height="60" width="152" as="geometry">
-            <mxRectangle height="60" width="152" as="alternateBounds" />
+          <mxGeometry height="60" width="120" as="geometry">
+            <mxRectangle height="60" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-97" parent="mr_n5P6o90uTnWHHjz-A-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Dedicated bandwidth connection to VPC network through a service provider" vertex="1">
-          <mxGeometry height="60" width="188" x="152" as="geometry">
-            <mxRectangle height="60" width="188" as="alternateBounds" />
+          <mxGeometry height="60" width="220" x="120" as="geometry">
+            <mxRectangle height="60" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-98" parent="mr_n5P6o90uTnWHHjz-A-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="50Mbps to 50Gbps per connection" vertex="1">
@@ -786,13 +786,13 @@
           <mxGeometry height="60" width="760" y="229" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-102" parent="mr_n5P6o90uTnWHHjz-A-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Cross-Cloud Interconnect" vertex="1">
-          <mxGeometry height="60" width="152" as="geometry">
-            <mxRectangle height="60" width="152" as="alternateBounds" />
+          <mxGeometry height="60" width="120" as="geometry">
+            <mxRectangle height="60" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-103" parent="mr_n5P6o90uTnWHHjz-A-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Dedicated physical connection between VPC network and network hosted by service provider" vertex="1">
-          <mxGeometry height="60" width="188" x="152" as="geometry">
-            <mxRectangle height="60" width="188" as="alternateBounds" />
+          <mxGeometry height="60" width="220" x="120" as="geometry">
+            <mxRectangle height="60" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-104" parent="mr_n5P6o90uTnWHHjz-A-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="10Gbps or 100Gbps per connection" vertex="1">
