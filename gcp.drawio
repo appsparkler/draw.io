@@ -1370,8 +1370,8 @@
             <mxRectangle height="55" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DCjnVqkURGrC5P2Fgk3D-15" parent="DCjnVqkURGrC5P2Fgk3D-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="55" width="60" x="340" as="geometry">
+        <mxCell id="DCjnVqkURGrC5P2Fgk3D-15" parent="DCjnVqkURGrC5P2Fgk3D-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=3;colspan=1;" value="Can reference exactly one port from 1-65535" vertex="1">
+          <mxGeometry height="165" width="60" x="340" as="geometry">
             <mxRectangle height="55" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1398,7 +1398,7 @@
             <mxRectangle height="40" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DCjnVqkURGrC5P2Fgk3D-21" parent="DCjnVqkURGrC5P2Fgk3D-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="DCjnVqkURGrC5P2Fgk3D-21" parent="DCjnVqkURGrC5P2Fgk3D-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
           <mxGeometry height="40" width="60" x="340" as="geometry">
             <mxRectangle height="40" width="60" as="alternateBounds" />
           </mxGeometry>
@@ -1426,7 +1426,7 @@
             <mxRectangle height="70" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DCjnVqkURGrC5P2Fgk3D-27" parent="DCjnVqkURGrC5P2Fgk3D-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="DCjnVqkURGrC5P2Fgk3D-27" parent="DCjnVqkURGrC5P2Fgk3D-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
           <mxGeometry height="70" width="60" x="340" as="geometry">
             <mxRectangle height="70" width="60" as="alternateBounds" />
           </mxGeometry>
