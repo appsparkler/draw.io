@@ -411,7 +411,7 @@
           <mxGeometry height="40" width="160" x="-800" y="-584" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Provides &lt;b&gt;99.99%&lt;/b&gt; SLA (only if 2 or 4 tunnels are properly configured between gateways)&lt;/div&gt;&lt;div&gt;- When we create a HA VPN gateway, GC automatically chooses two external IP addresses from a unique IP address pool&lt;/div&gt;&lt;div&gt;- VPN tunnels connected to HA VPN gateways must use dynamic routing (BGP).&lt;/div&gt;&lt;div&gt;- Supports site-to-site VPN for different topologies - 1. HA VPN gateway to peer VPN devices 2. HA VPN gateway to AWS virtual private gateway 3. Two HA VPN gateways connected to each other&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="400" x="-440" y="-494" as="geometry" />
+          <mxGeometry height="200" width="400" x="-440" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="on-prem VPN gateway" vertex="1">
           <mxGeometry height="40" width="120" x="-435" y="-584" as="geometry" />
@@ -432,7 +432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Configuration&lt;/b&gt;&lt;div&gt;- configure &lt;b&gt;Cloud HA VPN gateway&lt;/b&gt;, &lt;b&gt;on-prem VPN gateway&lt;/b&gt; and &lt;b&gt;two or four VPN tunnels&amp;nbsp;&lt;/b&gt;for 99.99% service level SLA.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;The VPN tunnels &lt;/b&gt;connected to HA VPN gateway must use dynamic (&lt;b&gt;BGP)&amp;nbsp;&lt;/b&gt;routing.&amp;nbsp; Depending on the way that we configure route priorities for HA VPN tunnels, we can create active/active or active/passive routing configuration.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="320" x="-800" y="-494" as="geometry" />
+          <mxGeometry height="210" width="320" x="-800" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="gsbneUqQGO2pmt4NGT6P-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="HA VPN to peer gateway topology" vertex="1">
           <mxGeometry height="80" width="320" x="-800" y="-240" as="geometry" />
