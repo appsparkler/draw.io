@@ -966,10 +966,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Access only to Google Workspace and Google APIs?" vertex="1">
-          <mxGeometry height="110" width="130" x="-300" y="3960" as="geometry" />
+          <mxGeometry height="110" width="130" x="-400" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-156" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-155" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-157" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-156" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+          <mxGeometry relative="1" x="-0.5048" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-161" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-162" connectable="0" parent="mr_n5P6o90uTnWHHjz-A-161" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1765" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-152" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBorderColor=default;labelBackgroundColor=default;" value="Meet Google&#39;s peering requirements?" vertex="1">
-          <mxGeometry height="110" width="130" x="-300" y="4150" as="geometry" />
+          <mxGeometry height="110" width="130" x="-400" y="4110" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;" value="Direct Peering" vertex="1">
+          <mxGeometry height="60" width="120" x="-395" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;" value="Carrier Peering" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="4135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
