@@ -368,12 +368,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="4171" dy="3465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2685" dy="2445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mr_n5P6o90uTnWHHjz-A-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="485" width="360" x="-440" y="3875" as="geometry" />
+          <mxGeometry height="625" width="360" x="-440" y="3880" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="360" width="350" x="-816" y="3800" as="geometry" />
@@ -960,8 +960,8 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-147" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;" value="Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-595" y="4040" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a peering type to connect to Google Workspace" vertex="1">
-          <mxGeometry height="80" width="280" x="-400" y="3890" as="geometry" />
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connecting on-prem with Google Workspace and Public APIs" vertex="1">
+          <mxGeometry height="140" width="280" x="-407" y="3910" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-153" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-152" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -972,7 +972,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Access only to Google Workspace and Google APIs?" vertex="1">
-          <mxGeometry height="110" width="130" x="-400" y="3960" as="geometry" />
+          <mxGeometry height="110" width="130" x="-410" y="4120" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-156" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-155" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -991,13 +991,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-152" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBorderColor=default;labelBackgroundColor=default;" value="Meet Google&#39;s peering requirements?" vertex="1">
-          <mxGeometry height="110" width="130" x="-400" y="4110" as="geometry" />
+          <mxGeometry height="110" width="130" x="-410" y="4270" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Direct Peering" vertex="1">
-          <mxGeometry height="60" width="120" x="-395" y="4270" as="geometry" />
+          <mxGeometry height="60" width="120" x="-405" y="4430" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Carrier Peering" vertex="1">
-          <mxGeometry height="60" width="120" x="-220" y="4135" as="geometry" />
+          <mxGeometry height="60" width="120" x="-230" y="4295" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect GC with another cloud service" vertex="1">
           <mxGeometry height="80" width="300" x="-754" y="4750" as="geometry" />
