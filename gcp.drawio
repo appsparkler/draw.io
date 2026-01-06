@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1446" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2685" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,30 +540,30 @@
           <mxGeometry height="120" width="360" x="-400" y="360" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Cloud Router" vertex="1">
-          <mxGeometry height="40" width="276" x="-796" y="560" as="geometry" />
+          <mxGeometry height="40" width="276" x="-796" y="520" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Features:&lt;/b&gt;&lt;div&gt;- it supports both static and dynamic routing&lt;/div&gt;&lt;div&gt;- to use dynamic routes, we need to configure Cloud Router.&amp;nbsp; It can manage routes for a Cloud VPN tunnel using Broader Gateway Protocol (BGP).&amp;nbsp; This routing method allows for routes to be updated without changing the tunnel configuration.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="320" x="-796" y="650" as="geometry" />
+          <mxGeometry height="130" width="320" x="-796" y="610" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- To setup BGP, an additional IP address has to be assigned to each end of the VPN tunnel. These two IP addresses must be link-local IP addresses, belonging to the IP address range 169.254.0.0/16.&amp;nbsp; These addresses are not part of IP address space either network and are used exclusively for establishing a BGP session.&lt;/div&gt;&lt;div&gt;&lt;b&gt;How it works?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Once configured, the new subnets are then seamlessly advertised between networks.&amp;nbsp; This means that instances in the new subnets can start sending and receiving traffic immediately.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="360" x="-436" y="570" as="geometry" />
+          <mxGeometry height="200" width="360" x="-436" y="530" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Features:&lt;/b&gt;&lt;div&gt;- deploy identical instances based on template&lt;/div&gt;&lt;div&gt;- instance group can be resized&lt;/div&gt;&lt;div&gt;- &lt;b&gt;manager&lt;/b&gt; ensures all instances are running&lt;/div&gt;&lt;div&gt;- typically used with autoscaler (elasticity)&lt;/div&gt;&lt;div&gt;- can be zonal or regional (provides HA)&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rolling updates&lt;/b&gt; - easily and gracefully update all instances in a group&lt;/div&gt;&lt;div&gt;- instances are replaced with the same name and same template if there are &lt;b&gt;stops, crashes or deleted&lt;/b&gt; by any action other than the instance group commands (API)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="240" width="250" x="-800" y="880" as="geometry" />
+          <mxGeometry height="240" width="250" x="-800" y="800" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="MIGs" vertex="1">
-          <mxGeometry height="40" width="120" x="-800" y="840" as="geometry" />
+          <mxGeometry height="40" width="120" x="-480" y="800" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Types:&amp;nbsp;&lt;/b&gt;1. Stateless&amp;nbsp; 2. Stateful&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Location:&amp;nbsp;&lt;/b&gt;1. Regional (HA) 2. Zonal.&amp;nbsp; Optionally provide port name and mapping details.&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. Instance template&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;5. Configure autoscaling&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;6. Configure health-checks&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="240" x="-520" y="880" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Autoscaling:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- provides elasticity&lt;/div&gt;&lt;div&gt;&lt;b&gt;Policies:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. CPU Utilization&lt;/div&gt;&lt;div&gt;2. Load balancing capacity - RPS, CPS, %age backend utilization)&lt;/div&gt;&lt;div&gt;3. Monitoring metrics - based on any Cloud Monitoring metrics - memory, disk I/O, users, etc.&lt;/div&gt;&lt;div&gt;4. Queue based workloads.&amp;nbsp; For ex. PubSub backlog = 10,000, 1000 per instance so scale up to 10 instances)&lt;/div&gt;&lt;div&gt;5. Schedule-based (defined the schedule for when instances are added or removed)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="240" width="240" x="-260" y="880" as="geometry" />
+          <mxGeometry height="240" width="240" x="-260" y="800" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Health Checks configuration:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Interval&lt;/b&gt; - The time between two health-checks&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Timeout&lt;/b&gt; - Maximum time for a health check&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Healthy Threshold&lt;/b&gt; - How many successes before concluding that instance is healthy&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Unhealthy Threshold&lt;/b&gt; - How many failed health checks before concluding that instance is unhealthy&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="280" x="-800" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="Configuring stateful IP address" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Configuring stateful IP address&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Very useful when&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="280" x="-480" y="1200" as="geometry" />
         </mxCell>
       </root>
