@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="5">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1296,6 +1296,14 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-268" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- &lt;b&gt;Shared VPC only works across projects&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- The biggest difference between the two configurations is the&lt;b&gt;&amp;nbsp;network administration models&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="761" x="-801" y="6600" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZMOBnr2iqS2cD7QnLE1-" name="Autoscaling and Load Balancing">
+    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
