@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1663" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,8 +560,8 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Autoscaling:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- provides elasticity&lt;/div&gt;&lt;div&gt;&lt;b&gt;Policies:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. CPU Utilization&lt;/div&gt;&lt;div&gt;2. Load balancing capacity - RPS, CPS, %age backend utilization)&lt;/div&gt;&lt;div&gt;3. Monitoring metrics - based on any Cloud Monitoring metrics - memory, disk I/O, users, etc.&lt;/div&gt;&lt;div&gt;4. Queue based workloads.&amp;nbsp; For ex. PubSub backlog = 10,000, 1000 per instance so scale up to 10 instances)&lt;/div&gt;&lt;div&gt;5. Schedule-based (defined the schedule for when instances are added or removed)&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="240" x="-260" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="" vertex="1">
-          <mxGeometry height="70" width="240" x="-520" y="1050" as="geometry" />
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Health Checks&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="-800" y="1200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
