@@ -948,10 +948,10 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-141" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Access to public IPs only and &lt;b&gt;without SLA&lt;/b&gt;?" vertex="1">
           <mxGeometry height="120" width="130" x="-600" y="3875" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-144" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" value="Interconnect" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-144" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;" value="Interconnect" vertex="1">
           <mxGeometry height="60" width="120" x="-795" y="4040" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-147" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" value="Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-147" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;" value="Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-595" y="4040" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a peering type" vertex="1">
@@ -987,10 +987,10 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-152" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBorderColor=default;labelBackgroundColor=default;" value="Meet Google&#39;s peering requirements?" vertex="1">
           <mxGeometry height="110" width="130" x="-400" y="4110" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;" value="Direct Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Direct Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-395" y="4270" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;" value="Carrier Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Carrier Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-220" y="4135" as="geometry" />
         </mxCell>
       </root>
