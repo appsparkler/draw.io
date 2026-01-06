@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4oWqYW1SmhR9pqktcZZs" name="Cloud VPN">
-    <mxGraphModel dx="1707" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -815,6 +815,12 @@
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Dedicated Interconnect&amp;nbsp;&lt;/b&gt;- we can have up to 8 links of 10Gbps OR up to 2 links of 100Gbps.&amp;nbsp; 10Gbps is minimum capacity though.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Google recommends Interconnect options instead of Direct or Carrier peering&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="113" width="316" x="-461" y="3347" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Direct Peering" vertex="1">
+          <mxGeometry height="40" width="200" x="-800" y="3520" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;Google allows us to establish a&amp;nbsp;&lt;b&gt;Direct Peering &lt;/b&gt;connection between our business network and Googles.&amp;nbsp; With this connection we&#39;ll be able to exchange internet traffic between our network and Googles at on of &lt;b&gt;Google broad-reaching edge network.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;How?&amp;nbsp;&lt;/b&gt;its done by exchanging BGP routes between Google and the peering entity.&amp;nbsp; After the direct peering is in place, we can use it to reach all of Google&#39;s services, including the full suite of Google Cloud products.&lt;/div&gt;&lt;div&gt;- Direct Peering doesn&#39;t have an SLA.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="316" x="-800" y="3560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
