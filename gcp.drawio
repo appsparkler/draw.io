@@ -1113,7 +1113,7 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-190" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Minimum dedicated bandwidth of 10Gbps?" vertex="1">
           <mxGeometry height="100" width="100" x="-800" y="5460" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-212" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mr_n5P6o90uTnWHHjz-A-209">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-212" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="mr_n5P6o90uTnWHHjz-A-209">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-192" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Dedicated interconnect" vertex="1">
@@ -1147,7 +1147,7 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-210" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-209" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-221" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-220" value="">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-221" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="mr_n5P6o90uTnWHHjz-A-220" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-206" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=#CCFFCC;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Partner Interconnect" vertex="1">
