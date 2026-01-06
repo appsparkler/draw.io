@@ -605,11 +605,14 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Interconnecting Networks" vertex="1">
           <mxGeometry height="40" width="400" x="-800" y="2040" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Only available at Layer 2 (Data Link Layer)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="55" width="400" x="-800" y="2090" as="geometry" />
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Two Types:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Dedicated/Direct connection - &lt;/b&gt;provide direct connection&lt;b&gt;&amp;nbsp;&lt;/b&gt;to Google&#39;s network.&amp;nbsp; Ex.&amp;nbsp;&lt;b&gt;Dedicated interconnect and Direct Peering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Shared connection -&amp;nbsp;&lt;/b&gt;provides a connection to Googles Network through a partner.&amp;nbsp; Ex.&amp;nbsp;&lt;b&gt;Partner Interconnection and Carrier Peering&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="400" x="-800" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Dedicated Interconnect" vertex="1">
-          <mxGeometry height="40" width="320" x="-360" y="2080" as="geometry" />
+          <mxGeometry height="40" width="315" x="-430" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Layer 2&amp;nbsp;&lt;/b&gt;connections use&lt;b&gt; VLAN (Virtual Local Area Network)&amp;nbsp;&lt;/b&gt;that pipes directly into our Google Cloud environment providing connectivity to internal IP addresses in RFC1918 space. Ex.&amp;nbsp;&lt;b&gt;Dedicated and Partner Interconnect&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Layer 3&amp;nbsp;&lt;/b&gt;provides access to Google Workspace services, YouTube and Google Cloud APIs using public address.&amp;nbsp;&lt;b&gt;ex.&amp;nbsp;Partner Interconnect, Direct Peering and Carrier Peering&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="320" x="-360" y="2090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
