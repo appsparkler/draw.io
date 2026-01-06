@@ -1000,7 +1000,7 @@
           <mxGeometry height="60" width="120" x="-230" y="4295" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect GC with another cloud service" vertex="1">
-          <mxGeometry height="80" width="300" x="-754" y="4750" as="geometry" />
+          <mxGeometry height="40" width="554" x="-802" y="4720" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-168" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-167" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1011,7 +1011,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-166" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Connect GC VPC with other cloud network?" vertex="1">
-          <mxGeometry height="110" width="130" x="-760" y="4830" as="geometry" />
+          <mxGeometry height="110" width="130" x="-800" y="4769" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-171" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-170" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1030,7 +1030,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-167" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Need dedicated high bandwidth?" vertex="1">
-          <mxGeometry height="110" width="130" x="-760" y="4980" as="geometry" />
+          <mxGeometry height="110" width="130" x="-800" y="4919" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-174" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-173" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1044,10 +1044,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-170" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Google managed routing solution?" vertex="1">
-          <mxGeometry height="110" width="130" x="-760" y="5130" as="geometry" />
+          <mxGeometry height="110" width="130" x="-800" y="5069" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-173" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1" value="Cross Cloud Interconnect" vertex="1">
-          <mxGeometry height="30" width="120" x="-755" y="5290" as="geometry" />
+          <mxGeometry height="30" width="120" x="-795" y="5229" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-180" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-179" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1061,16 +1061,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-176" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Encryption managed by Google" vertex="1">
-          <mxGeometry height="110" width="130" x="-550" y="4980" as="geometry" />
+          <mxGeometry height="110" width="130" x="-590" y="4919" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-179" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Cloud VPN" vertex="1">
-          <mxGeometry height="30" width="120" x="-544" y="5130" as="geometry" />
+          <mxGeometry height="30" width="120" x="-584" y="5069" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-182" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Self managed encryption tunnels" vertex="1">
-          <mxGeometry height="60" width="120" x="-335" y="5005" as="geometry" />
+          <mxGeometry height="60" width="120" x="-375" y="4944" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-186" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="self-managed connectivity" vertex="1">
-          <mxGeometry height="30" width="120" x="-327" y="5170" as="geometry" />
+          <mxGeometry height="30" width="120" x="-367" y="5109" as="geometry" />
+        </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect on-prem with GC" vertex="1">
+          <mxGeometry height="80" width="366" x="-796" y="5310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
