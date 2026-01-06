@@ -915,6 +915,9 @@
             <mxRectangle height="70" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a network connection" vertex="1">
+          <mxGeometry height="80" width="280" x="-800" y="3800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
