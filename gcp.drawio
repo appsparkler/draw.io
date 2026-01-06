@@ -915,7 +915,7 @@
             <mxRectangle height="70" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a network connection" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Choosing a network connection type" vertex="1">
           <mxGeometry height="80" width="280" x="-800" y="3800" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-142" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-141" value="">
