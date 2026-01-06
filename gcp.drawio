@@ -549,7 +549,7 @@
           <mxGeometry height="200" width="360" x="-436" y="570" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Features:&lt;/b&gt;&lt;div&gt;- deploy identical instances based on template&lt;/div&gt;&lt;div&gt;- instance group can be resized&lt;/div&gt;&lt;div&gt;- &lt;b&gt;manager&lt;/b&gt; ensures all instances are running&lt;/div&gt;&lt;div&gt;- typically used with autoscaler (elasticity)&lt;/div&gt;&lt;div&gt;- can be zonal or regional (provides HA)&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rolling updates&lt;/b&gt; - easily and gracefully update all instances in a group&lt;/div&gt;&lt;div&gt;- instances are replaced with the same name and same template if there are &lt;b&gt;stops, crashes or deleted&lt;/b&gt; by any action other than the instance group commands (API)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="320" x="-800" y="920" as="geometry" />
+          <mxGeometry height="180" width="320" x="-800" y="920" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="MIGs" vertex="1">
           <mxGeometry height="40" width="120" x="-800" y="840" as="geometry" />
