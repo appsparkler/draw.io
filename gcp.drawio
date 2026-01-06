@@ -954,10 +954,10 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-141" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Access to public IPs only and &lt;b&gt;without SLA&lt;/b&gt;?" vertex="1">
           <mxGeometry height="120" width="130" x="-600" y="3875" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-144" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;" value="Interconnect" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-144" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="Interconnect" vertex="1">
           <mxGeometry height="60" width="120" x="-795" y="4040" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-147" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;" value="Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-147" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;labelBackgroundColor=default;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-595" y="4040" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connecting on-prem with Google Workspace and Public APIs" vertex="1">
@@ -993,10 +993,10 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-152" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBorderColor=default;labelBackgroundColor=default;" value="Meet Google&#39;s peering requirements?" vertex="1">
           <mxGeometry height="110" width="130" x="-410" y="4270" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Direct Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-155" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Direct Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-405" y="4430" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1" value="Carrier Peering" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-160" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBorderColor=default;labelBackgroundColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Carrier Peering" vertex="1">
           <mxGeometry height="60" width="120" x="-230" y="4295" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect GC with another cloud service" vertex="1">
@@ -1046,7 +1046,7 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-170" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Google managed routing solution?" vertex="1">
           <mxGeometry height="110" width="130" x="-800" y="5069" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-173" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1" value="Cross Cloud Interconnect" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-173" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=#CCFFCC;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;" value="Cross Cloud Interconnect" vertex="1">
           <mxGeometry height="30" width="120" x="-795" y="5229" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-180" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-179" value="">
@@ -1063,14 +1063,14 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-176" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;textShadow=1;labelBorderColor=default;" value="Encryption managed by Google" vertex="1">
           <mxGeometry height="110" width="130" x="-590" y="4919" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-179" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Cloud VPN" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-179" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=light-dark(#FFFFFF,#EDEDED);labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cloud VPN" vertex="1">
           <mxGeometry height="30" width="120" x="-584" y="5069" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-182" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Self managed encryption tunnels" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-182" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="Self managed encryption tunnels" vertex="1">
           <mxGeometry height="60" width="120" x="-375" y="4944" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-186" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="self-managed connectivity" vertex="1">
-          <mxGeometry height="30" width="120" x="-367" y="5109" as="geometry" />
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-186" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" value="self-managed connectivity" vertex="1">
+          <mxGeometry height="69" width="120" x="-375" y="5089.5" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Connect on-prem with GC" vertex="1">
           <mxGeometry height="40" width="366" x="-800" y="5280" as="geometry" />
@@ -1105,7 +1105,7 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-190" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Minimum dedicated bandwidth of 10Gbps?" vertex="1">
           <mxGeometry height="100" width="100" x="-800" y="5460" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-192" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Dedicated interconnect" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-192" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Dedicated interconnect" vertex="1">
           <mxGeometry height="60" width="120" x="-810" y="5600" as="geometry" />
         </mxCell>
         <mxCell id="mr_n5P6o90uTnWHHjz-A-200" edge="1" parent="1" source="mr_n5P6o90uTnWHHjz-A-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mr_n5P6o90uTnWHHjz-A-199" value="">
@@ -1119,7 +1119,7 @@
         <mxCell id="mr_n5P6o90uTnWHHjz-A-194" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Encryption managed by Google?" vertex="1">
           <mxGeometry height="100" width="100" x="-650" y="5330" as="geometry" />
         </mxCell>
-        <mxCell id="mr_n5P6o90uTnWHHjz-A-199" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Cloud VPN" vertex="1">
+        <mxCell id="mr_n5P6o90uTnWHHjz-A-199" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cloud VPN" vertex="1">
           <mxGeometry height="30" width="120" x="-660" y="5460" as="geometry" />
         </mxCell>
       </root>
