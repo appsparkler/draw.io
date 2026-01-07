@@ -1596,6 +1596,9 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- balances traffic within our VPC network&lt;/div&gt;&lt;div&gt;- software defined, fully distributed load balancing&lt;/div&gt;&lt;div&gt;- powered by&amp;nbsp;&lt;b&gt;Envoy Proxy&amp;nbsp;&lt;/b&gt;and&amp;nbsp;&lt;b&gt;Andromeda&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- enables us to run and scale our TCP service traffic behind a regional internal IP address that is accessible only to clients in the same VPC network or clients connected to our VPC network&lt;/div&gt;&lt;div&gt;- the load balancer first terminates the TCP connection between the client and the load balancer at the Envoy proxy.&amp;nbsp; The proxy opens a second TCP connection to backends hosted in GC, on-prem or other cloud environments.&lt;/div&gt;&lt;div&gt;- available in&amp;nbsp;regional or cross-region internal deployment modes&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="780" x="24" y="3310" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="Internal Proxy Network Load Balancer" vertex="1">
+          <mxGeometry height="40" width="496" x="20" y="3480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
