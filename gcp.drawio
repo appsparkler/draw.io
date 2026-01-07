@@ -1602,7 +1602,7 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Cross-region Internal Proxy Network Load Balancer" vertex="1">
           <mxGeometry height="40" width="496" x="20" y="3680" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="Ensures&amp;nbsp; that all &lt;b&gt;clients and backends&lt;/b&gt; are from a specified region, which helps when we need regional compliance." vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="Ensures&amp;nbsp; that all &lt;b&gt;clients and backends&lt;/b&gt; are from a specified region, which helps us when we need regional compliance." vertex="1">
           <mxGeometry height="40" width="740" x="20" y="3550" as="geometry" />
         </mxCell>
       </root>
