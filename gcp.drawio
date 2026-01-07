@@ -2161,7 +2161,10 @@
           <mxGeometry height="340" width="420" x="20" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="z8AhfJj6ViwrBVmbMwto-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Dataprep" vertex="1">
-          <mxGeometry height="40" width="300" x="460" y="1200" as="geometry" />
+          <mxGeometry height="40" width="300" x="450" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What?&lt;/b&gt;&amp;nbsp;Use Dataprep to visually explore, clean and prepare structured and unstructured data for analysis, reporting and machine learning.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="370" x="450" y="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
