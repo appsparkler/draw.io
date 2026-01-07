@@ -1300,7 +1300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZMOBnr2iqS2cD7QnLE1-" name="3.2 Autoscaling and Load Balancing">
-    <mxGraphModel dx="1294" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1481,6 +1481,93 @@
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Internal Application Load Balancer" vertex="1">
           <mxGeometry height="40" width="496" x="24" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-16" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="120" width="780" x="20" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-17" parent="kAEga78Fw_SUif0IxZN2-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-18" parent="kAEga78Fw_SUif0IxZN2-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Deployment mode" vertex="1">
+          <mxGeometry height="40" width="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-19" parent="kAEga78Fw_SUif0IxZN2-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Network service tier" vertex="1">
+          <mxGeometry height="40" width="156" x="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-20" parent="kAEga78Fw_SUif0IxZN2-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Load balancing&lt;br&gt;&amp;nbsp;scheme" vertex="1">
+          <mxGeometry height="40" width="156" x="312" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-21" parent="kAEga78Fw_SUif0IxZN2-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="IP address" vertex="1">
+          <mxGeometry height="40" width="156" x="468" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-22" parent="kAEga78Fw_SUif0IxZN2-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Frontend ports" vertex="1">
+          <mxGeometry height="40" width="156" x="624" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-23" parent="kAEga78Fw_SUif0IxZN2-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-24" parent="kAEga78Fw_SUif0IxZN2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Regional internal" vertex="1">
+          <mxGeometry height="40" width="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-25" parent="kAEga78Fw_SUif0IxZN2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Premium Tier" vertex="1">
+          <mxGeometry height="40" width="156" x="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-26" parent="kAEga78Fw_SUif0IxZN2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INTERNAL_MANAGED" vertex="1">
+          <mxGeometry height="40" width="156" x="312" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-27" parent="kAEga78Fw_SUif0IxZN2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="IPv4" vertex="1">
+          <mxGeometry height="40" width="156" x="468" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-28" parent="kAEga78Fw_SUif0IxZN2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" value="Can reference exactly one port from 1-65535&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="156" x="624" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-29" parent="kAEga78Fw_SUif0IxZN2-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-30" parent="kAEga78Fw_SUif0IxZN2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Cross-region internal" vertex="1">
+          <mxGeometry height="40" width="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-31" parent="kAEga78Fw_SUif0IxZN2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Premium Tier" vertex="1">
+          <mxGeometry height="40" width="156" x="156" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-32" parent="kAEga78Fw_SUif0IxZN2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INTERNAL_MANAGED" vertex="1">
+          <mxGeometry height="40" width="156" x="312" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-33" parent="kAEga78Fw_SUif0IxZN2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="IPv4" vertex="1">
+          <mxGeometry height="40" width="156" x="468" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-34" parent="kAEga78Fw_SUif0IxZN2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="40" width="156" x="624" as="geometry">
+            <mxRectangle height="40" width="156" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
