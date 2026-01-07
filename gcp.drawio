@@ -1476,6 +1476,12 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Internal Load Balancing" vertex="1">
           <mxGeometry height="40" width="640" x="24" y="2360" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What it is?&lt;/b&gt;&amp;nbsp;Internal Application LBs run on Envoy proxy based regional Layer 7 load balancers that enable us to run and scale our HTTP application traffic behind an internal IP address&lt;/div&gt;&lt;div&gt;- they support backends in one region but can be configured to be globally accessible by clients from any GC region.&lt;/div&gt;&lt;div&gt;- The LB can be configured in either regional, or cross-region, application load balancer mode.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="780" x="20" y="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Internal Application Load Balancer" vertex="1">
+          <mxGeometry height="40" width="496" x="24" y="2400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
