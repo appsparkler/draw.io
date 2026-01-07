@@ -1473,6 +1473,9 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- target pool is the legacy backed supported with this LB&lt;/div&gt;&lt;div&gt;- it defines a group of instances that receive incoming traffic from forwarding rules.&amp;nbsp; When forwarding rule directs traffic to a target pool, the load balancer picks an instance from these target pools based on a hash of the source IP and port and the destination IP and port and destination IP and port.&amp;nbsp; These target pools can only be used with forwarding rules that handle TCP and UDP traffic.&lt;/div&gt;&lt;div&gt;- upto 50 per project&lt;/div&gt;&lt;div&gt;- one health check&lt;/div&gt;&lt;div&gt;- instances must be in the same region.&lt;/div&gt;&lt;div&gt;- all instances of the target pool must be in the same region which is the same limitation as for the network load balancer&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="780" x="24" y="2080" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Internal Load Balancing" vertex="1">
+          <mxGeometry height="40" width="640" x="24" y="2360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
