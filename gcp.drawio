@@ -1606,7 +1606,7 @@
           <mxGeometry height="40" width="740" x="20" y="3550" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="80" width="500" x="200" y="3600" as="geometry" />
+          <mxGeometry height="80" width="450" x="200" y="3600" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-52" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-50" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1620,8 +1620,20 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Target TCP proxy&lt;br&gt;&lt;i&gt;regional&lt;/i&gt;" vertex="1">
           <mxGeometry height="60" width="112" x="358" y="3610" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-57" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;div&gt;Backend service&lt;/div&gt;&lt;div&gt;&lt;i&gt;regional&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="112" x="510" y="3610" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-55" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kAEga78Fw_SUif0IxZN2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Client VMs" vertex="1">
+          <mxGeometry height="60" width="92" x="70" y="3610" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Instance Groups&lt;br&gt;or NEGs" vertex="1">
+          <mxGeometry height="60" width="112" x="678" y="3610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
