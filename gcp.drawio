@@ -1597,7 +1597,10 @@
           <mxGeometry height="140" width="780" x="24" y="3310" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Regional&amp;nbsp;Internal Proxy Network Load Balancer" vertex="1">
-          <mxGeometry height="40" width="496" x="20" y="3480" as="geometry" />
+          <mxGeometry height="40" width="496" x="20" y="3520" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Cross-region Internal Proxy Network Load Balancer" vertex="1">
+          <mxGeometry height="40" width="496" x="20" y="3680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
