@@ -2080,6 +2080,9 @@
             <mxRectangle height="40" width="156" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- The load-balancing scheme is an attribute on the forwarding rule and the backend service of a load balancer and indicates whether the load balancer can be used for internal or external traffic.&lt;/div&gt;&lt;div&gt;- The term MANAGED in the load balancing scheme indicated that the load balancer is implemented as a managed service either on Google Front Ends (GFEs) or on the open source Envoy Proxy.&amp;nbsp; In a load balancing scheme that is MANAGED, requests are routed either to the GFE or to the Envoy Proxy.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="780" x="15" y="5170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
