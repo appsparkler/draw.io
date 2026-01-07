@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtpOw3la9hhwaeazM0Ie" name="3.3 Infrastructure Automation">
-    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2171,6 +2171,59 @@
         </mxCell>
         <mxCell id="z8AhfJj6ViwrBVmbMwto-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What?&lt;/b&gt;&amp;nbsp;Dataproc is a service for running &lt;b&gt;Apache Spark&lt;/b&gt; (fast, in-memory, data processing for big data) and &lt;b&gt;Apache Hadoop&lt;/b&gt; (storing and processing large datasets across clusters of computers) clusters.&lt;/div&gt;&lt;div&gt;- low cost (per-second, preemptible)&lt;/div&gt;&lt;div&gt;- Super fast to start, scale and shut-down&lt;/div&gt;&lt;div&gt;- managed service&lt;/div&gt;&lt;div&gt;- Simpler and familiar&lt;/div&gt;&lt;div&gt;- Without Dataproc, it can take from five to 30 mins to create Spark and Hadoop clusters on-prem or through other IaC providers.&amp;nbsp; Dataproc clusters are quick to start, scale and shut down, with each of these operations taking 90 seconds or less, on average.&lt;/div&gt;&lt;div&gt;- Dataproc has built in integration with other GC services such as BQ, GCS, Bigtable, Cloud Logging and Cloud Monitoring.&amp;nbsp; This provides us with a complete data platform rather than just a Spark or Hadoop cluster.&lt;/div&gt;&lt;div&gt;- If one&#39;s already using Spark, Hadoop, Pig or Hive we don&#39;t even need to learn new tools or APIs to use Dataproc.&lt;/div&gt;" vertex="1">
           <mxGeometry height="260" width="420" x="12.49" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Dataflow or Dataproc" vertex="1">
+          <mxGeometry height="40" width="300" x="12.490000000000009" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-30" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z8AhfJj6ViwrBVmbMwto-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-31" connectable="0" parent="z8AhfJj6ViwrBVmbMwto-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="0.0667" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-33" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z8AhfJj6ViwrBVmbMwto-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-34" connectable="0" parent="z8AhfJj6ViwrBVmbMwto-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-28" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Do we have dependencies on specific tools/packages in the Apache Hadoop/Spark ecosystem?" vertex="1">
+          <mxGeometry height="110" width="170" x="40" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-29" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Dataproc" vertex="1">
+          <mxGeometry height="60" width="120" x="65" y="2175" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-35" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.129;exitY=0.682;exitDx=0;exitDy=0;exitPerimeter=0;" target="z8AhfJj6ViwrBVmbMwto-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="2060" />
+              <mxPoint x="238" y="2060" />
+              <mxPoint x="238" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-36" connectable="0" parent="z8AhfJj6ViwrBVmbMwto-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" value="MANUAL" vertex="1">
+          <mxGeometry relative="1" x="0.1407" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-38" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z8AhfJj6ViwrBVmbMwto-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-39" connectable="0" parent="z8AhfJj6ViwrBVmbMwto-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" value="AUTOMATIC" vertex="1">
+          <mxGeometry relative="1" x="0.0095" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=default;" value="Do we prefer manual or automatic provisioning of clusters?" vertex="1">
+          <mxGeometry height="110" width="170" x="290" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-37" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Dataflow" vertex="1">
+          <mxGeometry height="60" width="120" x="565" y="1985" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
