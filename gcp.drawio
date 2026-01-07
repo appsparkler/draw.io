@@ -1707,6 +1707,9 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional&lt;br&gt;Internal ALB" vertex="1">
           <mxGeometry height="60" width="78" x="276" y="4270" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-96" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-82" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Proxy" vertex="1">
           <mxGeometry height="30" width="216" x="414" y="4130" as="geometry" />
         </mxCell>
@@ -1720,7 +1723,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-89" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Internal" vertex="1">
-          <mxGeometry height="30" width="150" x="654" y="4200" as="geometry" />
+          <mxGeometry height="30" width="70" x="515" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-90" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Global" vertex="1">
           <mxGeometry height="30" width="50" x="400" y="4270" as="geometry" />
@@ -1732,7 +1735,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-93" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
-          <mxGeometry height="30" width="150" x="654" y="4270" as="geometry" />
+          <mxGeometry height="30" width="60" x="520" y="4270" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-94" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-90">
           <mxGeometry relative="1" as="geometry" />
