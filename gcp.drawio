@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtpOw3la9hhwaeazM0Ie" name="3.3 Infrastructure Automation">
-    <mxGraphModel dx="1393" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2129,6 +2129,9 @@
         </mxCell>
         <mxCell id="z8AhfJj6ViwrBVmbMwto-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Google Cloud Marketplace" vertex="1">
           <mxGeometry height="40" width="420" x="30" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- deploy production grade solutions&lt;/div&gt;&lt;div&gt;- single bill for GC and third party services - these solutions are billed with all of our projects GC services&lt;/div&gt;&lt;div&gt;- Manage solutions using Terraform: Cloud marketplace offers production-grade solutions from third part vendors who have already created their own deployment configurations based on Terraform&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="360" x="30" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
