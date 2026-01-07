@@ -1300,7 +1300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZMOBnr2iqS2cD7QnLE1-" name="3.2 Autoscaling and Load Balancing">
-    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="929" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1643,6 +1643,33 @@
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;1. Web Tier&lt;/b&gt; - uses external ALB that provides a single global IP address for user in regions all over the world.&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Internal Tier or Application Tier -&lt;/b&gt; These backends then access an internal network load balancer in each region as the application or internal tier.&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Database Tier&lt;/b&gt; - The last tier is the database tier in each of those zones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The benefit of 3-tier approach is that neither the application nor the database tier is exposed externally.&amp;nbsp; This simplifies security and network pricing.&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="780" x="20" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-64" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-65" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-61" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Application Load Balancer (HTTP/HTTPS)" vertex="1">
+          <mxGeometry height="30" width="350" x="40" y="4050" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-62" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Network Load Balancer (TCP/UDP/Other)" vertex="1">
+          <mxGeometry height="30" width="350" x="420" y="4050" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-70" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-63" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="External" vertex="1">
+          <mxGeometry height="30" width="150" x="24" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Internal" vertex="1">
+          <mxGeometry height="30" width="150" x="240" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="External" vertex="1">
+          <mxGeometry height="30" width="150" x="11" y="4250" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-71" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
