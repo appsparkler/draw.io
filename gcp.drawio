@@ -1300,7 +1300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZMOBnr2iqS2cD7QnLE1-" name="3.2 Autoscaling and Load Balancing">
-    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1452,8 +1452,8 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Proxy Network Load Balancer" vertex="1">
           <mxGeometry height="40" width="360" x="20" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Architecture&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;- traffic is terminated at the LB layer (Network layer, here) and then forwarded to the closes possible available backend by using TCP." vertex="1">
-          <mxGeometry height="160" width="780" x="20" y="1450" as="geometry" />
+        <mxCell id="kAEga78Fw_SUif0IxZN2-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Architecture&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;- traffic is terminated at the LB layer (Network layer, here) and then forwarded to the closes possible available backend by using TCP.&lt;/div&gt;&lt;div&gt;- can be deployed&amp;nbsp;&lt;b&gt;internally&amp;nbsp;&lt;/b&gt;or&amp;nbsp;&lt;b&gt;externally&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;External network proxy load balancers&lt;/b&gt;&amp;nbsp;distribute traffic that comes from the internet to backends in our GC VPC network, on-prem or in other cloud environments.&amp;nbsp; These LBs are built on either GFEs or open source Envoy Proxies.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- these are usually intended for TCP traffic only, with or without SSL.&amp;nbsp; For HTTP(S) traffic, it is recommended to use ALB.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="300" x="20" y="1450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
