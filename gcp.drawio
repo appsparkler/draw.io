@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtpOw3la9hhwaeazM0Ie" name="3.3 Infrastructure Automation">
-    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2120,6 +2120,12 @@
             <mxPoint x="231" y="390" as="sourcePoint" />
             <mxPoint x="227.0999999999999" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Important Commands&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;terraform init&lt;/font&gt;&lt;/b&gt; ensures that Google provider plugin is downloaded an installed in the sub-directory of the current working directory, along with various other bookkeeping files.&amp;nbsp; We will see an&amp;nbsp;&lt;b&gt;&quot;initializing provider plugins...&quot;&amp;nbsp;&lt;/b&gt;message in stdout.&amp;nbsp; Terrform knows that we&#39;re running from a Google project and it is getting Google resources.&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;terraform plan&lt;/font&gt;&amp;nbsp;&lt;/b&gt;command performs a refresh, unless explicitly disabled, and then determines what actions are necessary to achieve the desired state specified in the configuration files.&amp;nbsp; This command is a convenient way to check whether the execution&lt;b&gt;&amp;nbsp;&lt;/b&gt;plan for a set of changes matches our expectations without making any changes to real resources or to state&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="360" x="450" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;terraform apply&lt;/font&gt; &lt;/b&gt;creates the infrastructure defined in the main.tf file.&amp;nbsp; Once the command has completed we will be able to access the defined infrasturcure&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="405.03" x="24.97" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
