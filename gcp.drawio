@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtpOw3la9hhwaeazM0Ie" name="3.3 Infrastructure Automation">
-    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2106,7 +2106,7 @@
         <mxCell id="z8AhfJj6ViwrBVmbMwto-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What are `Configurations`?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- deployments are described in a file known as &lt;b&gt;configuration&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;configuration&amp;nbsp;&lt;/b&gt;&amp;nbsp;can be modularized using&amp;nbsp;&lt;b&gt;templates&lt;/b&gt;&amp;nbsp;which allow the abstraction of resources into reusable components across deployments.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="360" x="450" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="z8AhfJj6ViwrBVmbMwto-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features of Terraform&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- repeatable deployment process&lt;/div&gt;&lt;div&gt;- declarative language&lt;/div&gt;&lt;div&gt;- focus on the application&lt;/div&gt;&lt;div&gt;- parallel deployment&lt;/div&gt;&lt;div&gt;- template driven&lt;/div&gt;" vertex="1">
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Features of Terraform&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- repeatable deployment process&lt;/div&gt;&lt;div&gt;- declarative language&lt;/div&gt;&lt;div&gt;- focus on the application&lt;/div&gt;&lt;div&gt;- &lt;b&gt;parallel deployment&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;template driven&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="360" x="450" y="210" as="geometry" />
         </mxCell>
       </root>
