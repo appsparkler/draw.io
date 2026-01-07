@@ -1743,6 +1743,15 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-95" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="External Proxy NLB" vertex="1">
+          <mxGeometry height="60" width="54" x="386" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Reginal External Proxy NLB" vertex="1">
+          <mxGeometry height="60" width="68" x="456.5" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional Internal Proxy NLB" vertex="1">
+          <mxGeometry height="60" width="68" x="540" y="4320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
