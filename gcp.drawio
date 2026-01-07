@@ -1635,6 +1635,9 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Instance Groups&lt;br&gt;or NEGs" vertex="1">
           <mxGeometry height="60" width="112" x="678" y="3610" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- Each global forwarding rule uses a regional IP address that the clients use to connect.&lt;/div&gt;&lt;div&gt;- The cross-region mode lets us load balance traffic to backend services that are globally distributed, including traffic management that ensures traffic is directed to the closest backend.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="740" x="20" y="3750" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
