@@ -2100,8 +2100,8 @@
         <mxCell id="vQ1f4T_p24Sv4FnAic-Y-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Infrasturcture as Code (IaC)" vertex="1">
           <mxGeometry height="40" width="640" x="10" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="vQ1f4T_p24Sv4FnAic-Y-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="150" width="240" x="10" y="80" as="geometry" />
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;IaC allows quick provisioning and removing of infrastructures&lt;/div&gt;&lt;div&gt;- build an infrastructure when needed&lt;/div&gt;&lt;div&gt;- destroy the infrastructure when not in use&lt;/div&gt;&lt;div&gt;- create identical infrastructures for dev, test and prod&lt;/div&gt;&lt;div&gt;- can be part of a CI/CD pipeline&lt;/div&gt;&lt;div&gt;- Templates are the building blocks for disaster recovery&lt;/div&gt;&lt;div&gt;- Manage resource dependencies and complexities&lt;/div&gt;&lt;div&gt;- GC supports many IaC Tools - Terraform, Chef, Ansible, Packer and Puppet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="520" x="10" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
