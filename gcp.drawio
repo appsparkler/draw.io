@@ -1581,6 +1581,12 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- implemented as a managed service based on open-source Envoy proxy&lt;/div&gt;&lt;div&gt;- the cross-region mode enables us to load balance traffic to backend services that are globally distributed, including traffic management that ensures traffic is directed to the closest backend.&lt;/div&gt;&lt;div&gt;- this load balancer also enables high availability.&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="780" x="20" y="2850" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Internal Network Load Balancer" vertex="1">
+          <mxGeometry height="40" width="496" x="24" y="2970" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="Internal Passthrough Network Load Balancer" vertex="1">
+          <mxGeometry height="40" width="496" x="24" y="3010" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
