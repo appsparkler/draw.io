@@ -1443,6 +1443,9 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-2" edge="1" parent="1" source="0drGFHDzv6XSCN5UbJVZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.003;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="kAEga78Fw_SUif0IxZN2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Network Load Balancer" vertex="1">
+          <mxGeometry height="40" width="640" x="10" y="1200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
