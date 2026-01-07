@@ -1308,7 +1308,7 @@
           <mxGeometry height="40" width="180" as="geometry" />
         </mxCell>
         <mxCell id="oCvQMGMe3iSIZ2hKXkXk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="External Application Load Balancer" vertex="1">
-          <mxGeometry height="40" width="640" x="40" y="40" as="geometry" />
+          <mxGeometry height="40" width="640" x="20" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DCjnVqkURGrC5P2Fgk3D-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Overview&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- operate at Layer 7 (Application Layer) of the OSI model&lt;/div&gt;&lt;div&gt;- load balancing is based on HTTP(S) &lt;b&gt;headers, cookies or URL paths&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- provide features like&amp;nbsp;&lt;b&gt;SSL/TLS&amp;nbsp;termination&lt;/b&gt;, &lt;b&gt;session affinity&lt;/b&gt; and &lt;b&gt;content-based routing.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;It distributes HTTP(S) traffic to:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;i.&lt;/b&gt; &lt;b&gt;backends hosted on variety of GCP services&lt;/b&gt; such as Cloud Storage, Compute Engine, Cloud Run or GKE&lt;/div&gt;&lt;div&gt;&lt;b&gt;ii.&lt;/b&gt; &lt;b&gt;external backends&lt;/b&gt; connected over the internet or by using hybrid connectivity.&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="400" x="20" y="80" as="geometry" />
