@@ -1653,6 +1653,12 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-61" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Application Load Balancer (HTTP/HTTPS)" vertex="1">
           <mxGeometry height="30" width="350" x="40" y="4050" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-83" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-85" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-62" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Network Load Balancer (TCP/UDP/Other)" vertex="1">
           <mxGeometry height="30" width="350" x="420" y="4050" as="geometry" />
         </mxCell>
@@ -1668,10 +1674,16 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Internal" vertex="1">
           <mxGeometry height="30" width="150" x="240" y="4130" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-77" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Global" vertex="1">
           <mxGeometry height="30" width="79" x="11" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-71" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-79" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-72" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
@@ -1680,8 +1692,26 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-73" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-81" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-74" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
           <mxGeometry height="30" width="150" x="240" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Global&lt;br&gt;External ALB" vertex="1">
+          <mxGeometry height="60" width="78" x="12" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional&lt;br&gt;External ALB" vertex="1">
+          <mxGeometry height="60" width="78" x="113.5" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional&lt;br&gt;Internal ALB" vertex="1">
+          <mxGeometry height="60" width="78" x="276" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-82" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Proxy" vertex="1">
+          <mxGeometry height="30" width="216" x="414" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-84" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Passthrough" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="4130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
