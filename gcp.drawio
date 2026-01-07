@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EtpOw3la9hhwaeazM0Ie" name="3.3 Infrastructure Automation">
-    <mxGraphModel dx="836" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2165,6 +2165,12 @@
         </mxCell>
         <mxCell id="z8AhfJj6ViwrBVmbMwto-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What?&lt;/b&gt;&amp;nbsp;Use Dataprep to visually explore, clean and prepare structured and unstructured data for analysis, reporting and machine learning.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- serverless, works at any scale&lt;/div&gt;&lt;div&gt;- Suggests ideal data transformation&lt;/div&gt;&lt;div&gt;- Focus on data analysis&lt;/div&gt;&lt;div&gt;- Integrated partner service operated by Trifacta&lt;/div&gt;&lt;div&gt;- Our next ideal data transformation is suggested and predicted with each UI input so we don&#39;t have to write code.&lt;/div&gt;&lt;div&gt;- With automatic schema, datatype, possible joins and anomaly detection, we can skip time consuming data profiling and focus on data-analysis.&lt;/div&gt;&lt;div&gt;- Dataprep is an integrated partner service operated by Trifacta and based on their industry-leading data preparation solution, Trifacta Wranger.&lt;/div&gt;&lt;div&gt;- Google works closely with Trifacta to provide a seamless user experience that removes the need for up-front software installation, separate licensing costs or ongoing operational overhead.&lt;/div&gt;&lt;div&gt;- Dataprep is fully managed and scales on demand to meet our growing data preparation needs, so we can stay focused on analysis.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;How to use?&lt;/b&gt;&amp;nbsp;Dataprep can be leveraged to prepare raw data from BigQuery, CloudStorage or a file upload before ingesting it onto a transformation pipeline like Dataflow.&lt;/div&gt;&lt;div&gt;The refined data can then be exported to BigQuery or Cloud Storage for analysis and machine learning.&lt;/div&gt;" vertex="1">
           <mxGeometry height="440" width="370" x="450" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Dataproc" vertex="1">
+          <mxGeometry height="40" width="300" x="20" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What?&lt;/b&gt;&amp;nbsp;Dataproc is a service for running Apache Spark and Apache Hadoop clusters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="420" x="12.490000000000027" y="1640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
