@@ -1698,13 +1698,13 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-74" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
           <mxGeometry height="30" width="150" x="240" y="4200" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Global&lt;br&gt;External ALB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Global&lt;br&gt;External ALB" vertex="1">
           <mxGeometry height="60" width="78" x="12" y="4270" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional&lt;br&gt;External ALB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Regional&lt;br&gt;External ALB" vertex="1">
           <mxGeometry height="60" width="78" x="113.5" y="4270" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional&lt;br&gt;Internal ALB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Regional&lt;br&gt;Internal ALB" vertex="1">
           <mxGeometry height="60" width="78" x="276" y="4270" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-96" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-89">
@@ -1743,13 +1743,13 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-95" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="External Proxy NLB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="External Proxy NLB" vertex="1">
           <mxGeometry height="60" width="54" x="386" y="4320" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Reginal External Proxy NLB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Reginal External Proxy NLB" vertex="1">
           <mxGeometry height="60" width="68" x="456.5" y="4320" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional Internal Proxy NLB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Regional Internal Proxy NLB" vertex="1">
           <mxGeometry height="60" width="68" x="540" y="4320" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-106" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-105" value="">
@@ -1782,10 +1782,10 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-105" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
           <mxGeometry height="30" width="60" x="638.5" y="4260" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional External Passthrough NLB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Regional External Passthrough NLB" vertex="1">
           <mxGeometry height="60" width="76.5" x="630" y="4320" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Regional Internal Passthrough NLB" vertex="1">
+        <mxCell id="kAEga78Fw_SUif0IxZN2-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Regional Internal Passthrough NLB" vertex="1">
           <mxGeometry height="60" width="76.5" x="723.5" y="4320" as="geometry" />
         </mxCell>
       </root>
