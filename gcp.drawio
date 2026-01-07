@@ -1606,37 +1606,37 @@
           <mxGeometry height="40" width="740" x="20" y="3554" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="80" width="450" x="200" y="3600" as="geometry" />
+          <mxGeometry height="80" width="450" x="170" y="3610" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-52" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="forwarding rule&lt;br&gt;&lt;i&gt;regional&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="92" x="218" y="3610" as="geometry" />
+          <mxGeometry height="60" width="92" x="188" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-53" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-51" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Target TCP proxy&lt;br&gt;&lt;i&gt;regional&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="112" x="358" y="3610" as="geometry" />
+          <mxGeometry height="60" width="112" x="328" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-57" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-56" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;div&gt;Backend service&lt;/div&gt;&lt;div&gt;&lt;i&gt;regional&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="112" x="510" y="3610" as="geometry" />
+          <mxGeometry height="60" width="112" x="480" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-55" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kAEga78Fw_SUif0IxZN2-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Client VMs" vertex="1">
-          <mxGeometry height="60" width="92" x="70" y="3610" as="geometry" />
+          <mxGeometry height="60" width="92" x="40" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Instance Groups&lt;br&gt;or NEGs" vertex="1">
-          <mxGeometry height="60" width="112" x="678" y="3610" as="geometry" />
+          <mxGeometry height="60" width="112" x="648" y="3620" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;- Each global forwarding rule uses a regional IP address that the clients use to connect.&lt;/div&gt;&lt;div&gt;- The cross-region mode lets us load balance traffic to backend services that are globally distributed, including traffic management that ensures traffic is directed to the closest backend.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="740" x="20" y="3750" as="geometry" />
+          <mxGeometry height="70" width="780" x="20" y="3750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
