@@ -2140,7 +2140,19 @@
           <mxGeometry height="40" width="300" x="440" y="730" as="geometry" />
         </mxCell>
         <mxCell id="z8AhfJj6ViwrBVmbMwto-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Why?&lt;/b&gt;&amp;nbsp;Using a managed service allows us to outsource a lot of the administrative and maintenance overhead to Google, if our application requirements fit within the service offering." vertex="1">
-          <mxGeometry height="260" width="360" x="430" y="770" as="geometry" />
+          <mxGeometry height="80" width="360" x="430" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Big Query" vertex="1">
+          <mxGeometry height="40" width="300" x="440" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;BigQuery is GC&#39;s serverless, highly scalable and cost-effective cloud data warehouse.&amp;nbsp; Its features are:&lt;/div&gt;&lt;div&gt;- fully managed&lt;/div&gt;&lt;div&gt;- petabyte scale&lt;/div&gt;&lt;div&gt;- SQL interface&lt;/div&gt;&lt;div&gt;- Very fast&lt;/div&gt;&lt;div&gt;- since there&#39;s no infrastructure for us to manage, we can focus on uncovering meaningful insights using familiar SQL without the need of a database administrator.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="360" x="430" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;How to access BigQuery?&lt;/div&gt;&lt;div&gt;1. GC Console&lt;/div&gt;&lt;div&gt;2. Command Line&lt;/div&gt;&lt;div&gt;3. Make calls to BigQuery REST API using a variety of client libraries such as Java, .NET or Python&lt;/div&gt;&lt;div&gt;4. There are also several third-party tools that we can use to interact with BigQuery such as visualizing the data of loading the data.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="395.03" x="24.97" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-19" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="z8AhfJj6ViwrBVmbMwto-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
