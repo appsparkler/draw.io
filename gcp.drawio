@@ -2136,6 +2136,12 @@
         <mxCell id="z8AhfJj6ViwrBVmbMwto-13" edge="1" parent="1" source="z8AhfJj6ViwrBVmbMwto-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;" target="z8AhfJj6ViwrBVmbMwto-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Managed Services" vertex="1">
+          <mxGeometry height="40" width="300" x="440" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="z8AhfJj6ViwrBVmbMwto-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Why?&lt;/b&gt;&amp;nbsp;Using a managed service allows us to outsource a lot of the administrative and maintenance overhead to Google, if our application requirements fit within the service offering." vertex="1">
+          <mxGeometry height="260" width="360" x="430" y="770" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
