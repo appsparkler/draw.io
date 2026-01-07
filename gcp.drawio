@@ -1662,14 +1662,26 @@
         <mxCell id="kAEga78Fw_SUif0IxZN2-63" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="External" vertex="1">
           <mxGeometry height="30" width="150" x="24" y="4130" as="geometry" />
         </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-75" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAEga78Fw_SUif0IxZN2-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Internal" vertex="1">
           <mxGeometry height="30" width="150" x="240" y="4130" as="geometry" />
         </mxCell>
-        <mxCell id="kAEga78Fw_SUif0IxZN2-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="External" vertex="1">
-          <mxGeometry height="30" width="150" x="11" y="4250" as="geometry" />
+        <mxCell id="kAEga78Fw_SUif0IxZN2-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Global" vertex="1">
+          <mxGeometry height="30" width="79" x="11" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="kAEga78Fw_SUif0IxZN2-71" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-68">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-72" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
+          <mxGeometry height="30" width="85" x="110" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-73" edge="1" parent="1" source="kAEga78Fw_SUif0IxZN2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kAEga78Fw_SUif0IxZN2-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAEga78Fw_SUif0IxZN2-74" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Regional" vertex="1">
+          <mxGeometry height="30" width="150" x="240" y="4200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
