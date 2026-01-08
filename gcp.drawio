@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.10" pages="7">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2225,6 +2225,14 @@
         <mxCell id="z8AhfJj6ViwrBVmbMwto-37" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=default;" value="Dataflow" vertex="1">
           <mxGeometry height="60" width="120" x="565" y="1985" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qnLaQIBvVzHQXCAgJ_my" name="4.3 Kubernetes Architecture">
+    <mxGraphModel dx="620" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
