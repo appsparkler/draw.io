@@ -139,7 +139,7 @@
           <mxGeometry height="220" width="530" x="270" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="OOprSnaqTAynn3hjufOm-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;kubectl&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;limitations&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;although kubectl is a toolfor administering the internal state of an existing cluster, it can&#39;t create new cluster or change the shape of existing clusters.&amp;nbsp; That&#39;s done through GKE control plane, with the gcloud command and the Google Cloud console interface.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="530" x="20" y="2920" as="geometry" />
+          <mxGeometry height="70" width="780" x="20" y="2910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
