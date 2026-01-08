@@ -73,6 +73,9 @@
         <mxCell id="OOprSnaqTAynn3hjufOm-25" edge="1" parent="1" source="OOprSnaqTAynn3hjufOm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="OOprSnaqTAynn3hjufOm-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OOprSnaqTAynn3hjufOm-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Node and kubelet&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- each node runs a small family of components called a &lt;b&gt;kubelet&lt;/b&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we can think of a kubelet as Kubernetes&#39;s agent on each node.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- when kube-apiserver wants to start a pod on a node, it connects to that node&#39;s kubelet.&amp;nbsp; Kubelet uses the container runtime to start the pod and monitors its lifecycle, including readiness and liveliness probes and reports back to the kube-apiserver.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="301" x="20" y="1180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
