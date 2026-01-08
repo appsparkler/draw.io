@@ -34,6 +34,9 @@
         <mxCell id="OOprSnaqTAynn3hjufOm-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Kubernetes components&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cluster&lt;span style=&quot;font-weight: normal;&quot;&gt;,&amp;nbsp;&lt;b&gt;nodes and pods&lt;/b&gt; - a cluster needs computers which are usually VMs.&amp;nbsp; These VMs are always in GKE but they could be physical computers too.&amp;nbsp; One computer/VM is called the&amp;nbsp;&lt;b&gt;control plane&amp;nbsp;&lt;/b&gt;and the others are called&amp;nbsp;&lt;b&gt;nodes.&lt;/b&gt;&amp;nbsp;The&amp;nbsp;&lt;b&gt;node&#39;s&amp;nbsp;&lt;/b&gt;job is to run&amp;nbsp;&lt;b&gt;pods&amp;nbsp;&lt;/b&gt;and the control plane&#39;s job is to coordinate the entire cluster.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="350" x="450" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="OOprSnaqTAynn3hjufOm-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Control plane components&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="430" x="10" y="620" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
