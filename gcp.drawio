@@ -2413,8 +2413,8 @@
             <mxPoint x="330" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GPO6o60PJQaoUWgeRMy--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Running containers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- For our service or job to be deploy-able to Cloud Run, we must package it in a container image.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="370" x="430" y="290" as="geometry" />
+        <mxCell id="GPO6o60PJQaoUWgeRMy--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Running containers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- For our service or job to be deploy-able to Cloud Run, we must package it in a container image.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- This means we can develop our application in any programming language and run them on Cloud Run, as long they can be compiled to a 64-bit Linux binary and packaged in a container image.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="370" x="430" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
