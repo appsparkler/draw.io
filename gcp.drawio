@@ -2523,8 +2523,8 @@
         <mxCell id="GPO6o60PJQaoUWgeRMy--40" edge="1" parent="1" source="GPO6o60PJQaoUWgeRMy--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.13;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="GPO6o60PJQaoUWgeRMy--30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPO6o60PJQaoUWgeRMy--41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Shutting down&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="335" width="120" x="350" y="1800" as="geometry" />
+        <mxCell id="GPO6o60PJQaoUWgeRMy--41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Shutting down&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- if our container is idle, Cloud Run can decide to stop it at any time.&amp;nbsp; By default, container just disappears when it&#39;s shut down.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Graceful shut down &lt;span style=&quot;font-weight: normal;&quot;&gt;- we can build our application to handle a SIGTERM signal which warns our application that shutdown is imminent.&amp;nbsp; That gives the application 10 seconds to clean up things before the container is removed.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="420" width="120" x="350" y="1800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
