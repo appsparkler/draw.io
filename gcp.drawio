@@ -2393,6 +2393,9 @@
         <mxCell id="ch-utA7wFTlXfeGSUZT3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1" value="Cloud Run - Part 1" vertex="1">
           <mxGeometry height="40" width="180" as="geometry" />
         </mxCell>
+        <mxCell id="Pyn89rMt0YmmMVTLQVEh-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Fundamentals of Cloud Run" vertex="1">
+          <mxGeometry height="40" width="420" x="10" y="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
