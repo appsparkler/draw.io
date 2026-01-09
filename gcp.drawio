@@ -2400,7 +2400,7 @@
           <mxGeometry height="160" width="220" x="10" y="80" as="geometry" />
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Services and Jobs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Services &lt;span style=&quot;font-weight: normal;&quot;&gt;- run code that responds to a web requests or other events (invocations)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Jobs&lt;span style=&quot;font-weight: normal;&quot;&gt; - used to run code that performs work (a job) and quits when the work is done.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="220" x="240" y="80" as="geometry" />
+          <mxGeometry height="160" width="180" x="240" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
