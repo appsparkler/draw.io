@@ -2386,7 +2386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A3PVbAJ6RnpZb_PyFswu" name="5.1 Fundamentals of Cloud Run">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="301" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2421,6 +2421,22 @@
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Cloud Run Benefits&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- integrates with other GC services which enables us to build full-featured applications.&amp;nbsp; We can use Data storage such as Cloud SQL, Firestore, Cloud Storage, and others.&amp;nbsp; Cloud Logging for log ingestion and reporting, Identity and Access Management for service identification and authentication.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Its serverless which means we don&#39;t have to worry about server infrastructure provisioning and management.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- supports continuous integration with source code repos such as GitHub, BitBucket or Cloud Source Repositories (CSR)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- automatic error logging and reporting&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- pay per use pricing for services&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="480" x="10" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="GPO6o60PJQaoUWgeRMy--9" edge="1" parent="1" source="GPO6o60PJQaoUWgeRMy--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="669" />
+            </Array>
+            <mxPoint x="371" y="669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GPO6o60PJQaoUWgeRMy--10" edge="1" parent="1" source="GPO6o60PJQaoUWgeRMy--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=0.75;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="669" />
+            </Array>
+            <mxPoint x="371" y="669" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
