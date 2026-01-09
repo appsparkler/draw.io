@@ -2386,7 +2386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A3PVbAJ6RnpZb_PyFswu" name="5.1 Fundamentals of Cloud Run">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2472,7 +2472,7 @@
           <mxGeometry height="390" width="325" x="15" y="1610" as="geometry" />
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Where does the container image come from?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="325" x="52.5" y="2370" as="geometry" />
+          <mxGeometry height="120" width="440" x="20" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--24" edge="1" parent="1" source="GPO6o60PJQaoUWgeRMy--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;">
           <mxGeometry relative="1" as="geometry">
@@ -2527,7 +2527,7 @@
           <mxGeometry height="200" width="120" x="350" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Graceful shutdown (handling SIGTERM)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we can build our application to handle a SIGTERM signal which warns our application that shutdown is imminent.&amp;nbsp; That gives the application 10 seconds to clean up things before the container is removed, such as closing database connections, open TCP connections, file descriptors&amp;nbsp; or flushing buffers with data such as telemetry data or any other data that we batch before sending.&amp;nbsp; Most downstream systems are slow to time out idling connections.&amp;nbsp; If our app experiences much scaling up and down, we might hit maximum connection errors if we don&#39;t close connections.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- finally, its useful to write a log that&#39;ll help with debugging later.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="325" x="480" y="2200" as="geometry" />
+          <mxGeometry height="270" width="325" x="475" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="GPO6o60PJQaoUWgeRMy--44" edge="1" parent="1" source="GPO6o60PJQaoUWgeRMy--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.509;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="GPO6o60PJQaoUWgeRMy--41">
           <mxGeometry relative="1" as="geometry" />
