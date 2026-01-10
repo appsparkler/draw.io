@@ -2543,6 +2543,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GPO6o60PJQaoUWgeRMy--47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Autoscaling" vertex="1">
+          <mxGeometry height="40" width="270" x="20" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="GPO6o60PJQaoUWgeRMy--48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Access Control" vertex="1">
+          <mxGeometry height="40" width="270" x="20" y="2680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
