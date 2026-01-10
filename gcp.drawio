@@ -2618,6 +2618,9 @@
         <mxCell id="IYz4v-9hyAPMkbC4YP7c-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Further, we can restric our connectors access to the resources in our VPC network with firewall rules.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="415" x="13.75" y="4590" as="geometry" />
         </mxCell>
+        <mxCell id="IYz4v-9hyAPMkbC4YP7c-36" edge="1" parent="1" source="IYz4v-9hyAPMkbC4YP7c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.786;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;" target="IYz4v-9hyAPMkbC4YP7c-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
