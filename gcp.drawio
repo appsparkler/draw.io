@@ -2589,7 +2589,7 @@
           <mxGeometry height="190" width="370" x="440" y="3520" as="geometry" />
         </mxCell>
         <mxCell id="IYz4v-9hyAPMkbC4YP7c-17" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;labelBackgroundColor=light-dark(#99FF99,#EDEDED);fontFamily=Verdana;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Transformation demands change. Development demands change.&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="85" width="320" x="480" y="2195" as="geometry" />
+          <mxGeometry height="85" width="320" x="477.5" y="2195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
