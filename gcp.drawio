@@ -2386,7 +2386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A3PVbAJ6RnpZb_PyFswu" name="5.1 Fundamentals of Cloud Run">
-    <mxGraphModel dx="1319" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2600,8 +2600,8 @@
         <mxCell id="IYz4v-9hyAPMkbC4YP7c-21" edge="1" parent="1" source="IYz4v-9hyAPMkbC4YP7c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="IYz4v-9hyAPMkbC4YP7c-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IYz4v-9hyAPMkbC4YP7c-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Making a Cloud Run service public&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="370" x="440" y="3720" as="geometry" />
+        <mxCell id="IYz4v-9hyAPMkbC4YP7c-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Making a Cloud Run service public&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;We can use IAM for access control to &lt;b&gt;invoke Cloud Run services&lt;/b&gt; which also works well for service-to-service communication.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="370" x="440" y="3720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
