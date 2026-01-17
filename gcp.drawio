@@ -2695,6 +2695,12 @@
         <mxCell id="mp9tJsiCH2bEgrwmqIW--6" edge="1" parent="1" source="4UmMEcF6H0RzRUYeiqVL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.013;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" target="4UmMEcF6H0RzRUYeiqVL-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mp9tJsiCH2bEgrwmqIW--7" edge="1" parent="1" source="mp9tJsiCH2bEgrwmqIW--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" target="mp9tJsiCH2bEgrwmqIW--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9tJsiCH2bEgrwmqIW--8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Principles of least privilage" vertex="1">
+          <mxGeometry height="40" width="334" x="479" y="1410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
