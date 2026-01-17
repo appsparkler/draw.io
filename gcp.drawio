@@ -2625,7 +2625,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LIaX9NEWiwMQ3Zao78nw" name="5.2-Service Identity and Authentication">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2688,6 +2688,12 @@
         </mxCell>
         <mxCell id="mp9tJsiCH2bEgrwmqIW--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Another way to look at policy binding inheritance&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;When IAM evaluates access to a resource, it evaluates policy bindings from the parent resource (and their parent) as well.&amp;nbsp; The effective IAM policy on the resource includes those bindings that are granted to a parent which we cannot take away.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="240" x="573" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9tJsiCH2bEgrwmqIW--5" edge="1" parent="1" source="4UmMEcF6H0RzRUYeiqVL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" target="4UmMEcF6H0RzRUYeiqVL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9tJsiCH2bEgrwmqIW--6" edge="1" parent="1" source="4UmMEcF6H0RzRUYeiqVL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.013;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" target="4UmMEcF6H0RzRUYeiqVL-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
