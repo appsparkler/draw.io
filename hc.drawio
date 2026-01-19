@@ -13,7 +13,7 @@
         <mxCell id="lk9_SaBa9FJU-rc_oaOa-3" parent="1" style="text;whiteSpace=wrap;fontSize=14.2;" value="Achievement&#xa;Adventure&#xa;Authenticity&#xa;Balance&#xa;Beauty&#xa;Creativity&#xa;Ease&#xa;Freedom&#xa;Fun&#xa;Expressing Gratitude&#xa;Happiness&#xa;Inspiration&#xa;Integrity&#xa;Learning / Growth&#xa;Love&#xa;Meaning /Purpose&#xa;Nourishment&#xa;Order&#xa;Peace&#xa;Power/ to make a difference&#xa;Security&#xa;Self-expression&#xa;Self-esteem/ Self-respect&#xa;Space" vertex="1">
           <mxGeometry height="423" width="180" x="150" y="17" as="geometry" />
         </mxCell>
-        <mxCell id="lk9_SaBa9FJU-rc_oaOa-4" parent="1" style="text;whiteSpace=wrap;fontSize=14.2;" value="PHYSICAL&#xa;Air&#xa;Food&#xa;Movement&#xa;Rest&#xa;Light&#xa;Touch&#xa;Warmth" vertex="1">
+        <mxCell id="lk9_SaBa9FJU-rc_oaOa-4" parent="1" style="text;whiteSpace=wrap;fontSize=14.2;fontStyle=0" value="PHYSICAL&#xa;Air&#xa;Food&#xa;Movement&#xa;Rest&#xa;Light&#xa;Touch&#xa;Warmth" vertex="1">
           <mxGeometry height="140" width="90" x="150" y="440" as="geometry" />
         </mxCell>
       </root>
