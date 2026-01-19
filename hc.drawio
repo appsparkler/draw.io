@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dhxPGl99eTTxA_ZqUz0V-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=16;" value="Needs" vertex="1">
+        <mxCell id="dhxPGl99eTTxA_ZqUz0V-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=16;fontStyle=1" value="Needs" vertex="1">
           <mxGeometry height="30" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lk9_SaBa9FJU-rc_oaOa-1" parent="1" style="text;whiteSpace=wrap;fontSize=14.2;" value="Affirmation&#xa;Appreciation&#xa;Autonomy/Independence&#xa;Belonging&#xa;Celebration&#xa;Clarity&#xa;Collaboration&#xa;Community&#xa;Companionship&#xa;Compassion&#xa;Consideration&#xa;Connection&#xa;Cooperation&#xa;Empathy&#xa;Harmony&#xa;Honesty&#xa;Humour&#xa;JoyMourning/ expressing sadness&#xa;Participation&#xa;Play&#xa;Protection&#xa;Reassurance&#xa;Recognition&#xa;Respect&#xa;Safety&#xa;Simplicity&#xa;Structure&#xa;Support&#xa;To contribute&#xa;Trust&#xa;Understanding" vertex="1">
+          <mxGeometry height="573" width="143" x="7" y="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
