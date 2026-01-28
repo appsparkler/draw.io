@@ -432,6 +432,9 @@
         <mxCell id="NbXD8a90kOBMri2SeJOM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="Interacting with GC" vertex="1">
           <mxGeometry height="40" width="300" x="10" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="NbXD8a90kOBMri2SeJOM-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;4 ways to interact with GC&lt;br&gt;1.&amp;nbsp;Google Cloud Console&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;Cloud Shell and GC CLI&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3.&amp;nbsp;REST-based API&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4.&amp;nbsp;Cloud Mobile App&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="10" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
