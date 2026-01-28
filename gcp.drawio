@@ -498,6 +498,9 @@
         <mxCell id="FxzNXcHVu73W6MJC7_lm-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Increased availability with multiple zones&lt;/b&gt;&lt;/div&gt;- by allocating VMs on a single subnet to separate zones, we get improved availability without additional security complexity.&amp;nbsp; A regional managed instance group contains instances from multiple zones across the same region, which provides increased availability." vertex="1">
           <mxGeometry height="120" width="379" x="431" y="2910" as="geometry" />
         </mxCell>
+        <mxCell id="FxzNXcHVu73W6MJC7_lm-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Globalization with multiple regions&lt;/b&gt;&lt;/div&gt;- for ex. when using global load balancer, like the HTTP load balancer, we can route traffic to the region that is closest to the user.&amp;nbsp; This can result in better latency for users and lower network traffic costs for our project." vertex="1">
+          <mxGeometry height="100" width="412" x="8" y="2990" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
