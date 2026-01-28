@@ -493,7 +493,10 @@
           <mxGeometry height="80" width="380" x="431" y="2820" as="geometry" />
         </mxCell>
         <mxCell id="FxzNXcHVu73W6MJC7_lm-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Estimate costs with the GC Pricing Calculator&lt;/b&gt;&lt;/div&gt;It is recommended to use the GC pricing calculator to estimate the cost of a collection of resources because each GC service has its own pricing model." vertex="1">
-          <mxGeometry height="230" width="412" x="8" y="2890" as="geometry" />
+          <mxGeometry height="90" width="412" x="8" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzNXcHVu73W6MJC7_lm-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Increased availability with multiple zones&lt;/b&gt;&lt;/div&gt;- by allocating VMs on a single subnet to separate zones, we get improved availability without additional security complexity.&amp;nbsp; A regional managed instance group contains instances from multiple zones across the same region, which provides increased availability." vertex="1">
+          <mxGeometry height="120" width="379" x="431" y="2910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
