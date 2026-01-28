@@ -466,10 +466,10 @@
           <mxGeometry height="260" width="231" x="19" y="1850" as="geometry" />
         </mxCell>
         <mxCell id="FxzNXcHVu73W6MJC7_lm-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Alias IP ranges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the let us assign a range of internal IP addresses as an alias to a virtual machine&#39;s network interface.&amp;nbsp; This is useful if we have multiple services running on a VM and we want to assign a different IP address to each service.&lt;/div&gt;&lt;div&gt;- In essence, we can configure multiple IP addresses, representing containers or applications hosted in a VM, without having to define a separate network interface.&amp;nbsp; We just draw the alias IP range from the local subnet&#39;s primary or secondary CIDR ranges.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="231" x="260" y="1850" as="geometry" />
+          <mxGeometry height="240" width="231" x="260" y="1850" as="geometry" />
         </mxCell>
-        <mxCell id="FxzNXcHVu73W6MJC7_lm-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Routes&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="231" x="500" y="1850" as="geometry" />
+        <mxCell id="FxzNXcHVu73W6MJC7_lm-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Routes&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- A route is a mapping of an IP range to a destination.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Every network has:&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;- A default route that directs packets to destination that are outside the network.&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Routes that let instances in a network send traffic directly to each other, even across subnets.&lt;/div&gt;&lt;div&gt;- Just creating the route doesn&#39;t ensure that the packet will be receeived by the specified next hop.&amp;nbsp;&amp;nbsp;Firewall rules must also allow the packet.&amp;nbsp; The default network has pre-configured rules that allow all instances to talk with each other.&amp;nbsp; Manually created networks do not have such rules, so we must create them.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="310" x="500" y="1850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
