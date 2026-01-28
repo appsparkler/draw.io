@@ -480,8 +480,8 @@
         <mxCell id="FxzNXcHVu73W6MJC7_lm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="The virtual network router selects the next hop for a packet by consulting the routing table for that instance" vertex="1">
           <mxGeometry height="70" width="230" x="18" y="2120" as="geometry" />
         </mxCell>
-        <mxCell id="FxzNXcHVu73W6MJC7_lm-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Firewall Rules&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- VPC network functions as a distributed firewall&lt;/div&gt;&lt;div&gt;- Firewall rules are applied to the network as a whole.&lt;/div&gt;&lt;div&gt;- Connections are allowed or denied at the instance level.&lt;/div&gt;&lt;div&gt;- Firewall rules are stateful&lt;/div&gt;&lt;div&gt;- Implied deny all ingress and allow all egress&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="420" x="20" y="2360" as="geometry" />
+        <mxCell id="FxzNXcHVu73W6MJC7_lm-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Firewall Rules&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- VPC network functions as a distributed firewall - it protects our virtual machine instances from unapproved connections, both inbound and outbound, known as ingress and egress, respectively.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Firewall rules are applied to the network as a whole.&lt;/div&gt;&lt;div&gt;- Connections are allowed or denied at the instance level.&lt;/div&gt;&lt;div&gt;- Firewall rules are stateful&lt;/div&gt;&lt;div&gt;- Implied deny all ingress and allow all egress&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="420" x="20" y="2360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
