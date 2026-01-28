@@ -423,6 +423,9 @@
         <mxCell id="2HWvdMSVWSpGX1TzIJff-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="No Ops" vertex="1">
           <mxGeometry height="30" width="81" x="730" y="125" as="geometry" />
         </mxCell>
+        <mxCell id="NbXD8a90kOBMri2SeJOM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="IT infrastructure is, in many ways, like a city infrastructure.&amp;nbsp; The people in the city are like &lt;b&gt;users&lt;/b&gt;, the cars, bikes and buildings (shops, services, etc.) are like &lt;b&gt;applications&lt;/b&gt; and everything that goes into supporting those applications for the users is the &lt;b&gt;infrastructure&lt;/b&gt;." vertex="1">
+          <mxGeometry height="110" width="280" x="10" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
