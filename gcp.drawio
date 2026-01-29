@@ -957,6 +957,99 @@
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Compute optimized&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- highest performance per core on compute engine&lt;/div&gt;" vertex="1">
           <mxGeometry height="66" width="358" x="450" y="1754" as="geometry" />
         </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-100" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="220" width="420" x="20" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-101" parent="tdmstNG9KXWjvd3Wkb1m-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#6c8ebf;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#dae8fc;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="20" width="420" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-102" parent="tdmstNG9KXWjvd3Wkb1m-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;fontStyle=1" value="Memory optimized" vertex="1">
+          <mxGeometry height="20" width="420" as="geometry">
+            <mxRectangle height="20" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-103" parent="tdmstNG9KXWjvd3Wkb1m-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="20" width="100" x="80" as="geometry">
+            <mxRectangle height="20" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-104" parent="tdmstNG9KXWjvd3Wkb1m-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="20" width="240" x="180" as="geometry">
+            <mxRectangle height="20" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-105" parent="tdmstNG9KXWjvd3Wkb1m-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="42" width="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-106" parent="tdmstNG9KXWjvd3Wkb1m-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Series" vertex="1">
+          <mxGeometry height="42" width="80" as="geometry">
+            <mxRectangle height="42" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-107" parent="tdmstNG9KXWjvd3Wkb1m-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Workload" vertex="1">
+          <mxGeometry height="42" width="100" x="80" as="geometry">
+            <mxRectangle height="42" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-108" parent="tdmstNG9KXWjvd3Wkb1m-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=4;colspan=1;" value="Medium in-memory databases such as SAP HANA, taks that require intensive use of memory with higher memory-to-vCPU ratios than general-purpose high-memory machine types&lt;br&gt;&lt;br&gt;large in-memory analytics, business warehousing (BW) workloads, genomic analysis, SQL analysis services, etc.&lt;br&gt;&lt;br&gt;OLAP and OLTP SAP workloads, Memory Intense EDA" vertex="1">
+          <mxGeometry height="200" width="240" x="180" as="geometry">
+            <mxRectangle height="42" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-109" parent="tdmstNG9KXWjvd3Wkb1m-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="53" width="420" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-110" parent="tdmstNG9KXWjvd3Wkb1m-109" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="M1" vertex="1">
+          <mxGeometry height="53" width="80" as="geometry">
+            <mxRectangle height="53" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-111" parent="tdmstNG9KXWjvd3Wkb1m-109" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=3;colspan=1;" value="Ultra high memory workloads" vertex="1">
+          <mxGeometry height="158" width="100" x="80" as="geometry">
+            <mxRectangle height="53" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-112" parent="tdmstNG9KXWjvd3Wkb1m-109" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="web or app serving, back office apps, small-medium dbs, microservices, virtual desktops, development environments" vertex="1" visible="0">
+          <mxGeometry height="53" width="240" x="180" as="geometry">
+            <mxRectangle height="53" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-113" parent="tdmstNG9KXWjvd3Wkb1m-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="43" width="420" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-114" parent="tdmstNG9KXWjvd3Wkb1m-113" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="M2" vertex="1">
+          <mxGeometry height="43" width="80" as="geometry">
+            <mxRectangle height="43" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-115" parent="tdmstNG9KXWjvd3Wkb1m-113" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="balanced price/performance" vertex="1" visible="0">
+          <mxGeometry height="43" width="100" x="80" as="geometry">
+            <mxRectangle height="43" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-116" parent="tdmstNG9KXWjvd3Wkb1m-113" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="+ medium to large dbs, cache, media/streaming" vertex="1" visible="0">
+          <mxGeometry height="43" width="240" x="180" as="geometry">
+            <mxRectangle height="43" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-117" parent="tdmstNG9KXWjvd3Wkb1m-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="62" width="420" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-118" parent="tdmstNG9KXWjvd3Wkb1m-117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="M3" vertex="1">
+          <mxGeometry height="62" width="80" as="geometry">
+            <mxRectangle height="62" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-119" parent="tdmstNG9KXWjvd3Wkb1m-117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="scale out optimized" vertex="1" visible="0">
+          <mxGeometry height="62" width="100" x="80" as="geometry">
+            <mxRectangle height="62" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-120" parent="tdmstNG9KXWjvd3Wkb1m-117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="scale out workloads, containerized microservices, media transcoding, large scale Java applications" vertex="1" visible="0">
+          <mxGeometry height="62" width="240" x="180" as="geometry">
+            <mxRectangle height="62" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
