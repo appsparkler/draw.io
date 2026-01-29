@@ -1102,7 +1102,7 @@
             <mxRectangle height="53" width="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdmstNG9KXWjvd3Wkb1m-133" parent="tdmstNG9KXWjvd3Wkb1m-130" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" value="CUDA-enabled ML training and inference, HPC, massive parallelized computation&lt;br&gt;&lt;br&gt;video transcoding, remote visualization workstation" vertex="1">
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-133" parent="tdmstNG9KXWjvd3Wkb1m-130" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" value="Compute Unified Device Architecture (CUDA)-enabled ML training and inference, HPC, massive parallelized computation&lt;br&gt;&lt;br&gt;video transcoding, remote visualization workstation" vertex="1">
           <mxGeometry height="96" width="240" x="180" as="geometry">
             <mxRectangle height="53" width="240" as="alternateBounds" />
           </mxGeometry>
