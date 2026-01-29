@@ -561,7 +561,7 @@
           <mxGeometry height="110" width="300" x="10" y="690" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-9" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="160" width="590" x="10" y="820" as="geometry" />
+          <mxGeometry height="160" width="590" x="10" y="810" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-10" parent="tdmstNG9KXWjvd3Wkb1m-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="590" as="geometry" />
@@ -751,10 +751,13 @@
           <mxGeometry height="210" width="420" x="20" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Shutdown and shutdown scripts&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;If we are rebooting, stopping or deleting an instance, the&amp;nbsp; shutdown process will take about 90 seconds.&amp;nbsp; For preemptible VMs, if&amp;nbsp; the instance doesn&#39;t stop after 30 seconds, Compute Engine sends an ACPI G3 Mechanical Off signal to the operating system.&amp;nbsp; Its important to remember this when writing a shutdown script for preemptible VMs.&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="580" x="10" y="1000" as="geometry" />
+          <mxGeometry height="90" width="590" x="10" y="980" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Patch management&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Manage OS easily through GC i.e. keep infrastructure up-to-date and reduce the risk of security vulnerabilities.&lt;/div&gt;&lt;div&gt;- OS patch management:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - patch compliance reporting - provides insights on the patch status of our VM instances across Windows and Linux distributions.&amp;nbsp; Along with insights, we can also view recommendations for our VM instances.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - patch deployment - it automates the operating system and software patch update process.&amp;nbsp; A patch deployment schedules path jobs.&amp;nbsp; A patch job runs across VM instances and applies patches.&lt;/div&gt;&lt;div&gt;- There are several tasks that can be managed with patch approvals:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- create patch approvals - selective patching&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- setup flexible scheduling - one time or recurring&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- applying advanced patch configuration settings, ex. pre and post patching scripts&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- centralized location for managing patch jobs or updates.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="300" width="358" x="452" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="When a VM is terminated, we do not pay for the memory and CPU resources.&amp;nbsp; However, we are charged for &lt;b&gt;any attached disks&lt;/b&gt; and &lt;b&gt;reserved IP addresses.&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="800" x="10" y="1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
