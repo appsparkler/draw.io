@@ -859,7 +859,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;General Purpose&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- best price-performance with most flexible vCPU to memory ratios&lt;/div&gt;&lt;div&gt;- E2 machines have option of shared core which can be more cost-effective.&amp;nbsp; Share-core E2 machine types have 0.25 to 1 vCPUs with 0.5 GB to 8GB of memory.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="358" x="452" y="1630" as="geometry" />
+          <mxGeometry height="110" width="358" x="452" y="1630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
