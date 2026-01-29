@@ -1126,7 +1126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;When to select a custom machine type?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- our requirements fit between the predefined types&lt;/div&gt;&lt;div&gt;- we need more memory or more CPU&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Constraints for custom machine type:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- either 1 vCPU or even number of vCPU&lt;/div&gt;&lt;div&gt;- upto 8GB per vCPU&lt;/div&gt;&lt;div&gt;- Total memory must be multiple of 256 MB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="246" width="358" x="450" y="2010" as="geometry" />
+          <mxGeometry height="140" width="358" x="450" y="2010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
