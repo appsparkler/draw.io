@@ -954,7 +954,7 @@
             <mxRectangle height="62" width="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdmstNG9KXWjvd3Wkb1m-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Compute optimized&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- highest performance per core on compute engine&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Memory optimized&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- provides the most compute and memory resources of any Compute Engine machine family offering.&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Compute optimized&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- highest performance per core on compute engine&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Memory optimized&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- provides the most compute and memory resources of any Compute Engine machine family offering.&lt;/div&gt;&lt;/div&gt;- both M1 and M2 machine series offer the lowest cost per GB of memory on Compute Engine, making them a great choice for workloads that utilize higher memory configurations with low compute resource requirements." vertex="1">
           <mxGeometry height="206" width="358" x="450" y="1754" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-100" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
