@@ -540,7 +540,7 @@
           <mxGeometry height="280" width="300" x="10" y="40" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Features of VMs&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Rightsizing&lt;/b&gt; - recommendation engine for optimum machine size, Cloud monitoring statistics, new recommendation 24 hrs after VM create or resize.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Technical &lt;/b&gt;- instance metadata, startup and shutdown scripts&lt;/div&gt;&lt;div&gt;&lt;b&gt;Availability policies &lt;/b&gt;- live migrate, auto restart&lt;/div&gt;&lt;div&gt;&lt;b&gt;Global load balancing&amp;nbsp;&lt;/b&gt;- multiple regions for HA&lt;/div&gt;&lt;div&gt;&lt;b&gt;OS patch management&lt;/b&gt;&amp;nbsp;- create patch approvals, setup flexible scheduling, apply advanced patch configuration settings&lt;/div&gt;&lt;div&gt;&lt;b&gt;Economy &lt;/b&gt;- per second billing, sustained use discounts, committed use discounts&lt;b&gt;,&amp;nbsp;&lt;/b&gt;preemptible and spot-vms (upto 91% discount, no SLA).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="300" x="320" y="40" as="geometry" />
+          <mxGeometry height="260" width="280" x="320" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
