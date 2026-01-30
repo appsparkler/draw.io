@@ -1158,8 +1158,8 @@
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Premium Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- few images on GCP are premium.&amp;nbsp; These images will have per-second charges after a 1-minute minimum with the exception of SQL server images which are charged per minute after 10-minute premium.&lt;/div&gt;&lt;div&gt;- premium image prices vary with the machine type&lt;/div&gt;&lt;div&gt;- however, the prices are global and do not vary by region or zone.&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="200" x="370" y="3240" as="geometry" />
         </mxCell>
-        <mxCell id="tdmstNG9KXWjvd3Wkb1m-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Machine Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- are the most ideal resources for disk backups as well as instance cloning and replication.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="220" x="20" y="3520" as="geometry" />
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Machine Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- a &quot;machine image&quot; is a Compute Engine resource that stores all the configuration, metadata, permissions, and data from one or more disks required to create a VM.&lt;/div&gt;&lt;div&gt;- machine images can be used in many system maintenance scenarios, such as creation, backup and recovery, and instance cloning.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="230" x="18" y="3520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
