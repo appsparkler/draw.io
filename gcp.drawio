@@ -1339,7 +1339,7 @@
           <mxGeometry height="160" width="470" x="340" y="3680" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-195" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="190" width="400" x="20" y="3850" as="geometry" />
+          <mxGeometry height="190" width="400" x="14" y="3850" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-196" parent="tdmstNG9KXWjvd3Wkb1m-195" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="400" as="geometry" />
