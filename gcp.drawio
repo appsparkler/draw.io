@@ -1339,45 +1339,45 @@
           <mxGeometry height="160" width="470" x="340" y="3680" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-195" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="190" width="380" x="20" y="3850" as="geometry" />
+          <mxGeometry height="190" width="400" x="20" y="3850" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-196" parent="tdmstNG9KXWjvd3Wkb1m-195" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="380" as="geometry" />
+          <mxGeometry height="40" width="400" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-197" parent="tdmstNG9KXWjvd3Wkb1m-196" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Zonal PD" vertex="1">
-          <mxGeometry height="40" width="190" as="geometry">
-            <mxRectangle height="40" width="190" as="alternateBounds" />
+          <mxGeometry height="40" width="200" as="geometry">
+            <mxRectangle height="40" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-198" parent="tdmstNG9KXWjvd3Wkb1m-196" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Regional PD" vertex="1">
-          <mxGeometry height="40" width="190" x="190" as="geometry">
-            <mxRectangle height="40" width="190" as="alternateBounds" />
+          <mxGeometry height="40" width="200" x="200" as="geometry">
+            <mxRectangle height="40" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-199" parent="tdmstNG9KXWjvd3Wkb1m-195" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="380" y="40" as="geometry" />
+          <mxGeometry height="40" width="400" y="40" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-200" parent="tdmstNG9KXWjvd3Wkb1m-199" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Efficient and reliable block storage" vertex="1">
-          <mxGeometry height="40" width="190" as="geometry">
-            <mxRectangle height="40" width="190" as="alternateBounds" />
+          <mxGeometry height="40" width="200" as="geometry">
+            <mxRectangle height="40" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-201" parent="tdmstNG9KXWjvd3Wkb1m-199" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="active-active disk replication across two zones in the same region" vertex="1">
-          <mxGeometry height="40" width="190" x="190" as="geometry">
-            <mxRectangle height="40" width="190" as="alternateBounds" />
+          <mxGeometry height="40" width="200" x="200" as="geometry">
+            <mxRectangle height="40" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-202" parent="tdmstNG9KXWjvd3Wkb1m-195" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="380" y="80" as="geometry" />
+          <mxGeometry height="110" width="400" y="80" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-203" parent="tdmstNG9KXWjvd3Wkb1m-202" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="110" width="190" as="geometry">
-            <mxRectangle height="110" width="190" as="alternateBounds" />
+          <mxGeometry height="110" width="200" as="geometry">
+            <mxRectangle height="110" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-204" parent="tdmstNG9KXWjvd3Wkb1m-202" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="durable storage that is synchronously replicated across zones and are a great option for high-performance DBs and enterprize application that also require high availability." vertex="1">
-          <mxGeometry height="110" width="190" x="190" as="geometry">
-            <mxRectangle height="110" width="190" as="alternateBounds" />
+          <mxGeometry height="110" width="200" x="200" as="geometry">
+            <mxRectangle height="110" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
