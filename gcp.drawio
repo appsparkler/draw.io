@@ -1387,7 +1387,7 @@
           <mxGeometry height="130" width="410" x="10" y="4030" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Local SSD&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- physically attached to a VM&lt;/div&gt;&lt;div&gt;- More IOPS, lower latency and higher throughput than PD.&lt;/div&gt;&lt;div&gt;- up to 24, 375 GB disks, total of 9TB allowed&lt;/div&gt;&lt;div&gt;- Data survives a reset but not a stop or terminate&lt;/div&gt;&lt;div&gt;- VM-speicifc: cannot be attached to a different VM&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="383" x="427" y="4092" as="geometry" />
+          <mxGeometry height="108" width="383" x="427" y="4092" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
