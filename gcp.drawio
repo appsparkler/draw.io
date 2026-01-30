@@ -1692,7 +1692,10 @@
           <mxGeometry height="110" width="220" x="10" y="5030" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-282" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Important points to remember about snapshots&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- snapshot is not available for local SSD&lt;/div&gt;&lt;div&gt;- automatically compressed&lt;/div&gt;&lt;div&gt;- Creates an incremental backup to Cloud Storage.&amp;nbsp; This is not visible in our buckets as it is managed by snapshot service&lt;/div&gt;&lt;div&gt;- Create scheduled snapshots - regularly and automatically backup our zonal or regional PDs&lt;/div&gt;&lt;div&gt;- Snapshots can be restored to a new PD - new disk can be in another region or zone in the same project.&lt;/div&gt;&lt;div&gt;- snapshot doesn&#39;t backup VM metadata, tags, ect.&lt;/div&gt;&lt;div&gt;- snapshots are available only to persistent disks and not to local SSDs&lt;/div&gt;&lt;div&gt;- snapshots are different from public images and custom images which are used primarily to create instances or configure instance templates, in that snapshots are useful for periodic backup of data on our PDs&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="320" x="490" y="5060" as="geometry" />
+          <mxGeometry height="280" width="320" x="490" y="5060" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;Resizing persist disks&lt;/div&gt;&lt;div&gt;- increasing storage capacity also improves disk I/O performance.&lt;/div&gt;&lt;div&gt;- this can be achieved while the disk is attached to a running VM without having to create a snapshot.&lt;/div&gt;&lt;div&gt;- &lt;u&gt;while we can grow disk size, we can never shrink them.&lt;/u&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="320" x="10" y="5150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
