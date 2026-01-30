@@ -1677,7 +1677,7 @@
           <mxGeometry height="150" width="480" x="330" y="4470" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-277" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Metadata and scripts&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- every VM instance stores its metadata on a metadata server&lt;/div&gt;&lt;div&gt;- this metadata server is particularly useful in combination with startup and shutdown scripts because we can use the metadata server to programmatically unique information about an instance without additional authorization.&amp;nbsp; For ex. we can write a startup script that gets the metadata key/value pair for an instance&#39;s external IP address and use that IP address in our script to setup a DB.&lt;/div&gt;&lt;div&gt;- these scripts are re-usable since the metadata keys are the same on every instance.&amp;nbsp; This helps us create less brittle code for our applications running on VMs.&lt;/div&gt;&lt;div&gt;- storing and retrieving metadata is very common Compute Engine action.&amp;nbsp; Its recommended to store the startup and shutdown scripts in Cloud Storage.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="480" x="10" y="4690" as="geometry" />
+          <mxGeometry height="190" width="470" x="10" y="4690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
