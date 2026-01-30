@@ -1667,6 +1667,9 @@
             <mxRectangle height="20" width="95" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-274" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;&lt;i&gt;Throughput is limited by the number of cores that we have.&amp;nbsp; That throughput also shares the same bandwidth with Disk I/O.&amp;nbsp; So if we plan on having a large amount of Disk IO throughput, it will also compete with any network egress or ingress throughput.&lt;/i&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="490" x="320" y="4380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
