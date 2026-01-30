@@ -1380,6 +1380,9 @@
             <mxRectangle height="110" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Persistent Disks types:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Standard PD (&lt;b&gt;standard-pd) -&amp;nbsp;&lt;/b&gt;HDDs and are suitable for data processing workloads that primarily use sequential I/Os.&lt;/div&gt;&lt;div&gt;- Balanced PD (&lt;b&gt;pd-balanced&lt;/b&gt;) - SSDs, alternative to&amp;nbsp;&lt;b&gt;pd-ssd&lt;/b&gt;&amp;nbsp;that balance both performance and cost.&amp;nbsp; Have same maximum IOPS as SSD but lower IOPS per GB.&lt;/div&gt;&lt;div&gt;- Performance SSD (&lt;b&gt;pd-ssd&lt;/b&gt;) - SSDs.&amp;nbsp; Suitable for enterprise applications and high-performance DBs that require lower latency and more IOPS than standard-pd.&lt;/div&gt;&lt;div&gt;- Extreme PD (&lt;b&gt;pd-extreme&lt;/b&gt;) - are zonal and also backed by SSD.&amp;nbsp; designed for high-end database workloads, providing consistently high performance for both random access workloads and bulk throughput.&amp;nbsp; Unlike other disk types, we can provision our desired IOPS.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="383" x="427" y="3850" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
