@@ -1155,6 +1155,9 @@
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- an image includes the boot-loader, the OS, the file system structure, any pre-configured software and any other customization.&lt;/div&gt;&lt;div&gt;&lt;b&gt;- public base images&lt;/b&gt; - Linux and Windows&lt;/div&gt;&lt;div&gt;&lt;b&gt;- custom images&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - create new image from VM&lt;/div&gt;&lt;div&gt;&amp;nbsp; - import from on-prem, workstation or another cloud&lt;/div&gt;&lt;div&gt;&amp;nbsp; - management features: image sharing, image family, deprecation&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="230" x="18" y="3240" as="geometry" />
         </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Premium Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- few images on GCP are premium.&amp;nbsp; These images will have per-second charges after a 1-minute minimum with the exception of SQL server images which are charged per minute after 10-minute premium.&lt;/div&gt;&lt;div&gt;- premium image prices vary with the machine type&lt;/div&gt;&lt;div&gt;- however, the prices are global and do not vary by region or zone.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="230" x="260" y="3240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
