@@ -1685,8 +1685,11 @@
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Snapshot: backup critical data&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- manually create a backup of PD to meet application, availability and recovery requirements.&lt;/div&gt;&lt;div&gt;- can be scheduled&lt;/div&gt;&lt;div&gt;- these snapshots are stored in Cloud Storage&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="220" x="10" y="4890" as="geometry" />
         </mxCell>
-        <mxCell id="tdmstNG9KXWjvd3Wkb1m-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Snapshot: migrate data between zones&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- create a snapshot from the source VM&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="240" x="240" y="4890" as="geometry" />
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Snapshot: migrate data between zones&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- create a snapshot from the source VM&lt;/div&gt;&lt;div&gt;- create PD from snapshot in destination zone.&lt;/div&gt;&lt;div&gt;- This can be used to easily transfer large amounts of data instead of transferring it byte by byte over the wire.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="240" x="240" y="4890" as="geometry" />
+        </mxCell>
+        <mxCell id="tdmstNG9KXWjvd3Wkb1m-281" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Snapshot: transfer to SSD to improve performance&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- create a snapshot from the source VM&#39;s PD&amp;nbsp;&lt;/div&gt;&lt;div&gt;- create a more performant dist from the snapshot&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="10" y="5030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
