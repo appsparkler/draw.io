@@ -1159,7 +1159,7 @@
           <mxGeometry height="210" width="200" x="370" y="3240" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Machine Images&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- a &quot;machine image&quot; is a Compute Engine resource that stores all the configuration, metadata, permissions, and data from one or more disks required to create a VM.&lt;/div&gt;&lt;div&gt;- machine images can be used in many system maintenance scenarios, such as creation, backup and recovery, and instance cloning.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="230" x="18" y="3520" as="geometry" />
+          <mxGeometry height="140" width="342" x="18" y="3520" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-155" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
           <mxGeometry height="140" width="536" x="264" y="3520" as="geometry" />
@@ -1168,168 +1168,168 @@
           <mxGeometry height="40" width="536" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-157" parent="tdmstNG9KXWjvd3Wkb1m-156" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Scenarios" vertex="1">
-          <mxGeometry height="40" width="136" as="geometry">
-            <mxRectangle height="40" width="136" as="alternateBounds" />
+          <mxGeometry height="40" width="226" as="geometry">
+            <mxRectangle height="40" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-158" parent="tdmstNG9KXWjvd3Wkb1m-156" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Machine image" vertex="1">
-          <mxGeometry height="40" width="78" x="136" as="geometry">
-            <mxRectangle height="40" width="78" as="alternateBounds" />
+          <mxGeometry height="40" width="69" x="226" as="geometry">
+            <mxRectangle height="40" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-159" parent="tdmstNG9KXWjvd3Wkb1m-156" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Persistent disk snapshot" vertex="1">
-          <mxGeometry height="40" width="108" x="214" as="geometry">
-            <mxRectangle height="40" width="108" as="alternateBounds" />
+          <mxGeometry height="40" width="101" x="295" as="geometry">
+            <mxRectangle height="40" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-160" parent="tdmstNG9KXWjvd3Wkb1m-156" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Custom image" vertex="1">
-          <mxGeometry height="40" width="107" x="322" as="geometry">
-            <mxRectangle height="40" width="107" as="alternateBounds" />
+          <mxGeometry height="40" width="70" x="396" as="geometry">
+            <mxRectangle height="40" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-161" parent="tdmstNG9KXWjvd3Wkb1m-156" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Instance template" vertex="1">
-          <mxGeometry height="40" width="107" x="429" as="geometry">
-            <mxRectangle height="40" width="107" as="alternateBounds" />
+          <mxGeometry height="40" width="70" x="466" as="geometry">
+            <mxRectangle height="40" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-162" parent="tdmstNG9KXWjvd3Wkb1m-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="536" y="40" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-163" parent="tdmstNG9KXWjvd3Wkb1m-162" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Single disk backup" vertex="1">
-          <mxGeometry height="20" width="136" as="geometry">
-            <mxRectangle height="20" width="136" as="alternateBounds" />
+          <mxGeometry height="20" width="226" as="geometry">
+            <mxRectangle height="20" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-164" parent="tdmstNG9KXWjvd3Wkb1m-162" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="78" x="136" as="geometry">
-            <mxRectangle height="20" width="78" as="alternateBounds" />
+          <mxGeometry height="20" width="69" x="226" as="geometry">
+            <mxRectangle height="20" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-165" parent="tdmstNG9KXWjvd3Wkb1m-162" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="108" x="214" as="geometry">
-            <mxRectangle height="20" width="108" as="alternateBounds" />
+          <mxGeometry height="20" width="101" x="295" as="geometry">
+            <mxRectangle height="20" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-166" parent="tdmstNG9KXWjvd3Wkb1m-162" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="107" x="322" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="396" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-167" parent="tdmstNG9KXWjvd3Wkb1m-162" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="429" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="466" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-168" parent="tdmstNG9KXWjvd3Wkb1m-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="536" y="60" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-169" parent="tdmstNG9KXWjvd3Wkb1m-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Multiple disk back-up" vertex="1">
-          <mxGeometry height="20" width="136" as="geometry">
-            <mxRectangle height="20" width="136" as="alternateBounds" />
+          <mxGeometry height="20" width="226" as="geometry">
+            <mxRectangle height="20" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-170" parent="tdmstNG9KXWjvd3Wkb1m-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="78" x="136" as="geometry">
-            <mxRectangle height="20" width="78" as="alternateBounds" />
+          <mxGeometry height="20" width="69" x="226" as="geometry">
+            <mxRectangle height="20" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-171" parent="tdmstNG9KXWjvd3Wkb1m-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="108" x="214" as="geometry">
-            <mxRectangle height="20" width="108" as="alternateBounds" />
+          <mxGeometry height="20" width="101" x="295" as="geometry">
+            <mxRectangle height="20" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-172" parent="tdmstNG9KXWjvd3Wkb1m-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="322" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="396" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-173" parent="tdmstNG9KXWjvd3Wkb1m-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="429" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="466" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-174" parent="tdmstNG9KXWjvd3Wkb1m-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="536" y="80" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-175" parent="tdmstNG9KXWjvd3Wkb1m-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Differential backup" vertex="1">
-          <mxGeometry height="20" width="136" as="geometry">
-            <mxRectangle height="20" width="136" as="alternateBounds" />
+          <mxGeometry height="20" width="226" as="geometry">
+            <mxRectangle height="20" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-176" parent="tdmstNG9KXWjvd3Wkb1m-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="78" x="136" as="geometry">
-            <mxRectangle height="20" width="78" as="alternateBounds" />
+          <mxGeometry height="20" width="69" x="226" as="geometry">
+            <mxRectangle height="20" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-177" parent="tdmstNG9KXWjvd3Wkb1m-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="108" x="214" as="geometry">
-            <mxRectangle height="20" width="108" as="alternateBounds" />
+          <mxGeometry height="20" width="101" x="295" as="geometry">
+            <mxRectangle height="20" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-178" parent="tdmstNG9KXWjvd3Wkb1m-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="322" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="396" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-179" parent="tdmstNG9KXWjvd3Wkb1m-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="429" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="466" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-180" parent="tdmstNG9KXWjvd3Wkb1m-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="536" y="100" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-181" parent="tdmstNG9KXWjvd3Wkb1m-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Instance cloning" vertex="1">
-          <mxGeometry height="20" width="136" as="geometry">
-            <mxRectangle height="20" width="136" as="alternateBounds" />
+          <mxGeometry height="20" width="226" as="geometry">
+            <mxRectangle height="20" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-182" parent="tdmstNG9KXWjvd3Wkb1m-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="78" x="136" as="geometry">
-            <mxRectangle height="20" width="78" as="alternateBounds" />
+          <mxGeometry height="20" width="69" x="226" as="geometry">
+            <mxRectangle height="20" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-183" parent="tdmstNG9KXWjvd3Wkb1m-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="108" x="214" as="geometry">
-            <mxRectangle height="20" width="108" as="alternateBounds" />
+          <mxGeometry height="20" width="101" x="295" as="geometry">
+            <mxRectangle height="20" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-184" parent="tdmstNG9KXWjvd3Wkb1m-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="107" x="322" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="396" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-185" parent="tdmstNG9KXWjvd3Wkb1m-180" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="107" x="429" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="466" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-186" parent="tdmstNG9KXWjvd3Wkb1m-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="536" y="120" as="geometry" />
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-187" parent="tdmstNG9KXWjvd3Wkb1m-186" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Base image replication" vertex="1">
-          <mxGeometry height="20" width="136" as="geometry">
-            <mxRectangle height="20" width="136" as="alternateBounds" />
+          <mxGeometry height="20" width="226" as="geometry">
+            <mxRectangle height="20" width="226" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-188" parent="tdmstNG9KXWjvd3Wkb1m-186" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="78" x="136" as="geometry">
-            <mxRectangle height="20" width="78" as="alternateBounds" />
+          <mxGeometry height="20" width="69" x="226" as="geometry">
+            <mxRectangle height="20" width="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-189" parent="tdmstNG9KXWjvd3Wkb1m-186" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="108" x="214" as="geometry">
-            <mxRectangle height="20" width="108" as="alternateBounds" />
+          <mxGeometry height="20" width="101" x="295" as="geometry">
+            <mxRectangle height="20" width="101" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-190" parent="tdmstNG9KXWjvd3Wkb1m-186" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Yes" vertex="1">
-          <mxGeometry height="20" width="107" x="322" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="396" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-191" parent="tdmstNG9KXWjvd3Wkb1m-186" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="No" vertex="1">
-          <mxGeometry height="20" width="107" x="429" as="geometry">
-            <mxRectangle height="20" width="107" as="alternateBounds" />
+          <mxGeometry height="20" width="70" x="466" as="geometry">
+            <mxRectangle height="20" width="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;u&gt;Disk options&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Boot Disk&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- VM comes with a single root persistent.&lt;/div&gt;&lt;div&gt;- image is loaded onto root disk during first boot:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Bootable - can be attached to a VM and boot from it&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Durable - can survive VM terminate&lt;/div&gt;&lt;div&gt;- Some OS images are customized for Compute Engine&lt;/div&gt;" vertex="1">
