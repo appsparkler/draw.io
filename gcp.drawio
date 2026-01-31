@@ -1892,7 +1892,75 @@
           <mxGeometry height="90" width="290" x="520" y="2237" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Service account keys:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;There are two types of service account keys:&lt;/div&gt;&lt;div&gt;1. Google-managed service accounts&lt;/div&gt;&lt;div&gt;2. user-managed service accounts&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="270" x="15" y="2350" as="geometry" />
+          <mxGeometry height="120" width="225" x="15" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-10" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="210" width="549.9999999999998" x="250" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-11" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="20" width="549.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-12" parent="KvtVKo8RlnfWFjeLXsK9-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google managed service account key" vertex="1">
+          <mxGeometry height="20" width="260" as="geometry">
+            <mxRectangle height="20" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-14" parent="KvtVKo8RlnfWFjeLXsK9-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="User managed service account key" vertex="1">
+          <mxGeometry height="20" width="290" x="260" as="geometry">
+            <mxRectangle height="20" width="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-15" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="549.9999999999998" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-16" parent="KvtVKo8RlnfWFjeLXsK9-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="All service accounts have Google managed keys" vertex="1">
+          <mxGeometry height="40" width="260" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-17" parent="KvtVKo8RlnfWFjeLXsK9-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="40" width="290" x="260" as="geometry">
+            <mxRectangle height="40" width="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-18" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="549.9999999999998" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-19" parent="KvtVKo8RlnfWFjeLXsK9-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google stores both the public and private portion of the key" vertex="1">
+          <mxGeometry height="50" width="260" as="geometry">
+            <mxRectangle height="50" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-20" parent="KvtVKo8RlnfWFjeLXsK9-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google only stores the public portion of a user-managed key.&amp;nbsp; Users are responsible for private key security" vertex="1">
+          <mxGeometry height="50" width="290" x="260" as="geometry">
+            <mxRectangle height="50" width="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-21" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="549.9999999999998" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-22" parent="KvtVKo8RlnfWFjeLXsK9-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Each public key can be used for signing for a maximum of 2 weeks." vertex="1">
+          <mxGeometry height="50" width="260" as="geometry">
+            <mxRectangle height="50" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-23" parent="KvtVKo8RlnfWFjeLXsK9-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Can create up to 10 user-managed service account keys per service" vertex="1">
+          <mxGeometry height="50" width="290" x="260" as="geometry">
+            <mxRectangle height="50" width="290" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-24" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="549.9999999999998" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-25" parent="KvtVKo8RlnfWFjeLXsK9-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Private keys are never directly accessible" vertex="1">
+          <mxGeometry height="50" width="260" as="geometry">
+            <mxRectangle height="50" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-26" parent="KvtVKo8RlnfWFjeLXsK9-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Can be administered via the IAM API, gcloud or the console." vertex="1">
+          <mxGeometry height="50" width="290" x="260" as="geometry">
+            <mxRectangle height="50" width="290" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
