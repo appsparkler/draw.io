@@ -1854,7 +1854,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Accessing GC without Gmail&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- We can always create a Google account with our email address (for ex. aakash@hotmail.com).&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="370" x="10" y="1810" as="geometry" />
+          <mxGeometry height="90" width="220" x="10" y="1810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
