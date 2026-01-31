@@ -1977,6 +1977,9 @@
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Service accounts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- apply caution when granting serviceAccountUser Role because it provides access to all the resources that the service account has access to.&lt;/div&gt;&lt;div&gt;- When we create a service account, give it a display name that clearly identifies its purpose, ideally using an established naming convention.&lt;/div&gt;&lt;div&gt;- establish a naming convention for service accounts.&lt;/div&gt;&lt;div&gt;- establish key rotation policies and methods&lt;/div&gt;&lt;div&gt;- Audit with serviceAccount.keys.list() method&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="270" x="15" y="3000" as="geometry" />
         </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Identity Aware Proxy (IAP)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Enforce access control policies for applications and resources&lt;/div&gt;&lt;div&gt;- identity based access control&lt;/div&gt;&lt;div&gt;- central authorization layer for applications accessed by HTTPS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="257" width="270" x="535" y="3080" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
