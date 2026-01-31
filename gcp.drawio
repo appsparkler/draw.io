@@ -1831,7 +1831,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Organization policies&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- a configuration of restrictions&lt;/div&gt;&lt;div&gt;- defined by configuring a constraint with desired restrictions&lt;/div&gt;&lt;div&gt;- applied to the organization node, folders and sub-folders and projects.&lt;/div&gt;&lt;div&gt;- examples:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - disable service account key creation&lt;/div&gt;&lt;div&gt;&amp;nbsp; - restrict resource location (eg. only asia-south1)&lt;/div&gt;&lt;div&gt;&amp;nbsp; - prevent creation of external IPs, etc.&lt;/div&gt;&lt;div&gt;- exceptions to these policies can be made but only by a user who has the Organization Policy Admin Role.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="318" width="220" x="10" y="1362" as="geometry" />
+          <mxGeometry height="258" width="220" x="10" y="1362" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-32" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.991;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Different Corporate Directory&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- for ex. a corporate directory on Microsoft 365.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="220" x="10" y="1630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
