@@ -1836,8 +1836,8 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-32" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.991;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQMnd0WqVCdwLsg4TDoG-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Different Corporate Directory&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- for ex. a corporate directory on Microsoft 365.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="258" width="220" x="10" y="1630" as="geometry" />
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Different Corporate Directory&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- for ex. a corporate directory on Microsoft 365 or LDAP (Lightweight Directory Access Protocol).&lt;/div&gt;&lt;div&gt;- We can use&amp;nbsp;&lt;b&gt;Google Cloud Directory Sync&lt;/b&gt;&amp;nbsp;service to manage GC resources using the same usernames and passwords they already use.&amp;nbsp; This tool synchronizes users and groups for our existing directory with the users and groups in our Cloud Identity domain.&lt;/div&gt;&lt;div&gt;- This synchronization is one-way only which means that no information in our Active Directory or LDAP is modified.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- This service is designed to run scheduled synchronizations without supervision after its synchronization rules are setup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="220" x="10" y="1630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
