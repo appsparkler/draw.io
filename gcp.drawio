@@ -1766,6 +1766,9 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Resource Manager Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Organization (&lt;font face=&quot;Courier New&quot;&gt;roles/resourcemanager-...&lt;/font&gt;)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Admin -&amp;nbsp;&lt;/b&gt;full control over all resources&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;- Viewer&lt;/b&gt;&amp;nbsp;- view access to all resources&lt;/div&gt;&lt;div&gt;&lt;b&gt;Folder&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Admin&lt;/b&gt;&amp;nbsp;- full control over folders&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Creator&lt;/b&gt; - browser hierarchy and create folders&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Viewer &lt;/b&gt;- view folders and projects below a resource&lt;/div&gt;&lt;div&gt;&lt;b&gt;Project&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Creator &lt;/b&gt;- create (and automatically own) new projects and migrate new projects into an organization&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;- Deleter &lt;/b&gt;- Delete projects&lt;/div&gt;" vertex="1">
           <mxGeometry height="320" width="190" x="330" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-11" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.968;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
