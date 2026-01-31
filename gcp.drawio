@@ -1856,8 +1856,8 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Accessing GC without Gmail&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- We can always create a Google account with our email address (for ex. aakash@hotmail.com).&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="220" x="10" y="1810" as="geometry" />
         </mxCell>
-        <mxCell id="SQMnd0WqVCdwLsg4TDoG-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Service Accounts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- they provide an identity for carrying out service to service interactions&lt;/div&gt;&lt;div&gt;- programs running within Compute Engine instances can automatically acquire access tokens with credentials&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="280" x="240" y="1810" as="geometry" />
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Service Accounts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- they provide an identity for carrying out service to service interactions&lt;/div&gt;&lt;div&gt;- programs running within Compute Engine instances can automatically acquire access tokens with credentials.&lt;/div&gt;&lt;div&gt;- tokens are used to access any service API in our project and any other services that granted access to that service account.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="240" y="1810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
