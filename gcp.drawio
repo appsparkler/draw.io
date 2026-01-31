@@ -1738,6 +1738,9 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;IAM Resource Hierarchy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1 - Organization&lt;/div&gt;&lt;div&gt;2 - Folders&lt;/div&gt;&lt;div&gt;3 - Projects&lt;/div&gt;&lt;div&gt;4 - Resources&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- each subsequent object is a child of the above one and inherit the roles granted by it.&lt;/div&gt;&lt;div&gt;- each resource has exactly one parent.&lt;/div&gt;&lt;div&gt;- Projects represent a trust boundary within our organization.&amp;nbsp; Services within the same project have the same default level of trust.&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="270" x="530" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Organization node&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- its the root node for GC resources&lt;/div&gt;&lt;div&gt;- roles -&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Organization Admin&amp;nbsp;&lt;/b&gt;- controls overall cloud resources&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Project Creator&lt;/b&gt;&amp;nbsp;- Controls project creation; control over who can create projects.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="190" x="330" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
