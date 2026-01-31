@@ -1845,6 +1845,9 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;SSO (SSO) - Using existing sign-in method to access GC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- GC also provides SSO authentication&lt;/div&gt;&lt;div&gt;- We can continue using our own system and processes with SSO configured.&amp;nbsp; When user authentication is required, Google will redirect to our system.&amp;nbsp; If the user is authenticated in our system, access to GC is given; otherwise the user is prompted to sign-in.&lt;/div&gt;&lt;div&gt;- This also allows us to revoke access to GC as and when needed.&lt;/div&gt;&lt;div&gt;- If our existing auth system supports SAML2, SSO configuration is as simple as 3 links and a certificate.&amp;nbsp; We can also use a third-party solution, like ADFS, Ping or Okta&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="280" x="530" y="1680" as="geometry" />
         </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-37" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
