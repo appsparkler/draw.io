@@ -1778,8 +1778,14 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-11" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.968;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQMnd0WqVCdwLsg4TDoG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- define the &quot;can do what&quot; part of IAM&lt;/div&gt;&lt;div&gt;- there are three types:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;b&gt;- Basic -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;b&gt;- Predefined -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; - Custom -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="260" x="550" y="480" as="geometry" />
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- define the &quot;can do what&quot; part of IAM&lt;/div&gt;&lt;div&gt;- there are three types:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;b&gt;i. Basic&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;ii. Predefined&amp;nbsp; iii. Custom&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="550" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Basic Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- are the original roles that are available in GC but they are broad.&amp;nbsp; For ex. if we apply them to a project, they affect all resources int that project.&lt;/div&gt;&lt;div&gt;- they offer&amp;nbsp;&lt;b&gt;fixed, coarse-grained level of access&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="280" x="530" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-15" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.557;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
