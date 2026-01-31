@@ -1895,71 +1895,71 @@
           <mxGeometry height="390" width="225" x="15" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-10" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="210" width="520" x="250" y="2351" as="geometry" />
+          <mxGeometry height="210" width="550" x="250" y="2351" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-11" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="520" as="geometry" />
+          <mxGeometry height="20" width="550" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-12" parent="KvtVKo8RlnfWFjeLXsK9-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google managed service account key" vertex="1">
-          <mxGeometry height="20" width="260" as="geometry">
-            <mxRectangle height="20" width="260" as="alternateBounds" />
+          <mxGeometry height="20" width="275" as="geometry">
+            <mxRectangle height="20" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-14" parent="KvtVKo8RlnfWFjeLXsK9-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="User managed service account key" vertex="1">
-          <mxGeometry height="20" width="260" x="260" as="geometry">
-            <mxRectangle height="20" width="260" as="alternateBounds" />
+          <mxGeometry height="20" width="275" x="275" as="geometry">
+            <mxRectangle height="20" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-15" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="40" width="520" y="20" as="geometry" />
+          <mxGeometry height="40" width="550" y="20" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-16" parent="KvtVKo8RlnfWFjeLXsK9-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="All service accounts have Google managed keys" vertex="1">
-          <mxGeometry height="40" width="260" as="geometry">
-            <mxRectangle height="40" width="260" as="alternateBounds" />
+          <mxGeometry height="40" width="275" as="geometry">
+            <mxRectangle height="40" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-17" parent="KvtVKo8RlnfWFjeLXsK9-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="40" width="260" x="260" as="geometry">
-            <mxRectangle height="40" width="260" as="alternateBounds" />
+          <mxGeometry height="40" width="275" x="275" as="geometry">
+            <mxRectangle height="40" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-18" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="50" width="520" y="60" as="geometry" />
+          <mxGeometry height="50" width="550" y="60" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-19" parent="KvtVKo8RlnfWFjeLXsK9-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google stores both the public and private portion of the key" vertex="1">
-          <mxGeometry height="50" width="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-20" parent="KvtVKo8RlnfWFjeLXsK9-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Google only stores the public portion of a user-managed key.&amp;nbsp; Users are responsible for private key security" vertex="1">
-          <mxGeometry height="50" width="260" x="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" x="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-21" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="50" width="520" y="110" as="geometry" />
+          <mxGeometry height="50" width="550" y="110" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-22" parent="KvtVKo8RlnfWFjeLXsK9-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Each public key can be used for signing for a maximum of 2 weeks." vertex="1">
-          <mxGeometry height="50" width="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-23" parent="KvtVKo8RlnfWFjeLXsK9-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Can create up to 10 user-managed service account keys per service" vertex="1">
-          <mxGeometry height="50" width="260" x="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" x="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-24" parent="KvtVKo8RlnfWFjeLXsK9-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="50" width="520" y="160" as="geometry" />
+          <mxGeometry height="50" width="550" y="160" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-25" parent="KvtVKo8RlnfWFjeLXsK9-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Private keys are never directly accessible" vertex="1">
-          <mxGeometry height="50" width="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-26" parent="KvtVKo8RlnfWFjeLXsK9-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Can be administered via the IAM API, gcloud or the console." vertex="1">
-          <mxGeometry height="50" width="260" x="260" as="geometry">
-            <mxRectangle height="50" width="260" as="alternateBounds" />
+          <mxGeometry height="50" width="275" x="275" as="geometry">
+            <mxRectangle height="50" width="275" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Organization Restrictions feature&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- managed device is governed by the organizational polices of a company.&lt;/div&gt;&lt;div&gt;- employees of an organization can use a managed device to access the organization resources&lt;/div&gt;&lt;div&gt;- an egress proxy administrator configures the proxy to add organization &lt;br&gt;restrictions headers to any requests originating from a managed &lt;br&gt;device.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- The OR feature in GC inspects all requests for&amp;nbsp; organization restriction headers, and allows or denies the requests&amp;nbsp; based on the organization being accessed.&lt;/div&gt;&lt;br&gt;- OR can be used to restrict access to employees in our organization so that employees can access resources only in our GC organization and not other organizations.&amp;nbsp; They cal also be used to allow our employees to read from Cloud Storage resources but restrict employee access only to resources in our GC organization or also allow our employees to access a vendor GC orginaization in addition to our GC organization.&lt;/div&gt;" vertex="1">
