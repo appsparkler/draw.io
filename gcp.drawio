@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="14">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1717,6 +1717,20 @@
         </mxCell>
         <mxCell id="tdmstNG9KXWjvd3Wkb1m-288" edge="1" parent="1" source="tdmstNG9KXWjvd3Wkb1m-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.004;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" target="tdmstNG9KXWjvd3Wkb1m-282">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xklBrzyBFQu6PyGemh5o" name="2.1-IAM">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PlpbKKPQQRjvDNcKoRz9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="2.1 IAM" vertex="1">
+          <mxGeometry height="40" width="330" x="15" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What is IAM?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Identity and Access Management&lt;/div&gt;&lt;div&gt;- Defines &lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;b&gt;who&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;b&gt;can do what&lt;/b&gt;&lt;/span&gt;&lt;/span&gt; on &lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;b&gt;which resource&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;who&lt;/b&gt; - can be a person, a group or an application (a service account).&lt;/div&gt;&lt;div&gt;- &lt;b&gt;can do what&lt;/b&gt; - refers to specific privileges or actions&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;resource&lt;/b&gt;&amp;nbsp;- can be any GC service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="15" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
