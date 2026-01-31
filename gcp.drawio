@@ -1782,6 +1782,9 @@
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- define the &quot;can do what&quot; part of IAM&lt;/div&gt;&lt;div&gt;- there are three types:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;b&gt;i. Basic&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;ii. Predefined&amp;nbsp; iii. Custom&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="260" x="550" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-18" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="SQMnd0WqVCdwLsg4TDoG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Basic Roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- defines&amp;nbsp;&lt;b&gt;can do what&lt;/b&gt;&amp;nbsp;on&amp;nbsp;&lt;b&gt;all resources&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- are the original roles that are available in GC but they are broad.&amp;nbsp; For ex. if we apply them to a project, they affect all resources in that project.&lt;/div&gt;&lt;div&gt;- they offer&amp;nbsp;&lt;b&gt;fixed, coarse-grained level of access&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Basic roles are &lt;b&gt;Owner&lt;/b&gt;, &lt;b&gt;Edito,&lt;/b&gt;&amp;nbsp;&lt;b&gt;Viewer and&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;b&gt;Billing Admin&lt;/b&gt; Roles&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;Owner &lt;/b&gt;-&lt;b&gt;&amp;nbsp;&lt;/b&gt;has full administrative access&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;Editor&lt;/b&gt;&amp;nbsp;- modify and delete access&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;b&gt;Viewer &lt;/b&gt;- read only access&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Billing Admin&amp;nbsp;&lt;/b&gt;- manage billing, add or remove admins&lt;/div&gt;&lt;div&gt;- each project can have multiple owners, editors, viewers and billing admin.&lt;/div&gt;&lt;div&gt;- the are not recommended.&lt;/div&gt;" vertex="1">
           <mxGeometry height="275" width="280" x="530" y="585" as="geometry" />
         </mxCell>
@@ -1793,6 +1796,9 @@
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Custom roles&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- when pre-defined roles don&#39;t have enough permissions or we need even finer-grained access.&lt;/div&gt;&lt;div&gt;- many companies use custom roles to apply the &quot;least-privilege&quot; model.&lt;/div&gt;&lt;div&gt;- For ex. if we want we may want some users to start and stop a VM but not reconfigure them so we would use custom roles to provide such fine-grained access.&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="190" x="330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="SQMnd0WqVCdwLsg4TDoG-20" edge="1" parent="1" source="SQMnd0WqVCdwLsg4TDoG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQMnd0WqVCdwLsg4TDoG-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
