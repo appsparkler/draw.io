@@ -1807,7 +1807,7 @@
           <mxGeometry height="160" width="510" x="10" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;IAM Policies&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- contains a list of bindings (list of access statements) attached to a &lt;b&gt;resource&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- a binding binds a list of &lt;b&gt;members&lt;/b&gt; to a &lt;b&gt;role&lt;/b&gt; - each &lt;b&gt;member&lt;/b&gt; can be one of the members mentions.&amp;nbsp; A &lt;b&gt;role&lt;/b&gt; is a named list of permissions defined by IAM.&lt;/div&gt;&lt;div&gt;- each resource-policy inherits policy from its parent.&amp;nbsp; A less restrictive policy will always override a more restrictive resource policy.&lt;/div&gt;&lt;div&gt;- IAM policy always follows the same hierarchy as the GC resource hierarchy which means that if we change the resource hierarchy, the policy hierarchy also changes.&amp;nbsp; For ex. when we move a project from one org to another, it&#39;ll also update the projects IAM policy to inherit from the new organizations&#39;s IAM policy.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="510" x="10" y="1180" as="geometry" />
+          <mxGeometry height="180" width="510" x="10" y="1180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
