@@ -1972,7 +1972,10 @@
           <mxGeometry height="85" width="170" x="330" y="2980" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Grant roles to Google groups instead of individuals&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- update group membership instead of changing IAM policy&lt;/div&gt;&lt;div&gt;- Audit membership of groups used in policies&lt;/div&gt;&lt;div&gt;- Control the ownership of the Google groups used in IAM policies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We can also use multiple groups to get better control.&amp;nbsp; For ex. we can have three groups:&lt;/div&gt;&lt;div&gt;1. Network Admin Group (which has both view_only and read_write roles)&lt;/div&gt;&lt;div&gt;2. View Only Group&lt;/div&gt;&lt;div&gt;3. Read Only Group&lt;/div&gt;&lt;div&gt;Moving members between these three groups can easily apply the necessary accesses.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="257" width="270" x="320" y="2813" as="geometry" />
+          <mxGeometry height="257" width="270" x="535" y="2808" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Service accounts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- apply caution when granting serviceAccountUser Role because it provides access to all the resources that the service account has access to.&lt;/div&gt;&lt;div&gt;- When we create a service account, give it a display name that clearly identifies its purpose, ideally using an established naming convention.&lt;/div&gt;&lt;div&gt;- establish a naming convention for service accounts.&lt;/div&gt;&lt;div&gt;- establish key rotation policies and methods&lt;/div&gt;&lt;div&gt;- Audit with serviceAccount.keys.list() method&lt;/div&gt;" vertex="1">
+          <mxGeometry height="257" width="270" x="15" y="3000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
