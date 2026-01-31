@@ -1968,7 +1968,16 @@
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Leverage and understand the resource hierarchy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- use projects to group resources that share the same trust boundary&lt;/div&gt;&lt;div&gt;- check the policy granted on each resource and make sure we understand the inheritance&lt;/div&gt;&lt;div&gt;- use &quot;principles of least privilege&quot; when granting roles&lt;/div&gt;&lt;div&gt;- audit policies in Cloud Audit Logs: setiampolicy&lt;/div&gt;&lt;div&gt;- audit membership of groups used in policies&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="295" x="15" y="2813" as="geometry" />
         </mxCell>
-        <mxCell id="KvtVKo8RlnfWFjeLXsK9-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="IAM Best Practices" vertex="1">
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-33" edge="1" parent="1" source="KvtVKo8RlnfWFjeLXsK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KvtVKo8RlnfWFjeLXsK9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-35" edge="1" parent="1" source="KvtVKo8RlnfWFjeLXsK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="KvtVKo8RlnfWFjeLXsK9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-36" edge="1" parent="1" source="KvtVKo8RlnfWFjeLXsK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="KvtVKo8RlnfWFjeLXsK9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1;fontColor=#333333;" value="IAM Best Practices" vertex="1">
           <mxGeometry height="85" width="170" x="330" y="2980" as="geometry" />
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Grant roles to Google groups instead of individuals&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- update group membership instead of changing IAM policy&lt;/div&gt;&lt;div&gt;- Audit membership of groups used in policies&lt;/div&gt;&lt;div&gt;- Control the ownership of the Google groups used in IAM policies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We can also use multiple groups to get better control.&amp;nbsp; For ex. we can have three groups:&lt;/div&gt;&lt;div&gt;1. Network Admin Group (which has both view_only and read_write roles)&lt;/div&gt;&lt;div&gt;2. View Only Group&lt;/div&gt;&lt;div&gt;3. Read Only Group&lt;/div&gt;&lt;div&gt;Moving members between these three groups can easily apply the necessary accesses.&lt;/div&gt;" vertex="1">
@@ -1979,6 +1988,9 @@
         </mxCell>
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Identity Aware Proxy (IAP)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Enforce access control policies for applications and resources&lt;/div&gt;&lt;div&gt;- identity based access control&lt;/div&gt;&lt;div&gt;- central authorization layer for applications accessed by HTTPS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IAM policy is only applied after authentication.&lt;/div&gt;&lt;div&gt;- IAP lets us establish a central auth layer for applicaitons accessed by HTTPS, so we can use an application-level access control model instead of relying on network level firewalls.&lt;/div&gt;&lt;div&gt;- Applications and resources protected by IAP can only be accessed through the proxy by users and groups with correct IAM role.&amp;nbsp; When we grant a user access to an application or resource by IAP, they&#39;re subject to the fine-grained access controls implemented by the product in use &lt;b&gt;without&lt;/b&gt; requiring a VPN.&amp;nbsp; IAP performs authentication and authorization checks when a user tries to access an IAP-secured resource.&lt;/div&gt;" vertex="1">
           <mxGeometry height="360" width="270" x="535" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-34" edge="1" parent="1" source="KvtVKo8RlnfWFjeLXsK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.981;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" target="KvtVKo8RlnfWFjeLXsK9-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
