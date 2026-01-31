@@ -1962,6 +1962,9 @@
             <mxRectangle height="50" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KvtVKo8RlnfWFjeLXsK9-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Organization Restrictions feature&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- OR can be used to restrict access to employees in our organization so that employees can access resources only in our GC organization and not other organizations.&amp;nbsp; They cal also be used to allow our employees to read from Cloud Storage resources but restrict employee access only to resources in our GC organization or also allow our employees to access a vendor GC orginaization in addition to our GC organization.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="550" x="250" y="2570" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
