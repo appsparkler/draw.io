@@ -1722,7 +1722,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xklBrzyBFQu6PyGemh5o" name="2.1-IAM">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1816,10 +1816,10 @@
           <mxGeometry height="170" width="510" x="10" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;IAM allow Policy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- list of bindings that maps a role to a collection of members&lt;/div&gt;&lt;div&gt;- &quot;bindings&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&quot;members&quot; [...],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&quot;role&quot;: &quot;...&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="280" x="530" y="1180" as="geometry" />
+          <mxGeometry height="160" width="280" x="530" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="SQMnd0WqVCdwLsg4TDoG-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;IAM deny policy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- collection of deny-rules&lt;/div&gt;&lt;div&gt;- each deny rule specifies:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - a set of principles that are denied permissions&lt;/div&gt;&lt;div&gt;&amp;nbsp; - the permissions that the principals are denied or unable to use&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Optional: the condition that must be true for the permission to be denied.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="280" x="530" y="1360" as="geometry" />
+          <mxGeometry height="140" width="280" x="530" y="1350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
