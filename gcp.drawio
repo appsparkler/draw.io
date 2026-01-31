@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="15">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1992,6 +1992,14 @@
         <mxCell id="KvtVKo8RlnfWFjeLXsK9-34" edge="1" parent="1" source="KvtVKo8RlnfWFjeLXsK9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.981;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" target="KvtVKo8RlnfWFjeLXsK9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
