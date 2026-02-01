@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2591,6 +2591,89 @@
         </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Choosing Firestore if&amp;nbsp;&lt;/b&gt;schema might change and need an adaptable database, scale down to zero, want low maintenance overhead scaling upto TBs, need transactional consistency&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="240" x="300" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-13" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ENVAZ_-pG93xMfRBPk-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-15" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.082" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-19" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ENVAZ_-pG93xMfRBPk-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-20" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.3133" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;schema might change and need an adaptable datbase?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="14" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-14" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ENVAZ_-pG93xMfRBPk-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-16" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.48" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-21" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="29ENVAZ_-pG93xMfRBPk-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="4010" />
+              <mxPoint x="130" y="4260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-22" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6712" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="scale down to zero?" vertex="1">
+          <mxGeometry height="100" width="100" x="175" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-11" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ENVAZ_-pG93xMfRBPk-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-17" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1077" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-23" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="29ENVAZ_-pG93xMfRBPk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-24" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0759" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;want low maintenance overhead scaling up to TBs?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="175" y="4140" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-25" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="29ENVAZ_-pG93xMfRBPk-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="4270" />
+              <mxPoint x="320" y="4270" />
+              <mxPoint x="320" y="4340" />
+              <mxPoint x="80" y="4340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-26" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6186" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;need transactional consistency?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="340" y="4140" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-18" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Consider Firestore" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="4260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
