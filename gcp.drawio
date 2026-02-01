@@ -1996,12 +1996,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="836" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7B_Y9L-YD66yRERNGyvx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="2.2 Cloud Storage" vertex="1">
           <mxGeometry height="40" width="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Storage solutions on GCP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Object - Cloud Storage&lt;/div&gt;&lt;div&gt;File - Filestore&lt;/div&gt;&lt;div&gt;Relational - Cloud SQL, Spanner, Alloy DB&lt;/div&gt;&lt;div&gt;Non-relational - Firestore, Big Table&lt;/div&gt;&lt;div&gt;Warehouse - Big Query&lt;/div&gt;&lt;div&gt;Redis - Memorystore&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="250" x="10" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
