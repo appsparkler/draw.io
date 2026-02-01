@@ -2491,6 +2491,9 @@
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-3" edge="1" parent="1" source="GduT_W_pEAKxxbHeROeL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" target="y7BHjyUzeMsQrRMVd9kG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Connecting to a Cloud SQL instance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="435" x="15" y="3040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
