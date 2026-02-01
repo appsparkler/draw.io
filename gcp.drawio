@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="1045" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2214,8 +2214,8 @@
         <mxCell id="pG_0InggyRHET_Uo_Xrk-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- is a no-SQL wide-column DB&lt;/div&gt;&lt;div&gt;- its optimized for low latency, large number of reads and writes and maintaining performance at scale.&lt;/div&gt;&lt;div&gt;- in additional to analytics, BT is also suited as a &#39;fast lookup&#39; non relational database for datasets too large to store in memory, with use cases in areas such as IoT, AdTech and FinTech.&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="250" x="527.5" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="pG_0InggyRHET_Uo_Xrk-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Cloud Storage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Object - Cloud Storage&lt;/div&gt;&lt;div&gt;File - Filestore&lt;/div&gt;&lt;div&gt;Relational - Cloud SQL, Spanner, Alloy DB&lt;/div&gt;&lt;div&gt;Non-relational - Firestore, Big Table&lt;/div&gt;&lt;div&gt;Warehouse - Big Query&lt;/div&gt;&lt;div&gt;Redis - Memorystore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigQuery is mostly used for big data analysis and interactive querying; though it also stores data.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="250" x="20" y="600" as="geometry" />
+        <mxCell id="pG_0InggyRHET_Uo_Xrk-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Cloud Storage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;use cases&lt;/u&gt;: website content, storing data for archiving and disaster recovery, distributing large data objects to users via direct download.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;key features:&lt;/div&gt;&lt;div&gt;- scalable to exabytes&lt;/div&gt;&lt;div&gt;- time to first byte (TTFB) in milliseconds&lt;/div&gt;&lt;div&gt;- HA across all storage classes&lt;/div&gt;&lt;div&gt;- single API across storage classes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cloud Storage is NOT a file system.&amp;nbsp; It is a collection of buckets that we can place objects into.&amp;nbsp; We can create directories so to speak but really a directory is just another object pointing to other objects in the bucket. As its not a file system, its not easy to index all of these files.&amp;nbsp; We just have specific URL to access the objects in the bucket.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="330" x="14" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
