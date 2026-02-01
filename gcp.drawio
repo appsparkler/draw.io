@@ -2006,6 +2006,14 @@
         <mxCell id="4oXGKHOevPYt13dVsUQm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Storage solutions on GCP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Object - Cloud Storage&lt;/div&gt;&lt;div&gt;File - Filestore&lt;/div&gt;&lt;div&gt;Relational - Cloud SQL, Spanner, Alloy DB&lt;/div&gt;&lt;div&gt;Non-relational - Firestore, Big Table&lt;/div&gt;&lt;div&gt;Warehouse - Big Query&lt;/div&gt;&lt;div&gt;Redis - Memorystore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigQuery is mostly used for big data analysis and interactive querying; though it also stores data.&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="250" x="10" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-16" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-17" connectable="0" parent="4oXGKHOevPYt13dVsUQm-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.25" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4oXGKHOevPYt13dVsUQm-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="is our data structured?" vertex="1">
           <mxGeometry height="100" width="100" x="440" y="20" as="geometry" />
         </mxCell>
@@ -2025,14 +2033,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4oXGKHOevPYt13dVsUQm-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Do we need a shared file system?" vertex="1">
+        <mxCell id="4oXGKHOevPYt13dVsUQm-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Do we need a shared file system?&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="314" y="110" as="geometry" />
         </mxCell>
         <mxCell id="4oXGKHOevPYt13dVsUQm-6" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Filestore" vertex="1">
           <mxGeometry height="30" width="56" x="480" y="145" as="geometry" />
         </mxCell>
         <mxCell id="4oXGKHOevPYt13dVsUQm-10" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Cloud Storage" vertex="1">
-          <mxGeometry height="60" width="120" x="304" y="250" as="geometry" />
+          <mxGeometry height="30" width="76" x="326" y="250" as="geometry" />
         </mxCell>
         <mxCell id="4oXGKHOevPYt13dVsUQm-13" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4oXGKHOevPYt13dVsUQm-3">
           <mxGeometry relative="1" as="geometry" />
@@ -2041,6 +2049,48 @@
           <mxGeometry relative="1" x="-0.2328" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Does the workload involve analytics?" vertex="1">
+          <mxGeometry height="100" width="100" x="600" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-23" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-22" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Does the workload involve analytics?" vertex="1">
+          <mxGeometry height="100" width="100" x="720" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-20" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4oXGKHOevPYt13dVsUQm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-21" connectable="0" parent="4oXGKHOevPYt13dVsUQm-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.125" y="1" as="geometry">
+            <mxPoint x="-13" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-25" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-26" connectable="0" parent="4oXGKHOevPYt13dVsUQm-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0167" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-28" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-29" connectable="0" parent="4oXGKHOevPYt13dVsUQm-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-22" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Do we need low latency and extensive updates?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="720" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-24" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;Big Table&lt;/div&gt;No SQL with high throughput" vertex="1">
+          <mxGeometry height="45" width="120" x="536" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-27" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;BigQuery&lt;/div&gt;Data warehouse with SQL querying" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
