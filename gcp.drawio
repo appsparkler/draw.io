@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="837" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2481,6 +2481,9 @@
         </mxCell>
         <mxCell id="GduT_W_pEAKxxbHeROeL-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Filestore&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- is a managed file store service for applications&lt;/div&gt;&lt;div&gt;- fully managed Network Attached Storage (NAS) for Compute Engine and GKE instances&lt;/div&gt;&lt;div&gt;- predictable performance&lt;/div&gt;&lt;div&gt;- Full NFSv3 support - i.e. supports any NFSv3 client&lt;/div&gt;&lt;div&gt;- Scales to 100s of TBs for high-performance workloads&lt;/div&gt;&lt;div&gt;- file locking feature&lt;/div&gt;&lt;div&gt;&lt;b&gt;use-cases:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- application migration - for ex. on-prem apps require a filesystem interface.&amp;nbsp; As these applications continue to migrate to the cloud, FS can support a broad range of enterprise applications that need a shared filesystem.&lt;/div&gt;&lt;div&gt;- media rendering - enabling visual effect artists to collaborate on the same file share.&lt;/div&gt;&lt;div&gt;- EDA (Electronic Design Automation) - EDA is all about data management.&amp;nbsp; It requires the ability to batch workloads across thousands of cores and has large memory needs.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Data analytics - compute of complex financial models or analysis of environmental data.&amp;nbsp; These workloads are latency sensitive.&lt;/div&gt;&lt;div&gt;- Genomics processing - it requires incredible amount of raw data, on the order of billions of data points per person.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Web content management - ex. WordPress hosting.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="395" width="320" x="460" y="2455" as="geometry" />
+        </mxCell>
+        <mxCell id="GduT_W_pEAKxxbHeROeL-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Cloud SQL&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="395" width="436" x="14" y="2680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
