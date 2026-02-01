@@ -4988,6 +4988,9 @@
         <mxCell id="XTD049GR2dRDS4I6LAcg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;What is wide-column database?&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;A wide column database is a type of NoSQL database that stores data in tables, rows, and dynamic columns, but with a key difference from traditional relational databases: columns are grouped into column families, and each row can have a variable number of columns.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="380" x="414" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="XTD049GR2dRDS4I6LAcg-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;What is horizontal scaling?&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Horizontal scalability in relational databases refers to the ability to increase capacity and performance by adding more machines (nodes) to the system, rather than upgrading a single machine (which is vertical scaling).&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="380" x="414" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
