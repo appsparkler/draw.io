@@ -2670,11 +2670,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-29" edge="1" parent="1" source="29ENVAZ_-pG93xMfRBPk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="29ENVAZ_-pG93xMfRBPk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-30" connectable="0" parent="29ENVAZ_-pG93xMfRBPk-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1667" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;need transactional consistency?&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="340" y="4140" as="geometry" />
         </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-18" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Consider Firestore" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="4260" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-28" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Consider BigTable" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="4290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
