@@ -2486,7 +2486,7 @@
           <mxGeometry height="350" width="436" x="14" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;HA configuration&lt;/b&gt; - the configuration is made up of a &lt;br/&gt;primary instance and a standby instance.&amp;nbsp; Through synchronous &lt;br/&gt;replication to each zone&#39;s persistent disk, all writes made to primary &lt;br/&gt;instance are replicated to disks in both zones before a transaction is &lt;br/&gt;reported as committed.&amp;nbsp; In the event of an instance or zone failure, the&lt;br/&gt; persistent dist is attached to the standby instance, and it becomes the&lt;br/&gt; new primary instance.&amp;nbsp; Users are then rerouted to the new primary.&amp;nbsp; &lt;br/&gt;This process is called &lt;b&gt;failover&lt;/b&gt;.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="395" width="350" x="460" y="2860" as="geometry" />
+          <mxGeometry height="230" width="350" x="460" y="2860" as="geometry" />
         </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-3" edge="1" parent="1" source="GduT_W_pEAKxxbHeROeL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" target="y7BHjyUzeMsQrRMVd9kG-1">
           <mxGeometry relative="1" as="geometry" />
