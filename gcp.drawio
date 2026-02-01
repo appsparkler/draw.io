@@ -2607,7 +2607,7 @@
           <mxGeometry height="100" width="380" x="414" y="260" as="geometry" />
         </mxCell>
         <mxCell id="Jopyu3_yXdWmvuIVyJtL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;What is ACID?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;A - Atomic - all or nothing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;C - Consistent - from one valid state to another valid state following all rules, constraints and triggers&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;I - Isolation - transactions should not interfere with each other&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;D - Durable - once a transaction commits, its result is permanent even if server crashes, power fails or network goes down&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="380" x="20" y="350" as="geometry" />
+          <mxGeometry height="130" width="380" x="20" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
