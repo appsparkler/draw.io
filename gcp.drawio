@@ -2545,6 +2545,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-24" connectable="0" parent="y7BHjyUzeMsQrRMVd9kG-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0323" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Can use SSL?" vertex="1">
           <mxGeometry height="100" width="100" x="20" y="3320" as="geometry" />
         </mxCell>
