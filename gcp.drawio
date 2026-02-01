@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2490,6 +2490,69 @@
         </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-3" edge="1" parent="1" source="GduT_W_pEAKxxbHeROeL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" target="y7BHjyUzeMsQrRMVd9kG-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-7" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y7BHjyUzeMsQrRMVd9kG-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-8" connectable="0" parent="y7BHjyUzeMsQrRMVd9kG-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-10" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y7BHjyUzeMsQrRMVd9kG-9" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;connecting from within GC?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-6" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cloud SQL Private IP" vertex="1">
+          <mxGeometry height="40" width="70" x="199" y="3070" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-12" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y7BHjyUzeMsQrRMVd9kG-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-13" connectable="0" parent="y7BHjyUzeMsQrRMVd9kG-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.1429" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-15" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y7BHjyUzeMsQrRMVd9kG-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-16" connectable="0" parent="y7BHjyUzeMsQrRMVd9kG-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.45" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;need manual control over SSL certificates?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-11" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cloud SQL Auth Proxy" vertex="1">
+          <mxGeometry height="50" width="70" x="190" y="3205" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-18" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y7BHjyUzeMsQrRMVd9kG-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-19" connectable="0" parent="y7BHjyUzeMsQrRMVd9kG-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.0154" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-23" edge="1" parent="1" source="y7BHjyUzeMsQrRMVd9kG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y7BHjyUzeMsQrRMVd9kG-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="3455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Can use SSL?" vertex="1">
+          <mxGeometry height="100" width="100" x="20" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-17" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Manual SSL connection" vertex="1">
+          <mxGeometry height="35" width="95" x="186.5" y="3352.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-20" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Connection over Authorized Networks" vertex="1">
+          <mxGeometry height="50" width="110" x="190" y="3430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
