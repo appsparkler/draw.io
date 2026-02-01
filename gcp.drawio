@@ -2441,7 +2441,7 @@
           <mxGeometry height="220" width="340" x="20" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="GduT_W_pEAKxxbHeROeL-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Cloud Storage Features&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- allows CSEK (Customer Supplied Encryption Key) instead of Google managed keys&lt;/div&gt;&lt;div&gt;- OLM - Object Lifecycle Management - allows us to automatically delete or archive objects&lt;/div&gt;&lt;div&gt;- Object Versioning - allows us to maintain multiple versions of objects.&amp;nbsp; We are charged for the versions as if they were multiple files.&lt;/div&gt;&lt;div&gt;- Directory synchronization - this service allows us to synchronize a directory in a file-system with a bucket&lt;/div&gt;&lt;div&gt;- Object change notification via Pub/Sub are possible&lt;/div&gt;&lt;div&gt;- Autoclass - when enabled, it manages all aspects of storage classes for a bucket.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="440" x="370" y="1550" as="geometry" />
+          <mxGeometry height="200" width="440" x="370" y="1550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
