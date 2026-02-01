@@ -2476,6 +2476,9 @@
         <mxCell id="GduT_W_pEAKxxbHeROeL-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;fontStyle=1" value="In essence, we are one, rather, the entire creation seems to be&lt;br&gt; one. Conjunction and action have created conditions of difference in &lt;br&gt;its forms.&lt;br&gt;  " vertex="1">
           <mxGeometry height="90" width="340" x="20" y="2240" as="geometry" />
         </mxCell>
+        <mxCell id="GduT_W_pEAKxxbHeROeL-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Autoclass in GC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- if enabled, Autoclass transitions objects in our bucket to appropriate storage classes based on the access pattern of each object&lt;/div&gt;&lt;div&gt;- initially the objects are stored in&amp;nbsp;&lt;b&gt;Standard class&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&amp;nbsp;if objects are not accessed for &lt;b&gt;30 days&lt;/b&gt;; they are moved to&amp;nbsp;&lt;b&gt;Nearline class&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&amp;nbsp;if objects are not accessed for &lt;b&gt;90 days&lt;/b&gt;; they are moved to&amp;nbsp;&lt;b&gt;Coldline&amp;nbsp;class&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&amp;nbsp;if objects are not accessed for &lt;b&gt;365 days&lt;/b&gt;; they are moved to&amp;nbsp;&lt;b&gt;Archive&amp;nbsp;class&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="342.5" x="10" y="2460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
