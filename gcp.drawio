@@ -2000,11 +2000,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7B_Y9L-YD66yRERNGyvx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="2.2 Cloud Storage" vertex="1">
-          <mxGeometry height="40" width="330" as="geometry" />
+        <mxCell id="7B_Y9L-YD66yRERNGyvx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;fontStyle=1" value="2.2 Storage and DB services" vertex="1">
+          <mxGeometry height="40" width="450" as="geometry" />
         </mxCell>
         <mxCell id="4oXGKHOevPYt13dVsUQm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Storage solutions on GCP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Object - Cloud Storage&lt;/div&gt;&lt;div&gt;File - Filestore&lt;/div&gt;&lt;div&gt;Relational - Cloud SQL, Spanner, Alloy DB&lt;/div&gt;&lt;div&gt;Non-relational - Firestore, Big Table&lt;/div&gt;&lt;div&gt;Warehouse - Big Query&lt;/div&gt;&lt;div&gt;Redis - Memorystore&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigQuery is mostly used for big data analysis and interactive querying; though it also stores data.&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="250" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="is our data structured?" vertex="1">
+          <mxGeometry height="100" width="100" x="440" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-7" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-8" connectable="0" parent="4oXGKHOevPYt13dVsUQm-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4143" y="2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-11" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4oXGKHOevPYt13dVsUQm-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-12" connectable="0" parent="4oXGKHOevPYt13dVsUQm-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.16" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Do we need a shared file system?" vertex="1">
+          <mxGeometry height="100" width="100" x="314" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-6" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Filestore" vertex="1">
+          <mxGeometry height="30" width="56" x="480" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-10" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Cloud Storage" vertex="1">
+          <mxGeometry height="60" width="120" x="304" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-13" edge="1" parent="1" source="4oXGKHOevPYt13dVsUQm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4oXGKHOevPYt13dVsUQm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oXGKHOevPYt13dVsUQm-14" connectable="0" parent="4oXGKHOevPYt13dVsUQm-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2328" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
