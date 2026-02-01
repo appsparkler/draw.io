@@ -2422,6 +2422,9 @@
         <mxCell id="GduT_W_pEAKxxbHeROeL-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;What does 11 nines of durability mean?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- it means that we won&#39;t loose data.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;availability&lt;/b&gt; - there&#39;s a small probability that we&amp;nbsp;may not be able to access our data&amp;nbsp;just like a bank which has our money but we can&#39;t access it because it&#39;s closed.&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="260" x="360" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="GduT_W_pEAKxxbHeROeL-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Overview&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- globally unique name&lt;/div&gt;&lt;div&gt;- the data that we put in the bucket are objects that inherit the storage class of the bucket and those objects could be text files, docs, videos, etc.&lt;/div&gt;&lt;div&gt;- can be access with glcoud storage command, JSON or XML APIs.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="130" x="680" y="905" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
