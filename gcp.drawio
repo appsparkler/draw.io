@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2573,6 +2573,9 @@
         </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;b&gt;Choose Spanner&lt;/b&gt; if we have outgrown any relational DB, are sharding our DB for throughput, need transactional consistency, global data and strong consistency, DB consolidation.&amp;nbsp;" vertex="1">
           <mxGeometry height="110" width="230" x="300" y="3330" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Alloy DB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- it is a fully managed database service&lt;/div&gt;&lt;div&gt;- fast transactional processing&lt;/div&gt;&lt;div&gt;- HA&lt;/div&gt;&lt;div&gt;- Real-time business insights.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="270" x="22.5" y="3520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
