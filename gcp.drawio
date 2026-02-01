@@ -2452,6 +2452,9 @@
         <mxCell id="GduT_W_pEAKxxbHeROeL-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Object life cycle management policies&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- they specify actions to be performed on objects that meet certain rules.&lt;/div&gt;&lt;div&gt;- assign a lifecycle management configuration to a bucket.&lt;/div&gt;&lt;div&gt;- example use cases:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - downgrade storage class on objects older than a year&lt;/div&gt;&lt;div&gt;&amp;nbsp; - delete objects created before a specific data&lt;/div&gt;&lt;div&gt;&amp;nbsp; - keep only 3 most recent versions of an object&lt;/div&gt;&lt;div&gt;- object inspection occurs in asynchronous batches so changes can take 24 hours to apply&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="440" x="370" y="1760" as="geometry" />
         </mxCell>
+        <mxCell id="GduT_W_pEAKxxbHeROeL-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Object retention lock&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- lets us define data retention requirements on a per object basis&lt;/div&gt;&lt;div&gt;- retention configuration governs how long the object must be retained&lt;/div&gt;&lt;div&gt;- helps with regulatory and compliance requirements.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="440" x="370" y="1930" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
