@@ -2462,7 +2462,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GduT_W_pEAKxxbHeROeL-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Data import services&lt;/b&gt;&lt;/div&gt;&lt;div&gt;GC console allows us to upload individual files but what if we need to upload terabytes or petabytes of data?&amp;nbsp; 3 services address these use cases:&lt;/div&gt;&lt;div&gt;- Transfer appliance - rack, capture and then ship our data to GC - from hundred of terabytes to 1 petabyte&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Storage Transfer service - import online data (another bucket, an S3 bucket or web source)&lt;/div&gt;&lt;div&gt;- Offline Media Import - third-party provider uploads the data from physical media such as storage arrays, hard disk drives, tapes and USB flash drives.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="440" x="370" y="2040" as="geometry" />
+          <mxGeometry height="160" width="440" x="370" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="GduT_W_pEAKxxbHeROeL-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Cloud Storage provides strong global consistency&lt;/b&gt;&lt;/div&gt;&lt;div&gt;all these actions are immediately reflected in query results:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Read after write&lt;/div&gt;&lt;div&gt;- read-after-metadata-update&lt;/div&gt;&lt;div&gt;- read-after-delete&lt;/div&gt;&lt;div&gt;- bucket listing&lt;/div&gt;&lt;div&gt;- object listing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="440" x="377.5" y="2210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
