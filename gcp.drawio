@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2558,6 +2558,9 @@
         </mxCell>
         <mxCell id="y7BHjyUzeMsQrRMVd9kG-20" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Connection over Authorized Networks" vertex="1">
           <mxGeometry height="50" width="110" x="190" y="3430" as="geometry" />
+        </mxCell>
+        <mxCell id="y7BHjyUzeMsQrRMVd9kG-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Connecting to a Cloud SQL Instance" vertex="1">
+          <mxGeometry height="40" width="126" x="288" y="3050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
