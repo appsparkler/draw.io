@@ -2205,6 +2205,9 @@
         <mxCell id="4oXGKHOevPYt13dVsUQm-55" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Firestore" vertex="1">
           <mxGeometry height="30" width="65" x="527.5" y="630" as="geometry" />
         </mxCell>
+        <mxCell id="pG_0InggyRHET_Uo_Xrk-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Which storage option to choose?" vertex="1">
+          <mxGeometry height="40" width="270" x="10" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
