@@ -5311,6 +5311,9 @@
         <mxCell id="4X1Uoouh8FbHzh0wrnBo-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="6.1 Logging, Monitoring and Observability Intro" vertex="1">
           <mxGeometry height="40" width="703" x="17" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="7NnTsTBRkvKZ7vHyHdxD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Logging and Monitoring&lt;span style=&quot;font-weight: normal;&quot;&gt; - covers the operations-focused components including &lt;b&gt;logging, monitoring and service-monitoring&lt;/b&gt;.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-&amp;nbsp; personnel who are primarily interested in infrastructure, and keeping that infrastructure up, running and error-free&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observability&lt;span style=&quot;font-weight: normal;&quot;&gt; - covers the application performance management tools, including &lt;b&gt;Error Reporting, Trace and Profiler&lt;/b&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- developers who are trying to perfect or troubleshoot applications that are running in one of GC compute products.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="373" x="17" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
