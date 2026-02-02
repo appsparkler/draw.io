@@ -1996,7 +1996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 Cloud Storage">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2703,7 +2703,7 @@
           <mxGeometry height="290" width="270" x="300" y="4690" as="geometry" />
         </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - learns access patterns&lt;/b&gt;&lt;/div&gt;Bigtable learns to adjust to specific access patterns.&amp;nbsp; If a certain Bigtable node is frequently accessing a certain substed of data" vertex="1">
-          <mxGeometry height="290" width="230" x="580" y="4690" as="geometry" />
+          <mxGeometry height="110" width="230" x="580" y="4690" as="geometry" />
         </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - re-balances without moving data&lt;/b&gt;&lt;/div&gt;- BT will update the indexes so that other nodes can distribute that workload evenly" vertex="1">
           <mxGeometry height="99" width="230" x="20" y="4971" as="geometry" />
@@ -2712,7 +2712,7 @@
           <mxGeometry height="99" width="230" x="264" y="4990" as="geometry" />
         </mxCell>
         <mxCell id="29ENVAZ_-pG93xMfRBPk-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Choose BT if&amp;nbsp;&lt;/b&gt;we need to store more than 1TB of structured data, have very high volume of writes, need read/write latency of less than 10ms along with strong consistency or need a storage service that is compatible with the HBase API.&lt;/div&gt;&lt;div&gt;If we don&#39;t need any of these and are looking for a storage service that scales down well, we can consider using Firestore.&lt;/div&gt;&lt;div&gt;- Speaking of scaling, the smallest BT cluster we can create has three nodes and can handle 30K operations per second.&amp;nbsp; Remember that we pay for those nodes while they are operational, whether our application is using them or not.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="305" x="505" y="4990" as="geometry" />
+          <mxGeometry height="290" width="240" x="580" y="4810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
