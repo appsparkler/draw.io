@@ -2702,6 +2702,15 @@
         <mxCell id="29ENVAZ_-pG93xMfRBPk-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - Processing is separated from storage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the diagram shows a simplified version of Bigtable&#39;s overall architecture.&amp;nbsp; It illustrates that processing, which is done through a front-end server pool and nodes, is handled separately from the storage.&lt;/div&gt;&lt;div&gt;- A Bigtable is sharded into blocks of contiguous rows, called tablets, to help balance the workload of queries.&amp;nbsp; Tablets are similar to HBase regions, for those of us who have used the HBase API.&lt;/div&gt;&lt;div&gt;- Tables are stored on Colossus, which is Google&#39;s file sytem, in SSTable format.&amp;nbsp; An SSTable provides a persistent, ordered immutable map from keys to values, where both keys and values are arbitrary byte strings.&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="270" x="300" y="4690" as="geometry" />
         </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - learns access patterns&lt;/b&gt;&lt;/div&gt;Bigtable learns to adjust to specific access patterns.&amp;nbsp; If a certain Bigtable node is frequently accessing a certain substed of data" vertex="1">
+          <mxGeometry height="290" width="230" x="580" y="4690" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - re-balances without moving data&lt;/b&gt;&lt;/div&gt;- BT will update the indexes so that other nodes can distribute that workload evenly" vertex="1">
+          <mxGeometry height="99" width="230" x="20" y="4971" as="geometry" />
+        </mxCell>
+        <mxCell id="29ENVAZ_-pG93xMfRBPk-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;BigTable - throughput scales linearly&lt;/b&gt;&lt;/div&gt;- for every single node that we add, we&#39;ll see a linear scale of throughput performance, up to hundreds of nodes." vertex="1">
+          <mxGeometry height="99" width="230" x="264" y="4990" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
