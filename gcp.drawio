@@ -5321,7 +5321,7 @@
           <mxGeometry height="90" width="373" x="17" y="300" as="geometry" />
         </mxCell>
         <mxCell id="7NnTsTBRkvKZ7vHyHdxD-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" value="Product&lt;br&gt;&lt;div&gt;Developing&lt;/div&gt;&lt;div&gt;Capacity planning&lt;/div&gt;&lt;div&gt;Testing&lt;/div&gt;&lt;div&gt;Root cause analysis&lt;br&gt;Incident Response&lt;/div&gt;&lt;div&gt;Monitoring&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="390" x="420" y="280" as="geometry" />
+          <mxGeometry height="120" width="390" x="400" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
