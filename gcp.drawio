@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="16">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1995,8 +1995,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 &amp; 2.3 -Cloud Storage &amp; Resource Management">
-    <mxGraphModel dx="1286" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="5KV5qa1x4tO5C1MdNY9w" name="2.2 Cloud Storage">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2714,6 +2714,14 @@
         <mxCell id="29ENVAZ_-pG93xMfRBPk-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Choose BT if&amp;nbsp;&lt;/b&gt;we need to store more than 1TB of structured data, have very high volume of writes, need read/write latency of less than 10ms along with strong consistency or need a storage service that is compatible with the HBase API.&lt;/div&gt;&lt;div&gt;If we don&#39;t need any of these and are looking for a storage service that scales down well, we can consider using Firestore.&lt;/div&gt;&lt;div&gt;- Speaking of scaling, the smallest BT cluster we can create has three nodes and can handle 30K operations per second.&amp;nbsp; Remember that we pay for those nodes while they are operational, whether our application is using them or not.&lt;/div&gt;" vertex="1">
           <mxGeometry height="220" width="305" x="505" y="4990" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HyacXztbFHUVIIf1FObS" name="2.3 Resource Management">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
