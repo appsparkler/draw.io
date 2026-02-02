@@ -5364,6 +5364,15 @@
         <mxCell id="7NnTsTBRkvKZ7vHyHdxD-17" edge="1" parent="1" source="7NnTsTBRkvKZ7vHyHdxD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.992;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;" target="7NnTsTBRkvKZ7vHyHdxD-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vKsCp6Snn4JDDGLBD-D1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="6.2 Monitoring Critical Systems" vertex="1">
+          <mxGeometry height="40" width="423" x="7" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="vKsCp6Snn4JDDGLBD-D1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="...not doing the rest of this section as its a summary of what is to follow.&amp;nbsp; Will revisit after completing 6 and 7 secitons." vertex="1">
+          <mxGeometry height="60" width="373" x="17" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="vKsCp6Snn4JDDGLBD-D1-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;What is monitoring?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;collecting, processing, aggregating and displaying real-time quantitative data about a system.&amp;nbsp; It&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- reveals what needs urgent attention&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- shows trends in application usage patterns&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- helps improve an application experience.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="350" x="430" y="1040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
