@@ -2809,7 +2809,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_E89HfO8YSUfNyAeemh1-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;" value="&lt;div&gt;&lt;b&gt;Billing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- the consumption of all resources under a project accumulates into one billing account.&lt;/div&gt;&lt;div&gt;- to help with project planning and controlling costs, we can set a budget.&amp;nbsp; Budget lets us track how our spend is growing toward that amount&lt;/div&gt;&lt;div&gt;- we can set the budged at a specific amount&amp;nbsp;&lt;b&gt;or &lt;/b&gt;match it to the previous month&#39;s spend.&lt;/div&gt;&lt;div&gt;- after we determine our budget amount, we can set budget alerts - these alerts send emails to Billing admins after spend exceeds a percent of the budget or a specified amount.&lt;/div&gt;&lt;div&gt;- alerts can be set at specific %ages of budget amount (for ex. 50%, 90% and 100%) or also if the spend is forecasted to exceed the %age of the budget amount by the end of the budget period.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="540" x="270" y="830" as="geometry" />
+          <mxGeometry height="160" width="540" x="270" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
