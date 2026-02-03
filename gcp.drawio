@@ -5425,7 +5425,7 @@
           <mxGeometry height="100" width="360" x="450" y="3390" as="geometry" />
         </mxCell>
         <mxCell id="xP-VHzQe5yHM5r4zY6zi-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Metrics Explorer - Threshold line&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;it creates a horizontal line from a point on the Y-axis.&amp;nbsp; The line provides a visual reference for the chosen threshold value.&amp;nbsp; We can add a threshold that refers to a value on the left Y-axis or the right Y-axis.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="423" x="17" y="3520" as="geometry" />
+          <mxGeometry height="80" width="423" x="17" y="3520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
