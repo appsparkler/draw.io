@@ -5500,6 +5500,9 @@
             <mxPoint x="328" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JhjzTx54N1DEubST53oX-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Evaluating our alerts&lt;/div&gt;&lt;div&gt;- Precision&lt;span style=&quot;font-weight: normal;&quot;&gt; - relevant alerts/sum(relevant + irrelevant) alerts&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Recall&lt;span style=&quot;font-weight: normal;&quot;&gt; - relevant alerts/sum(relevant + missed) alerts&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Precision&lt;span style=&quot;font-weight: normal;&quot;&gt; is a measurement of accuracy whereas&amp;nbsp;&lt;b&gt;Recall&lt;/b&gt;&amp;nbsp;is a measure of exactness&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;-&lt;/b&gt;&amp;nbsp;&lt;b&gt;Detection time &lt;/b&gt;- how long it takes the system to notice an alert condition.&amp;nbsp; Too long and it could affect the error budget.&amp;nbsp; Too short and it could generate false positives.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Reset time&lt;span style=&quot;font-weight: normal;&quot;&gt; - how long alerts fire after an issue has been resolved.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="170" x="640" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
