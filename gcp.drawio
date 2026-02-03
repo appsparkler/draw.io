@@ -5469,7 +5469,7 @@
           <mxGeometry height="290" width="480" x="330" y="40" as="geometry" />
         </mxCell>
         <mxCell id="JhjzTx54N1DEubST53oX-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;SLA - Service Level Agreement &lt;span style=&quot;font-weight: normal;&quot;&gt;- are commitments made to our customers that our systems and applications will meet a particular decided SLO.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- it describes the minimum levels of service that we promise to provide to our customers and what happens when we break that promise.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- If our service has paying customers, an SLA may include some way of compensating them with refunds or credits when that service has an outage that is longer than this agreement allows.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- to give the opportunity to detect problems and take actions before our reputation is damaged, our alerting thresholds are often substantially higher than the minimum level of service documented in our SLA.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="290" width="300" x="20" y="190" as="geometry" />
+          <mxGeometry height="260" width="300" x="20" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
