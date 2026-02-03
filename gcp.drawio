@@ -5460,7 +5460,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sv25SJziC_YjTTj4DDmY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="6.3 Alerting Policies" vertex="1">
-          <mxGeometry height="40" width="280" as="geometry" />
+          <mxGeometry height="40" width="280" x="20" as="geometry" />
         </mxCell>
         <mxCell id="JhjzTx54N1DEubST53oX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;SLI - Service Level Indicator &lt;span style=&quot;font-weight: normal;&quot;&gt;are carefully selected monitoring metrics that measure one aspect of a service&#39;s reliability.&amp;nbsp; Ideally, SLI should have a close linear relationship with our user&#39;s experience of that reliability, and its recommended expressing them as &lt;b&gt;a ratio of two numbers&lt;/b&gt;: the number of good events divided by the count of all valid events.&amp;nbsp; For ex. latency&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="300" x="20" y="40" as="geometry" />
