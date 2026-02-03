@@ -5397,6 +5397,9 @@
         <mxCell id="xP-VHzQe5yHM5r4zY6zi-3" edge="1" parent="1" source="xP-VHzQe5yHM5r4zY6zi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="xP-VHzQe5yHM5r4zY6zi-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xP-VHzQe5yHM5r4zY6zi-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Metrics scope only affects Cloud Monitoring&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Other tools such as Cloud Logging, Error Reporting and the Application Performance Management (APM) tools are strictly project-based and do not rely upon configuration of the metrics scope or the monitoring IAM roles.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="300" x="510" y="1980" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
