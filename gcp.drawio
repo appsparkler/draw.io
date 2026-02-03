@@ -5478,7 +5478,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JhjzTx54N1DEubST53oX-9" edge="1" parent="1" source="JhjzTx54N1DEubST53oX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="JhjzTx54N1DEubST53oX-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+              <mxPoint x="310" y="440" />
+              <mxPoint x="170" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JhjzTx54N1DEubST53oX-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;In essence, our SLO and alerting thresholds must be value of better performance than what is decided on SLA.&amp;nbsp; For ex.:&lt;/div&gt;&lt;div&gt;SLA - 99.9%, SLO should be 99.999% or higher&lt;/div&gt;&lt;div&gt;SLA - 200ms latency, SLO should be 100ms or lower&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="480" x="330" y="340" as="geometry" />
