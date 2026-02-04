@@ -5530,9 +5530,6 @@
         <mxCell id="L27vmhnqzuBSezV0tZwq-2" edge="1" parent="1" source="JhjzTx54N1DEubST53oX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" target="L27vmhnqzuBSezV0tZwq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L27vmhnqzuBSezV0tZwq-7" edge="1" parent="1" source="L27vmhnqzuBSezV0tZwq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="L27vmhnqzuBSezV0tZwq-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L27vmhnqzuBSezV0tZwq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Use multiple conditions for better precision and recall&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- many variables can affect a good alerting strategy, including the amount of traffic, the error budget, peak and slow periods, etc.&amp;nbsp; The fallacy is believing that we have to choose a single option.&amp;nbsp; We can define multiple alerts to get better precision, recall, detection time and reset time.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- We can also define multiple alerts through multiple channels.&amp;nbsp; Perhaps a short window condition generates an alert, but it takes the form of a Pub/Sub message to a Cloud Run Container, which then uses complex logic to check multiple other conditions before deciding whether a human gets a notification.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="456" x="24" y="990" as="geometry" />
         </mxCell>
@@ -5540,7 +5537,7 @@
           <mxGeometry height="50" width="300" x="330" y="940" as="geometry" />
         </mxCell>
         <mxCell id="L27vmhnqzuBSezV0tZwq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Prioritizing alerts&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- involve humans only for critical alerts&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- use severity level to assess the priority of an alert.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- configure how to triage low- and high-priority alerts&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="140" x="490" y="990" as="geometry" />
+          <mxGeometry height="160" width="280" x="20" y="1180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
