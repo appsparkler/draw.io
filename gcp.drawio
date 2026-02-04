@@ -5516,6 +5516,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="L27vmhnqzuBSezV0tZwq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Short windows with successive failure counts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="170" x="640" y="770" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
