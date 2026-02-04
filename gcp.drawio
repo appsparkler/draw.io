@@ -5525,6 +5525,9 @@
         <mxCell id="L27vmhnqzuBSezV0tZwq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Use multiple conditions for better precision and recall&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- many variables can affect a good alerting strategy, including the amount of traffic, the error budget, peak and slow periods, etc.&amp;nbsp; The fallacy is believing that we have to choose a single option.&amp;nbsp; We can define multiple alerts to get better precision, recall, detection time and reset time.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- We can also define multiple alerts through multiple channels.&amp;nbsp; Perhaps a short window condition generates an alert, but it takes the form of a Pub/Sub message to a Cloud Run Container, which then uses complex logic to check multiple other conditions before deciding whether a human gets a notification.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="456" x="24" y="990" as="geometry" />
         </mxCell>
+        <mxCell id="L27vmhnqzuBSezV0tZwq-4" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;fontSize=10;spacing=10;fontStyle=3" value="An ignorant person counts the leaves, flowers etc., and eats&amp;nbsp; or may not even eat the fruit, whereas a wise person is interested only&amp;nbsp; in eating the fruit, without paying any attention to these details." vertex="1">
+          <mxGeometry height="50" width="300" x="330" y="940" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
