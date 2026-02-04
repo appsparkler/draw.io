@@ -5568,8 +5568,8 @@
         <mxCell id="L27vmhnqzuBSezV0tZwq-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Alerting - documentation&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- use the documentation section to guide our troubleshooting&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- include internal playbooks, landing links and dynamic labels&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- make it easy for the team to understand what is wrong&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="280" x="530" y="1700" as="geometry" />
         </mxCell>
-        <mxCell id="L27vmhnqzuBSezV0tZwq-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Alerting - summary pane&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- when one or more alert policies are created, the alerting web interface provides a summary of incidents and alerting events.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="280" x="20" y="1660" as="geometry" />
+        <mxCell id="L27vmhnqzuBSezV0tZwq-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Alerting - summary pane, incidents pane and Snoozes&lt;/div&gt;Summary pane &lt;span style=&quot;font-weight: normal;&quot;&gt;- lists the number of incidents and the incidents pane displays the ten most recent incidents.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="230" width="280" x="20" y="1660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
