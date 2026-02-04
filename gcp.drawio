@@ -5575,7 +5575,10 @@
           <mxGeometry height="270" width="280" x="530" y="1840" as="geometry" />
         </mxCell>
         <mxCell id="L27vmhnqzuBSezV0tZwq-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Attaching alerts to log based metrics&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;logs-based metrics are extracted from CM and are based on the content of log entries.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="280" x="240" y="1940" as="geometry" />
+          <mxGeometry height="70" width="280" x="530" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="L27vmhnqzuBSezV0tZwq-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Creating policies by using Terraform&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="500" x="20" y="1940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
