@@ -5516,8 +5516,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L27vmhnqzuBSezV0tZwq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Short windows with successive failure counts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="380" width="170" x="640" y="770" as="geometry" />
+        <mxCell id="L27vmhnqzuBSezV0tZwq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Short windows with successive failure counts&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- one strategy is that an error is spotted quickly but treated as an anomaly until three windows fail in row.&amp;nbsp; An example of this is that we start hearing some noise in our car and instead of taking action; we wait and watch if this noise continues the 2nd or 3rd time before considering any action.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- The drawback of this strategy is that if the &quot;pay attention but don&#39;t alert yet&quot; duration is 10 minutes, a 100% outage for 5 minutes is not detected.&amp;nbsp; As a result, if errors spike up and down, they might never be detected.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="170" x="640" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
