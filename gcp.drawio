@@ -5506,6 +5506,12 @@
         <mxCell id="JhjzTx54N1DEubST53oX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Trending greater than error budget and windows&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- ideally an alert should be generated when error count, or whatever is being measured is &lt;b&gt;trending&lt;/b&gt; to be greater than the allowed error budget.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- both the SLO itself and the idea of &quot;&lt;b&gt;trending toward&lt;/b&gt;&quot; require &lt;b&gt;windows&lt;/b&gt; of time over which they are calculated.&amp;nbsp; Window is used in two ways:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. The SLO itself will be measured over a &lt;b&gt;window of time&lt;/b&gt;, say an availability SLO of 99.9% over &lt;b&gt;every 30-day period.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. &lt;b&gt;Alert triggering will have a window&lt;/b&gt; over which it watches for trends.&amp;nbsp; For ex. an alert might fire if the %age of errors over any 60-minute period exceeds 0.1%&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="300" x="20" y="750" as="geometry" />
         </mxCell>
+        <mxCell id="JhjzTx54N1DEubST53oX-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="Small Window v/s longer ones" vertex="1">
+          <mxGeometry height="230" width="300" x="330" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="JhjzTx54N1DEubST53oX-14" edge="1" parent="1" source="JhjzTx54N1DEubST53oX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.787;entryDx=0;entryDy=0;entryPerimeter=0;" target="JhjzTx54N1DEubST53oX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
