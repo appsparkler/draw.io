@@ -5631,7 +5631,7 @@
           <mxGeometry height="440" width="240" x="570" y="450" as="geometry" />
         </mxCell>
         <mxCell id="fx4ig50IVQ7KgmRinWb_-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Routing, storing and exporting the logs&lt;/div&gt;Logs Router &lt;span style=&quot;font-weight: normal;&quot;&gt;- entries are passed through the API and fed to Log Router.&amp;nbsp; LR is optimized for processing streaming data, reliably buffering it, and sending it to any combination of log storage and sink (export) locations.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="440" width="300" x="260" y="640" as="geometry" />
+          <mxGeometry height="250" width="300" x="260" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
