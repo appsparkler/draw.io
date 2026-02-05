@@ -5637,7 +5637,10 @@
           <mxGeometry height="340" width="230" x="20" y="640" as="geometry" />
         </mxCell>
         <mxCell id="fx4ig50IVQ7KgmRinWb_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Logs storage page on GC&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;It displays a summary of statistics for the logs that our project is receiving, including:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- current total volume&lt;span style=&quot;font-weight: normal;&quot;&gt; - amount of logs received since the first date of the current month&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- previous month volume&lt;span style=&quot;font-weight: normal;&quot;&gt; - the amount of logs our project received in the previous calendar month&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- projected volume by EOM&lt;span style=&quot;font-weight: normal;&quot;&gt; - the estimated amount of logs our project will receive by the end of the current month, based on current usage.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Current month billable retention&lt;span style=&quot;font-weight: normal;&quot;&gt; - logs retained longer than 30 days (calculated from the first of current month)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="500" x="20" y="990" as="geometry" />
+          <mxGeometry height="160" width="540" x="20" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="fx4ig50IVQ7KgmRinWb_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Log Router sinks&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="240" x="570" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
