@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="19">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5604,6 +5604,14 @@
         <mxCell id="L27vmhnqzuBSezV0tZwq-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="A burn rate of 2 allows half the time to burn the budget, so the allowed error rate must be half the burn‑rate=1 limit.&lt;br&gt;Thus:&lt;br&gt;Allowed errors per hour at burn rate = 2:&lt;br&gt;13.89 / 2 = 6.945 errors/hour&lt;br&gt;&lt;br&gt;✔ Threshold to trigger the alert&lt;br&gt;If your 60‑minute window contains more than ~6.94 errors,&lt;br&gt;the burn rate exceeds 2, so the alert fires.&lt;br&gt;Rounding for practical use:&lt;br&gt;⭐ 7 or more errors in a 60‑minute window → alert fires&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="340" x="380" y="3120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5fThBm84ewazWRVGgeIm" name="6.4-Advanced Logging and Analysis">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
