@@ -5655,7 +5655,7 @@
           <mxGeometry height="200" width="540" x="20" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="fx4ig50IVQ7KgmRinWb_-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Security log analytics workflow recommends aggregated sinks&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;one of the steps in security log analytics is to create aggregate sinks and route those logs to a single destination depending on the choice of security analytics tool, such as Log Analytics, BigQuery, Chronicle or a third-party security information and event management (SIEM) technology.&amp;nbsp; Logs are aggregated from our organization, including any contained folders, projects and billing accounts.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="280" width="250" x="570" y="1580" as="geometry" />
+          <mxGeometry height="200" width="250" x="570" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="fx4ig50IVQ7KgmRinWb_-15" edge="1" parent="1" source="fx4ig50IVQ7KgmRinWb_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" target="fx4ig50IVQ7KgmRinWb_-14">
           <mxGeometry relative="1" as="geometry" />
