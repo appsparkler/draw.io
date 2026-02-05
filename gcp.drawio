@@ -5660,6 +5660,9 @@
         <mxCell id="fx4ig50IVQ7KgmRinWb_-15" edge="1" parent="1" source="fx4ig50IVQ7KgmRinWb_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" target="fx4ig50IVQ7KgmRinWb_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fx4ig50IVQ7KgmRinWb_-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Naming fields&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- for log entry fields that are part of LogEntry type, the corresponding BQ field name is precisely the same as the log entry fields.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- For any user-supplied fields, the &lt;b&gt;letter case is normalized to lowercase&lt;/b&gt;, but the naming is otherwise preserved.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- For fields in structured payloads, as long as the &lt;b&gt;@type specifier is not preset&lt;/b&gt;, the letter case is &lt;b&gt;normalized to lowercase&lt;/b&gt;, but naming is otherwise preserved.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="540" x="20" y="1720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
