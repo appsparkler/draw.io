@@ -5672,6 +5672,9 @@
         <mxCell id="fx4ig50IVQ7KgmRinWb_-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Ultimately,&amp;nbsp;it&#39;s the query...&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;...that &lt;br/&gt;selects the entries&lt;/b&gt;.&amp;nbsp; We can build queries by creating directly with&amp;nbsp; &lt;b&gt;i.&amp;nbsp;&lt;/b&gt;Logging Query Language (LQL), &lt;b&gt;ii.&amp;nbsp;&lt;/b&gt;using the drop-down menus and&amp;nbsp;the logs field &lt;br/&gt;explorer or&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;b&gt;iii.&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;by clicking fields in the results themselves.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="800" x="20" y="2200" as="geometry" />
         </mxCell>
+        <mxCell id="fx4ig50IVQ7KgmRinWb_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Querying Logs 101&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="790" x="20" y="2350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
