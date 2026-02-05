@@ -5612,6 +5612,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dH3CIexp6mOmeBQoWsnX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="6.4 Advanced Logging and Analysis" vertex="1">
+          <mxGeometry height="40" width="500" x="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
