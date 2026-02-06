@@ -5782,6 +5782,9 @@
         <mxCell id="zk0OcTHsmJGyTELMwq_0-9" edge="1" parent="1" source="zk0OcTHsmJGyTELMwq_0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.681;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="zk0OcTHsmJGyTELMwq_0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zk0OcTHsmJGyTELMwq_0-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Filtering audit logs&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- in the &quot;log names&quot; dropdown, we can select the logs we want to see under Cloud Audit. If any of the 4 types are missing it means those types are not available.&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="150" x="20" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
