@@ -5752,6 +5752,9 @@
         <mxCell id="53te4yaqVfC-OFm9xQlo-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="6.5 Working with Cloud Audit Logs" vertex="1">
           <mxGeometry height="40" width="500" x="20" as="geometry" />
         </mxCell>
+        <mxCell id="i2GKoFrdI2u2OYWZshLm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Overview&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;in terms of sheer volume of useful info, probably the most important group of logs in GC are the Cloud Audit Logs.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- It answers the question -&amp;nbsp; Who did what, where and when?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- There are 4 types:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1. Admin Activity audit logs&lt;span style=&quot;font-weight: normal;&quot;&gt; - record modifications to configuration or metadata&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. System Event audit logs&lt;span style=&quot;font-weight: normal;&quot;&gt; - record GC non-human admin actions that modify configuration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. Data Access audit logs &lt;span style=&quot;font-weight: normal;&quot;&gt;- record calls that read metadata, configurations, or that create, modify or read user-provided data.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. Policy Denied audit logs &lt;span style=&quot;font-weight: normal;&quot;&gt;- record a security policy violation&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="320" x="20" y="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
