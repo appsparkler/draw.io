@@ -5714,6 +5714,15 @@
         <mxCell id="dwRllhtS5uPeUtGcWN51-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Scope of log-based metrics&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;System-defined log-based metric&lt;/u&gt;&amp;nbsp;apply at &lt;b&gt;GC project-level&lt;/b&gt;.&amp;nbsp; These metrics are calculated by the Log Router and apply to logs only in the GC project in which they&#39;re received.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;User-defined log-based metrics&lt;/u&gt; can apply at either the &lt;b&gt;GC project level&lt;/b&gt; or at &lt;b&gt;level of a specific log bucket&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- &lt;b&gt;project level metrics&lt;/b&gt; are calculated like system-defined log-based metrics; these user defined log-based metrics apply to logs only in the GC project in which they&#39;re received.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;bucket-scoped metrics&lt;/b&gt; apply to logs in the log bucket in which they&#39;re received, regardless of the GC project in which the log entries originated.&amp;nbsp; With these we can create log-based metrics that can evaluate logs in the following cases:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- logs that are routed from one project to a bucket in another project&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- logs that are routed into a bucket through an aggregated sink.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="480" x="320" y="3520" as="geometry" />
         </mxCell>
+        <mxCell id="dwRllhtS5uPeUtGcWN51-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Creating a log-based metrics&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="290" x="20" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="dwRllhtS5uPeUtGcWN51-9" edge="1" parent="1" source="dwRllhtS5uPeUtGcWN51-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;" target="dwRllhtS5uPeUtGcWN51-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwRllhtS5uPeUtGcWN51-10" edge="1" parent="1" source="dwRllhtS5uPeUtGcWN51-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.003;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" target="dwRllhtS5uPeUtGcWN51-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
