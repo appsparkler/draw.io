@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="19">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="19">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5608,7 +5608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5fThBm84ewazWRVGgeIm" name="6.4-Advanced Logging and Analysis">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5692,6 +5692,9 @@
         </mxCell>
         <mxCell id="fx4ig50IVQ7KgmRinWb_-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Tips for finding queries quickly:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- &lt;b&gt;search for specific values of indexed fields&lt;/b&gt;, like the name of the log entry, resource type and resource labels - for ex. &lt;font face=&quot;Courier New&quot;&gt;httpRequest.status&lt;/font&gt;, &lt;font face=&quot;Courier New&quot;&gt;logName, operation.id, resource.type, timestamp, severity, etc.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- apply constraints on resource.type and resource.labels, &lt;font face=&quot;Courier New&quot;&gt;resource.type = &quot;gke_cluster&quot;&lt;/font&gt; and &lt;font face=&quot;Courier New&quot;&gt;resource.labels.namespace = &quot;my-cool-namespace&quot;&lt;/font&gt;.&amp;nbsp; These fields are preferentially indexed in our storage and can make a huge difference for query performance.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- be specific on which logs we&#39;re searching by referring to it or them by name - for ex. &lt;font face=&quot;Courier New&quot;&gt;logName = &quot;projects/benkelly-test/logs/apache-access&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Limit the time range that we&#39;re searching to reduce the log data that is being queried.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="270" width="340" x="20" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="dwRllhtS5uPeUtGcWN51-1" edge="1" parent="1" source="fx4ig50IVQ7KgmRinWb_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.009;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;" target="fx4ig50IVQ7KgmRinWb_-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
