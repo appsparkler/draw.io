@@ -5711,6 +5711,9 @@
         <mxCell id="dwRllhtS5uPeUtGcWN51-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;...contd &lt;b&gt;Types of log based metrics&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Boolean metrics -&amp;nbsp;&lt;/b&gt;record where a log entry matches a specified filter&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="290" x="20" y="3520" as="geometry" />
         </mxCell>
+        <mxCell id="dwRllhtS5uPeUtGcWN51-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Scope of log-based metrics&lt;/b&gt;&lt;/div&gt;&lt;div&gt;System-defined log-based apply at GC project-level.&amp;nbsp; These metrics are calculated by the Log Router and apply to logs only in the GC project in which they&#39;re received.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="290" x="320" y="3520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
