@@ -6112,6 +6112,9 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;6. NIC (Network Intelligence Center)&lt;/b&gt;&lt;/div&gt;What is NIC? it gives us centralized monitoring and visibility into our network.&amp;nbsp; It reduces troubleshooting time and effort and increases network security, all while improving the overall user experience.&amp;nbsp; Currently it offers 5 modules:&lt;/div&gt;&lt;div&gt;1. Network Topology&lt;/div&gt;&lt;div&gt;2. Connectivity Tests&lt;/div&gt;&lt;div&gt;3. Performance Dashboard&lt;/div&gt;&lt;div&gt;4. Firewall Insights&lt;/div&gt;&lt;div&gt;5. Network Analyzer&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="380" x="20" y="4320" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;NIC: Network Topology&lt;/b&gt;&lt;/div&gt;- visualizes our GC network as a graph.&amp;nbsp; We can use the graph to explore our existing configurations and quickly troubleshoot networking issues.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="392.5" x="407.5" y="4450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
