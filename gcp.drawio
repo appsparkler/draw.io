@@ -6094,6 +6094,21 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-78" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ze4ZJCz32sJLTnQMiCgK-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Packet Mirroring: overcoming bandwidth limitations&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- use filters to reduce bandwidth on mirrored instances.&amp;nbsp; These filters can be based on protocol, IP ranges, traffic directions, etc.&amp;nbsp; The current maximum number of filters that can be used for PM is 30.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="380" x="20" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-80" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ze4ZJCz32sJLTnQMiCgK-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Packet Mirroring: use cases&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- network engineers can use the data from PM to - maintain integrity of deployment, troubleshoot packet loss issues by analyzing protocols, troubleshoot re-connection and latency issues by analyzing real time traffic patterns.&lt;/div&gt;&lt;div&gt;- security and compliance -&amp;nbsp;implement zero trust by monitoring network traffic across and within the trust boundaries without any network re-architecture.&amp;nbsp; PM helps capture multiple packets for a single flow.The information can be quite useful for the implementation and use of the following security tools: - 1. intrusion detection systems match signatures with multiple packets of a single flow 2. deep packet introspection engines inspect payloads for anomalies.&lt;/div&gt;&lt;div&gt;- network forensics for PCI compliance: Packet mirroring help capture, process and preserve forensic of different attack vectors.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="380" x="20" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Monitor Packet Mirroring&lt;/b&gt;&lt;/div&gt;&lt;div&gt;PM exports monitoring data about mirrored traffic to CM&lt;/div&gt;&lt;div&gt;- use metrics to verify that instances are being mirrored as intended - mirrored packets count for a specific instance, mirrored bytes count for a specific instance, dropped packets count for a specific instance.&lt;/div&gt;&lt;div&gt;- monitoring can also spot where packet mirroring shouldn&#39;t be happening: mirroring generates a significant data that requires storage and processing.&amp;nbsp; Also, note that it slows the network throughput of the virtual machines being monitored and might accidentally expose sensitive data.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="390" x="410" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-83" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.003;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ze4ZJCz32sJLTnQMiCgK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
