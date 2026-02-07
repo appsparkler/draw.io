@@ -5947,7 +5947,7 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-25" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ze4ZJCz32sJLTnQMiCgK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-26" parent="1" style="whiteSpace=wrap;html=1;" value="Cloud Monitoring API" vertex="1">
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-26" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;" value="Cloud Monitoring API" vertex="1">
           <mxGeometry height="30" width="120" x="510" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-28" parent="1" style="whiteSpace=wrap;html=1;" value="PromQL Query API" vertex="1">
@@ -5955,9 +5955,6 @@
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-29" parent="1" style="whiteSpace=wrap;html=1;" value="Monarch" vertex="1">
           <mxGeometry height="30" width="250" x="510" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="510" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-34" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="Read clients&lt;br&gt;(Grafana, prom UI, Cloud Monitoring UI, rules)" vertex="1">
           <mxGeometry height="50" width="240" x="530" y="1100" as="geometry" />
@@ -5990,7 +5987,7 @@
           <mxGeometry height="30" width="120" x="680" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Managed services for Prometheus ecosystem&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- built on top of Monarch, the same globally scalable data store as CM &amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="340" x="20" y="960" as="geometry" />
+          <mxGeometry height="190" width="360" x="20" y="960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
