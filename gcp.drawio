@@ -5856,6 +5856,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-31" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="280" x="490" y="980" as="geometry" />
+        </mxCell>
         <mxCell id="N5poTpy9TXpxM4qoNr4X-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="7.1 Configuring GC resource for Observability" vertex="1">
           <mxGeometry height="40" width="630" x="20" as="geometry" />
         </mxCell>
@@ -5903,6 +5906,14 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;4 GC Managed services for Prometheus&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;is full managed services that makes it easy to collect, store and analyze Prometheus metrics.&amp;nbsp; It:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. collects, stores and analyzes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. collects metrics from both GKE and Compute Engine environments at incredible scale without operational overhead by leveraging &lt;b&gt;Monarch&lt;/b&gt;, Google&#39;s own globally available and scalable time series database&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3. helps make GKE easier to use with maintained metric collectors.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="340" x="20" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-27" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Ze4ZJCz32sJLTnQMiCgK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-32" connectable="0" parent="Ze4ZJCz32sJLTnQMiCgK-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="write with push" vertex="1">
+          <mxGeometry relative="1" x="-0.0556" y="-1" as="geometry">
+            <mxPoint x="-12" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-15" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Prometheus based collectors&lt;/div&gt;(managed, self-deployed, OTel, Ops Agent)" vertex="1">
           <mxGeometry height="50" width="240" x="390" y="920" as="geometry" />
         </mxCell>
@@ -5935,6 +5946,18 @@
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-25" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ze4ZJCz32sJLTnQMiCgK-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-26" parent="1" style="whiteSpace=wrap;html=1;" value="Cloud Monitoring API" vertex="1">
+          <mxGeometry height="30" width="120" x="510" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-28" parent="1" style="whiteSpace=wrap;html=1;" value="PromQL Query API" vertex="1">
+          <mxGeometry height="30" width="120" x="640" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-29" parent="1" style="whiteSpace=wrap;html=1;" value="Monarch" vertex="1">
+          <mxGeometry height="30" width="250" x="510" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
