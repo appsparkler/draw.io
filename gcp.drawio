@@ -6041,7 +6041,7 @@
           <mxGeometry height="200" width="412.5" x="385" y="2540" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Enabling VPC Flow logs&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- activated/de-activated at subnet level.&amp;nbsp; All Vms within a subnet have VPC flow logs automatically enabled.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we can enable them during subnet creation.&amp;nbsp; We can optionally adjust log sampling and aggregation to adjust the metadata and sample rate written to logs.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- when enabled for a subnet, VPC flow logs collect data from all VMs in that subnet.&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="345" x="25" y="2630" as="geometry" />
+          <mxGeometry height="140" width="345" x="25" y="2630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
