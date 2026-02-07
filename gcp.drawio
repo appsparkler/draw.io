@@ -5852,11 +5852,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xVY1cIHPz7cRpQQW7iE8" name="7.1 Intro to Ops Agent">
-    <mxGraphModel dx="907" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-31" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-31" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="100" width="280" x="490" y="980" as="geometry" />
         </mxCell>
         <mxCell id="N5poTpy9TXpxM4qoNr4X-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="7.1 Configuring GC resource for Observability" vertex="1">
