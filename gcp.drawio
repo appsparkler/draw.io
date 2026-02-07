@@ -5897,6 +5897,9 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Cloud Run Functions&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- monitoring is automatic and can provide us with access to invocations, execution times, memory usage and active instances in GC console.&amp;nbsp; These metrics are also available in CM, where we can setup custom alerting and dashboards for these metrics&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- also support simple logging by default - stdout/err&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;For Cloud Run, &lt;/b&gt;request logs and container logs (emitted from the container instances from our own code written to stdout/err or using the logging API.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="185.5" width="340" x="20" y="584.5" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Cloud Operations for GKE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="185.5" width="340" x="370" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
