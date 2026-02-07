@@ -5970,6 +5970,19 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-38" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="Ze4ZJCz32sJLTnQMiCgK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-39" connectable="0" parent="Ze4ZJCz32sJLTnQMiCgK-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Free platform metrics,&lt;/div&gt;&lt;div&gt;&amp;nbsp;log-based metrics&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5333" y="4" as="geometry">
+            <mxPoint x="-16" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-37" parent="1" style="whiteSpace=wrap;html=1;" value="Cloud Monitoring API" vertex="1">
+          <mxGeometry height="30" width="120" x="680" y="890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
