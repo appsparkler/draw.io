@@ -6001,6 +6001,12 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;The rule evaluator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Managed service for Prometheus (MSP) provides a standalone rule evaluator for evaluating, recording and alerting rules against all Monarch data accessible in a metrics scope.&lt;/div&gt;&lt;div&gt;- no need to co-locate data in a single Prometheus server or on a single GC project&lt;/div&gt;&lt;div&gt;- the rule evaluator uses the standard Prometheus rule files format which makes migration to MSP easier.&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="420" x="390" y="1420" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Setting up managed collection for GKE clusters&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Go to GKE &amp;gt; Clusters page.&lt;/div&gt;&lt;div&gt;- select the GKE cluster we need and click on &quot;Enable Selected&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="420" x="390" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Deploying a PodMonitoring resource to scrape metrics&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="420" x="20" y="1650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
