@@ -5903,8 +5903,8 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;4 GC Managed services for Prometheus&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;is full managed services that makes it easy to collect, store and analyze Prometheus metrics.&amp;nbsp; It:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. collects, stores and analyzes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. collects metrics from both GKE and Compute Engine environments at incredible scale without operational overhead by leveraging &lt;b&gt;Monarch&lt;/b&gt;, Google&#39;s own globally available and scalable time series database&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3. helps make GKE easier to use with maintained metric collectors.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="340" x="20" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-15" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Prometheus based collectors&lt;/div&gt;(managed, self-deployed, OTel, Ops Agent)" vertex="1">
-          <mxGeometry height="40" width="240" x="390" y="920" as="geometry" />
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-15" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Prometheus based collectors&lt;/div&gt;(managed, self-deployed, OTel, Ops Agent)" vertex="1">
+          <mxGeometry height="50" width="240" x="390" y="920" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Compute Engine" vertex="1">
           <mxGeometry height="30" width="60" x="390" y="870" as="geometry" />
