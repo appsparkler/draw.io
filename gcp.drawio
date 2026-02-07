@@ -5879,6 +5879,9 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-4" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;spacing=12;fontFamily=Courier New;strokeColor=default;" value="&lt;p class=&quot;p1&quot;&gt;gcloud beta compute instances ops-agents policies create ops-agents-test-policy&amp;nbsp;--agent-rules=&quot;type=ops,enable-autoupgrade=false;type=metrics,enable-autoupgrade=false&quot; --description=&quot;A test policy.&quot; &lt;span class=&quot;s1&quot;&gt;--os-types=short-name=centos&lt;/span&gt;,version=7--instances=zones/us-central1-a/instances/&lt;span class=&quot;s1&quot;&gt;test-instance.&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="320" x="370" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-9" edge="1" parent="1" source="Ze4ZJCz32sJLTnQMiCgK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ze4ZJCz32sJLTnQMiCgK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Troubleshooting: agent is not sending metrics to the VM&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. first check the metrics module in syslog - if there are no logs, the agent service isn&#39;t running&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. If we see 403 permission errors when writing to the Monitoring API, enable the Logging API and Log Writer role.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="340" x="20" y="290" as="geometry" />
         </mxCell>
