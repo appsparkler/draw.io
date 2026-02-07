@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="20">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="22">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5851,6 +5851,23 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="xVY1cIHPz7cRpQQW7iE8" name="7.1 Intro to Ops Agent">
+    <mxGraphModel dx="836" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N5poTpy9TXpxM4qoNr4X-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="7.1 Introduction to Ops Agent" vertex="1">
+          <mxGeometry height="40" width="500" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;What is Ops Agent?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- because the VMs are running on Google hardware, CM can access some instance metrics without any agent - for ex. CPU utilization, some disk traffic metrics, network traffic and uptime information.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Ops Agent is the primary agent for collecting telemetry data from our Compute Engine instances.&amp;nbsp; Combining logging and metrics into a single agent, the Ops Agent uses &lt;b&gt;Fluent Bit for logs&lt;/b&gt;, which supports high-throughput logging, and the &lt;b&gt;Open Telemetry Collector for metrics.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- these agents are required for security reasons.&amp;nbsp; The Ops Agent cannot collect metrics inside the VM, for ex., memory usage.&amp;nbsp; The Ops Agent collects metrics inside the VM at the hypervisor level.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="320" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Why Ops Agent?&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- monitors our VM instances without the need for any additional configuration after the installation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- monitors thrid-party applications and supports both Windows and Linux guest OS.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Exposes many additional process metrics beyond memory and gives us a better visibility to CPU, disk, and network performance.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Unifies gathering of metrics and logs into a single agent.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Ingests user-defined metrics in Prometheus format.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="320" x="360" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="B2UCYEaHIWON03TQ6PoA" name="Trivia">
     <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5874,6 +5891,14 @@
         <mxCell id="Jopyu3_yXdWmvuIVyJtL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;What is ACID?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;A - Atomic - all or nothing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;C - Consistent - from one valid state to another valid state following all rules, constraints and triggers&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;I - Isolation - transactions should not interfere with each other&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;D - Durable - once a transaction commits, its result is permanent even if server crashes, power fails or network goes down&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="380" x="20" y="350" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J1kCk-yUue_WNNVlBFth" name="Page-22">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
