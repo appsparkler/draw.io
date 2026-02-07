@@ -5882,6 +5882,9 @@
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Troubleshooting: agent is not sending metrics to the VM&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. first check the metrics module in syslog - if there are no logs, the agent service isn&#39;t running&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. If we see 403 permission errors when writing to the Monitoring API, enable the Logging API and Log Writer role.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="340" x="20" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="Ze4ZJCz32sJLTnQMiCgK-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Integrations Page&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;To view logs, metrics and dashboards for data collected through Ops agent, we can navigate to Monitoring &amp;gt; Integrations.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Integrations brings together metrics, logs, dashboards, and alerts to give us a quick access to rich data for our application stack.&amp;nbsp; Built on an open-source foundation, we can customize the data to fit our needs.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="340" x="20" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
