@@ -6053,7 +6053,7 @@
           <mxGeometry height="70" width="415" x="385" y="2750" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Analyzing VPC Flow logs&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;We can use Log Analytics (powered by BQ) to analyze them.&amp;nbsp; With it:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we can analyze ad-hoc query-time without complex pre-processing as before&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we can use BQ to query data and upgrade buckets to use Log Analytics and then create a linked dataset.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="337.5" x="282.5" y="2830" as="geometry" />
+          <mxGeometry height="90" width="517.5" x="282.5" y="2830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
