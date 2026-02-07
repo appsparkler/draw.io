@@ -6065,7 +6065,7 @@
           <mxGeometry height="70" width="365" x="20" y="3140" as="geometry" />
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;How firewall rules provide micro-segmentation&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- we are familiar with classic segmentation or gateway-centric firwalls.&amp;nbsp; The firewall sits at the network boundary where the private network meets the outside internet.&amp;nbsp; A segmentation firewall is designed to segment and secure a protected network from an outside insecure network.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="395" x="405" y="3140" as="geometry" />
+          <mxGeometry height="180" width="400" x="400" y="3140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
