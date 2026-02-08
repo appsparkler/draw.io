@@ -6198,6 +6198,9 @@
         <mxCell id="KkR_AbSUGJTxB5suyzIZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Costs &amp;amp; pricing: Cloud Trace pricing&lt;/div&gt;&lt;div&gt;- based on&lt;span style=&quot;font-weight: normal;&quot;&gt; - number of spans ingested and eventually scanned&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- free quota&lt;span style=&quot;font-weight: normal;&quot;&gt; - first 2.5M spans&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Examples &lt;span style=&quot;font-weight: normal;&quot;&gt;- spans, CLB and custom apps&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="290" x="10" y="1580" as="geometry" />
         </mxCell>
+        <mxCell id="KkR_AbSUGJTxB5suyzIZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Free services/functions&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Cloud Profiler, Cloud Audit, access transperency, BQ data access logs, uptime checks and log analytics when queries running in CL, log exclusions, exporting logs, creating and using dashboards, GC and Anthos metrics and log streams.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="10" y="1690" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
