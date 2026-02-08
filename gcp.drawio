@@ -6223,7 +6223,7 @@
           <mxGeometry height="211" width="290" x="11" y="2109" as="geometry" />
         </mxCell>
         <mxCell id="KkR_AbSUGJTxB5suyzIZ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;View log based metrics usage&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- visit Logging &amp;gt; Log Based Metrics&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- previous month usage represents the sum of bytes ingested in the logs-based metrics in the previous calendar month.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- usage (MTD) represents the sum of bytes ingested ingested in the current calendar month&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Clicking on any of the column names lets us sort data in ascending or descending order.&amp;nbsp; For example, if we want to review which metrics ingest the most data, sorting data is helpful.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="500" x="11" y="2350" as="geometry" />
+          <mxGeometry height="210" width="269" x="11" y="2350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
