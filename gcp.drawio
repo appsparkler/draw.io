@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="23">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6135,6 +6135,20 @@
         </mxCell>
         <mxCell id="Ze4ZJCz32sJLTnQMiCgK-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Network Analyzer: insights help surface issues and identify the root cause&lt;/b&gt;&lt;/div&gt;- it helps identify common issues such as connectivity blockage, load balancing errors, external IP address that are not used but allocated, invalid next hop, GKE network misconfiguration and lot more.&lt;/div&gt;&lt;div&gt;- it also identifies the root cause of the insights and also provides recommended fixes.&amp;nbsp; For ex. an insight of the type Error, a GKE node to control plane connectivity is generated.&amp;nbsp; The insights would also describe the following:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- the root cause - an ingress firewall rule is blocking the connection between the node and the plane.&amp;nbsp; This indicated that the default drywall rules were modified, removed, or shadowed by another firewall rule.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- a solution - if the root of the problem is a deleted firewall, create a new firewall rule.&amp;nbsp; If it&#39;s a shadowed firewall rule, then increase the priority.&lt;/div&gt;" vertex="1">
           <mxGeometry height="260" width="390" x="12.5" y="5150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GLa8dxylgmsazdAZedNg" name="7.3 Investigation APM Issues">
+    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j2h5bSZX7cjzV-sfVX_z-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="7.3 Investigating APM Issues" vertex="1">
+          <mxGeometry height="40" width="630" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkR_AbSUGJTxB5suyzIZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;1. Error Reporting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Overview&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Looks&amp;nbsp;through all the logs that our application and infrastructure has reported.&amp;nbsp; It then&amp;nbsp;&lt;b&gt;counts, analyzes and aggregates the crashes&lt;/b&gt;&amp;nbsp;to report them on our preferred notification channel.&amp;nbsp; Error reporting can only analyze log entries that:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- are stored in CL buckets in the global region&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- have the same source and destinatoin GC projects&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- have the customer-managed encryption key (CMEK) disabled.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Error reporting features&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- understand errors -&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- automatic and real time&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- instant error notification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- broad langauge and product support&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="360" width="470" x="20" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
