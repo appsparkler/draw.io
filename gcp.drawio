@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7" pages="23">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="23">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6269,11 +6269,20 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J1kCk-yUue_WNNVlBFth" name="Page-22">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="J1kCk-yUue_WNNVlBFth" name="Practicals - set up an app dev environment on GC">
+    <mxGraphModel dx="1663" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FI3ZADJREb5Gglma8lob-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Set Up an App Dev Environment on Google Cloud" vertex="1">
+          <mxGeometry height="49" width="680" x="-810" y="-1169" as="geometry" />
+        </mxCell>
+        <mxCell id="yv53t3k8uzJb9EG7AGyV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Principals&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;allUsers - all users on the internet (anyone, everyone)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="310" x="-810" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="yv53t3k8uzJb9EG7AGyV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;Predefined Roles:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Storage Object Viewer - view storage objects&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="310" x="-480" y="-1120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
