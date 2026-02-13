@@ -6347,6 +6347,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="default compute service account that was created when the compute service was enabled." vertex="1">
+          <mxGeometry height="40" width="323" x="400" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-13" edge="1" parent="1" source="IuPMIwUQJAHTzzEH5bqY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IuPMIwUQJAHTzzEH5bqY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-15" edge="1" parent="1" source="IuPMIwUQJAHTzzEH5bqY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IuPMIwUQJAHTzzEH5bqY-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="462443516581-compute@developer.gserviceaccount.com" vertex="1">
+          <mxGeometry height="30" width="320" x="210" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-14" parent="1" style="whiteSpace=wrap;html=1;" value="gcloud projects add-iam-policy-binding gcp-burner-account \&lt;br&gt;&amp;nbsp; &amp;nbsp; --member=serviceAccount:462443516581-compute@developer.gserviceaccount.com \&lt;br&gt;&amp;nbsp; &amp;nbsp; --role=roles/eventarc.eventReceiver" vertex="1">
+          <mxGeometry height="100" width="415" x="162.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="grant eventarc.eventReceiver role to the default service account" vertex="1">
+          <mxGeometry height="40" width="323" x="470" y="530" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
