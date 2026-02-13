@@ -6330,6 +6330,9 @@
         <mxCell id="IuPMIwUQJAHTzzEH5bqY-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="FUNCTION" vertex="1">
           <mxGeometry height="30" width="60" x="510" y="45" as="geometry" />
         </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;div&gt;Storage&lt;/div&gt;&lt;div&gt;Bucket&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="90" x="60" y="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
