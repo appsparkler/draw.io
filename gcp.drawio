@@ -6359,11 +6359,20 @@
         <mxCell id="IuPMIwUQJAHTzzEH5bqY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="462443516581-compute@developer.gserviceaccount.com" vertex="1">
           <mxGeometry height="30" width="320" x="210" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-18" edge="1" parent="1" source="IuPMIwUQJAHTzzEH5bqY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IuPMIwUQJAHTzzEH5bqY-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IuPMIwUQJAHTzzEH5bqY-14" parent="1" style="whiteSpace=wrap;html=1;" value="gcloud projects add-iam-policy-binding gcp-burner-account \&lt;br&gt;&amp;nbsp; &amp;nbsp; --member=serviceAccount:462443516581-compute@developer.gserviceaccount.com \&lt;br&gt;&amp;nbsp; &amp;nbsp; --role=roles/eventarc.eventReceiver" vertex="1">
           <mxGeometry height="100" width="415" x="162.5" y="450" as="geometry" />
         </mxCell>
         <mxCell id="IuPMIwUQJAHTzzEH5bqY-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="grant eventarc.eventReceiver role to the default service account" vertex="1">
           <mxGeometry height="40" width="323" x="470" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-17" parent="1" style="whiteSpace=wrap;html=1;" value="SERVICE_ACCOUNT=&quot;$(gcloud storage service-agent --project=gcp-burner-account)&quot;&lt;br&gt;&lt;br&gt;gcloud projects add-iam-policy-binding gcp-burner-account \&lt;br&gt;&amp;nbsp; &amp;nbsp; --member=&quot;serviceAccount:${SERVICE_ACCOUNT}&quot; \&lt;br&gt;&amp;nbsp; &amp;nbsp; --role=&#39;roles/pubsub.publisher&#39;" vertex="1">
+          <mxGeometry height="90" width="510" x="115" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="Before creating a trigger for direct events from Cloud Storage, grant the Pub/Sub Publisher role (roles/pubsub.publisher) to the Cloud Storage service agent:" vertex="1">
+          <mxGeometry height="60" width="323" x="530" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
