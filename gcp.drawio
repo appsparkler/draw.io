@@ -6316,6 +6316,9 @@
         <mxCell id="-7-jQ-vX7lYU9DtxLELW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud config&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;list core/project - to list the project set in core&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;set compute/region &amp;lt;region&amp;gt; - sets the default region for compute service&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;set compute/zone &amp;lt;zone&amp;gt; - sets the default zone for compute service&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;set run/region &amp;lt;region-id&amp;gt; - set region in for run service&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="440" x="570" y="-1050" as="geometry" />
         </mxCell>
+        <mxCell id="-7-jQ-vX7lYU9DtxLELW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="curl http://" vertex="1">
+          <mxGeometry height="130" width="440" x="1021" y="-1050" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
