@@ -6270,7 +6270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J1kCk-yUue_WNNVlBFth" name="Practicals - set up an app dev environment on GC">
-    <mxGraphModel dx="2220" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6335,7 +6335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zKOSYBQEBrWzFJDJ_fJD" name="Understanding PubSub">
-    <mxGraphModel dx="760" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1170" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6394,6 +6394,9 @@
         </mxCell>
         <mxCell id="IuPMIwUQJAHTzzEH5bqY-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="Before creating a trigger for direct events from Cloud Storage, grant the Pub/Sub Publisher role (roles/pubsub.publisher) to the Cloud Storage service agent:" vertex="1">
           <mxGeometry height="60" width="323" x="530" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3U1yrOpG_-WQAO70BA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="https://docs.cloud.google.com/eventarc/standard/docs/run/create-trigger-storage-gcloud#before-you-begin" vertex="1">
+          <mxGeometry height="30" width="1420" x="960" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
