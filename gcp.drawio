@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="23">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="24">
   <diagram name="internal network load balancer" id="dnIzmq_qc8QfbYk9jqxr">
     <mxGraphModel dx="1828" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6309,6 +6309,26 @@
         </mxCell>
         <mxCell id="yv53t3k8uzJb9EG7AGyV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud functions&amp;nbsp;&lt;/div&gt;&lt;div&gt;deploy &amp;lt;function-name&amp;gt;&lt;span style=&quot;font-weight: normal;&quot;&gt; - deploy a function&lt;/span&gt;&lt;/div&gt;describe &amp;lt;function-name&amp;gt; &lt;span style=&quot;font-weight: normal;&quot;&gt;- get function details&lt;/span&gt;" vertex="1">
           <mxGeometry height="90" width="350" x="-310" y="-780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zKOSYBQEBrWzFJDJ_fJD" name="Understanding PubSub">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="myTopic" vertex="1">
+          <mxGeometry height="70" width="100" x="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="TOPIC" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;memories-thumbnail-maker&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="480" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IuPMIwUQJAHTzzEH5bqY-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="FUNCTION" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
