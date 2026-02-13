@@ -6310,6 +6310,9 @@
         <mxCell id="yv53t3k8uzJb9EG7AGyV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud functions&amp;nbsp;&lt;/div&gt;&lt;div&gt;deploy &amp;lt;function-name&amp;gt;&lt;span style=&quot;font-weight: normal;&quot;&gt; - deploy a function&lt;/span&gt;&lt;/div&gt;describe &amp;lt;function-name&amp;gt; &lt;span style=&quot;font-weight: normal;&quot;&gt;- get function details&lt;/span&gt;" vertex="1">
           <mxGeometry height="90" width="350" x="-310" y="-780" as="geometry" />
         </mxCell>
+        <mxCell id="-7-jQ-vX7lYU9DtxLELW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud compute&amp;nbsp;&lt;/div&gt;instances create&amp;nbsp;" vertex="1">
+          <mxGeometry height="260" width="450" x="110" y="-1050" as="geometry" />
+        </mxCell>
         <mxCell id="kxVDrd8SffT9xE28_YxO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud compute&amp;nbsp;&lt;/div&gt;instances create&amp;nbsp;" vertex="1">
           <mxGeometry height="260" width="450" x="110" y="-1050" as="geometry" />
         </mxCell>
@@ -6317,7 +6320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zKOSYBQEBrWzFJDJ_fJD" name="Understanding PubSub">
-    <mxGraphModel dx="1393" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
