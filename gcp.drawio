@@ -6538,6 +6538,15 @@
         <mxCell id="iAZc-UVaFDhAHrFmUqFA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;fontFamily=Courier New;fontStyle=1" value="gcloud compute backend-services add-backend web-backend-service \&lt;br&gt;&amp;nbsp; --instance-group=lb-backend-group \&lt;br&gt;&amp;nbsp; --instance-group-zone=europe-west4-a \&lt;br&gt;&amp;nbsp; --global" vertex="1">
           <mxGeometry height="80" width="480" x="1350" y="3140" as="geometry" />
         </mxCell>
+        <mxCell id="iAZc-UVaFDhAHrFmUqFA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;" value="gcloud compute target-http-proxies create http-lb-proxy \&lt;br&gt;&amp;nbsp; &amp;nbsp; --url-map web-map-http" vertex="1">
+          <mxGeometry height="30" width="350" x="1350" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="iAZc-UVaFDhAHrFmUqFA-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;" value="&lt;pre class=&quot;hljs livescript&quot;&gt;gcloud compute url-maps create web-&lt;span class=&quot;hljs-keyword&quot;&gt;map&lt;/span&gt;-http &lt;span class=&quot;hljs-string&quot;&gt;\&lt;/span&gt;&lt;br&gt;    --&lt;span class=&quot;hljs-keyword&quot;&gt;default&lt;/span&gt;-service web-backend-service&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="1350" y="3250" as="geometry" />
+        </mxCell>
+        <mxCell id="iAZc-UVaFDhAHrFmUqFA-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;pre class=&quot;hljs livecodeserver&quot;&gt;gcloud compute target-&lt;span class=&quot;hljs-keyword&quot;&gt;http&lt;/span&gt;-proxies &lt;span class=&quot;hljs-built_in&quot;&gt;create&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;http&lt;/span&gt;-lb-proxy \&lt;br&gt;    &lt;span class=&quot;hljs-comment&quot;&gt;--url-map web-map-http&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="1350" y="3390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
