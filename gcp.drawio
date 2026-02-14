@@ -6401,11 +6401,14 @@
         <mxCell id="6MdSGmUhOlqb6PAl3CJr-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="Understanding Network Load Balancer" vertex="1">
           <mxGeometry height="30" width="400" x="14" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="6MdSGmUhOlqb6PAl3CJr-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;div&gt;compute/region = asia-south1&lt;/div&gt;&lt;div&gt;compute/zone = asia-south1-c&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="220" x="30" y="910" as="geometry" />
+        <mxCell id="6MdSGmUhOlqb6PAl3CJr-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="210" width="220" x="30" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="6MdSGmUhOlqb6PAl3CJr-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="CONFIG" vertex="1">
-          <mxGeometry height="30" width="60" x="110" y="920" as="geometry" />
+        <mxCell id="6MdSGmUhOlqb6PAl3CJr-2" parent="6MdSGmUhOlqb6PAl3CJr-4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;div&gt;compute/region = asia-south1&lt;/div&gt;&lt;div&gt;compute/zone = asia-south1-c&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdSGmUhOlqb6PAl3CJr-3" parent="6MdSGmUhOlqb6PAl3CJr-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="CONFIG" vertex="1">
+          <mxGeometry height="39.375" width="60" x="80" y="13.125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
