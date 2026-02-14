@@ -6331,8 +6331,11 @@
         <mxCell id="-7-jQ-vX7lYU9DtxLELW-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; gcloud compute instances create web3 \&lt;br&gt;&amp;nbsp; &amp;nbsp; --tags=network-lb-tag \&lt;br&gt;&amp;nbsp; &amp;nbsp; --machine-type=e2-small \&lt;br&gt;&amp;nbsp; &amp;nbsp; --image-family=debian-12 \&lt;br&gt;&amp;nbsp; &amp;nbsp; --image-project=debian-cloud \&lt;br&gt;&amp;nbsp; &amp;nbsp; --metadata=startup-script=&#39;#!/bin/bash&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; apt-get update&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; apt-get install apache2 -y&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; service apache2 restart&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; echo &quot;&lt;br&gt;&amp;lt;h3&amp;gt;Web Server: web3&amp;lt;/h3&amp;gt;&quot; | tee /var/www/html/index.html&#39;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="500" x="1930" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="51tcU-bRtxEl_nqmN4-z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud artifacts&amp;nbsp;&lt;/div&gt;&lt;div&gt;enable &amp;lt;service-hostname&amp;gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="280" x="2680" y="-1050" as="geometry" />
+        <mxCell id="51tcU-bRtxEl_nqmN4-z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud artifacts&amp;nbsp;&lt;/div&gt;&lt;div&gt;repositories create quickstart-docker-repo --repository-format docker --location us-east1 --description &quot;Docker repository&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="2680" y="-1050" as="geometry" />
+        </mxCell>
+        <mxCell id="51tcU-bRtxEl_nqmN4-z-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud builds&amp;nbsp;&lt;/div&gt;&lt;div&gt;submit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="280" x="2980" y="-1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
