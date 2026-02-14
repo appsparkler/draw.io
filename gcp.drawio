@@ -6529,6 +6529,9 @@
         <mxCell id="iAZc-UVaFDhAHrFmUqFA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;" value="gcloud compute addresses describe lb-ipv4-1 \&lt;br&gt;&amp;nbsp; --format=&quot;get(address)&quot; \&lt;br&gt;&amp;nbsp; --global" vertex="1">
           <mxGeometry height="50" width="320" x="1350" y="2870" as="geometry" />
         </mxCell>
+        <mxCell id="iAZc-UVaFDhAHrFmUqFA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;" value="&lt;pre class=&quot;hljs livecodeserver&quot;&gt;gcloud compute health-checks &lt;span class=&quot;hljs-built_in&quot;&gt;create&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;http&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;http&lt;/span&gt;-basic-check \&lt;br&gt;  &lt;span class=&quot;hljs-comment&quot;&gt;--port 80&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="450" x="1350" y="2950" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
