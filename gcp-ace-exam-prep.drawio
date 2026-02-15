@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1260" width="800" x="10" y="10" as="geometry" />
+          <mxGeometry height="1870" width="800" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-2" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="103" width="800" as="geometry" />
@@ -206,21 +206,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-50" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="1150" as="geometry" />
+          <mxGeometry height="160" width="800" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="rIEmjimXDaofbVHIQ_TJ-51" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="110" width="270" as="geometry">
-            <mxRectangle height="110" width="270" as="alternateBounds" />
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-51" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the quickstart.sh file" vertex="1">
+          <mxGeometry height="160" width="270" as="geometry">
+            <mxRectangle height="160" width="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIEmjimXDaofbVHIQ_TJ-52" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="110" width="263" x="270" as="geometry">
-            <mxRectangle height="110" width="263" as="alternateBounds" />
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-52" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=left;" value="#!/bin/sh&lt;br&gt;if [ -z &quot;$1&quot; ]&lt;br&gt;then&lt;br&gt;&amp;nbsp; &amp;nbsp; echo &quot;Hello, world! The time is $(date).&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; exit 0&lt;br&gt;else&lt;br&gt;&amp;nbsp; &amp;nbsp; exit 1&lt;br&gt;fi" vertex="1">
+          <mxGeometry height="160" width="263" x="270" as="geometry">
+            <mxRectangle height="160" width="263" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-53" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="110" width="267" x="533" as="geometry">
-            <mxRectangle height="110" width="267" as="alternateBounds" />
+          <mxGeometry height="160" width="267" x="533" as="geometry">
+            <mxRectangle height="160" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-54" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="280" width="800" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-55" parent="rIEmjimXDaofbVHIQ_TJ-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update cloudbuild2.yaml file" vertex="1">
+          <mxGeometry height="280" width="270" as="geometry">
+            <mxRectangle height="280" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-56" parent="rIEmjimXDaofbVHIQ_TJ-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=left;" value="steps:&lt;br&gt;- name: &#39;gcr.io/cloud-builders/docker&#39;&lt;br&gt;&amp;nbsp; args: [ &#39;build&#39;, &#39;-t&#39;, &#39;YourRegionHere-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1&#39;, &#39;.&#39; ]&lt;br&gt;- name: &#39;YourRegionHere-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1&#39;&lt;br&gt;&amp;nbsp; args: [&#39;fail&#39;]&lt;br&gt;images:&lt;br&gt;- &#39;YourRegionHere-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1&#39;" vertex="1">
+          <mxGeometry height="280" width="263" x="270" as="geometry">
+            <mxRectangle height="280" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-57" parent="rIEmjimXDaofbVHIQ_TJ-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="280" width="267" x="533" as="geometry">
+            <mxRectangle height="280" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-58" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="280" width="800" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-59" parent="rIEmjimXDaofbVHIQ_TJ-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the parameters" vertex="1">
+          <mxGeometry height="280" width="270" as="geometry">
+            <mxRectangle height="280" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-60" parent="rIEmjimXDaofbVHIQ_TJ-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=left;" value="sed -i &quot;s/YourRegionHere/$REGION/g&quot; cloudbuild2.yaml" vertex="1">
+          <mxGeometry height="280" width="263" x="270" as="geometry">
+            <mxRectangle height="280" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-61" parent="rIEmjimXDaofbVHIQ_TJ-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="280" width="267" x="533" as="geometry">
+            <mxRectangle height="280" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
