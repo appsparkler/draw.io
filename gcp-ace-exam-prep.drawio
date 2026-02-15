@@ -466,7 +466,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nWwl-SGgjiBtsJC7h2Ws-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="810" width="780" x="20" y="20" as="geometry" />
+          <mxGeometry height="890" width="780" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="nWwl-SGgjiBtsJC7h2Ws-2" parent="nWwl-SGgjiBtsJC7h2Ws-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" as="geometry" />
@@ -626,6 +626,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nWwl-SGgjiBtsJC7h2Ws-37" parent="nWwl-SGgjiBtsJC7h2Ws-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="80" width="230" x="550" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWwl-SGgjiBtsJC7h2Ws-38" parent="nWwl-SGgjiBtsJC7h2Ws-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="80" width="780" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="nWwl-SGgjiBtsJC7h2Ws-39" parent="nWwl-SGgjiBtsJC7h2Ws-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Add PROJECT_NUMBER to an environment variable" vertex="1">
+          <mxGeometry height="80" width="210" as="geometry">
+            <mxRectangle height="80" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWwl-SGgjiBtsJC7h2Ws-40" parent="nWwl-SGgjiBtsJC7h2Ws-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="PROJECT_NUMBER=$(gcloud projects list --format &quot;value(PROJECT_NUMBER)&quot; --filter &quot;project-id&quot;)&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="340" x="210" as="geometry">
+            <mxRectangle height="80" width="340" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWwl-SGgjiBtsJC7h2Ws-41" parent="nWwl-SGgjiBtsJC7h2Ws-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="80" width="230" x="550" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
