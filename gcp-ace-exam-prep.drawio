@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="710" width="800" x="10" y="10" as="geometry" />
+          <mxGeometry height="930" width="800" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-2" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="103" width="800" as="geometry" />
@@ -129,6 +129,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-33" parent="rIEmjimXDaofbVHIQ_TJ-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="110" width="267" x="533" as="geometry">
+            <mxRectangle height="110" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-34" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="110" width="800" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-35" parent="rIEmjimXDaofbVHIQ_TJ-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Add this to YAML cloudbuild.yaml file" vertex="1">
+          <mxGeometry height="110" width="270" as="geometry">
+            <mxRectangle height="110" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-36" parent="rIEmjimXDaofbVHIQ_TJ-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;pre class=&quot;hljs vim&quot; tabindex=&quot;0&quot; role=&quot;region&quot;&gt;step&lt;span class=&quot;hljs-variable&quot;&gt;s:&lt;/span&gt;&lt;br/&gt;- name: &lt;span class=&quot;hljs-string&quot;&gt;&#39;gcr.io/cloud-builders/docker&#39;&lt;/span&gt;&lt;br/&gt;  arg&lt;span class=&quot;hljs-variable&quot;&gt;s:&lt;/span&gt; [ &lt;span class=&quot;hljs-string&quot;&gt;&#39;build&#39;&lt;/span&gt;, &lt;span class=&quot;hljs-string&quot;&gt;&#39;-t&#39;&lt;/span&gt;, &lt;span class=&quot;hljs-string&quot;&gt;&#39;YourRegionHere-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1&#39;&lt;/span&gt;, &lt;span class=&quot;hljs-string&quot;&gt;&#39;.&#39;&lt;/span&gt; ]&lt;br/&gt;image&lt;span class=&quot;hljs-variable&quot;&gt;s:&lt;/span&gt;&lt;br/&gt;- &lt;span class=&quot;hljs-string&quot;&gt;&#39;YourRegionHere-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1&#39;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="110" width="263" x="270" as="geometry">
+            <mxRectangle height="110" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-37" parent="rIEmjimXDaofbVHIQ_TJ-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="110" width="267" x="533" as="geometry">
+            <mxRectangle height="110" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-38" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="110" width="800" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-39" parent="rIEmjimXDaofbVHIQ_TJ-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the variables&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="270" as="geometry">
+            <mxRectangle height="110" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-40" parent="rIEmjimXDaofbVHIQ_TJ-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="export REGION=&quot;REGION&quot;&lt;br&gt;sed -i &quot;s/YourRegionHere/$REGION/g&quot; cloudbuild.yaml" vertex="1">
+          <mxGeometry height="110" width="263" x="270" as="geometry">
+            <mxRectangle height="110" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-41" parent="rIEmjimXDaofbVHIQ_TJ-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="110" width="267" x="533" as="geometry">
             <mxRectangle height="110" width="267" as="alternateBounds" />
           </mxGeometry>
