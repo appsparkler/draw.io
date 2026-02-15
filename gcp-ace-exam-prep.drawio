@@ -304,7 +304,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O17KWDyKDiF7tyBVF9dy-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1800" width="790" x="20" y="20" as="geometry" />
+          <mxGeometry height="1890" width="790" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-2" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="90" width="790" as="geometry" />
@@ -662,6 +662,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-81" parent="O17KWDyKDiF7tyBVF9dy-78" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="90" width="263" x="527" as="geometry">
+            <mxRectangle height="90" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-82" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="790" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-83" parent="O17KWDyKDiF7tyBVF9dy-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="SSH into the newly created pod" vertex="1">
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-84" parent="O17KWDyKDiF7tyBVF9dy-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl exec -it new-nginx -- /bin/bash" vertex="1">
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-85" parent="O17KWDyKDiF7tyBVF9dy-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="90" width="263" x="527" as="geometry">
             <mxRectangle height="90" width="263" as="alternateBounds" />
           </mxGeometry>
