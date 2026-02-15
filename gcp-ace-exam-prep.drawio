@@ -304,19 +304,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O17KWDyKDiF7tyBVF9dy-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="630" width="790" x="20" y="20" as="geometry" />
+          <mxGeometry height="720" width="790" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-2" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="90" width="790" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-3" parent="O17KWDyKDiF7tyBVF9dy-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-4" parent="O17KWDyKDiF7tyBVF9dy-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-8" parent="O17KWDyKDiF7tyBVF9dy-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -328,13 +328,13 @@
           <mxGeometry height="90" width="790" y="90" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-6" parent="O17KWDyKDiF7tyBVF9dy-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Setup configuration" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-7" parent="O17KWDyKDiF7tyBVF9dy-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="export my_region=asia-south1&lt;br&gt;export my_cluster=autopilot-cluster-1" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-9" parent="O17KWDyKDiF7tyBVF9dy-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -346,13 +346,13 @@
           <mxGeometry height="90" width="790" y="180" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-11" parent="O17KWDyKDiF7tyBVF9dy-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create cluster in autopilot mode" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-12" parent="O17KWDyKDiF7tyBVF9dy-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud container clusters create-auto $my_cluster --region $my_region" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-13" parent="O17KWDyKDiF7tyBVF9dy-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -364,13 +364,13 @@
           <mxGeometry height="90" width="790" y="270" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-15" parent="O17KWDyKDiF7tyBVF9dy-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Get credentials for the cluster which will be stored in the &lt;b&gt;~/.kube/config&lt;/b&gt; file" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-16" parent="O17KWDyKDiF7tyBVF9dy-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud container clusters get-credentials $my_cluster --region $my_region" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-17" parent="O17KWDyKDiF7tyBVF9dy-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Once we do this, the context is set for this cluster.&amp;nbsp; All operations executed ahead will be for this cluster only unless specified with&amp;nbsp;&lt;b&gt;context&lt;/b&gt;&amp;nbsp;or&amp;nbsp;&lt;b&gt;config&lt;/b&gt;" vertex="1">
@@ -382,13 +382,13 @@
           <mxGeometry height="90" width="790" y="360" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-19" parent="O17KWDyKDiF7tyBVF9dy-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="View configuration" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-20" parent="O17KWDyKDiF7tyBVF9dy-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl config view" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-21" parent="O17KWDyKDiF7tyBVF9dy-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -400,13 +400,13 @@
           <mxGeometry height="90" width="790" y="450" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-23" parent="O17KWDyKDiF7tyBVF9dy-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Have a look at the current context" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-24" parent="O17KWDyKDiF7tyBVF9dy-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl config current-context" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-25" parent="O17KWDyKDiF7tyBVF9dy-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -418,16 +418,34 @@
           <mxGeometry height="90" width="790" y="540" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-27" parent="O17KWDyKDiF7tyBVF9dy-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="List all contexts" vertex="1">
-          <mxGeometry height="90" width="263" as="geometry">
-            <mxRectangle height="90" width="263" as="alternateBounds" />
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-28" parent="O17KWDyKDiF7tyBVF9dy-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl config get-contexts" vertex="1">
-          <mxGeometry height="90" width="264" x="263" as="geometry">
-            <mxRectangle height="90" width="264" as="alternateBounds" />
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-29" parent="O17KWDyKDiF7tyBVF9dy-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="90" width="263" x="527" as="geometry">
+            <mxRectangle height="90" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-30" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="790" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-31" parent="O17KWDyKDiF7tyBVF9dy-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Use another context" vertex="1">
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-32" parent="O17KWDyKDiF7tyBVF9dy-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl config use-context gke_${DEVSHELL_PROJECT_ID}_${my_region}_${my_cluster}" vertex="1">
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-33" parent="O17KWDyKDiF7tyBVF9dy-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Note that the cluster name has a certain structure" vertex="1">
           <mxGeometry height="90" width="263" x="527" as="geometry">
             <mxRectangle height="90" width="263" as="alternateBounds" />
           </mxGeometry>
