@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="41zspn_ZCD3zTolKA1WF-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="460" width="960" x="40" y="30" as="geometry" />
+          <mxGeometry height="540" width="960" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-2" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="960" as="geometry" />
@@ -136,7 +136,7 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-36" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-37" parent="41zspn_ZCD3zTolKA1WF-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Review the call made in the logs on GC Console" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-37" parent="41zspn_ZCD3zTolKA1WF-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Review the call made in the logs on GC Console and notice minBalance entry" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
@@ -147,6 +147,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-39" parent="41zspn_ZCD3zTolKA1WF-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
+          <mxGeometry height="80" width="320" x="640" as="geometry">
+            <mxRectangle height="80" width="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-40" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="80" width="960" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-41" parent="41zspn_ZCD3zTolKA1WF-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="View the iam policy on the service&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="230" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-42" parent="41zspn_ZCD3zTolKA1WF-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="gcloud run services billing-service get-iam-policy" vertex="1">
+          <mxGeometry height="80" width="410" x="230" as="geometry">
+            <mxRectangle height="80" width="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-43" parent="41zspn_ZCD3zTolKA1WF-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
           <mxGeometry height="80" width="320" x="640" as="geometry">
             <mxRectangle height="80" width="320" as="alternateBounds" />
           </mxGeometry>
