@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="41zspn_ZCD3zTolKA1WF-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1340" width="960" x="40" y="30" as="geometry" />
+          <mxGeometry height="1500" width="960" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-2" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="960" as="geometry" />
@@ -16,13 +16,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-4" parent="41zspn_ZCD3zTolKA1WF-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
-          <mxGeometry height="40" width="410" x="230" as="geometry">
-            <mxRectangle height="40" width="410" as="alternateBounds" />
+          <mxGeometry height="40" width="470" x="230" as="geometry">
+            <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-26" parent="41zspn_ZCD3zTolKA1WF-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
-          <mxGeometry height="40" width="320" x="640" as="geometry">
-            <mxRectangle height="40" width="320" as="alternateBounds" />
+          <mxGeometry height="40" width="260" x="700" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-5" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -34,13 +34,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-7" parent="41zspn_ZCD3zTolKA1WF-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud services enable run.googleapis.com" vertex="1">
-          <mxGeometry height="40" width="410" x="230" as="geometry">
-            <mxRectangle height="40" width="410" as="alternateBounds" />
+          <mxGeometry height="40" width="470" x="230" as="geometry">
+            <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-27" parent="41zspn_ZCD3zTolKA1WF-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="40" width="320" x="640" as="geometry">
-            <mxRectangle height="40" width="320" as="alternateBounds" />
+          <mxGeometry height="40" width="260" x="700" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-8" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -52,13 +52,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-10" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="export LOCATION=us-central1" vertex="1">
-          <mxGeometry height="40" width="410" x="230" as="geometry">
-            <mxRectangle height="40" width="410" as="alternateBounds" />
+          <mxGeometry height="40" width="470" x="230" as="geometry">
+            <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-28" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="40" width="320" x="640" as="geometry">
-            <mxRectangle height="40" width="320" as="alternateBounds" />
+          <mxGeometry height="40" width="260" x="700" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-11" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -70,13 +70,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-13" parent="41zspn_ZCD3zTolKA1WF-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud config set run/region $LOCATION" vertex="1">
-          <mxGeometry height="40" width="410" x="230" as="geometry">
-            <mxRectangle height="40" width="410" as="alternateBounds" />
+          <mxGeometry height="40" width="470" x="230" as="geometry">
+            <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-29" parent="41zspn_ZCD3zTolKA1WF-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="40" width="320" x="640" as="geometry">
-            <mxRectangle height="40" width="320" as="alternateBounds" />
+          <mxGeometry height="40" width="260" x="700" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-14" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -88,13 +88,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-16" parent="41zspn_ZCD3zTolKA1WF-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud run deploy billing-service --image &amp;lt;image-path&amp;gt;" vertex="1">
-          <mxGeometry height="70" width="410" x="230" as="geometry">
-            <mxRectangle height="70" width="410" as="alternateBounds" />
+          <mxGeometry height="70" width="470" x="230" as="geometry">
+            <mxRectangle height="70" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-30" parent="41zspn_ZCD3zTolKA1WF-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcr.io/qwiklabs-resources/gsp723-parking-service" vertex="1">
-          <mxGeometry height="70" width="320" x="640" as="geometry">
-            <mxRectangle height="70" width="320" as="alternateBounds" />
+          <mxGeometry height="70" width="260" x="700" as="geometry">
+            <mxRectangle height="70" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-17" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -106,13 +106,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-19" parent="41zspn_ZCD3zTolKA1WF-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="BILLING_SERVICE_URL=$(gcloud run services billing-service --filter &quot;value(URL)&quot;)" vertex="1">
-          <mxGeometry height="70" width="410" x="230" as="geometry">
-            <mxRectangle height="70" width="410" as="alternateBounds" />
+          <mxGeometry height="70" width="470" x="230" as="geometry">
+            <mxRectangle height="70" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-31" parent="41zspn_ZCD3zTolKA1WF-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="70" width="320" x="640" as="geometry">
-            <mxRectangle height="70" width="320" as="alternateBounds" />
+          <mxGeometry height="70" width="260" x="700" as="geometry">
+            <mxRectangle height="70" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-32" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -124,13 +124,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-34" parent="41zspn_ZCD3zTolKA1WF-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;curl -X POST -H &lt;span class=&quot;hljs-string&quot;&gt;&quot;Content-Type: application/json&quot;&lt;/span&gt; \&lt;br&gt;&lt;span class=&quot;hljs-variable&quot;&gt;$BILLING_SERVICE_URL&lt;/span&gt; \&lt;br&gt;-d &lt;span class=&quot;hljs-string&quot;&gt;&#39;{&quot;userid&quot;: &quot;1234&quot;, &quot;minBalance&quot;: 100}&#39;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-35" parent="41zspn_ZCD3zTolKA1WF-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;&#39;{&quot;userid&quot;: &quot;1234&quot;, &quot;minBalance&quot;: 100}&#39;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-36" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -142,13 +142,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-38" parent="41zspn_ZCD3zTolKA1WF-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="NA" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-39" parent="41zspn_ZCD3zTolKA1WF-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-40" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -160,13 +160,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-42" parent="41zspn_ZCD3zTolKA1WF-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="gcloud run services billing-service get-iam-policy" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-43" parent="41zspn_ZCD3zTolKA1WF-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-44" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -178,13 +178,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-46" parent="41zspn_ZCD3zTolKA1WF-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="gcloud run services billing-service remove-iam-policy-binding --members allUsers --role roles/run.invoker" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-47" parent="41zspn_ZCD3zTolKA1WF-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="Now, the call fails.&amp;nbsp; So, we&#39;ll create a service account with roles/run.invoker and assign use it in our cloud shell and then try to call the service again" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-48" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -196,13 +196,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-50" parent="41zspn_ZCD3zTolKA1WF-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="gcloud iam services-accounts create billing-initiator --display-name &quot;Billing Initiator&quot;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-51" parent="41zspn_ZCD3zTolKA1WF-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-52" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -214,13 +214,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-54" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-55" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-56" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -232,13 +232,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-58" parent="41zspn_ZCD3zTolKA1WF-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="BILLING_INITIATOR_EMAIL=$(gcloud iam service-accounts list --filter billing-initiator --format &quot;value(EMAIL)&quot;)&amp;nbsp; &amp;amp;&amp;amp; echo&amp;nbsp;$BILLING_INITIATOR_EMAIL" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-59" parent="41zspn_ZCD3zTolKA1WF-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-60" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -250,13 +250,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-62" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud iam service-accounts keys create key.json \&lt;br&gt;--iam-account=&lt;span class=&quot;hljs-variable&quot;&gt;${BILLING_INITIATOR_EMAIL}&lt;/span&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-63" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-64" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -268,13 +268,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-66" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud auth activate-service-account \&lt;br&gt;--key-file=key.json&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-67" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="After a minute or two, again try to call the service and it should be successful" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-72" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -286,13 +286,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-74" parent="41zspn_ZCD3zTolKA1WF-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&amp;nbsp;curl -X POST -H &quot;Content-Type: application/json&quot; \&lt;br&gt;&amp;nbsp; -H &quot;Authorization: Bearer $(gcloud auth print-identity-token)&quot; \&lt;br&gt;&amp;nbsp; $BILLING_SERVICE_URL -d &#39;{&quot;userid&quot;: &quot;1234&quot;, &quot;minBalance&quot;: 500}&#39;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-75" parent="41zspn_ZCD3zTolKA1WF-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="This works because the service account is activated on this shell" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-76" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
@@ -304,49 +304,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-78" parent="41zspn_ZCD3zTolKA1WF-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;" value="gcloud run deploy billing-service-2 --image nginxinc/nginx-unprivileged --platform managed --no-allow-unathenticated" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-79" parent="41zspn_ZCD3zTolKA1WF-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;" value="nginxinc/nginx-unprivileged" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-80" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-81" parent="41zspn_ZCD3zTolKA1WF-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Try accessing the service in the 2nd terminal" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-81" parent="41zspn_ZCD3zTolKA1WF-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Assign the URL of the new service to an environment variable" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-82" parent="41zspn_ZCD3zTolKA1WF-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="BILLING_SERVICE_2_URL=$(gcloud run services list --filter billing-service-2 --format &quot;value(URL)&quot;)" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-83" parent="41zspn_ZCD3zTolKA1WF-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="We are still able to access so our service account doesn&#39;t have least-privileged principle in use.&amp;nbsp; It should have&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+        <mxCell id="41zspn_ZCD3zTolKA1WF-83" parent="41zspn_ZCD3zTolKA1WF-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-84" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-92" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-85" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-93" parent="41zspn_ZCD3zTolKA1WF-92" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="In a 3rd cloud shell, activate the service account we created" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-86" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
-          <mxGeometry height="80" width="410" x="230" as="geometry">
-            <mxRectangle height="80" width="410" as="alternateBounds" />
+        <mxCell id="41zspn_ZCD3zTolKA1WF-94" parent="41zspn_ZCD3zTolKA1WF-92" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;gcloud auth activate-service-account \&lt;/div&gt;&lt;div&gt;--key-file key.json&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-87" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
-          <mxGeometry height="80" width="320" x="640" as="geometry">
-            <mxRectangle height="80" width="320" as="alternateBounds" />
+        <mxCell id="41zspn_ZCD3zTolKA1WF-95" parent="41zspn_ZCD3zTolKA1WF-92" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-84" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="80" width="960" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-85" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Make a GET call to the billing-service-2" vertex="1">
+          <mxGeometry height="80" width="230" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-86" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="curl -H &quot;Authorization: Bearer $(gcloud auth print-identity-token)&quot; http://${BILLING_SERVICE_2_URL}" vertex="1">
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-87" parent="41zspn_ZCD3zTolKA1WF-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#fff2cc;strokeColor=#d6b656;" value="We can see that this too works so our SA doesn&#39;t have least privileged." vertex="1">
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-88" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="80" width="960" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-89" parent="41zspn_ZCD3zTolKA1WF-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=none;strokeColor=#6c8ebf;" value="Set the billing-initiator-email on an environment variable as we are going to remove project level roles/run.invoker on it" vertex="1">
+          <mxGeometry height="80" width="230" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-90" parent="41zspn_ZCD3zTolKA1WF-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;strokeColor=#6c8ebf;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt; BILLING_INITIATOR_EMAIL=$(gcloud iam service-accounts list \&lt;br&gt;--filter=&lt;span class=&quot;hljs-string&quot;&gt;&quot;Billing Initiator&quot;&lt;/span&gt; \&lt;br&gt;--format=&lt;span class=&quot;hljs-string&quot;&gt;&quot;value(EMAIL)&quot;&lt;/span&gt;); &lt;span class=&quot;hljs-built_in&quot;&gt;\&lt;br&gt;echo&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;$BILLING_INITIATOR_EMAIL&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-91" parent="41zspn_ZCD3zTolKA1WF-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
