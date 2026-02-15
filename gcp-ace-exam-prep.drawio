@@ -304,7 +304,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O17KWDyKDiF7tyBVF9dy-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1980" width="790" x="20" y="20" as="geometry" />
+          <mxGeometry height="2160" width="790" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-2" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="90" width="790" as="geometry" />
@@ -687,7 +687,7 @@
         <mxCell id="O17KWDyKDiF7tyBVF9dy-86" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="90" width="790" y="1890" as="geometry" />
         </mxCell>
-        <mxCell id="O17KWDyKDiF7tyBVF9dy-87" parent="O17KWDyKDiF7tyBVF9dy-86" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="cd into the HTML folder" vertex="1">
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-87" parent="O17KWDyKDiF7tyBVF9dy-86" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="cd into the HTML folder and add a test.html with some content" vertex="1">
           <mxGeometry height="90" width="260" as="geometry">
             <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
@@ -698,6 +698,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O17KWDyKDiF7tyBVF9dy-89" parent="O17KWDyKDiF7tyBVF9dy-86" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="90" width="263" x="527" as="geometry">
+            <mxRectangle height="90" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-90" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="790" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-91" parent="O17KWDyKDiF7tyBVF9dy-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Forward the port" vertex="1">
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-92" parent="O17KWDyKDiF7tyBVF9dy-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl port-forward new-nginx 10081:80" vertex="1">
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-93" parent="O17KWDyKDiF7tyBVF9dy-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="10081 is a port on localhost&lt;br&gt;&lt;div&gt;80 is a port exposed by the nginx web&amp;nbsp;server&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="263" x="527" as="geometry">
+            <mxRectangle height="90" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-94" parent="O17KWDyKDiF7tyBVF9dy-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="790" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-95" parent="O17KWDyKDiF7tyBVF9dy-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Open a new terminal and test our website" vertex="1">
+          <mxGeometry height="90" width="260" as="geometry">
+            <mxRectangle height="90" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-96" parent="O17KWDyKDiF7tyBVF9dy-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="curl http://127.0.0.1:10081/test.html" vertex="1">
+          <mxGeometry height="90" width="267" x="260" as="geometry">
+            <mxRectangle height="90" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-97" parent="O17KWDyKDiF7tyBVF9dy-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="90" width="263" x="527" as="geometry">
             <mxRectangle height="90" width="263" as="alternateBounds" />
           </mxGeometry>
