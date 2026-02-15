@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="41zspn_ZCD3zTolKA1WF-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1580" width="960" x="40" y="30" as="geometry" />
+          <mxGeometry height="1660" width="960" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-2" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="960" as="geometry" />
@@ -399,6 +399,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="41zspn_ZCD3zTolKA1WF-99" parent="41zspn_ZCD3zTolKA1WF-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
+          <mxGeometry height="80" width="260" x="700" as="geometry">
+            <mxRectangle height="80" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-100" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="80" width="960" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-101" parent="41zspn_ZCD3zTolKA1WF-100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=none;strokeColor=#6c8ebf;" value="Add permission at the resource level for billing-service" vertex="1">
+          <mxGeometry height="80" width="230" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-102" parent="41zspn_ZCD3zTolKA1WF-100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;strokeColor=#6c8ebf;" value="gcloud run services add-iam-policy-binding billing-service --region $LOCATION \&lt;br&gt;&amp;nbsp; --member=serviceAccount:${BILLING_INITIATOR_EMAIL} \&lt;br&gt;&amp;nbsp; --role=roles/run.invoker --platform managed" vertex="1">
+          <mxGeometry height="80" width="470" x="230" as="geometry">
+            <mxRectangle height="80" width="470" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41zspn_ZCD3zTolKA1WF-103" parent="41zspn_ZCD3zTolKA1WF-100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" vertex="1">
           <mxGeometry height="80" width="260" x="700" as="geometry">
             <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
