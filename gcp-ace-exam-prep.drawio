@@ -424,17 +424,17 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-104" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="1660" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-105" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=none;strokeColor=#6c8ebf;" value="Call the service again in the 2nd terminal" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-105" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Call the service again in the 2nd terminal" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-106" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;strokeColor=#6c8ebf;" value="curl -H &quot;Authorization:$(gcloud auth print-identity-token)&quot; $BILLING_SERVICE_URL" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-106" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="curl -H &quot;Authorization:$(gcloud auth print-identity-token)&quot; $BILLING_SERVICE_URL" vertex="1">
           <mxGeometry height="80" width="470" x="230" as="geometry">
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-107" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" value="This should be successful as the SA associated with it has the roles/run.invoker on it." vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-107" parent="41zspn_ZCD3zTolKA1WF-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="This should be successful as the SA associated with it has the roles/run.invoker on it." vertex="1">
           <mxGeometry height="80" width="260" x="700" as="geometry">
             <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
@@ -442,17 +442,17 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-108" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="1740" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-109" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=none;strokeColor=#6c8ebf;" value="Call the service in the 3rd terminal" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-109" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Call the service in the 3rd terminal" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-110" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=none;strokeColor=#6c8ebf;" value="curl -H &quot;Authorization:$(gcloud auth print-identity-token)&quot; $BILLING_SERVICE_2_URL" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-110" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="curl -H &quot;Authorization:$(gcloud auth print-identity-token)&quot; $BILLING_SERVICE_2_URL" vertex="1">
           <mxGeometry height="80" width="470" x="230" as="geometry">
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-111" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=none;strokeColor=#6c8ebf;" value="This should fail because SA associated with this resource dosn&#39;t have the roles/run.invoker on it." vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-111" parent="41zspn_ZCD3zTolKA1WF-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fillColor=#fff2cc;strokeColor=#d6b656;" value="This should fail because SA associated with this resource dosn&#39;t have the roles/run.invoker on it." vertex="1">
           <mxGeometry height="80" width="260" x="700" as="geometry">
             <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
