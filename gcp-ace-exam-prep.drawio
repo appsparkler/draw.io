@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1790" width="800" x="10" y="10" as="geometry" />
+          <mxGeometry height="1890" width="800" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-2" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="103" width="800" as="geometry" />
@@ -273,6 +273,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-65" parent="rIEmjimXDaofbVHIQ_TJ-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="100" width="267" x="533" as="geometry">
+            <mxRectangle height="100" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-66" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="100" width="800" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-67" parent="rIEmjimXDaofbVHIQ_TJ-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Submit to Cloud Build to create an image on Artifact Repository" vertex="1">
+          <mxGeometry height="100" width="270" as="geometry">
+            <mxRectangle height="100" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-68" parent="rIEmjimXDaofbVHIQ_TJ-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=left;" value="gcloud builds submit --config cloudbuild2.yaml" vertex="1">
+          <mxGeometry height="100" width="263" x="270" as="geometry">
+            <mxRectangle height="100" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-69" parent="rIEmjimXDaofbVHIQ_TJ-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="100" width="267" x="533" as="geometry">
             <mxRectangle height="100" width="267" as="alternateBounds" />
           </mxGeometry>
