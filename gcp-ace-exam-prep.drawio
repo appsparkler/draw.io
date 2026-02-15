@@ -36,12 +36,12 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-8" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="40" width="640" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-9" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-9" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a location environment variable" vertex="1">
           <mxGeometry height="40" width="320" as="geometry">
             <mxRectangle height="40" width="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-10" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-10" parent="41zspn_ZCD3zTolKA1WF-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="export LOCATION=us-central1" vertex="1">
           <mxGeometry height="40" width="320" x="320" as="geometry">
             <mxRectangle height="40" width="320" as="alternateBounds" />
           </mxGeometry>
