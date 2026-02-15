@@ -182,7 +182,7 @@
             <mxRectangle height="80" width="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-47" parent="41zspn_ZCD3zTolKA1WF-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-47" parent="41zspn_ZCD3zTolKA1WF-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="Now, the call fails.&amp;nbsp; So, we&#39;ll create a service account with roles/run.invoker and assign use it in our cloud shell and then try to call the service again" vertex="1">
           <mxGeometry height="80" width="320" x="640" as="geometry">
             <mxRectangle height="80" width="320" as="alternateBounds" />
           </mxGeometry>
