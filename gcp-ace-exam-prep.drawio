@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="380" width="800" x="10" y="10" as="geometry" />
+          <mxGeometry height="490" width="800" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-2" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="103" width="800" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-3" parent="rIEmjimXDaofbVHIQ_TJ-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;" value="5.1 Kubernetes cluster and deployment" vertex="1">
           <mxGeometry height="103" width="800" as="geometry">
-            <mxRectangle height="103" width="267" as="alternateBounds" />
+            <mxRectangle height="103" width="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-4" parent="rIEmjimXDaofbVHIQ_TJ-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
-          <mxGeometry height="103" width="266" x="267" as="geometry">
-            <mxRectangle height="103" width="266" as="alternateBounds" />
+          <mxGeometry height="103" width="263" x="270" as="geometry">
+            <mxRectangle height="103" width="263" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-5" parent="rIEmjimXDaofbVHIQ_TJ-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
@@ -29,13 +29,13 @@
           <mxGeometry height="57" width="800" y="103" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-11" parent="rIEmjimXDaofbVHIQ_TJ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="enable Cloud Build API" vertex="1">
-          <mxGeometry height="57" width="267" as="geometry">
-            <mxRectangle height="57" width="267" as="alternateBounds" />
+          <mxGeometry height="57" width="270" as="geometry">
+            <mxRectangle height="57" width="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-12" parent="rIEmjimXDaofbVHIQ_TJ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font face=&quot;Courier New&quot;&gt;gcloud services enable cloudbuild.googleapis.com&lt;/font&gt;" vertex="1">
-          <mxGeometry height="57" width="266" x="267" as="geometry">
-            <mxRectangle height="57" width="266" as="alternateBounds" />
+          <mxGeometry height="57" width="263" x="270" as="geometry">
+            <mxRectangle height="57" width="263" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-13" parent="rIEmjimXDaofbVHIQ_TJ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
@@ -47,13 +47,13 @@
           <mxGeometry height="110" width="800" y="160" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-15" parent="rIEmjimXDaofbVHIQ_TJ-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a simple Dockerfile" vertex="1">
-          <mxGeometry height="110" width="267" as="geometry">
-            <mxRectangle height="110" width="267" as="alternateBounds" />
+          <mxGeometry height="110" width="270" as="geometry">
+            <mxRectangle height="110" width="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-16" parent="rIEmjimXDaofbVHIQ_TJ-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="#!/bin/sh&lt;br&gt;echo &quot;Hello, world! The time is $(date).&quot;&lt;br&gt;&lt;br&gt;FROM alpine&lt;br&gt;COPY quickstart.sh /&lt;br&gt;CMD [&quot;/quickstart.sh&quot;]" vertex="1">
-          <mxGeometry height="110" width="266" x="267" as="geometry">
-            <mxRectangle height="110" width="266" as="alternateBounds" />
+          <mxGeometry height="110" width="263" x="270" as="geometry">
+            <mxRectangle height="110" width="263" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-17" parent="rIEmjimXDaofbVHIQ_TJ-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
@@ -65,16 +65,34 @@
           <mxGeometry height="110" width="800" y="270" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-19" parent="rIEmjimXDaofbVHIQ_TJ-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Change permissions on the quickstart (make it executable)" vertex="1">
-          <mxGeometry height="110" width="267" as="geometry">
-            <mxRectangle height="110" width="267" as="alternateBounds" />
+          <mxGeometry height="110" width="270" as="geometry">
+            <mxRectangle height="110" width="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-20" parent="rIEmjimXDaofbVHIQ_TJ-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="chmod +x quickstart.sh" vertex="1">
-          <mxGeometry height="110" width="266" x="267" as="geometry">
-            <mxRectangle height="110" width="266" as="alternateBounds" />
+          <mxGeometry height="110" width="263" x="270" as="geometry">
+            <mxRectangle height="110" width="263" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-21" parent="rIEmjimXDaofbVHIQ_TJ-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="110" width="267" x="533" as="geometry">
+            <mxRectangle height="110" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-22" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="110" width="800" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-23" parent="rIEmjimXDaofbVHIQ_TJ-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a Docker Artifact Repository" vertex="1">
+          <mxGeometry height="110" width="270" as="geometry">
+            <mxRectangle height="110" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-24" parent="rIEmjimXDaofbVHIQ_TJ-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud artifacts repositories quickstart-docker-repo create --repository-format docker --description &quot;Docker Repo&quot;" vertex="1">
+          <mxGeometry height="110" width="263" x="270" as="geometry">
+            <mxRectangle height="110" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-25" parent="rIEmjimXDaofbVHIQ_TJ-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
           <mxGeometry height="110" width="267" x="533" as="geometry">
             <mxRectangle height="110" width="267" as="alternateBounds" />
           </mxGeometry>
