@@ -6274,6 +6274,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-6S3sBd8xP6Plh3DvVNV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;kubectl [command] [TYPE] [NAME] [flags]&lt;/div&gt;&lt;div&gt;command &lt;span style=&quot;font-weight: normal;&quot;&gt;- is the action - for ex. get, set, apply, etc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;TYPE&lt;/b&gt; -&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;NAME -&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="410" x="3700" y="-1050" as="geometry" />
+        </mxCell>
         <mxCell id="FI3ZADJREb5Gglma8lob-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=28;fontStyle=1" value="Set Up an App Dev Environment on Google Cloud" vertex="1">
           <mxGeometry height="49" width="680" x="-810" y="-1169" as="geometry" />
         </mxCell>
@@ -6339,9 +6342,6 @@
         </mxCell>
         <mxCell id="-6S3sBd8xP6Plh3DvVNV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;gcloud container&amp;nbsp;&lt;/div&gt;&lt;div&gt;clusters get-credentials&lt;span style=&quot;font-weight: normal;&quot;&gt; - will write configuration information into a config file in $HOME/.kube/config&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="410" x="3280" y="-1050" as="geometry" />
-        </mxCell>
-        <mxCell id="-6S3sBd8xP6Plh3DvVNV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=1" value="&lt;div&gt;kubectl [command] [TYPE] [NAME] [flags]&lt;/div&gt;&lt;div&gt;command &lt;span style=&quot;font-weight: normal;&quot;&gt;- is the action&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="410" x="3700" y="-1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
