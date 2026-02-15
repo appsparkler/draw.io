@@ -128,7 +128,7 @@
             <mxRectangle height="80" width="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-35" parent="41zspn_ZCD3zTolKA1WF-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-35" parent="41zspn_ZCD3zTolKA1WF-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;&#39;{&quot;userid&quot;: &quot;1234&quot;, &quot;minBalance&quot;: 100}&#39;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="80" width="320" x="640" as="geometry">
             <mxRectangle height="80" width="320" as="alternateBounds" />
           </mxGeometry>
