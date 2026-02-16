@@ -1411,8 +1411,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LCPu3V7v7PmwfsuecgGf" name="Pr-3 Storage &amp; IAM">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="LCPu3V7v7PmwfsuecgGf" name="Pr-3.1 Storage &amp; IAM">
+    <mxGraphModel dx="1075" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1422,7 +1422,7 @@
         <mxCell id="KX54FBd6infsHnor46Cd-2" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="90" width="780" as="geometry" />
         </mxCell>
-        <mxCell id="KX54FBd6infsHnor46Cd-3" parent="KX54FBd6infsHnor46Cd-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="" vertex="1">
+        <mxCell id="KX54FBd6infsHnor46Cd-3" parent="KX54FBd6infsHnor46Cd-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontStyle=1" value="Managing Storage Objects and IAM" vertex="1">
           <mxGeometry height="90" width="780" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
