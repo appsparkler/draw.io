@@ -1020,7 +1020,7 @@
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-55" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="If we directly set the IAM policy on the run service resource instead of setting on the project it will comply with&amp;nbsp;&amp;nbsp;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-55" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fontStyle=1" value="If we directly set the IAM policy on the run service resource instead of setting on the project it will comply with&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="260" x="700" as="geometry">
             <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
