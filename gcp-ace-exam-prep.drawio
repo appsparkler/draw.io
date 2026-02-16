@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="7">
   <diagram id="AHIeRDgFPxS0jaqBbyzj" name="4.2 Cloud Build">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,6 +330,9 @@
           <mxGeometry height="100" width="267" x="533" as="geometry">
             <mxRectangle height="100" width="267" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tzCBWYbo5LJOdzvucUu7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" value="&lt;h3&gt;&lt;b&gt;Summary&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;Task 1&lt;/b&gt; - Create a small Linux project with a Dockerfile and submit it to Cloud Build.&amp;nbsp; Cloud Build will create an image for us and save it to our Artifact Repository (which we have configured and passed as parameter to Cloud Build)&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Task 2&lt;/b&gt; - Instead of passing parameters in the CLI, we create a&amp;nbsp;&lt;b&gt;cloudbuild.yaml&lt;/b&gt;&amp;nbsp;file with the configuration and create a new image with it&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Task 3&lt;/b&gt; -&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="430" x="570" y="-140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
