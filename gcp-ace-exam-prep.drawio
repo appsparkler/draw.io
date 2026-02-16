@@ -1448,7 +1448,7 @@
         <mxCell id="KX54FBd6infsHnor46Cd-8" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="90" width="780" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="KX54FBd6infsHnor46Cd-9" parent="KX54FBd6infsHnor46Cd-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Copy a file from shell to the storage bucket" vertex="1">
+        <mxCell id="KX54FBd6infsHnor46Cd-9" parent="KX54FBd6infsHnor46Cd-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Copy a file from shell to the storage bucket with both gcloud and gsutil" vertex="1">
           <mxGeometry height="90" width="390" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -1461,7 +1461,7 @@
         <mxCell id="KX54FBd6infsHnor46Cd-11" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="90" width="780" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="KX54FBd6infsHnor46Cd-12" parent="KX54FBd6infsHnor46Cd-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Copy a file from storage bucket to shell" vertex="1">
+        <mxCell id="KX54FBd6infsHnor46Cd-12" parent="KX54FBd6infsHnor46Cd-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Copy a file from storage bucket to shell with both gcloud and gsutil" vertex="1">
           <mxGeometry height="90" width="390" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
