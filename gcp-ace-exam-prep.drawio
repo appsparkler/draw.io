@@ -1519,7 +1519,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="80" width="740" x="40" y="30" as="geometry" />
+          <mxGeometry height="200" width="740" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-2" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="740" as="geometry" />
@@ -1543,6 +1543,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-7" parent="Izjd2tqnbk1Fhq9awNgG-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="SELECT, FROM, WHERE" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-8" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="740" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-9" parent="Izjd2tqnbk1Fhq9awNgG-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Go to Big Query Page and explore the page" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-10" parent="Izjd2tqnbk1Fhq9awNgG-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-11" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="740" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-12" parent="Izjd2tqnbk1Fhq9awNgG-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Click on Add Data &amp;gt; Star by name &amp;gt; bigquery-public-data" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-13" parent="Izjd2tqnbk1Fhq9awNgG-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="This will import the bigquery-public-data dataset" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-14" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="740" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-15" parent="Izjd2tqnbk1Fhq9awNgG-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Run a query to get all bike rides that lasted more than 20 minutes in the london_bicycles.cycle_hire table" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-16" parent="Izjd2tqnbk1Fhq9awNgG-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
           <mxGeometry height="40" width="370" x="370" as="geometry">
             <mxRectangle height="40" width="370" as="alternateBounds" />
           </mxGeometry>
