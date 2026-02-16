@@ -1701,7 +1701,7 @@
             <mxRectangle height="44" width="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2pUjrBlN6zU2HCnSjZ6--6" parent="2pUjrBlN6zU2HCnSjZ6--4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="INSERT INTO (field1, field2) VALUES (&quot;foo&quot;, &quot;bar&quot;)" vertex="1">
+        <mxCell id="2pUjrBlN6zU2HCnSjZ6--6" parent="2pUjrBlN6zU2HCnSjZ6--4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="INSERT INTO &amp;lt;table-name&amp;gt; (field1, field2) VALUES (&quot;foo&quot;, &quot;bar&quot;)" vertex="1">
           <mxGeometry height="44" width="370" x="370" as="geometry">
             <mxRectangle height="44" width="370" as="alternateBounds" />
           </mxGeometry>
