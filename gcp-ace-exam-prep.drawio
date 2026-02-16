@@ -512,7 +512,7 @@
             <mxRectangle height="90" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O17KWDyKDiF7tyBVF9dy-40" parent="O17KWDyKDiF7tyBVF9dy-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl create deployment --image nginx nginx-1" vertex="1">
+        <mxCell id="O17KWDyKDiF7tyBVF9dy-40" parent="O17KWDyKDiF7tyBVF9dy-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl create deployment &amp;lt;deployment-name&amp;gt; --image nginx nginx-1" vertex="1">
           <mxGeometry height="90" width="267" x="260" as="geometry">
             <mxRectangle height="90" width="267" as="alternateBounds" />
           </mxGeometry>
