@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="6">
   <diagram id="AHIeRDgFPxS0jaqBbyzj" name="4.2 Cloud Build">
     <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1508,6 +1508,43 @@
         <mxCell id="KX54FBd6infsHnor46Cd-22" parent="KX54FBd6infsHnor46Cd-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gsutil rb &amp;lt;bucket-link&amp;gt; // only empty bucket&lt;/div&gt;&lt;div&gt;gsutil -m rm -r -f &amp;lt;bucket-link&amp;gt; // bucket with items&lt;/div&gt;&lt;br&gt;gcloud storage delete &amp;lt;bucket-link&amp;gt;&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="390" x="390" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rRPznvYq4oM8PA6hO4CV" name="additional labs">
+    <mxGraphModel dx="836" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="80" width="650" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-3" parent="5Z_W6NSjin94iX0IVpwl-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="650" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-4" parent="5Z_W6NSjin94iX0IVpwl-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="Additional Labs" vertex="1">
+          <mxGeometry height="40" width="650" as="geometry">
+            <mxRectangle height="40" width="325" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-5" parent="5Z_W6NSjin94iX0IVpwl-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="40" width="325" x="325" as="geometry">
+            <mxRectangle height="40" width="325" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-6" parent="5Z_W6NSjin94iX0IVpwl-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="650" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-7" parent="5Z_W6NSjin94iX0IVpwl-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Weather data in BigQuery:&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="325" as="geometry">
+            <mxRectangle height="40" width="325" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Z_W6NSjin94iX0IVpwl-8" parent="5Z_W6NSjin94iX0IVpwl-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="https://www.skills.google/focuses/609?parent=catalog" vertex="1">
+          <mxGeometry height="40" width="325" x="325" as="geometry">
+            <mxRectangle height="40" width="325" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
