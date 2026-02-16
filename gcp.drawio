@@ -6344,7 +6344,7 @@
           <mxGeometry height="780" width="280" x="4080" y="-1050" as="geometry" />
         </mxCell>
         <mxCell id="RQFEEZpoVukIfgXEfnM7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacing=12;verticalAlign=top;dashed=1;fontStyle=0" value="&lt;div&gt;&lt;b&gt;gcloud storage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ls &amp;lt;bucket-link&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;cp &amp;lt;from-link&amp;gt; &amp;lt;to-link&amp;gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="780" width="280" x="4370" y="-1050" as="geometry" />
+          <mxGeometry height="80" width="280" x="4370" y="-1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
