@@ -1417,7 +1417,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KX54FBd6infsHnor46Cd-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="450" width="780" x="20" y="20" as="geometry" />
+          <mxGeometry height="630" width="780" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="KX54FBd6infsHnor46Cd-2" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="90" width="780" as="geometry" />
@@ -1480,6 +1480,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KX54FBd6infsHnor46Cd-16" parent="KX54FBd6infsHnor46Cd-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage ls &amp;lt;bucket-link&amp;gt;&lt;br&gt;gsutil ls &amp;lt;bucket-link&amp;gt;" vertex="1">
+          <mxGeometry height="90" width="390" x="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-17" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="780" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-18" parent="KX54FBd6infsHnor46Cd-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Grant principal access to view storage objects" vertex="1">
+          <mxGeometry height="90" width="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-19" parent="KX54FBd6infsHnor46Cd-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud iam set-iam-policy ??" vertex="1">
+          <mxGeometry height="90" width="390" x="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-20" parent="KX54FBd6infsHnor46Cd-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="780" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-21" parent="KX54FBd6infsHnor46Cd-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Grant bucket access/Remove bucket access" vertex="1">
+          <mxGeometry height="90" width="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KX54FBd6infsHnor46Cd-22" parent="KX54FBd6infsHnor46Cd-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
           <mxGeometry height="90" width="390" x="390" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
