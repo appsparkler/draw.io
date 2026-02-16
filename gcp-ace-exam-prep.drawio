@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.1 Clud Run and IAM" id="fJa-bGf0KtOeBzwlbln7">
-    <mxGraphModel dx="687" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1454,7 +1454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LCPu3V7v7PmwfsuecgGf" name="Pr-3.1 Storage &amp; IAM">
-    <mxGraphModel dx="1075" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1555,8 +1555,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NUmukQWgpWVPUock_6vl" name="Pr-3.2 BigQuery &amp; SQL">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="NUmukQWgpWVPUock_6vl" name="Pr-3.2 Querying BigQuery ">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
