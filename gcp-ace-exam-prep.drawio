@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="7">
   <diagram id="AHIeRDgFPxS0jaqBbyzj" name="4.2 Cloud Build">
-    <mxGraphModel dx="1294" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="1890" width="800" x="10" y="10" as="geometry" />
+          <mxGeometry height="1990" width="800" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-2" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="103" width="800" as="geometry" />
@@ -25,8 +25,26 @@
             <mxRectangle height="103" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIEmjimXDaofbVHIQ_TJ-10" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-1" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="57" width="800" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-2" parent="W3g3Enc59w4YFkGBS3dn-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;fontStyle=1" value="Creating an image with Dockerfile and entering the repository information in the CLI" vertex="1">
+          <mxGeometry height="57" width="800" as="geometry">
+            <mxRectangle height="57" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-3" parent="W3g3Enc59w4YFkGBS3dn-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="57" width="263" x="270" as="geometry">
+            <mxRectangle height="57" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-4" parent="W3g3Enc59w4YFkGBS3dn-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="57" width="267" x="533" as="geometry">
+            <mxRectangle height="57" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIEmjimXDaofbVHIQ_TJ-10" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="57" width="800" y="160" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-11" parent="rIEmjimXDaofbVHIQ_TJ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="enable Cloud Build API" vertex="1">
           <mxGeometry height="57" width="270" as="geometry">
@@ -44,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-14" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="160" as="geometry" />
+          <mxGeometry height="110" width="800" y="217" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-15" parent="rIEmjimXDaofbVHIQ_TJ-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a simple Dockerfile" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -62,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-18" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="270" as="geometry" />
+          <mxGeometry height="110" width="800" y="327" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-19" parent="rIEmjimXDaofbVHIQ_TJ-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Change permissions on the quickstart (make it executable)" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -80,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-22" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="380" as="geometry" />
+          <mxGeometry height="110" width="800" y="437" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-23" parent="rIEmjimXDaofbVHIQ_TJ-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a Docker Artifact Repository" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -98,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-26" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="490" as="geometry" />
+          <mxGeometry height="110" width="800" y="547" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-27" parent="rIEmjimXDaofbVHIQ_TJ-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Get the Registry URI for the repository&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -116,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-30" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="600" as="geometry" />
+          <mxGeometry height="110" width="800" y="657" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-31" parent="rIEmjimXDaofbVHIQ_TJ-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Submit to Cloud Build to create an image on Artifact Registry" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -133,8 +151,26 @@
             <mxRectangle height="110" width="267" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-5" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="43" width="800" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-6" parent="W3g3Enc59w4YFkGBS3dn-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;" value="Using a YAML file to set all the configuration such as repository-path, image name and tag-id" vertex="1">
+          <mxGeometry height="43" width="800" as="geometry">
+            <mxRectangle height="43" width="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-7" parent="W3g3Enc59w4YFkGBS3dn-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;fontSize=4;align=left;" vertex="1" visible="0">
+          <mxGeometry height="43" width="263" x="270" as="geometry">
+            <mxRectangle height="43" width="263" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3g3Enc59w4YFkGBS3dn-8" parent="W3g3Enc59w4YFkGBS3dn-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="43" width="267" x="533" as="geometry">
+            <mxRectangle height="43" width="267" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-34" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="710" as="geometry" />
+          <mxGeometry height="110" width="800" y="810" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-35" parent="rIEmjimXDaofbVHIQ_TJ-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Add this to YAML cloudbuild.yaml file" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -152,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-38" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="820" as="geometry" />
+          <mxGeometry height="110" width="800" y="920" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-39" parent="rIEmjimXDaofbVHIQ_TJ-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the variables&amp;nbsp;" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -170,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-42" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="930" as="geometry" />
+          <mxGeometry height="110" width="800" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-43" parent="rIEmjimXDaofbVHIQ_TJ-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Confirm the content is up to date" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -188,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-46" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="110" width="800" y="1040" as="geometry" />
+          <mxGeometry height="110" width="800" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-47" parent="rIEmjimXDaofbVHIQ_TJ-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Submit the file" vertex="1">
           <mxGeometry height="110" width="270" as="geometry">
@@ -206,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-50" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="160" width="800" y="1150" as="geometry" />
+          <mxGeometry height="160" width="800" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-51" parent="rIEmjimXDaofbVHIQ_TJ-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the quickstart.sh file" vertex="1">
           <mxGeometry height="160" width="270" as="geometry">
@@ -224,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-54" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="280" width="800" y="1310" as="geometry" />
+          <mxGeometry height="280" width="800" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-55" parent="rIEmjimXDaofbVHIQ_TJ-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update cloudbuild2.yaml file" vertex="1">
           <mxGeometry height="280" width="270" as="geometry">
@@ -242,7 +278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-58" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="100" width="800" y="1590" as="geometry" />
+          <mxGeometry height="100" width="800" y="1690" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-59" parent="rIEmjimXDaofbVHIQ_TJ-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the parameters" vertex="1">
           <mxGeometry height="100" width="270" as="geometry">
@@ -260,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-62" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="100" width="800" y="1690" as="geometry" />
+          <mxGeometry height="100" width="800" y="1790" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-63" parent="rIEmjimXDaofbVHIQ_TJ-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Confirm content" vertex="1">
           <mxGeometry height="100" width="270" as="geometry">
@@ -278,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-66" parent="rIEmjimXDaofbVHIQ_TJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="100" width="800" y="1790" as="geometry" />
+          <mxGeometry height="100" width="800" y="1890" as="geometry" />
         </mxCell>
         <mxCell id="rIEmjimXDaofbVHIQ_TJ-67" parent="rIEmjimXDaofbVHIQ_TJ-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Submit to Cloud Build to create an image on Artifact Repository" vertex="1">
           <mxGeometry height="100" width="270" as="geometry">
