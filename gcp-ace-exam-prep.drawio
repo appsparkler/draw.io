@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.1 Clud Run and IAM" id="fJa-bGf0KtOeBzwlbln7">
-    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1020,7 +1020,7 @@
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-55" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-55" parent="41zspn_ZCD3zTolKA1WF-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="If we directly set the IAM policy on the run service resource instead of setting on the project it will comply with&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="260" x="700" as="geometry">
             <mxRectangle height="80" width="260" as="alternateBounds" />
           </mxGeometry>
