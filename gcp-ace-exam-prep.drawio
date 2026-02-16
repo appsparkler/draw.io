@@ -1519,7 +1519,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="308" width="740" x="40" y="30" as="geometry" />
+          <mxGeometry height="352" width="740" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-2" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="44" width="740" as="geometry" />
@@ -1608,6 +1608,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-22" parent="Izjd2tqnbk1Fhq9awNgG-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="SELECT start_station_name, COUNT(*) FROM dataset GROUP BY start_station_name" vertex="1">
+          <mxGeometry height="44" width="370" x="370" as="geometry">
+            <mxRectangle height="44" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-23" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="44" width="740" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-24" parent="Izjd2tqnbk1Fhq9awNgG-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Alias table names - we can change the table names in the columns by using AS" vertex="1">
+          <mxGeometry height="44" width="370" as="geometry">
+            <mxRectangle height="44" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-25" parent="Izjd2tqnbk1Fhq9awNgG-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="SELECT start_station_name, COUNT(*) as num_starts FROM dataset GROUP BY start_station_name" vertex="1">
           <mxGeometry height="44" width="370" x="370" as="geometry">
             <mxRectangle height="44" width="370" as="alternateBounds" />
           </mxGeometry>
