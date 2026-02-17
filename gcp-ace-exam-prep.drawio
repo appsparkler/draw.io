@@ -1566,7 +1566,7 @@
         <mxCell id="Izjd2tqnbk1Fhq9awNgG-2" parent="Izjd2tqnbk1Fhq9awNgG-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="44" width="740" as="geometry" />
         </mxCell>
-        <mxCell id="Izjd2tqnbk1Fhq9awNgG-3" parent="Izjd2tqnbk1Fhq9awNgG-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="" vertex="1">
+        <mxCell id="Izjd2tqnbk1Fhq9awNgG-3" parent="Izjd2tqnbk1Fhq9awNgG-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="3.1 - Querying BigQuery" vertex="1">
           <mxGeometry height="44" width="740" as="geometry">
             <mxRectangle height="44" width="370" as="alternateBounds" />
           </mxGeometry>
@@ -1708,6 +1708,9 @@
         </mxCell>
         <mxCell id="8c_m-UvYSOi1RYya4Pq_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;3.3 Multiple VPC Networks &amp;amp; VM with Multiple Network Interfaces is able to connect to each VPC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In this task we end up with 3 Networks.&amp;nbsp; VMs are deployed on subnets in each VM and we note that we aren&#39;t able to ping internal-IP addresses of VMs on other subnets.&lt;br&gt;&lt;br&gt;However, when we create a VM with multiple network interfaces, we are able to connect.&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="310" x="40" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="8c_m-UvYSOi1RYya4Pq_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;3.3 Multiple VPC Networks &amp;amp; VM with Multiple Network Interfaces is able to connect to each VPC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In this task we end up with 3 Networks.&amp;nbsp; VMs are deployed on subnets in each VM and we note that we aren&#39;t able to ping internal-IP addresses of VMs on other subnets.&lt;br&gt;&lt;br&gt;However, when we create a VM with multiple network interfaces, we are able to connect.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="310" x="400" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
