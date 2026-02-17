@@ -2053,6 +2053,74 @@
             <mxRectangle height="50" width="375" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-83" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="260" width="760" x="40" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-84" parent="uNNAVEuRLhBoul5W99-z-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="760" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-85" parent="uNNAVEuRLhBoul5W99-z-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="Challenge Lab" vertex="1">
+          <mxGeometry height="40" width="760" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-86" parent="uNNAVEuRLhBoul5W99-z-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="40" width="380" x="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-96" parent="uNNAVEuRLhBoul5W99-z-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-97" parent="uNNAVEuRLhBoul5W99-z-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Setup config" vertex="1">
+          <mxGeometry height="40" width="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-98" parent="uNNAVEuRLhBoul5W99-z-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud config set compute/region asia-south1" vertex="1">
+          <mxGeometry height="40" width="380" x="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-93" parent="uNNAVEuRLhBoul5W99-z-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="760" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-94" parent="uNNAVEuRLhBoul5W99-z-93" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Set environment variables" vertex="1">
+          <mxGeometry height="40" width="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-95" parent="uNNAVEuRLhBoul5W99-z-93" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="APP_VPC=griffin-dev-vpc" vertex="1">
+          <mxGeometry height="40" width="380" x="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-87" parent="uNNAVEuRLhBoul5W99-z-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="760" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-88" parent="uNNAVEuRLhBoul5W99-z-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create&amp;nbsp;&lt;code&gt;griffin-dev-vpc&amp;nbsp;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-89" parent="uNNAVEuRLhBoul5W99-z-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute networks create $APP_VPC&amp;nbsp;--subnet-mode custom" vertex="1">
+          <mxGeometry height="40" width="380" x="380" as="geometry">
+            <mxRectangle height="40" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-90" parent="uNNAVEuRLhBoul5W99-z-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="100" width="760" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-91" parent="uNNAVEuRLhBoul5W99-z-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create the subnets" vertex="1">
+          <mxGeometry height="100" width="380" as="geometry">
+            <mxRectangle height="100" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-92" parent="uNNAVEuRLhBoul5W99-z-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gcloud compute networks subnets create&amp;nbsp; griffin-dev-wp&amp;nbsp; --range 192.168.16.0/20 --network $APP_VPC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gcloud compute networks subnets create&amp;nbsp; griffin-dev-mgmt&amp;nbsp; --range 192.168.32.0/20 --network $APP_VPC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="380" x="380" as="geometry">
+            <mxRectangle height="100" width="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
