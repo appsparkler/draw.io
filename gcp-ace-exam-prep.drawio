@@ -1706,14 +1706,14 @@
             <mxRectangle height="44" width="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8c_m-UvYSOi1RYya4Pq_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;3.3 Multiple VPC Networks &amp;amp; Multi Network VM&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In this task we end up with 3 Networks.&amp;nbsp; VMs are deployed on subnets in each VM and we note that we aren&#39;t able to ping internal-IP addresses of VMs on other subnets.&lt;br&gt;&lt;br&gt;However, when we create a VM with multiple network interfaces, we are able to connect.&lt;/div&gt;" vertex="1">
+        <mxCell id="8c_m-UvYSOi1RYya4Pq_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;3.3 Multiple VPC Networks &amp;amp; VM with Multiple Network Interfaces is able to connect to each VPC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;In this task we end up with 3 Networks.&amp;nbsp; VMs are deployed on subnets in each VM and we note that we aren&#39;t able to ping internal-IP addresses of VMs on other subnets.&lt;br&gt;&lt;br&gt;However, when we create a VM with multiple network interfaces, we are able to connect.&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="310" x="40" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="LWvUBR5OHmYEcGZXAmPx" name="3.3-Multiple VPC Networks">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
