@@ -1713,7 +1713,7 @@
           <mxGeometry height="160" width="310" x="430" y="560" as="geometry" />
         </mxCell>
         <mxCell id="uNNAVEuRLhBoul5W99-z-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="450" width="750" x="39" y="760" as="geometry" />
+          <mxGeometry height="600" width="750" x="39" y="760" as="geometry" />
         </mxCell>
         <mxCell id="uNNAVEuRLhBoul5W99-z-2" parent="uNNAVEuRLhBoul5W99-z-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="750" as="geometry" />
@@ -1828,6 +1828,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uNNAVEuRLhBoul5W99-z-28" parent="uNNAVEuRLhBoul5W99-z-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl get replicasets" vertex="1">
+          <mxGeometry height="50" width="375" x="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-29" parent="uNNAVEuRLhBoul5W99-z-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="750" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-30" parent="uNNAVEuRLhBoul5W99-z-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Get pods&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-31" parent="uNNAVEuRLhBoul5W99-z-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl get pods" vertex="1">
+          <mxGeometry height="50" width="375" x="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-32" parent="uNNAVEuRLhBoul5W99-z-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="750" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-33" parent="uNNAVEuRLhBoul5W99-z-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a service" vertex="1">
+          <mxGeometry height="50" width="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-34" parent="uNNAVEuRLhBoul5W99-z-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl apply -f &amp;lt;service-file-path&amp;gt;" vertex="1">
+          <mxGeometry height="50" width="375" x="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-35" parent="uNNAVEuRLhBoul5W99-z-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="50" width="750" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-36" parent="uNNAVEuRLhBoul5W99-z-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Get the service information" vertex="1">
+          <mxGeometry height="50" width="375" as="geometry">
+            <mxRectangle height="50" width="375" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNNAVEuRLhBoul5W99-z-37" parent="uNNAVEuRLhBoul5W99-z-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="kubectl get services fortune-app" vertex="1">
           <mxGeometry height="50" width="375" x="375" as="geometry">
             <mxRectangle height="50" width="375" as="alternateBounds" />
           </mxGeometry>
