@@ -2452,7 +2452,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-ue8-Exv3ttLfNW9KkXM-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="330" width="780" x="20" y="630" as="geometry" />
+          <mxGeometry height="260" width="780" x="20" y="630" as="geometry" />
         </mxCell>
         <mxCell id="-ue8-Exv3ttLfNW9KkXM-2" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" as="geometry" />
@@ -2496,40 +2496,14 @@
         <mxCell id="-ue8-Exv3ttLfNW9KkXM-11" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-12" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-12" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Call this file from&amp;nbsp;&lt;b&gt;.profile&lt;/b&gt;&amp;nbsp;which is executed every time we open a new GC shell" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-13" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-13" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="echo &quot;source ~/setup.sh&quot; &amp;gt;&amp;gt; ~/.profile" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-14" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="40" width="780" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-15" parent="-ue8-Exv3ttLfNW9KkXM-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="40" width="390" as="geometry">
-            <mxRectangle height="40" width="390" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-16" parent="-ue8-Exv3ttLfNW9KkXM-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
-          <mxGeometry height="40" width="390" x="390" as="geometry">
-            <mxRectangle height="40" width="390" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-17" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="30" width="780" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-18" parent="-ue8-Exv3ttLfNW9KkXM-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="30" width="390" as="geometry">
-            <mxRectangle height="30" width="390" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-19" parent="-ue8-Exv3ttLfNW9KkXM-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
-          <mxGeometry height="30" width="390" x="390" as="geometry">
-            <mxRectangle height="30" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
