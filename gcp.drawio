@@ -6594,7 +6594,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TUWGIHikm7FY9fJhMkA6-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="290" width="730" x="30" y="20" as="geometry" />
+          <mxGeometry height="310" width="730" x="30" y="20" as="geometry" />
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-2" parent="TUWGIHikm7FY9fJhMkA6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="730" as="geometry" />
@@ -6617,7 +6617,7 @@
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUWGIHikm7FY9fJhMkA6-7" parent="TUWGIHikm7FY9fJhMkA6-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute instances stop &amp;lt;vm-name&amp;gt;" vertex="1">
+        <mxCell id="TUWGIHikm7FY9fJhMkA6-7" parent="TUWGIHikm7FY9fJhMkA6-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances stop &amp;lt;vm-name&amp;gt;" vertex="1">
           <mxGeometry height="40" width="365" x="365" as="geometry">
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
@@ -6630,46 +6630,46 @@
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUWGIHikm7FY9fJhMkA6-10" parent="TUWGIHikm7FY9fJhMkA6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute disks snapshot &amp;lt;source-vm&amp;gt; --snapshot-names &amp;lt;snapshot-name&amp;gt;" vertex="1">
+        <mxCell id="TUWGIHikm7FY9fJhMkA6-10" parent="TUWGIHikm7FY9fJhMkA6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks snapshot &amp;lt;source-vm&amp;gt; --snapshot-names &amp;lt;snapshot-name&amp;gt;" vertex="1">
           <mxGeometry height="40" width="365" x="365" as="geometry">
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-11" parent="TUWGIHikm7FY9fJhMkA6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="40" width="730" y="120" as="geometry" />
+          <mxGeometry height="60" width="730" y="120" as="geometry" />
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-12" parent="TUWGIHikm7FY9fJhMkA6-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create the disk from the snapshot in the new reigon" vertex="1">
-          <mxGeometry height="40" width="365" as="geometry">
-            <mxRectangle height="40" width="365" as="alternateBounds" />
+          <mxGeometry height="60" width="365" as="geometry">
+            <mxRectangle height="60" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUWGIHikm7FY9fJhMkA6-13" parent="TUWGIHikm7FY9fJhMkA6-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute disks create &amp;lt;disk-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --source-snapshot &amp;lt;snapshot-name&amp;gt;" vertex="1">
-          <mxGeometry height="40" width="365" x="365" as="geometry">
-            <mxRectangle height="40" width="365" as="alternateBounds" />
+        <mxCell id="TUWGIHikm7FY9fJhMkA6-13" parent="TUWGIHikm7FY9fJhMkA6-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks create &amp;lt;disk-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --source-snapshot &amp;lt;snapshot-name&amp;gt;" vertex="1">
+          <mxGeometry height="60" width="365" x="365" as="geometry">
+            <mxRectangle height="60" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-14" parent="TUWGIHikm7FY9fJhMkA6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="40" width="730" y="160" as="geometry" />
+          <mxGeometry height="40" width="730" y="180" as="geometry" />
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-15" parent="TUWGIHikm7FY9fJhMkA6-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Delete the snapshot" vertex="1">
           <mxGeometry height="40" width="365" as="geometry">
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUWGIHikm7FY9fJhMkA6-16" parent="TUWGIHikm7FY9fJhMkA6-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute snapshots delete &amp;lt;snapshot-name&amp;gt;" vertex="1">
+        <mxCell id="TUWGIHikm7FY9fJhMkA6-16" parent="TUWGIHikm7FY9fJhMkA6-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute snapshots delete &amp;lt;snapshot-name&amp;gt;" vertex="1">
           <mxGeometry height="40" width="365" x="365" as="geometry">
             <mxRectangle height="40" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-17" parent="TUWGIHikm7FY9fJhMkA6-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="90" width="730" y="200" as="geometry" />
+          <mxGeometry height="90" width="730" y="220" as="geometry" />
         </mxCell>
         <mxCell id="TUWGIHikm7FY9fJhMkA6-18" parent="TUWGIHikm7FY9fJhMkA6-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Attach the disk to a new VM as a boot disk in any region" vertex="1">
           <mxGeometry height="90" width="365" as="geometry">
             <mxRectangle height="90" width="365" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUWGIHikm7FY9fJhMkA6-19" parent="TUWGIHikm7FY9fJhMkA6-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute instances create &amp;lt;vm2-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --machine-type e2-small --disk name=&amp;lt;disk-name&amp;gt;,boot=yes,auto-delete=yes" vertex="1">
+        <mxCell id="TUWGIHikm7FY9fJhMkA6-19" parent="TUWGIHikm7FY9fJhMkA6-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances create &amp;lt;vm2-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --machine-type e2-small --disk name=&amp;lt;disk-name&amp;gt;,boot=yes,auto-delete=yes" vertex="1">
           <mxGeometry height="90" width="365" x="365" as="geometry">
             <mxRectangle height="90" width="365" as="alternateBounds" />
           </mxGeometry>
