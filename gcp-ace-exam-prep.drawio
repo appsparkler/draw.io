@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.1 Clud Run and IAM" id="fJa-bGf0KtOeBzwlbln7">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1046,12 +1046,12 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-60" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-61" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a key file for the service account" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-61" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a key file for the service account" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-62" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud iam service-accounts keys create key.json \&lt;br&gt;--iam-account=&lt;span class=&quot;hljs-variable&quot;&gt;${BILLING_INITIATOR_EMAIL}&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-62" parent="41zspn_ZCD3zTolKA1WF-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud iam service-accounts keys create key.json \&lt;br&gt;--iam-account=&lt;span class=&quot;hljs-variable&quot;&gt;${BILLING_INITIATOR_EMAIL}&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="80" width="470" x="230" as="geometry">
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
@@ -1064,12 +1064,12 @@
         <mxCell id="41zspn_ZCD3zTolKA1WF-64" parent="41zspn_ZCD3zTolKA1WF-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="960" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-65" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;In a new Cloud Shell Tab&lt;/b&gt;&lt;br&gt;Activate the service account in the shell" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-65" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;In a new Cloud Shell Tab&lt;/b&gt;&lt;br&gt;Activate the service account in the shell" vertex="1">
           <mxGeometry height="80" width="230" as="geometry">
             <mxRectangle height="80" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41zspn_ZCD3zTolKA1WF-66" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud auth activate-service-account \&lt;br&gt;--key-file=key.json&lt;/pre&gt;" vertex="1">
+        <mxCell id="41zspn_ZCD3zTolKA1WF-66" parent="41zspn_ZCD3zTolKA1WF-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;align=center;" value="&lt;pre class=&quot;bash wrap hljs&quot;&gt;gcloud auth activate-service-account \&lt;br&gt;--key-file=key.json&lt;/pre&gt;" vertex="1">
           <mxGeometry height="80" width="470" x="230" as="geometry">
             <mxRectangle height="80" width="470" as="alternateBounds" />
           </mxGeometry>
