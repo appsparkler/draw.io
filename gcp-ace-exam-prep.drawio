@@ -2540,7 +2540,7 @@
             <mxRectangle height="50" width="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4QKLUV6DifyvBVFr2Rn0-13" parent="4QKLUV6DifyvBVFr2Rn0-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-13" parent="4QKLUV6DifyvBVFr2Rn0-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute ssh mynet-us-vm \&lt;br&gt;--zone=Zone 1 \&lt;br&gt;--tunnel-through-iap&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="370" x="370" as="geometry">
             <mxRectangle height="50" width="370" as="alternateBounds" />
           </mxGeometry>
