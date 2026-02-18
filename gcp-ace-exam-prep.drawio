@@ -2150,43 +2150,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LWvUBR5OHmYEcGZXAmPx" name="3.3-Multiple VPC Networks">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="31svq7aclgW9nUnJQUmh-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="80" width="790" x="20" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-2" parent="31svq7aclgW9nUnJQUmh-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="790" as="geometry" />
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-3" parent="31svq7aclgW9nUnJQUmh-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" value="" vertex="1">
-          <mxGeometry height="40" width="790" as="geometry">
-            <mxRectangle height="40" width="395" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-4" parent="31svq7aclgW9nUnJQUmh-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
-          <mxGeometry height="40" width="395" x="395" as="geometry">
-            <mxRectangle height="40" width="395" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-5" parent="31svq7aclgW9nUnJQUmh-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="790" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-6" parent="31svq7aclgW9nUnJQUmh-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="40" width="395" as="geometry">
-            <mxRectangle height="40" width="395" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="31svq7aclgW9nUnJQUmh-7" parent="31svq7aclgW9nUnJQUmh-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="40" width="395" x="395" as="geometry">
-            <mxRectangle height="40" width="395" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="H_zrPaPdsYcDUy7MrLtf" name="3.4 - Cloud Monitoring">
     <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2285,7 +2248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZUIUJS9T9uzfEDhbqjS" name="Practice Exercises">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2517,6 +2480,43 @@
         <mxCell id="-ue8-Exv3ttLfNW9KkXM-22" parent="-ue8-Exv3ttLfNW9KkXM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage buckets create &amp;lt;bucket-name&amp;gt;&lt;br&gt;&lt;br&gt;gcloud storage cp setup.sh &amp;lt;bucket-name&amp;gt;" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cTXvij8SoA9HI5NjEttO" name="Networks">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="80" width="740" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-2" parent="4QKLUV6DifyvBVFr2Rn0-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="740" as="geometry" />
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-3" parent="4QKLUV6DifyvBVFr2Rn0-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-4" parent="4QKLUV6DifyvBVFr2Rn0-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-5" parent="4QKLUV6DifyvBVFr2Rn0-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="740" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-6" parent="4QKLUV6DifyvBVFr2Rn0-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create mynetwork auto mode network" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-7" parent="4QKLUV6DifyvBVFr2Rn0-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute networks create mynetwork --subnet-mode auto" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
