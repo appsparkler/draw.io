@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.4.0" pages="10">
   <diagram id="AHIeRDgFPxS0jaqBbyzj" name="4.2 Cloud Build">
     <mxGraphModel dx="1393" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2282,6 +2282,95 @@
         <mxCell id="8Lvajrkhfv4V5-hHaTaq-6" parent="8Lvajrkhfv4V5-hHaTaq-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="https://www.skills.google/focuses/564?parent=catalog" vertex="1">
           <mxGeometry height="40" width="331" x="189" as="geometry">
             <mxRectangle height="40" width="331" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xZUIUJS9T9uzfEDhbqjS" name="Practice Exercises">
+    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="310" width="780" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-2" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-3" parent="zJA_he_JwUd8rcWMZT6x-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontStyle=1" value="MIGRATE A DISK FROM ONE REGION TO ANOTHER" vertex="1">
+          <mxGeometry height="40" width="780" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-4" parent="zJA_he_JwUd8rcWMZT6x-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-5" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-6" parent="zJA_he_JwUd8rcWMZT6x-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Stop the VM (recommended)" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-7" parent="zJA_he_JwUd8rcWMZT6x-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances stop &amp;lt;vm-name&amp;gt;" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-8" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="780" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-9" parent="zJA_he_JwUd8rcWMZT6x-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;Create a snapshot from the disk of the VM&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;snapshots are global resources&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-10" parent="zJA_he_JwUd8rcWMZT6x-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks snapshot &amp;lt;source-vm&amp;gt; --snapshot-names &amp;lt;snapshot-name&amp;gt;" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-11" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="60" width="780" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-12" parent="zJA_he_JwUd8rcWMZT6x-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create the disk from the snapshot in the new reigon" vertex="1">
+          <mxGeometry height="60" width="390" as="geometry">
+            <mxRectangle height="60" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-13" parent="zJA_he_JwUd8rcWMZT6x-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks create &amp;lt;disk-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --source-snapshot &amp;lt;snapshot-name&amp;gt;" vertex="1">
+          <mxGeometry height="60" width="390" x="390" as="geometry">
+            <mxRectangle height="60" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-14" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="780" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-15" parent="zJA_he_JwUd8rcWMZT6x-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Delete the snapshot" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-16" parent="zJA_he_JwUd8rcWMZT6x-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute snapshots delete &amp;lt;snapshot-name&amp;gt;" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-17" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="90" width="780" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-18" parent="zJA_he_JwUd8rcWMZT6x-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Attach the disk to a new VM as a boot disk in any region" vertex="1">
+          <mxGeometry height="90" width="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-19" parent="zJA_he_JwUd8rcWMZT6x-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances create &amp;lt;vm2-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --machine-type e2-small --disk name=&amp;lt;disk-name&amp;gt;,boot=yes,auto-delete=yes" vertex="1">
+          <mxGeometry height="90" width="390" x="390" as="geometry">
+            <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
