@@ -2292,13 +2292,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" value="" vertex="1">
           <mxGeometry height="310" width="780" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="zJA_he_JwUd8rcWMZT6x-2" parent="zJA_he_JwUd8rcWMZT6x-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-3" parent="zJA_he_JwUd8rcWMZT6x-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontStyle=1" value="MIGRATE A &lt;b&gt;DISK&lt;/b&gt;&amp;nbsp;ATTACHED TO A &lt;b&gt;VM&amp;nbsp;&lt;/b&gt;FROM ONE REGION TO ANOTHER" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-3" parent="zJA_he_JwUd8rcWMZT6x-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontStyle=0" value="MIGRATE A &lt;b&gt;&lt;span&gt;DISK&lt;/span&gt;&lt;/b&gt;&amp;nbsp;ATTACHED TO A &lt;span&gt;&lt;b&gt;VM&lt;/b&gt;&amp;nbsp;&lt;/span&gt;FROM ONE REGION TO ANOTHER WITH THE HELP OF A&amp;nbsp;&lt;b&gt;SNAPSHOT&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="780" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
