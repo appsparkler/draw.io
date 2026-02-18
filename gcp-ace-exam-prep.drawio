@@ -2451,6 +2451,87 @@
             <mxRectangle height="30" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="250" width="780" x="20" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-2" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-3" parent="-ue8-Exv3ttLfNW9KkXM-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontStyle=1" value="SETUP VM with the .profile file" vertex="1">
+          <mxGeometry height="40" width="780" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-4" parent="-ue8-Exv3ttLfNW9KkXM-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-5" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="780" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-6" parent="-ue8-Exv3ttLfNW9KkXM-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a new file setup.sh" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-7" parent="-ue8-Exv3ttLfNW9KkXM-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="touch setup.sh" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-8" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="780" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-9" parent="-ue8-Exv3ttLfNW9KkXM-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the file" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-10" parent="-ue8-Exv3ttLfNW9KkXM-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="#!/usr/bin/env bash" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-11" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="60" width="780" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-12" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="390" as="geometry">
+            <mxRectangle height="60" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-13" parent="-ue8-Exv3ttLfNW9KkXM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
+          <mxGeometry height="60" width="390" x="390" as="geometry">
+            <mxRectangle height="60" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-14" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="780" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-15" parent="-ue8-Exv3ttLfNW9KkXM-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="40" width="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-16" parent="-ue8-Exv3ttLfNW9KkXM-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
+          <mxGeometry height="40" width="390" x="390" as="geometry">
+            <mxRectangle height="40" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-17" parent="-ue8-Exv3ttLfNW9KkXM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="30" width="780" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-18" parent="-ue8-Exv3ttLfNW9KkXM-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="30" width="390" as="geometry">
+            <mxRectangle height="30" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-19" parent="-ue8-Exv3ttLfNW9KkXM-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
+          <mxGeometry height="30" width="390" x="390" as="geometry">
+            <mxRectangle height="30" width="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
