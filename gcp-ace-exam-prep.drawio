@@ -2374,7 +2374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zJA_he_JwUd8rcWMZT6x-20" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="310" width="780" x="20" y="360" as="geometry" />
+          <mxGeometry height="250" width="780" x="20" y="360" as="geometry" />
         </mxCell>
         <mxCell id="zJA_he_JwUd8rcWMZT6x-21" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" as="geometry" />
@@ -2392,12 +2392,12 @@
         <mxCell id="zJA_he_JwUd8rcWMZT6x-24" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-25" parent="zJA_he_JwUd8rcWMZT6x-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Stop the VM (recommended)" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-25" parent="zJA_he_JwUd8rcWMZT6x-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a storage bucket" vertex="1">
           <mxGeometry height="40" width="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-26" parent="zJA_he_JwUd8rcWMZT6x-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances stop &amp;lt;vm-name&amp;gt;" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-26" parent="zJA_he_JwUd8rcWMZT6x-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage buckets create &amp;lt;my-bucket&amp;gt;" vertex="1">
           <mxGeometry height="40" width="390" x="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2405,12 +2405,12 @@
         <mxCell id="zJA_he_JwUd8rcWMZT6x-27" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="40" width="780" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-28" parent="zJA_he_JwUd8rcWMZT6x-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;Create a snapshot from the disk of the VM&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;snapshots are global resources&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-28" parent="zJA_he_JwUd8rcWMZT6x-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create and copy a setup.sh script to the storage bucket and, once done, delete the setup.sh script" vertex="1">
           <mxGeometry height="40" width="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-29" parent="zJA_he_JwUd8rcWMZT6x-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks snapshot &amp;lt;source-vm&amp;gt; --snapshot-names &amp;lt;snapshot-name&amp;gt;" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-29" parent="zJA_he_JwUd8rcWMZT6x-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage cp setup.sh &amp;lt;my-bucket&amp;gt;&lt;br&gt;rm setup.sh" vertex="1">
           <mxGeometry height="40" width="390" x="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2418,12 +2418,12 @@
         <mxCell id="zJA_he_JwUd8rcWMZT6x-30" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-31" parent="zJA_he_JwUd8rcWMZT6x-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create the disk from the snapshot in the new reigon" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-31" parent="zJA_he_JwUd8rcWMZT6x-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Download the setup.sh script to the working directory with&amp;nbsp;&lt;b&gt;rsync&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-32" parent="zJA_he_JwUd8rcWMZT6x-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute disks create &amp;lt;disk-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --source-snapshot &amp;lt;snapshot-name&amp;gt;" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-32" parent="zJA_he_JwUd8rcWMZT6x-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage rsync &amp;lt;my-bucket&amp;gt; ./" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2431,27 +2431,27 @@
         <mxCell id="zJA_he_JwUd8rcWMZT6x-33" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="40" width="780" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-34" parent="zJA_he_JwUd8rcWMZT6x-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Delete the snapshot" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-34" parent="zJA_he_JwUd8rcWMZT6x-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Make the setup.sh script executable" vertex="1">
           <mxGeometry height="40" width="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-35" parent="zJA_he_JwUd8rcWMZT6x-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute snapshots delete &amp;lt;snapshot-name&amp;gt;" vertex="1">
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-35" parent="zJA_he_JwUd8rcWMZT6x-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="chmod +x setup.sh" vertex="1">
           <mxGeometry height="40" width="390" x="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zJA_he_JwUd8rcWMZT6x-36" parent="zJA_he_JwUd8rcWMZT6x-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="90" width="780" y="220" as="geometry" />
+          <mxGeometry height="30" width="780" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-37" parent="zJA_he_JwUd8rcWMZT6x-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Attach the disk to a new VM as a boot disk in any region" vertex="1">
-          <mxGeometry height="90" width="390" as="geometry">
-            <mxRectangle height="90" width="390" as="alternateBounds" />
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-37" parent="zJA_he_JwUd8rcWMZT6x-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Execute the script" vertex="1">
+          <mxGeometry height="30" width="390" as="geometry">
+            <mxRectangle height="30" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJA_he_JwUd8rcWMZT6x-38" parent="zJA_he_JwUd8rcWMZT6x-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute instances create &amp;lt;vm2-name&amp;gt; --zone &amp;lt;destination-zone-name&amp;gt; --machine-type e2-small --disk name=&amp;lt;disk-name&amp;gt;,boot=yes,auto-delete=yes" vertex="1">
-          <mxGeometry height="90" width="390" x="390" as="geometry">
-            <mxRectangle height="90" width="390" as="alternateBounds" />
+        <mxCell id="zJA_he_JwUd8rcWMZT6x-38" parent="zJA_he_JwUd8rcWMZT6x-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="./setup.sh" vertex="1">
+          <mxGeometry height="30" width="390" x="390" as="geometry">
+            <mxRectangle height="30" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
