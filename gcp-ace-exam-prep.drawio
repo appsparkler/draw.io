@@ -2451,7 +2451,7 @@
             <mxRectangle height="120" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ue8-Exv3ttLfNW9KkXM-10" parent="-ue8-Exv3ttLfNW9KkXM-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;#!/usr/bin/env bash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gcloud config set compute/region asia-south1&lt;br&gt;gcloud config set compute/zone asia-south1-c&lt;/div&gt;&lt;div&gt;gcloud config set run/region asia-south1&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;echo &quot;Ready for launch í ½íº€&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="-ue8-Exv3ttLfNW9KkXM-10" parent="-ue8-Exv3ttLfNW9KkXM-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;#!/usr/bin/env bash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gcloud config set compute/region asia-south1&lt;br&gt;gcloud config set compute/zone asia-south1-c&lt;/div&gt;&lt;div&gt;gcloud config set run/region asia-south1&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;echo &quot;Ready for launch ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="390" x="390" as="geometry">
             <mxRectangle height="120" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2491,7 +2491,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4QKLUV6DifyvBVFr2Rn0-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="80" width="740" x="40" y="20" as="geometry" />
+          <mxGeometry height="120" width="740" x="40" y="20" as="geometry" />
         </mxCell>
         <mxCell id="4QKLUV6DifyvBVFr2Rn0-2" parent="4QKLUV6DifyvBVFr2Rn0-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="740" as="geometry" />
@@ -2514,7 +2514,20 @@
             <mxRectangle height="40" width="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4QKLUV6DifyvBVFr2Rn0-7" parent="4QKLUV6DifyvBVFr2Rn0-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="gcloud compute networks create mynetwork --subnet-mode auto" vertex="1">
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-7" parent="4QKLUV6DifyvBVFr2Rn0-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud compute networks create mynetwork --subnet-mode auto" vertex="1">
+          <mxGeometry height="40" width="370" x="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-8" parent="4QKLUV6DifyvBVFr2Rn0-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="40" width="740" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-9" parent="4QKLUV6DifyvBVFr2Rn0-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="370" as="geometry">
+            <mxRectangle height="40" width="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QKLUV6DifyvBVFr2Rn0-10" parent="4QKLUV6DifyvBVFr2Rn0-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
           <mxGeometry height="40" width="370" x="370" as="geometry">
             <mxRectangle height="40" width="370" as="alternateBounds" />
           </mxGeometry>
