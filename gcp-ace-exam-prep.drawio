@@ -2582,7 +2582,7 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-30" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="90" width="780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-31" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Download lifecycle configuration as a file" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-31" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=0" value="Download lifecycle configuration as a file" vertex="1">
           <mxGeometry height="90" width="390" as="geometry">
             <mxRectangle height="90" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2595,7 +2595,7 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-33" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-34" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-34" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the lifecycle configuration file" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
