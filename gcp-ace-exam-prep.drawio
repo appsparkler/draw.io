@@ -2564,7 +2564,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWpn03Zpn6nLfHhKYieY-23" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="430" width="780" x="20" y="1400" as="geometry" />
+          <mxGeometry height="520" width="780" x="20" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="aWpn03Zpn6nLfHhKYieY-24" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" as="geometry" />
@@ -2606,16 +2606,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWpn03Zpn6nLfHhKYieY-42" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="240" width="780" y="190" as="geometry" />
+          <mxGeometry height="330" width="780" y="190" as="geometry" />
         </mxCell>
         <mxCell id="aWpn03Zpn6nLfHhKYieY-43" parent="aWpn03Zpn6nLfHhKYieY-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Example lifecycle JSON" vertex="1">
-          <mxGeometry height="240" width="390" as="geometry">
-            <mxRectangle height="240" width="390" as="alternateBounds" />
+          <mxGeometry height="330" width="390" as="geometry">
+            <mxRectangle height="330" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-44" parent="aWpn03Zpn6nLfHhKYieY-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" vertex="1">
-          <mxGeometry height="240" width="390" x="390" as="geometry">
-            <mxRectangle height="240" width="390" as="alternateBounds" />
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-44" parent="aWpn03Zpn6nLfHhKYieY-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 18px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;lifecycle&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;rule&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;      {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;action&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;          &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Delete&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        },&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;condition&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;          &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;        }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;      }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;    ]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;  }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="330" width="390" x="390" as="geometry">
+            <mxRectangle height="330" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
