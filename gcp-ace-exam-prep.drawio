@@ -2248,7 +2248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZUIUJS9T9uzfEDhbqjS" name="⭐️ Practice Exercises">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2582,12 +2582,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-27" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="40" width="780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-28" parent="aWpn03Zpn6nLfHhKYieY-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Describe the ACL on an object" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-28" parent="aWpn03Zpn6nLfHhKYieY-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Get bucket lifecycle configuration" vertex="1">
           <mxGeometry height="40" width="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-29" parent="aWpn03Zpn6nLfHhKYieY-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage objects describe &amp;lt;object-path&amp;gt; --format &quot;default(acl)&quot;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-29" parent="aWpn03Zpn6nLfHhKYieY-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="40" width="390" x="390" as="geometry">
             <mxRectangle height="40" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2595,12 +2595,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-30" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="130" width="780" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-31" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Add ACL grant" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-31" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="130" width="390" as="geometry">
             <mxRectangle height="130" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-32" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gcloud storage objects update &amp;lt;object-path&amp;gt; --add-acl-grant &quot;entity=user-&amp;lt;user-email&amp;gt;,role=&amp;lt;role&amp;gt;&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;role can be READER, WRITER or OWNER&lt;/div&gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-32" parent="aWpn03Zpn6nLfHhKYieY-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="130" width="390" x="390" as="geometry">
             <mxRectangle height="130" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2608,12 +2608,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-33" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-34" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Remove ACL grant" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-34" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-35" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage objects update &amp;lt;object-path&amp;gt; --remove-acl-grant &quot;user-&amp;lt;user-email&amp;gt;&quot;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-35" parent="aWpn03Zpn6nLfHhKYieY-33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2621,12 +2621,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-36" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="80" width="780" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-37" parent="aWpn03Zpn6nLfHhKYieY-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Download the ACL file for an object" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-37" parent="aWpn03Zpn6nLfHhKYieY-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="80" width="390" as="geometry">
             <mxRectangle height="80" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-38" parent="aWpn03Zpn6nLfHhKYieY-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gcloud storage objects describe &amp;lt;object-path&amp;gt; --format &quot;value(acl)&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;replace value with&amp;nbsp;&lt;b&gt;json&lt;/b&gt;&amp;nbsp;or&amp;nbsp;&lt;b&gt;yaml &lt;/b&gt;or&amp;nbsp;&lt;b&gt;default&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-38" parent="aWpn03Zpn6nLfHhKYieY-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="80" width="390" x="390" as="geometry">
             <mxRectangle height="80" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2634,12 +2634,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-39" parent="aWpn03Zpn6nLfHhKYieY-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-40" parent="aWpn03Zpn6nLfHhKYieY-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update with ACL file" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-40" parent="aWpn03Zpn6nLfHhKYieY-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-41" parent="aWpn03Zpn6nLfHhKYieY-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage object update &amp;lt;object-path&amp;gt; --acl-file &amp;lt;file-path&amp;gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-41" parent="aWpn03Zpn6nLfHhKYieY-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
