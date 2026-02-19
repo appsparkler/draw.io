@@ -2514,12 +2514,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-8" parent="aWpn03Zpn6nLfHhKYieY-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="120" width="780" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-9" parent="aWpn03Zpn6nLfHhKYieY-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Update the file" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-9" parent="aWpn03Zpn6nLfHhKYieY-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Grant ACL" vertex="1">
           <mxGeometry height="120" width="390" as="geometry">
             <mxRectangle height="120" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-10" parent="aWpn03Zpn6nLfHhKYieY-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;#!/usr/bin/env bash&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gcloud config set compute/region asia-south1&lt;br&gt;gcloud config set compute/zone asia-south1-c&lt;/div&gt;&lt;div&gt;gcloud config set run/region asia-south1&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;echo &quot;Ready for launch ������&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-10" parent="aWpn03Zpn6nLfHhKYieY-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage objects update &amp;lt;object-path&amp;gt;" vertex="1">
           <mxGeometry height="120" width="390" x="390" as="geometry">
             <mxRectangle height="120" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2527,12 +2527,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-11" parent="aWpn03Zpn6nLfHhKYieY-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-12" parent="aWpn03Zpn6nLfHhKYieY-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Call this file from&amp;nbsp;&lt;b&gt;.profile&lt;/b&gt;&amp;nbsp;which is executed every time we open a new GC shell" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-12" parent="aWpn03Zpn6nLfHhKYieY-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-13" parent="aWpn03Zpn6nLfHhKYieY-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="echo &quot;source ~/setup.sh&quot; &amp;gt;&amp;gt; ~/.profile" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-13" parent="aWpn03Zpn6nLfHhKYieY-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
@@ -2540,12 +2540,12 @@
         <mxCell id="aWpn03Zpn6nLfHhKYieY-14" parent="aWpn03Zpn6nLfHhKYieY-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
           <mxGeometry height="60" width="780" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-15" parent="aWpn03Zpn6nLfHhKYieY-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Create a storage bucket and copy the setup file to it&amp;nbsp;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-15" parent="aWpn03Zpn6nLfHhKYieY-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="60" width="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-16" parent="aWpn03Zpn6nLfHhKYieY-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="gcloud storage buckets create &amp;lt;bucket-name&amp;gt;&lt;br&gt;&lt;br&gt;gcloud storage cp setup.sh &amp;lt;bucket-name&amp;gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-16" parent="aWpn03Zpn6nLfHhKYieY-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
