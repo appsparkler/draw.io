@@ -2545,7 +2545,7 @@
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWpn03Zpn6nLfHhKYieY-22" parent="aWpn03Zpn6nLfHhKYieY-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gcloud storage objects describe &amp;lt;object-path&amp;gt; --format &quot;value(acl)&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;replace value with&amp;nbsp;&lt;b&gt;json&lt;/b&gt;&amp;nbsp;or&amp;nbsp;&lt;b&gt;default&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="aWpn03Zpn6nLfHhKYieY-22" parent="aWpn03Zpn6nLfHhKYieY-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Courier New;" value="&lt;div&gt;gcloud storage objects describe &amp;lt;object-path&amp;gt; --format &quot;value(acl)&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;replace value with&amp;nbsp;&lt;b&gt;json&lt;/b&gt;&amp;nbsp;or&amp;nbsp;&lt;b&gt;yaml &lt;/b&gt;or&amp;nbsp;&lt;b&gt;default&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="390" x="390" as="geometry">
             <mxRectangle height="60" width="390" as="alternateBounds" />
           </mxGeometry>
