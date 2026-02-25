@@ -32,6 +32,24 @@
         <mxCell id="PhTBXrkH3Z2HBfcVUVnw-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="321" y="185" as="geometry" />
         </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="110" x="470" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-12" parent="PhTBXrkH3Z2HBfcVUVnw-14" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-13" parent="PhTBXrkH3Z2HBfcVUVnw-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Weekends" vertex="1">
+          <mxGeometry height="30" width="70" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="110" x="470" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-16" parent="PhTBXrkH3Z2HBfcVUVnw-15" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-17" parent="PhTBXrkH3Z2HBfcVUVnw-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Weekdays" vertex="1">
+          <mxGeometry height="30" width="70" x="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
