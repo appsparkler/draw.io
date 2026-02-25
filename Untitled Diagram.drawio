@@ -571,15 +571,6 @@
         <mxCell id="PhTBXrkH3Z2HBfcVUVnw-378" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dangling day" vertex="1">
           <mxGeometry height="30" width="60" x="932" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-379" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="580" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-380" parent="PhTBXrkH3Z2HBfcVUVnw-379" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="30" width="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-381" parent="PhTBXrkH3Z2HBfcVUVnw-379" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="PhTBXrkH3Z2HBfcVUVnw-382" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="30" x="74" y="421" as="geometry" />
         </mxCell>
