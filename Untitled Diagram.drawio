@@ -26,10 +26,10 @@
         <mxCell id="PhTBXrkH3Z2HBfcVUVnw-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="261" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="291" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="PhTBXrkH3Z2HBfcVUVnw-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="321" y="185" as="geometry" />
         </mxCell>
       </root>
