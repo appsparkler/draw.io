@@ -804,7 +804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6WXHXlKAyQX9D0riZ2-9" name="Components">
-    <mxGraphModel dx="836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="464" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,6 +890,42 @@
           <mxGeometry height="30" width="90" x="40" as="geometry" />
         </mxCell>
         <mxCell id="l2EOBuVMM3WK4OIklDsN-16" parent="l2EOBuVMM3WK4OIklDsN-13" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=light-dark(#000000,#EDEDED);" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="490" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-18" parent="l2EOBuVMM3WK4OIklDsN-17" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-19" parent="l2EOBuVMM3WK4OIklDsN-17" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="490" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-21" parent="l2EOBuVMM3WK4OIklDsN-20" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-22" parent="l2EOBuVMM3WK4OIklDsN-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-23" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="490" y="362" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-24" parent="l2EOBuVMM3WK4OIklDsN-23" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-25" parent="l2EOBuVMM3WK4OIklDsN-23" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-26" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="490" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-27" parent="l2EOBuVMM3WK4OIklDsN-26" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2EOBuVMM3WK4OIklDsN-28" parent="l2EOBuVMM3WK4OIklDsN-26" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
         </mxCell>
       </root>
