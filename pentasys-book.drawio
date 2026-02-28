@@ -1976,8 +1976,8 @@
         <mxCell id="ikdxMS26QMK2yGTWQSN8-98" parent="ikdxMS26QMK2yGTWQSN8-95" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=light-dark(#000000,#EDEDED);strokeColor=none;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 2: Month starts on the Tuesday (2nd day of the week)" vertex="1">
-          <mxGeometry height="30" width="365.5" x="506.25" y="400" as="geometry" />
+        <mxCell id="ikdxMS26QMK2yGTWQSN8-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="PentaSys: The month in sets of 5 days." vertex="1">
+          <mxGeometry height="30" width="233.75" x="508.13" y="390" as="geometry" />
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-107" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="361" y="201" as="geometry" />
