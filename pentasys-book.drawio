@@ -1869,7 +1869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3udOrpJhZ1UVj21_p-1B" name="Example 3">
-    <mxGraphModel dx="1117" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1892,15 +1892,6 @@
         <mxCell id="ikdxMS26QMK2yGTWQSN8-31" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="234" y="201" as="geometry" />
         </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-32" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="280" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-33" parent="ikdxMS26QMK2yGTWQSN8-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="30" width="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-34" parent="ikdxMS26QMK2yGTWQSN8-32" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#000000;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-35" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="30" x="266" y="201" as="geometry" />
         </mxCell>
@@ -1917,15 +1908,6 @@
           <mxGeometry height="30" width="30" as="geometry" />
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-40" parent="ikdxMS26QMK2yGTWQSN8-38" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fillColor=#000000;" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-45" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="350" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-46" parent="ikdxMS26QMK2yGTWQSN8-45" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="30" width="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-47" parent="ikdxMS26QMK2yGTWQSN8-45" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-48" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1948,9 +1930,6 @@
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-54" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="454" y="202" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-55" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="630" y="110" as="geometry" />
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-56" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="579" y="201" as="geometry" />
@@ -1999,9 +1978,6 @@
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 2: Month starts on the Tuesday (2nd day of the week)" vertex="1">
           <mxGeometry height="30" width="365.5" x="506.25" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="ikdxMS26QMK2yGTWQSN8-106" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="440" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ikdxMS26QMK2yGTWQSN8-107" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="361" y="201" as="geometry" />
@@ -2125,9 +2101,6 @@
         </mxCell>
         <mxCell id="f_fuOVngn7JdzSOVyxws-29" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1054" y="201" as="geometry" />
-        </mxCell>
-        <mxCell id="f_fuOVngn7JdzSOVyxws-30" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="1120" y="100" as="geometry" />
         </mxCell>
         <mxCell id="f_fuOVngn7JdzSOVyxws-32" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="30" x="990" y="201" as="geometry" />
