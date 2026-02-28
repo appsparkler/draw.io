@@ -2156,7 +2156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WFhOTs9Ly0PUB4k15RyK" name="Benefits">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2168,6 +2168,90 @@
         </mxCell>
         <mxCell id="y7HNuLcaNaKTEVf81H9u-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="All days are contained within the same month" vertex="1">
           <mxGeometry height="30" width="320" x="-40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Almost always 6 sets of weeks" vertex="1">
+          <mxGeometry height="30" width="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
+          <mxGeometry height="240" width="480" x="-120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-3" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-4" parent="Rk-v_Mfq_YVhmMXIRgaF-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="Traditional Week" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-5" parent="Rk-v_Mfq_YVhmMXIRgaF-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" value="&lt;div&gt;PentaSys&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-6" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-7" parent="Rk-v_Mfq_YVhmMXIRgaF-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="7 day weeks" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-8" parent="Rk-v_Mfq_YVhmMXIRgaF-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="5 day sets" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-9" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-10" parent="Rk-v_Mfq_YVhmMXIRgaF-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Sometimes 3 and sometimes 4 full (complete) weeks in a month" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-11" parent="Rk-v_Mfq_YVhmMXIRgaF-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="6 full sets every month (except February which has 5 full sets)&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-12" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-13" parent="Rk-v_Mfq_YVhmMXIRgaF-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Sometimes 3 and sometimes 4 full (complete) weeks in a month" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-14" parent="Rk-v_Mfq_YVhmMXIRgaF-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="6 full sets every month (except February which has 5 full sets)&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-15" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-16" parent="Rk-v_Mfq_YVhmMXIRgaF-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Weeks cross over a month" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-17" parent="Rk-v_Mfq_YVhmMXIRgaF-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="A set never crosses to another month" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-18" parent="Rk-v_Mfq_YVhmMXIRgaF-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-19" parent="Rk-v_Mfq_YVhmMXIRgaF-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="7 is not in the Fibonacci sequence" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rk-v_Mfq_YVhmMXIRgaF-20" parent="Rk-v_Mfq_YVhmMXIRgaF-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="5 is in the Fibonacci sequence" vertex="1">
+          <mxGeometry height="40" width="240" x="240" as="geometry">
+            <mxRectangle height="40" width="240" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
