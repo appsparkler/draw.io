@@ -1548,7 +1548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Example 1 B" id="oHSHM1UMqMABGJTkfkdV">
-    <mxGraphModel dx="995" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
+    <mxGraphModel dx="1464" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
       <root>
         <mxCell id="ym9y3t2d6uUkzi_aY74O-0" />
         <mxCell id="ym9y3t2d6uUkzi_aY74O-1" parent="ym9y3t2d6uUkzi_aY74O-0" />
@@ -1739,8 +1739,8 @@
         <mxCell id="ym9y3t2d6uUkzi_aY74O-71" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="28th" vertex="1">
           <mxGeometry height="30" width="60" x="912" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="ym9y3t2d6uUkzi_aY74O-72" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 1: Month starts on the first day of the week" vertex="1">
-          <mxGeometry height="30" width="309" x="405.5" y="360" as="geometry" />
+        <mxCell id="ym9y3t2d6uUkzi_aY74O-72" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 1: Month starts on the Friday instead of Monday" vertex="1">
+          <mxGeometry height="30" width="334.5" x="363.75" y="360" as="geometry" />
         </mxCell>
         <mxCell id="ym9y3t2d6uUkzi_aY74O-73" connectable="0" parent="ym9y3t2d6uUkzi_aY74O-1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="360" x="380" y="300" as="geometry" />
