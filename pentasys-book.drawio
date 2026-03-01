@@ -1739,7 +1739,7 @@
         <mxCell id="ym9y3t2d6uUkzi_aY74O-71" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="28th" vertex="1">
           <mxGeometry height="30" width="60" x="912" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="ym9y3t2d6uUkzi_aY74O-72" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 1: Month starts on the Friday instead of Monday" vertex="1">
+        <mxCell id="ym9y3t2d6uUkzi_aY74O-72" parent="ym9y3t2d6uUkzi_aY74O-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Example 2: Month starts on the Friday instead of Monday" vertex="1">
           <mxGeometry height="30" width="334.5" x="363.75" y="360" as="geometry" />
         </mxCell>
         <mxCell id="ym9y3t2d6uUkzi_aY74O-73" connectable="0" parent="ym9y3t2d6uUkzi_aY74O-1" style="group" value="" vertex="1">
