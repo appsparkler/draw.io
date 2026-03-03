@@ -1671,6 +1671,15 @@
         <mxCell id="AAUnxv7fpsxIArMlslCu-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dangling days" vertex="1">
           <mxGeometry height="30" width="80" x="345" y="720" as="geometry" />
         </mxCell>
+        <mxCell id="AAUnxv7fpsxIArMlslCu-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="710" as="sourcePoint" />
+            <mxPoint x="452.5" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAUnxv7fpsxIArMlslCu-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This week will spill into next month" vertex="1">
+          <mxGeometry height="30" width="100" x="470" y="710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
