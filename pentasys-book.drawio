@@ -1284,7 +1284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NxZVNIb924xVnAPrA7bz" name="Example 1 A">
-    <mxGraphModel dx="644" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="354" pageHeight="591" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3405,7 +3405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ned-of-jewels-Tuesday" id="7V9Gg1_5K5z4FwUF0jSF">
-    <mxGraphModel dx="751" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="im7BYO9Rh_n8kMp8vG9t-0" />
         <mxCell id="im7BYO9Rh_n8kMp8vG9t-1" parent="im7BYO9Rh_n8kMp8vG9t-0" />
@@ -3783,8 +3783,8 @@
         <mxCell id="_7A99stSURxybW-Wy4Jt-31" parent="im7BYO9Rh_n8kMp8vG9t-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontStyle=1" value="14" vertex="1">
           <mxGeometry height="25" width="25" x="540.5" y="868.25" as="geometry" />
         </mxCell>
-        <mxCell id="_7A99stSURxybW-Wy4Jt-32" parent="im7BYO9Rh_n8kMp8vG9t-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This could be any day - Monday, Wednesday, Sunday, etc." vertex="1">
-          <mxGeometry height="50" width="149.5" x="430.5" y="700" as="geometry" />
+        <mxCell id="_7A99stSURxybW-Wy4Jt-32" parent="im7BYO9Rh_n8kMp8vG9t-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The starting weekday is irrelevant to the structure." vertex="1">
+          <mxGeometry height="50" width="149.5" x="405" y="720" as="geometry" />
         </mxCell>
         <mxCell id="_7A99stSURxybW-Wy4Jt-33" edge="1" parent="im7BYO9Rh_n8kMp8vG9t-1" source="_7A99stSURxybW-Wy4Jt-32" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.327;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" target="_7A99stSURxybW-Wy4Jt-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
