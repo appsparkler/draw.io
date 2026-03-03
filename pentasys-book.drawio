@@ -1798,8 +1798,8 @@
         <mxCell id="AAUnxv7fpsxIArMlslCu-79" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=-180;" value="" vertex="1">
           <mxGeometry height="30" width="100" x="686.25" y="702" as="geometry" />
         </mxCell>
-        <mxCell id="AAUnxv7fpsxIArMlslCu-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dangling days" vertex="1">
-          <mxGeometry height="30" width="80" x="696.25" y="720" as="geometry" />
+        <mxCell id="AAUnxv7fpsxIArMlslCu-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4 dangling days" vertex="1">
+          <mxGeometry height="30" width="86.25" x="690" y="720" as="geometry" />
         </mxCell>
         <mxCell id="AAUnxv7fpsxIArMlslCu-81" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1816,8 +1816,8 @@
         <mxCell id="AAUnxv7fpsxIArMlslCu-84" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#999999;rotation=0;" value="" vertex="1">
           <mxGeometry height="30" width="149.75" x="710.25" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="AAUnxv7fpsxIArMlslCu-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dangling days" vertex="1">
-          <mxGeometry height="30" width="80" x="744" y="450" as="geometry" />
+        <mxCell id="AAUnxv7fpsxIArMlslCu-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6 dangling days" vertex="1">
+          <mxGeometry height="30" width="106" x="744" y="450" as="geometry" />
         </mxCell>
         <mxCell id="AAUnxv7fpsxIArMlslCu-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This week has spilled over from previous month" vertex="1">
           <mxGeometry height="30" width="100" x="611.25" y="460" as="geometry" />
@@ -1963,6 +1963,12 @@
         </mxCell>
         <mxCell id="AAUnxv7fpsxIArMlslCu-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This week will spill into next month" vertex="1">
           <mxGeometry height="30" width="100" x="734.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="AAUnxv7fpsxIArMlslCu-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Tuesday" vertex="1">
+          <mxGeometry height="10" width="45" x="611.25" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="AAUnxv7fpsxIArMlslCu-131" edge="1" parent="1" source="AAUnxv7fpsxIArMlslCu-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" target="AAUnxv7fpsxIArMlslCu-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
