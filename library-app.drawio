@@ -40,10 +40,26 @@
             <mxPoint x="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-10" connectable="0" parent="BOELHcUwPxa_-9GIGmQY-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="Request" vertex="1">
+          <mxGeometry relative="1" x="0.0027" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BOELHcUwPxa_-9GIGmQY-9" edge="1" parent="1" source="BOELHcUwPxa_-9GIGmQY-6" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="KMursgiD3-vA9717h_-p-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="250" y="130" as="sourcePoint" />
             <mxPoint x="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-11" connectable="0" parent="BOELHcUwPxa_-9GIGmQY-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="Response" vertex="1">
+          <mxGeometry relative="1" x="-0.0494" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-12" edge="1" parent="1" source="BOELHcUwPxa_-9GIGmQY-3" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BOELHcUwPxa_-9GIGmQY-6" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="150" y="80" as="sourcePoint" />
+            <mxPoint x="250" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
