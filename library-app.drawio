@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="162.5" x="488.75" y="-140" as="geometry" />
+        </mxCell>
         <mxCell id="BOELHcUwPxa_-9GIGmQY-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="120" width="162.5" x="198.75" y="-130" as="geometry" />
         </mxCell>
@@ -61,6 +64,17 @@
             <mxPoint x="150" y="80" as="sourcePoint" />
             <mxPoint x="250" y="-20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-13" parent="1" style="fillColor=#ffffff;strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="520" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-14" parent="BOELHcUwPxa_-9GIGmQY-13" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" value="Firebase" vertex="1">
+          <mxGeometry height="45" relative="1" width="32.4" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Auth and Firestore" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="-60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
