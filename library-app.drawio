@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1" pages="2">
   <diagram name="current setup" id="E_vMa5oiiBfkIGBtii7_">
-    <mxGraphModel dx="1205" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1652" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,12 +125,6 @@
         <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Auth and Firestore" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-21" edge="1" parent="1" source="mGjl8S3x_Cp3Zy_v7x7d-4" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="mGjl8S3x_Cp3Zy_v7x7d-10" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="-300" y="260" as="sourcePoint" />
-            <mxPoint x="-200" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-22" edge="1" parent="1" source="mGjl8S3x_Cp3Zy_v7x7d-7" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mGjl8S3x_Cp3Zy_v7x7d-10" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="-216" y="330" as="sourcePoint" />
@@ -143,8 +137,17 @@
             <mxPoint x="-26" y="114.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Cloud Storage" vertex="1">
+        <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Google Cloud Storage" vertex="1">
           <mxGeometry height="30" width="136.25" x="-520" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mGjl8S3x_Cp3Zy_v7x7d-21" edge="1" parent="1" source="mGjl8S3x_Cp3Zy_v7x7d-4" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=default;" target="mGjl8S3x_Cp3Zy_v7x7d-10" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-300" y="260" as="sourcePoint" />
+            <mxPoint x="-200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjshAHcPE_87r5q6DeaO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Google Cloud" vertex="1">
+          <mxGeometry height="30" width="90" x="-370" y="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
