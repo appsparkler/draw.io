@@ -76,6 +76,12 @@
         <mxCell id="BOELHcUwPxa_-9GIGmQY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Auth and Firestore" vertex="1">
           <mxGeometry height="30" width="60" x="540" y="-60" as="geometry" />
         </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-17" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="361.25" y="-71" as="sourcePoint" />
+            <mxPoint x="490" y="-71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
