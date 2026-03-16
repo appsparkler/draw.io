@@ -34,6 +34,18 @@
         <mxCell id="BOELHcUwPxa_-9GIGmQY-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="web-host (Netlify)" vertex="1">
           <mxGeometry height="30" width="60" x="250" y="-50" as="geometry" />
         </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-8" edge="1" parent="1" source="KMursgiD3-vA9717h_-p-1" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="BOELHcUwPxa_-9GIGmQY-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="50" as="sourcePoint" />
+            <mxPoint x="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOELHcUwPxa_-9GIGmQY-9" edge="1" parent="1" source="BOELHcUwPxa_-9GIGmQY-6" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="KMursgiD3-vA9717h_-p-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="130" as="sourcePoint" />
+            <mxPoint x="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
