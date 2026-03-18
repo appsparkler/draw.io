@@ -19,7 +19,7 @@
         <mxCell id="7ujJaLgyB3FPEBS25mQC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;ML&lt;br&gt;&lt;div&gt;Machine Learning, &lt;b&gt;learns by training on large datasets.&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="370" x="300" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="7ujJaLgyB3FPEBS25mQC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;dashed=1;dashPattern=8 8;spacing=12;" value="&lt;div class=&quot;note mb-1 flex gap-1 font-semibold&quot;&gt;Training data is key for AI to learn. The more relevant examples it receives,&amp;nbsp; the better it becomes at understanding patterns and making accurate&amp;nbsp; predictions&lt;/div&gt;" vertex="1">
+        <mxCell id="7ujJaLgyB3FPEBS25mQC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;dashed=1;dashPattern=8 8;spacing=12;fontStyle=3" value="&lt;div class=&quot;note mb-1 flex gap-1 font-semibold&quot;&gt;Training data is key for AI to learn. The more relevant examples it receives,&amp;nbsp; the better it becomes at understanding patterns and making accurate&amp;nbsp; predictions&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="300" x="590" y="90" as="geometry" />
         </mxCell>
       </root>
