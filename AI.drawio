@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
+  <diagram name="Page-1" id="a0K6ydJRpvlYdGSrwwLg">
+    <mxGraphModel dx="1127" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iuEBVIoo4pjyFAU5QTh0-3" edge="1" parent="1" source="iuEBVIoo4pjyFAU5QTh0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iuEBVIoo4pjyFAU5QTh0-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iuEBVIoo4pjyFAU5QTh0-5" edge="1" parent="1" source="iuEBVIoo4pjyFAU5QTh0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iuEBVIoo4pjyFAU5QTh0-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iuEBVIoo4pjyFAU5QTh0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI&lt;br&gt;Artificial Intelligence" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="iuEBVIoo4pjyFAU5QTh0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ML&lt;br&gt;Machine Learning" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="iuEBVIoo4pjyFAU5QTh0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;DL&lt;/div&gt;&lt;div&gt;Deep Learning&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
