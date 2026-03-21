@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cO20zzxih9S6jD5KWhz6-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" value="Pool" vertex="1">
-          <mxGeometry height="440" width="560" x="-480" y="-160" as="geometry" />
+          <mxGeometry height="340" width="600" x="-480" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="cO20zzxih9S6jD5KWhz6-2" parent="cO20zzxih9S6jD5KWhz6-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="User" vertex="1">
-          <mxGeometry height="200" width="540" x="20" as="geometry" />
+          <mxGeometry height="110" width="580" x="20" as="geometry" />
         </mxCell>
         <mxCell id="cO20zzxih9S6jD5KWhz6-7" edge="1" parent="cO20zzxih9S6jD5KWhz6-2" source="cO20zzxih9S6jD5KWhz6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cO20zzxih9S6jD5KWhz6-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -19,11 +19,17 @@
         <mxCell id="cO20zzxih9S6jD5KWhz6-6" parent="cO20zzxih9S6jD5KWhz6-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Books peanut butter by making payment" vertex="1">
           <mxGeometry height="40" width="120" x="220" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="cO20zzxih9S6jD5KWhz6-3" parent="cO20zzxih9S6jD5KWhz6-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="Lane 2" vertex="1">
-          <mxGeometry height="120" width="540" x="20" y="200" as="geometry" />
+        <mxCell id="cO20zzxih9S6jD5KWhz6-3" parent="cO20zzxih9S6jD5KWhz6-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="Order" vertex="1">
+          <mxGeometry height="110" width="580" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-1" parent="cO20zzxih9S6jD5KWhz6-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Order is received" vertex="1">
+          <mxGeometry height="40" width="120" x="220" y="40" as="geometry" />
         </mxCell>
         <mxCell id="cO20zzxih9S6jD5KWhz6-4" parent="cO20zzxih9S6jD5KWhz6-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="Lane 3" vertex="1">
-          <mxGeometry height="120" width="540" x="20" y="320" as="geometry" />
+          <mxGeometry height="120" width="580" x="20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-2" edge="1" parent="cO20zzxih9S6jD5KWhz6-1" source="cO20zzxih9S6jD5KWhz6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-1" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
