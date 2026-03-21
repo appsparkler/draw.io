@@ -31,6 +31,39 @@
         <mxCell id="Pn3ku-FDeqPurnagd4D6-2" edge="1" parent="cO20zzxih9S6jD5KWhz6-1" source="cO20zzxih9S6jD5KWhz6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-5" edge="1" parent="1" source="Pn3ku-FDeqPurnagd4D6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Source" vertex="1">
+          <mxGeometry height="80" width="80" x="-440" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-7" edge="1" parent="1" source="Pn3ku-FDeqPurnagd4D6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Roast 1" vertex="1">
+          <mxGeometry height="80" width="80" x="-280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-9" edge="1" parent="1" source="Pn3ku-FDeqPurnagd4D6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Peel" vertex="1">
+          <mxGeometry height="80" width="80" x="-120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-11" edge="1" parent="1" source="Pn3ku-FDeqPurnagd4D6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Roast 2" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-13" edge="1" parent="1" source="Pn3ku-FDeqPurnagd4D6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pn3ku-FDeqPurnagd4D6-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Blend" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn3ku-FDeqPurnagd4D6-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Package" vertex="1">
+          <mxGeometry height="80" width="80" x="-120" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
