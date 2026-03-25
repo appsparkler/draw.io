@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="5rSPnc7NynutDvSSx9Ug">
+    <mxGraphModel dx="1465" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-3" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create OAuth 2.0 Client" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-7" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;Load the accouts.google.com/gsi/client script&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-11" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-12" connectable="0" parent="R_Okqw9Nh9kdqXCgFRMi-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1992" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="has active session?" vertex="1">
+          <mxGeometry height="80" width="80" x="-100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-14" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Prompt user to sign in" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-16" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-17" connectable="0" parent="R_Okqw9Nh9kdqXCgFRMi-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2926" y="4" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="User signs in?" vertex="1">
+          <mxGeometry height="100" width="150" x="-135" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
