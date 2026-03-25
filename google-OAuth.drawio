@@ -63,7 +63,7 @@
           <mxGeometry height="60" width="120" x="550" y="690" as="geometry" />
         </mxCell>
         <mxCell id="KSgAXS5blQ_KRx90KT-D-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="set the user-id on the session" vertex="1">
-          <mxGeometry height="60" width="120" x="550" y="830" as="geometry" />
+          <mxGeometry height="90" width="190" x="515" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
