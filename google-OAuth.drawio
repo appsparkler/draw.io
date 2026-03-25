@@ -38,14 +38,14 @@
         </mxCell>
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-17" connectable="0" parent="R_Okqw9Nh9kdqXCgFRMi-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
           <mxGeometry relative="1" x="-0.2926" y="4" as="geometry">
-            <mxPoint x="-4" as="offset" />
+            <mxPoint x="-4" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="User signs in?" vertex="1">
           <mxGeometry height="100" width="150" x="-135" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-120" y="830" as="geometry" />
+        <mxCell id="R_Okqw9Nh9kdqXCgFRMi-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Google returns a credential" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
