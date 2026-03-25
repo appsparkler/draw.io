@@ -44,8 +44,26 @@
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="User signs in?" vertex="1">
           <mxGeometry height="100" width="150" x="-135" y="670" as="geometry" />
         </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-2" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Google returns a id-token" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-4" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Verify that id token with the &lt;b&gt;google-auth-library&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-6" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Get the user object and upsert it to database" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="set the user-id on the session" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
