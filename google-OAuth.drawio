@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create OAuth 2.0 Client" vertex="1">
-          <mxGeometry height="60" width="120" x="-120" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="-120" y="190" as="geometry" />
         </mxCell>
         <mxCell id="R_Okqw9Nh9kdqXCgFRMi-7" edge="1" parent="1" source="R_Okqw9Nh9kdqXCgFRMi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R_Okqw9Nh9kdqXCgFRMi-6" value="">
           <mxGeometry relative="1" as="geometry" />
