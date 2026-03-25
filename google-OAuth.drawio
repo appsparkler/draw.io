@@ -62,8 +62,66 @@
         <mxCell id="KSgAXS5blQ_KRx90KT-D-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Get the user object and upsert it to database" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="690" as="geometry" />
         </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-9" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KSgAXS5blQ_KRx90KT-D-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="set the user-id on the session" vertex="1">
           <mxGeometry height="90" width="190" x="515" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-11" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="commit the session (setCookie) and redirect to the target url" vertex="1">
+          <mxGeometry height="85" width="160" x="240" y="832.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-13" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="get session in target-url loader." vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-15" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="get user id from session" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-17" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="get user object from database with user-id" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-21" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="return user object to component" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1265" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-23" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-24" connectable="0" parent="KSgAXS5blQ_KRx90KT-D-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0809" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-26" edge="1" parent="1" source="KSgAXS5blQ_KRx90KT-D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSgAXS5blQ_KRx90KT-D-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-27" connectable="0" parent="KSgAXS5blQ_KRx90KT-D-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2467" y="3" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="user object is available?" vertex="1">
+          <mxGeometry height="125" width="160" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Prompt user to sign in" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KSgAXS5blQ_KRx90KT-D-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;gradientColor=none;labelBackgroundColor=default;" value="Allow sign-in features" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="1432.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
