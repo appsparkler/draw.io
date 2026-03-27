@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6" pages="2">
   <diagram name="current setup" id="E_vMa5oiiBfkIGBtii7_">
-    <mxGraphModel dx="913" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,15 @@
         </mxCell>
         <mxCell id="O5N4BC0iM-rJOHTYTnh4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Google Places API" vertex="1">
           <mxGeometry height="40" width="80" x="630" y="-200" as="geometry" />
+        </mxCell>
+        <mxCell id="O5N4BC0iM-rJOHTYTnh4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Brevo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="690" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O5N4BC0iM-rJOHTYTnh4-6" edge="1" parent="1" source="KMursgiD3-vA9717h_-p-1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.985;exitY=0.809;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O5N4BC0iM-rJOHTYTnh4-5" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="500" y="247" as="sourcePoint" />
+            <mxPoint x="735" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
