@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="K3uxj2zXtTJAAZsMOvJO">
+    <mxGraphModel dx="860" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-3" edge="1" parent="1" source="dUZ2CDPZGQEwRkgOsaFk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dUZ2CDPZGQEwRkgOsaFk-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user click on bookmark CTA" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-5" edge="1" parent="1" source="dUZ2CDPZGQEwRkgOsaFk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dUZ2CDPZGQEwRkgOsaFk-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-6" connectable="0" parent="dUZ2CDPZGQEwRkgOsaFk-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.0839" y="-3" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-8" edge="1" parent="1" source="dUZ2CDPZGQEwRkgOsaFk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dUZ2CDPZGQEwRkgOsaFk-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-9" connectable="0" parent="dUZ2CDPZGQEwRkgOsaFk-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.1537" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;" value="does user have an active session?" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;" value="Show &quot;Sign-in required&quot; modal and Google Signin flow" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUZ2CDPZGQEwRkgOsaFk-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;" value="Show &quot;Bookmarking flow&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
