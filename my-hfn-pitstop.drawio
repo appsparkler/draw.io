@@ -50,9 +50,6 @@
         <mxCell id="JpnKfrUQ8ZXkb0jsfBYh-5" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" value="Hindi" vertex="1">
           <mxGeometry height="10" width="10" x="160" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="JpnKfrUQ8ZXkb0jsfBYh-6" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;strokeColor=#D0D0D0;spacing=5;fontColor=#6C767D;checkedFill=#0085FC;checkedStroke=#ffffff;" value="(disabled)" vertex="1">
-          <mxGeometry height="10" width="10" x="320" y="710" as="geometry" />
-        </mxCell>
         <mxCell id="JpnKfrUQ8ZXkb0jsfBYh-7" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_border_48px-939.svg" value="" vertex="1">
           <mxGeometry height="30" width="30" x="400" y="565" as="geometry" />
         </mxCell>
