@@ -159,7 +159,7 @@
           <mxGeometry height="10" width="170" y="140" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PROPS&lt;ul&gt;&lt;li&gt;List&amp;nbsp;of labels (labels)&lt;/li&gt;&lt;li&gt;&lt;div&gt;filter text (filterText)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;onSelect method&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="140" width="170" x="280" y="1240" as="geometry" />
+          <mxGeometry height="100" width="170" x="280" y="1253" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
