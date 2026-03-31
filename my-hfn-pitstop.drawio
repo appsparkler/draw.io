@@ -63,7 +63,7 @@
           <mxGeometry height="15" width="60" x="100" y="742.5" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="320" x="80" y="850" as="geometry" />
+          <mxGeometry height="150" width="320" x="80" y="850" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Labels" vertex="1">
           <mxGeometry height="15" width="60" x="100" y="880" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry height="320" width="280" x="440" y="680" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-19" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add a new label" vertex="1">
-          <mxGeometry height="30" width="130" x="230" y="895" as="geometry" />
+          <mxGeometry height="30" width="130" x="100" y="925" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Vg-aexUCC_zvrMbpB6ki-18">
           <mxGeometry relative="1" as="geometry">
@@ -112,12 +112,6 @@
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-28" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add" vertex="1">
           <mxGeometry height="30" width="50" x="650" y="722.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Vg-aexUCC_zvrMbpB6ki-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="240" x="80" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="Vg-aexUCC_zvrMbpB6ki-41" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=16;whiteSpace=wrap;align=left;spacingLeft=4;" value="#" vertex="1">
-          <mxGeometry height="40" width="133.5" x="96.5" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-44" parent="1" style="swimlane;container=1;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="150" width="170" x="80" y="1253" as="geometry" />
