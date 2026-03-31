@@ -63,7 +63,7 @@
           <mxGeometry height="15" width="60" x="100" y="742.5" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="230" x="80" y="850" as="geometry" />
+          <mxGeometry height="90" width="320" x="80" y="850" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Labels" vertex="1">
           <mxGeometry height="15" width="60" x="100" y="880" as="geometry" />
@@ -74,14 +74,14 @@
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" value="peace" vertex="1">
           <mxGeometry height="20" width="60" x="160" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="Vg-aexUCC_zvrMbpB6ki-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ tag" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="895" as="geometry" />
-        </mxCell>
-        <mxCell id="Vg-aexUCC_zvrMbpB6ki-17" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add a new tag" vertex="1">
-          <mxGeometry height="30" width="120" x="100" y="760" as="geometry" />
+        <mxCell id="Vg-aexUCC_zvrMbpB6ki-17" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add a new label" vertex="1">
+          <mxGeometry height="30" width="130" x="100" y="760" as="geometry" />
         </mxCell>
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="320" width="280" x="400" y="680" as="geometry" />
+          <mxGeometry height="320" width="280" x="450" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg-aexUCC_zvrMbpB6ki-19" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add a new label" vertex="1">
+          <mxGeometry height="30" width="130" x="230" y="895" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
