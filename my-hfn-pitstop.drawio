@@ -83,8 +83,9 @@
         <mxCell id="Vg-aexUCC_zvrMbpB6ki-19" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add a new label" vertex="1">
           <mxGeometry height="30" width="130" x="230" y="895" as="geometry" />
         </mxCell>
-        <mxCell id="Vg-aexUCC_zvrMbpB6ki-20" edge="1" parent="1" source="Vg-aexUCC_zvrMbpB6ki-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Vg-aexUCC_zvrMbpB6ki-18">
+        <mxCell id="Vg-aexUCC_zvrMbpB6ki-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="Vg-aexUCC_zvrMbpB6ki-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="750" as="sourcePoint" />
             <mxPoint x="400" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
