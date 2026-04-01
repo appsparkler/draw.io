@@ -284,6 +284,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Os0ugEAAyK2obQXHgvvV-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="210" x="500" y="380" as="geometry" />
+        </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="330" x="-130" y="330" as="geometry" />
         </mxCell>
@@ -334,10 +337,10 @@
           <mxGeometry height="40" width="151.67" x="360" as="geometry" />
         </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-20" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="570" y="320" as="geometry" />
+          <mxGeometry height="70" width="70" x="620" y="400" as="geometry" />
         </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-23" parent="1" style="swimlane;container=1;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;marginTop=10;marginBottom=10;" value="" vertex="1">
-          <mxGeometry height="50" width="170" x="470" y="400" as="geometry" />
+          <mxGeometry height="50" width="170" x="520" y="480" as="geometry" />
         </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-24" parent="Os0ugEAAyK2obQXHgvvV-23" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" value="Logout" vertex="1">
           <mxGeometry height="30" width="170" y="10" as="geometry" />
