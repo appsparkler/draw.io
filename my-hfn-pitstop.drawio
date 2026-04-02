@@ -409,7 +409,7 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-22" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user clicks logout" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="user clicks logout" vertex="1">
           <mxGeometry height="60" width="120" x="-570" y="120" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
@@ -418,16 +418,16 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-25" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="clear the session" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="clear the session" vertex="1">
           <mxGeometry height="60" width="120" x="-350" y="140" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-23" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="mzuZU9ZvjvS8EZVtP4Tp-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="call the logout API" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="call the logout API" vertex="1">
           <mxGeometry height="60" width="120" x="-570" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="redirect the user to /" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="redirect the user to /" vertex="1">
           <mxGeometry height="60" width="120" x="-350" y="270" as="geometry" />
         </mxCell>
       </root>
