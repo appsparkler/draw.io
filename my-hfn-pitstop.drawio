@@ -448,7 +448,7 @@
           <mxGeometry height="80" width="160" x="-560" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="P5BSqjBt9mkcuMqAsZ6M-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save the data to the client id" vertex="1">
-          <mxGeometry height="60" width="120" x="-300" y="-510" as="geometry" />
+          <mxGeometry height="60" width="120" x="-240" y="-510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
