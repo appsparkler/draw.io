@@ -383,6 +383,9 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="re-direct to the page." vertex="1">
           <mxGeometry height="60" width="120" x="105" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="requires a firestore db" vertex="1">
+          <mxGeometry height="30" width="70" x="470" y="375" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
