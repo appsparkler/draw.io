@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="3">
   <diagram name="Bookmark feature" id="K3uxj2zXtTJAAZsMOvJO">
     <mxGraphModel dx="3260" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -347,6 +347,35 @@
         </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-24" parent="Os0ugEAAyK2obQXHgvvV-23" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" value="Logout" vertex="1">
           <mxGeometry height="30" width="170" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h2DljDZIOh-OS27cnmLs" name="auth-server-side-flow">
+    <mxGraphModel dx="861" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-3" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="after signin, callback is triggered which has the credential as a parameter" vertex="1">
+          <mxGeometry height="80" width="170" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-5" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="We get the user object from the credential." vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-7" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="create a session" vertex="1">
+          <mxGeometry height="60" width="120" x="555" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="upsert user object to &lt;b&gt;users&lt;/b&gt; collection.&amp;nbsp; Document id is the user-pub-id" vertex="1">
+          <mxGeometry height="60" width="120" x="755" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
