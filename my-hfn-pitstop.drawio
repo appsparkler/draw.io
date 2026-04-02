@@ -356,6 +356,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="520" width="560" x="40" y="80" as="geometry" />
+        </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-3" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -393,6 +396,9 @@
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="store the image in Cloud storage" vertex="1">
           <mxGeometry height="60" width="120" x="355" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Sign In Flow" vertex="1">
+          <mxGeometry height="30" width="110" x="280" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
