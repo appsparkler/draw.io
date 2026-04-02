@@ -421,7 +421,7 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="clear the session" vertex="1">
           <mxGeometry height="60" width="120" x="-350" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-23" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mzuZU9ZvjvS8EZVtP4Tp-20">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-23" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="mzuZU9ZvjvS8EZVtP4Tp-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="call the logout API" vertex="1">
