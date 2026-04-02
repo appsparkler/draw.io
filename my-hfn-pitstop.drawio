@@ -280,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UOwj9TJ071q-rw_ZgN8T" name="login feature">
-    <mxGraphModel dx="1306" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,6 +347,9 @@
         </mxCell>
         <mxCell id="Os0ugEAAyK2obQXHgvvV-24" parent="Os0ugEAAyK2obQXHgvvV-23" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" value="Logout" vertex="1">
           <mxGeometry height="30" width="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvOuT3ZKg6cUnREGNVXm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -434,10 +437,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZQ9SAZgemOwDifmh68I" name="Bookmarking-Flow">
-    <mxGraphModel dx="861" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user creates a bookmark" vertex="1">
+          <mxGeometry height="80" width="160" x="-560" y="-520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
