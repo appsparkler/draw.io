@@ -379,7 +379,7 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-9" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="upsert user object to &lt;b&gt;users&lt;/b&gt; collection.&amp;nbsp; Document id is the user-pub-id" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="upsert user object to &lt;b&gt;users&lt;/b&gt; collection.&amp;nbsp; Document id is the user-pub-id" vertex="1">
           <mxGeometry height="60" width="120" x="355" y="460" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="re-direct to the page." vertex="1">
