@@ -441,8 +441,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-4" edge="1" parent="1" source="P5BSqjBt9mkcuMqAsZ6M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P5BSqjBt9mkcuMqAsZ6M-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P5BSqjBt9mkcuMqAsZ6M-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user creates a bookmark" vertex="1">
           <mxGeometry height="80" width="160" x="-560" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save the data to the client id" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="-510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
