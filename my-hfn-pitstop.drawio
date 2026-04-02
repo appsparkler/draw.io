@@ -386,7 +386,7 @@
           <mxGeometry height="60" width="120" x="105" y="360" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="requires a firestore db" vertex="1">
-          <mxGeometry height="30" width="70" x="460" y="550" as="geometry" />
+          <mxGeometry height="30" width="70" x="470" y="475" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-12" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-6" value="">
           <mxGeometry relative="1" as="geometry" />
