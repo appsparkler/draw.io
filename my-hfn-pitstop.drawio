@@ -450,6 +450,43 @@
         <mxCell id="P5BSqjBt9mkcuMqAsZ6M-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save the data to the client id" vertex="1">
           <mxGeometry height="60" width="120" x="-240" y="-510" as="geometry" />
         </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-9" edge="1" parent="1" source="P5BSqjBt9mkcuMqAsZ6M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P5BSqjBt9mkcuMqAsZ6M-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user clicks &quot;Add New Label&quot;" vertex="1">
+          <mxGeometry height="80" width="160" x="-560" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-11" edge="1" parent="1" source="P5BSqjBt9mkcuMqAsZ6M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P5BSqjBt9mkcuMqAsZ6M-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-12" connectable="0" parent="P5BSqjBt9mkcuMqAsZ6M-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.485" y="-3" as="geometry">
+            <mxPoint x="5" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-14" edge="1" parent="1" source="P5BSqjBt9mkcuMqAsZ6M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P5BSqjBt9mkcuMqAsZ6M-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-15" connectable="0" parent="P5BSqjBt9mkcuMqAsZ6M-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2822" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="Does label exist?" vertex="1">
+          <mxGeometry height="80" width="80" x="-280" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="throw error" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-17" edge="1" parent="1" source="P5BSqjBt9mkcuMqAsZ6M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P5BSqjBt9mkcuMqAsZ6M-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Create label" vertex="1">
+          <mxGeometry height="40" width="80" x="-280" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="return label list" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="-80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
