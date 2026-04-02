@@ -359,19 +359,19 @@
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-3" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="after signin, callback is triggered which has the credential as a parameter" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="after signin, callback is triggered which has the credential as a parameter" vertex="1">
           <mxGeometry height="80" width="170" x="80" y="120" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-5" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="We get the user object from the credential." vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="We get the user object from the credential." vertex="1">
           <mxGeometry height="60" width="120" x="355" y="130" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-7" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="create a session" vertex="1">
+        <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="create a session" vertex="1">
           <mxGeometry height="60" width="120" x="355" y="240" as="geometry" />
         </mxCell>
         <mxCell id="mzuZU9ZvjvS8EZVtP4Tp-9" edge="1" parent="1" source="mzuZU9ZvjvS8EZVtP4Tp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mzuZU9ZvjvS8EZVtP4Tp-8" value="">
