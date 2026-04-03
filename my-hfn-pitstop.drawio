@@ -273,7 +273,7 @@
         </mxCell>
         <mxCell id="thh67ZO0piPmVod50QqS-12" connectable="0" parent="thh67ZO0piPmVod50QqS-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
           <mxGeometry relative="1" x="-0.1986" y="-3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="thh67ZO0piPmVod50QqS-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="isSignedIn?" vertex="1">
