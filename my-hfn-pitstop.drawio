@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xZQ9SAZgemOwDifmh68I" name="Bookmarking-Flow">
-    <mxGraphModel dx="2106" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,6 +498,9 @@
         </mxCell>
         <mxCell id="P5BSqjBt9mkcuMqAsZ6M-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="fetch existing labels&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-530" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="P5BSqjBt9mkcuMqAsZ6M-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="adding a new label" vertex="1">
+          <mxGeometry height="30" width="150" x="-1000" y="-375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
