@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="4">
   <diagram name="Bookmark feature" id="K3uxj2zXtTJAAZsMOvJO">
-    <mxGraphModel dx="1549" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1549" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,8 +257,55 @@
         <mxCell id="thh67ZO0piPmVod50QqS-3" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.arc;startAngle=0.25;endAngle=1;strokeWidth=4;strokeColor=#6C767D;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="-600.5" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="thh67ZO0piPmVod50QqS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;getWFTBWBookmarkState({&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;date: string,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;language: &quot;Hindi&quot; | &quot;English&quot;&lt;br&gt;}) {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;state: &quot;loading&quot; | &quot;filled&quot; | &quot;empty&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;isSignedIn: boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;hasBookmark:&amp;nbsp; boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+        <mxCell id="thh67ZO0piPmVod50QqS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;getWFTBWBookmarkState({&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;date: string,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;language: &quot;Hindi&quot; | &quot;English&quot;&lt;br&gt;}) {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;state: &quot;loading&quot; | &quot;filled&quot; | &quot;empty&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;isSignedIn: boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;hasBookmark:&amp;nbsp; boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="360" x="-400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-9" edge="1" parent="1" source="thh67ZO0piPmVod50QqS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="thh67ZO0piPmVod50QqS-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-13" connectable="0" parent="thh67ZO0piPmVod50QqS-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2623" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-11" edge="1" parent="1" source="thh67ZO0piPmVod50QqS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="thh67ZO0piPmVod50QqS-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-12" connectable="0" parent="thh67ZO0piPmVod50QqS-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1986" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="isSignedIn?" vertex="1">
+          <mxGeometry height="80" width="80" x="-560" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-18" edge="1" parent="1" source="thh67ZO0piPmVod50QqS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="thh67ZO0piPmVod50QqS-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-19" connectable="0" parent="thh67ZO0piPmVod50QqS-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2957" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-21" edge="1" parent="1" source="thh67ZO0piPmVod50QqS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="thh67ZO0piPmVod50QqS-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-22" connectable="0" parent="thh67ZO0piPmVod50QqS-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="0.1551" y="-3" as="geometry">
+            <mxPoint x="-6" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="state === &quot;loading&quot;" vertex="1">
+          <mxGeometry height="80" width="80" x="-560" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-10" parent="1" style="whiteSpace=wrap;html=1;" value="Show G Signin Bookmark" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-17" parent="1" style="whiteSpace=wrap;html=1;" value="Show SpinnerBookmark Button" vertex="1">
+          <mxGeometry height="60" width="120" x="-580" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="thh67ZO0piPmVod50QqS-20" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="z6bcM04By5YTDC8IDdeT-54" parent="0" value="circles" visible="0" />
         <mxCell id="z6bcM04By5YTDC8IDdeT-55" parent="z6bcM04By5YTDC8IDdeT-54" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;textShadow=1;labelBorderColor=#0000FF;labelBackgroundColor=#0000FF;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="" vertex="1">
