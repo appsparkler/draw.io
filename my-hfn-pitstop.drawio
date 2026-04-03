@@ -325,7 +325,7 @@
         <mxCell id="thh67ZO0piPmVod50QqS-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="hasBookmark?" vertex="1">
           <mxGeometry height="80" width="80" x="-370" y="-210" as="geometry" />
         </mxCell>
-        <mxCell id="thh67ZO0piPmVod50QqS-24" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="Show filled bookmark" vertex="1">
+        <mxCell id="thh67ZO0piPmVod50QqS-24" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="Show filled bookmark&lt;br&gt;(show ViewBookmarkButton)" vertex="1">
           <mxGeometry height="60" width="150" x="-190" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="thh67ZO0piPmVod50QqS-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="spinner" vertex="1">
@@ -337,8 +337,8 @@
         <mxCell id="thh67ZO0piPmVod50QqS-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="filled" vertex="1">
           <mxGeometry height="30" width="60" x="-495" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="thh67ZO0piPmVod50QqS-31" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="Show empty bookmark" vertex="1">
-          <mxGeometry height="60" width="120" x="-390" y="-40" as="geometry" />
+        <mxCell id="thh67ZO0piPmVod50QqS-31" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="Show empty bookmark&lt;br&gt;(show CreateBookmarkButton)" vertex="1">
+          <mxGeometry height="60" width="170" x="-415" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="z6bcM04By5YTDC8IDdeT-54" parent="0" value="circles" visible="0" />
         <mxCell id="z6bcM04By5YTDC8IDdeT-55" parent="z6bcM04By5YTDC8IDdeT-54" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;textShadow=1;labelBorderColor=#0000FF;labelBackgroundColor=#0000FF;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="" vertex="1">
