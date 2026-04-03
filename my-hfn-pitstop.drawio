@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="4">
   <diagram name="Bookmark feature" id="K3uxj2zXtTJAAZsMOvJO">
-    <mxGraphModel dx="1889" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,8 +331,8 @@
         <mxCell id="thh67ZO0piPmVod50QqS-31" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="Show empty bookmark&lt;br&gt;(show CreateBookmarkButton)" vertex="1">
           <mxGeometry height="60" width="170" x="-415" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="thh67ZO0piPmVod50QqS-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;- Create a BookmarkButton&lt;/div&gt;&lt;div&gt;&lt;br&gt;- Props:&lt;/div&gt;&lt;div&gt;- function getBookmarkState: ({&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;date: string, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;language: &quot;English&quot; | &quot;Hindi&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}) =&amp;gt; Promise&amp;lt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;hasBookmark&lt;/span&gt;,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;isSignedIn&lt;br&gt;}&amp;gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="240" width="270" x="-1200" y="110" as="geometry" />
+        <mxCell id="thh67ZO0piPmVod50QqS-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingTop=4;spacing=24;" value="&lt;div&gt;# BookmarkButton Component&lt;br&gt;- Create a BookmarkButton component&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Reference Files&lt;/div&gt;&lt;div&gt;- si-component.md&lt;/div&gt;&lt;div&gt;- // path to create the component at&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Props&lt;/div&gt;&lt;div&gt;```ts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Use only the styles from&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;- Props:&lt;/div&gt;&lt;div&gt;- function getBookmarkState: ({&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;date: string, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;language: &quot;English&quot; | &quot;Hindi&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}) =&amp;gt; Promise&amp;lt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;hasBookmark&lt;/span&gt;,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;isSignedIn&lt;br&gt;}&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="390" width="520" x="-1320" y="110" as="geometry" />
         </mxCell>
         <mxCell id="thh67ZO0piPmVod50QqS-39" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="70" width="60" x="-780" y="120" as="geometry" />
