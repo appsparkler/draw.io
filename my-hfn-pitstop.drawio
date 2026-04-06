@@ -655,6 +655,9 @@
         <mxCell id="j5B9NYO59L7RkcTgPj0m-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Notes" vertex="1">
           <mxGeometry height="25" width="60" x="-15" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-26" edge="1" parent="1" source="j5B9NYO59L7RkcTgPj0m-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j5B9NYO59L7RkcTgPj0m-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j5B9NYO59L7RkcTgPj0m-11" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Add Bookmark" vertex="1">
           <mxGeometry height="40" width="120" x="170" y="610" as="geometry" />
         </mxCell>
@@ -665,7 +668,7 @@
           <mxGeometry height="60" width="120" x="370" y="190" as="geometry" />
         </mxCell>
         <mxCell id="j5B9NYO59L7RkcTgPj0m-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="use the OBTLabelsFieldComponent" vertex="1">
-          <mxGeometry height="60" width="170" x="350" y="420" as="geometry" />
+          <mxGeometry height="60" width="170" x="360" y="420" as="geometry" />
         </mxCell>
         <mxCell id="j5B9NYO59L7RkcTgPj0m-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is a Daisy UI dialog" vertex="1">
           <mxGeometry height="60" width="120" x="45" y="10" as="geometry" />
@@ -678,6 +681,9 @@
         </mxCell>
         <mxCell id="j5B9NYO59L7RkcTgPj0m-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the dialog title" vertex="1">
           <mxGeometry height="60" width="120" x="375" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This will call the addOBTBookmark asynchronous operation.&amp;nbsp; During the asynchronous operation, all interactive elements should be disabled." vertex="1">
+          <mxGeometry height="85" width="300" x="360" y="587.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
