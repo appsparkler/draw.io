@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="4009" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="4235" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -996,8 +996,8 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-141" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_48px-940.svg" value="" vertex="1">
           <mxGeometry height="48" width="48" x="-1094" y="3286" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Clicking this IconButton opens the ViewOBTBookmarkDialog component" vertex="1">
-          <mxGeometry height="60" width="190" x="-1350" y="3280" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="This is DaisyUI icon button with filled bookmark icon.&lt;br&gt;&lt;br&gt;Clicking this IconButton opens the ViewOBTBookmarkDialog component" vertex="1">
+          <mxGeometry height="100" width="250" x="-1410" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;Props&lt;/b&gt;&lt;br&gt;- bookmark: IOBTBookmark&lt;br&gt;- editOBTBookmark: (updatedBookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- deleteOBTBookmark: (bookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;;" vertex="1">
           <mxGeometry height="120" width="440" x="-1020" y="3200" as="geometry" />
