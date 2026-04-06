@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT Bookmarks">
-    <mxGraphModel dx="1725" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,8 +682,14 @@
         <mxCell id="j5B9NYO59L7RkcTgPj0m-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the dialog title" vertex="1">
           <mxGeometry height="60" width="120" x="375" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="j5B9NYO59L7RkcTgPj0m-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This will call the addOBTBookmark asynchronous operation.&amp;nbsp; During the asynchronous operation, all interactive elements should be disabled." vertex="1">
-          <mxGeometry height="85" width="300" x="360" y="587.5" as="geometry" />
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This will call the addOBTBookmark asynchronous operation.&amp;nbsp; During the asynchronous operation, all interactive elements should be disabled.&lt;br&gt;&lt;br&gt;Clicking this button must collate all the data for bookmark: quote, title, labels, notes and updatedAt add pass it to the addOBTBookmark method." vertex="1">
+          <mxGeometry height="155" width="290" x="390" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the cancel button, which triggers the onCancel prop." vertex="1">
+          <mxGeometry height="70" width="150" x="60" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-28" edge="1" parent="1" source="j5B9NYO59L7RkcTgPj0m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.437;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="j5B9NYO59L7RkcTgPj0m-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
