@@ -957,10 +957,10 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This button calls the onClose method from props" vertex="1">
           <mxGeometry height="60" width="140" x="590" y="3250" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This button opens the EditOBTBookmark dialog component.&lt;br&gt;&lt;br&gt;When onCancel OR editOBTBookmark asynchronous operation is completed, it returns to this dialog." vertex="1">
-          <mxGeometry height="120" width="250" x="320" y="3250" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This button opens the EditOBTBookmark dialog component.&lt;br&gt;&lt;br&gt;When onCancel OR editOBTBookmark asynchronous operation is completed, it returns to this dialog.&lt;br&gt;&lt;br&gt;When the bookmark is completed editing, it should show the updated bookmark details on &quot;View Bookmark Dialog&quot;" vertex="1">
+          <mxGeometry height="190" width="250" x="320" y="3250" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-128" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=-0.068;entryDx=0;entryDy=0;entryPerimeter=0;" target="T5jptmL0BeWcxcoPsU5d-127">
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-128" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.657;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="T5jptmL0BeWcxcoPsU5d-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This opens the native Javascript&amp;nbsp;&lt;b&gt;confirm&lt;/b&gt;&amp;nbsp;box to get user confirmation before calling the&amp;nbsp;&lt;b&gt;deleteOBTBookmark&amp;nbsp;&lt;/b&gt;async operation.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;When the async operations is in progress, all interactive elements are disabled." vertex="1">
@@ -969,7 +969,7 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-131" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="Delete" vertex="1">
           <mxGeometry height="40" width="50" x="470" y="3115" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Props&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Props&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;bookmark:&amp;nbsp;" vertex="1">
           <mxGeometry height="200" width="250" x="760" y="2800" as="geometry" />
         </mxCell>
       </root>
