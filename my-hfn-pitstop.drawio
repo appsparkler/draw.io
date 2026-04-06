@@ -608,6 +608,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="540" width="970" x="-2950" y="1500" as="geometry" />
+        </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="540" width="970" x="-1990" y="-195" as="geometry" />
         </mxCell>
@@ -750,6 +753,9 @@
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="Create Bookmark dialog" vertex="1">
           <mxGeometry height="50" width="290" x="-570" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=24;" value="OBT Card" vertex="1">
+          <mxGeometry height="50" width="210" x="-2220" y="1950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
