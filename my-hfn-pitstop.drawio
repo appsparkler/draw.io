@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="4640" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="5000" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -971,6 +971,9 @@
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Props&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;bookmark: IOBTBookmark&lt;/div&gt;&lt;div&gt;editOBTBookmark: () =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;br&gt;addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;/div&gt;fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;;&lt;div&gt;&lt;br&gt;deleteOBTBookmark: (bookmark:IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="400" x="760" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Props&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;bookmark: IOBTBookmark&lt;/div&gt;&lt;div&gt;editOBTBookmark: () =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;br&gt;addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;/div&gt;fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;;&lt;div&gt;&lt;br&gt;deleteOBTBookmark: (bookmark:IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="400" x="760" y="3000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
