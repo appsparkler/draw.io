@@ -1002,7 +1002,7 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;Props&lt;/b&gt;&lt;br&gt;- bookmark: IOBTBookmark&lt;br&gt;- editOBTBookmark: (updatedBookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- deleteOBTBookmark: (bookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;- fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;;" vertex="1">
           <mxGeometry height="120" width="440" x="-1020" y="3200" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;b&gt;Important Information&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- reference the _si-components.md for important information.&lt;/div&gt;" vertex="1">
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;&lt;b&gt;Important Information&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- reference the _si-components.md for important information.&lt;/div&gt;- use OBTBookmarks/types.ts for types and interfaces" vertex="1">
           <mxGeometry height="90" width="350" x="-1020" y="3350" as="geometry" />
         </mxCell>
       </root>
