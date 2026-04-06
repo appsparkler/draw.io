@@ -967,7 +967,10 @@
           <mxGeometry height="120" width="250" x="30" y="3250" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-131" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="Delete" vertex="1">
-          <mxGeometry height="40" width="60" x="460" y="3115" as="geometry" />
+          <mxGeometry height="40" width="50" x="470" y="3115" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Props&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="250" x="760" y="2800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
