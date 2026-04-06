@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT Bookmarks">
-    <mxGraphModel dx="2186" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2586" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -701,7 +701,19 @@
           <mxGeometry height="55" width="55" x="-1520" y="710" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_48px-940.svg" value="" vertex="1">
-          <mxGeometry height="46.5" width="46.5" x="-1515.75" y="714.25" as="geometry" />
+          <mxGeometry height="46.5" width="46.5" x="-1630" y="453.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-5" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T5jptmL0BeWcxcoPsU5d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_border_48px-939.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-1516.5" y="713.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="Opens @CreateOBTBookmarkDialog" vertex="1">
+          <mxGeometry height="90" width="190" x="-1420" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="An icon button to open the @CreateOBTBookmarkDialog" vertex="1">
+          <mxGeometry height="40" width="180" x="-1630" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
