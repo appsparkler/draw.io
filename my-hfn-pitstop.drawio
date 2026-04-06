@@ -805,6 +805,9 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=18;" value="This quote is very close to my heart because when I read it I felt very serene and full of love." vertex="1">
           <mxGeometry height="80" width="300" x="380" y="3015" as="geometry" />
         </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=18;" value="&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;Notes have not been added for this bookmark.&amp;nbsp; Click &quot;Edit Bookmark&quot; below to add notes.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="300" x="30" y="3025" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
