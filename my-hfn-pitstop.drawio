@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="4199" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="4049" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,8 +805,14 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-47" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=default;strokeWidth=1;fillColor=none;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Edit&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="70" x="530" y="3115" as="geometry" />
         </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-118" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="T5jptmL0BeWcxcoPsU5d-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="My Favourite Quote" vertex="1">
           <mxGeometry height="30" width="250" x="380" y="2940" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-120" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="T5jptmL0BeWcxcoPsU5d-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-58" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="love" vertex="1">
           <mxGeometry height="20" width="40" x="380" y="2980" as="geometry" />
@@ -814,11 +820,14 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-59" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="harmony" vertex="1">
           <mxGeometry height="20" width="70" x="430" y="2980" as="geometry" />
         </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-124" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="T5jptmL0BeWcxcoPsU5d-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=18;" value="This quote is very close to my heart because when I read it, my awareness increases manifold." vertex="1">
           <mxGeometry height="80" width="300" x="380" y="3015" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-61" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=18;fillColor=default;" value="&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;Notes have not been added for this bookmark.&amp;nbsp; Click &quot;Edit Bookmark&quot; below to add notes.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="75" width="300" x="10" y="3025" as="geometry" />
+          <mxGeometry height="75" width="300" x="12.52" y="3095" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="560" width="360" x="1970" y="2670" as="geometry" />
@@ -918,6 +927,21 @@
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This is the Quote component" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This is the Bookmark title" vertex="1">
+          <mxGeometry height="45" width="120" x="170" y="2885" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="These are the Bookmark labels" vertex="1">
+          <mxGeometry height="45" width="120" x="165" y="2955" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="These are the notes for the bookmark&amp;nbsp;" vertex="1">
+          <mxGeometry height="45" width="120" x="170" y="3025" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-123" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T5jptmL0BeWcxcoPsU5d-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="This is the UI when there are no notes for the bookmark" vertex="1">
+          <mxGeometry height="45" width="120" x="-15" y="3015" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
