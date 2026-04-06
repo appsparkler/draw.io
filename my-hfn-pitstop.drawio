@@ -604,10 +604,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="5087" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="4009" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-142" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="-1100" y="3280" as="geometry" />
+        </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="930" width="1460" x="-150" y="3620" as="geometry" />
         </mxCell>
@@ -986,6 +989,15 @@
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=12;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Props&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;bookmark: IOBTBookmark&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;editOBTBookmark: (updatedBookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;br&gt;&lt;br&gt;addNewOBTLabel: (label:string) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="220" width="650" x="1620" y="3580" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-144" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="T5jptmL0BeWcxcoPsU5d-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-141" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_48px-940.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-1094" y="3286" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Clicking this IconButton opens the ViewOBTBookmarkDialog component" vertex="1">
+          <mxGeometry height="60" width="190" x="-1350" y="3280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
