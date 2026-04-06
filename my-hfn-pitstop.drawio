@@ -709,11 +709,14 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Google_Material_design_3_0-2084/ic_bookmark_border_48px-939.svg" value="" vertex="1">
           <mxGeometry height="48" width="48" x="-1516.5" y="713.5" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="Opens @CreateOBTBookmarkDialog&lt;br&gt;&lt;br&gt;Uses FA6 react-icons icon" vertex="1">
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;spacing=12;" value="Opens @CreateOBTBookmarkDialog&lt;br&gt;&lt;br&gt;Uses FA6 react-icons icon" vertex="1">
           <mxGeometry height="90" width="190" x="-1420" y="650" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="An icon button to open the @CreateOBTBookmarkDialog" vertex="1">
           <mxGeometry height="40" width="180" x="-1630" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacing=12;" value="Props&lt;br&gt;&lt;div&gt;quote: IQuote&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;;&lt;br&gt;addOBTBookmark: (bookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;&lt;div&gt;fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="430" x="-1990" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
