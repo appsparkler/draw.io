@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT Bookmarks">
-    <mxGraphModel dx="1306" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,6 +690,9 @@
         </mxCell>
         <mxCell id="j5B9NYO59L7RkcTgPj0m-28" edge="1" parent="1" source="j5B9NYO59L7RkcTgPj0m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.437;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="j5B9NYO59L7RkcTgPj0m-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5B9NYO59L7RkcTgPj0m-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=8 8;align=left;spacing=12;" value="Props&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;quote: Quote&lt;br&gt;isDialogOpen: boolean&lt;br&gt;onCancel: () =&amp;gt; void&lt;/div&gt;&lt;div&gt;addOBTBookmark: (bookmark: IOBTBookmark) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;&lt;br&gt;addNewOBTLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;br&gt;fetchOBTLabels: () =&amp;gt; Promise&amp;lt;string[]&amp;gt;" vertex="1">
+          <mxGeometry height="210" width="450" x="-550" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
