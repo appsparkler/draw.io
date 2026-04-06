@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="4199" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="4506" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,6 +847,9 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Notes" vertex="1">
           <mxGeometry height="25" width="60" x="1995" y="3030" as="geometry" />
         </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-101" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T5jptmL0BeWcxcoPsU5d-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-77" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Edit Bookmark" vertex="1">
           <mxGeometry height="40" width="120" x="2180" y="3160" as="geometry" />
         </mxCell>
@@ -862,17 +865,26 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the dialog title" vertex="1">
           <mxGeometry height="40" width="120" x="1800" y="2690" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the quote component" vertex="1">
-          <mxGeometry height="40" width="120" x="1790" y="2775" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the quote component.&amp;nbsp; Re-use the Quote component for this section." vertex="1">
+          <mxGeometry height="40" width="190" x="1720" y="2775" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the input field for Bookmark Title which is prefilled with data" vertex="1">
           <mxGeometry height="40" width="190" x="1710" y="2885" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the Bookmark Labels Field which is prefilled with data for the bookmark" vertex="1">
-          <mxGeometry height="55" width="210" x="1700" y="2950" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;spacing=12;" value="This is the Bookmark Labels Field which is prefilled with data for the bookmark&lt;br&gt;&lt;br&gt;Re-use the OBTLabelsField for this section." vertex="1">
+          <mxGeometry height="80" width="270" x="1640" y="2945" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="This is the Bookmark Notes optional field which is prefilled with Bookmark Notes data." vertex="1">
-          <mxGeometry height="40" width="190" x="1730" y="3077.5" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="This is the Bookmark Notes optional field which is prefilled with Bookmark Notes data." vertex="1">
+          <mxGeometry height="75" width="190" x="1730" y="3055" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="Clicking this button will trigger an async operation - editBookmark.&amp;nbsp; While this operation is in progress, all interactive elements will be disabled." vertex="1">
+          <mxGeometry height="107.5" width="220" x="2400" y="3126.25" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="Clicking this button will trigger an async operation - editBookmark.&amp;nbsp; While this operation is in progress, all interactive elements will be disabled." vertex="1">
+          <mxGeometry height="107.5" width="220" x="2050" y="3260" as="geometry" />
+        </mxCell>
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-103" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="T5jptmL0BeWcxcoPsU5d-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
