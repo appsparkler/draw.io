@@ -880,8 +880,8 @@
         <mxCell id="T5jptmL0BeWcxcoPsU5d-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="Clicking this button will trigger an async operation - editBookmark.&amp;nbsp; While this operation is in progress, all interactive elements will be disabled." vertex="1">
           <mxGeometry height="107.5" width="220" x="2400" y="3126.25" as="geometry" />
         </mxCell>
-        <mxCell id="T5jptmL0BeWcxcoPsU5d-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="Clicking this button will trigger an async operation - editBookmark.&amp;nbsp; While this operation is in progress, all interactive elements will be disabled." vertex="1">
-          <mxGeometry height="107.5" width="220" x="2050" y="3260" as="geometry" />
+        <mxCell id="T5jptmL0BeWcxcoPsU5d-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;spacing=12;align=left;" value="Clicking &quot;Cancel&quot; will call the onCancel method from props" vertex="1">
+          <mxGeometry height="70" width="170" x="2070" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="T5jptmL0BeWcxcoPsU5d-103" edge="1" parent="1" source="T5jptmL0BeWcxcoPsU5d-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="T5jptmL0BeWcxcoPsU5d-102">
           <mxGeometry relative="1" as="geometry" />
