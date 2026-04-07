@@ -1108,7 +1108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VtMBsyxWqacc9NsLCDqm-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="&lt;b&gt;Utils:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;const getTodaysDate = () =&amp;gt; {&lt;/div&gt;&amp;nbsp;const now = new Date();&lt;br&gt;&amp;nbsp; const offset = now.getTimezoneOffset() * 60000;&lt;br&gt;&amp;nbsp; return new Date(now.getTime() - offset).toISOString().split(&#39;T&#39;)[0];&lt;br&gt;};" vertex="1">
-          <mxGeometry height="140" width="360" x="-3100" y="2340" as="geometry" />
+          <mxGeometry height="160" width="390" x="-3130" y="2340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
