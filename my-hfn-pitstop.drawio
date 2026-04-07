@@ -1029,6 +1029,12 @@
         <mxCell id="jNVbKE_Ys9svtMEZ-_w9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="QuoteSuspenseFallbackComponent" vertex="1">
           <mxGeometry height="30" width="210" x="-3097.87" y="607.5" as="geometry" />
         </mxCell>
+        <mxCell id="jNVbKE_Ys9svtMEZ-_w9-10" edge="1" parent="1" source="jNVbKE_Ys9svtMEZ-_w9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="jNVbKE_Ys9svtMEZ-_w9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNVbKE_Ys9svtMEZ-_w9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" value="Shimmer effect while the Quote is loading.&amp;nbsp; It uses the DaisyUI Skeleton component" vertex="1">
+          <mxGeometry height="80" width="160" x="-3560" y="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
