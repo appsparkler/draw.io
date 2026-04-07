@@ -1098,8 +1098,8 @@
         <mxCell id="tOxDiQyTFRXQvSwlrU6A-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;Props&lt;/div&gt;&lt;div&gt;- date: string // YYYY-MM-DD format&lt;/div&gt;&lt;div&gt;- isPending: boolean&lt;/div&gt;&lt;div&gt;- onChangeDate: (date: string) =&amp;gt; void;&lt;/div&gt;" vertex="1">
           <mxGeometry height="87.75" width="240" x="-2730" y="2330" as="geometry" />
         </mxCell>
-        <mxCell id="tOxDiQyTFRXQvSwlrU6A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="in useEffect, the max date is set using the getTodaysDate() utility method." vertex="1">
-          <mxGeometry height="87.75" width="170" x="-2970" y="2242.25" as="geometry" />
+        <mxCell id="tOxDiQyTFRXQvSwlrU6A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="-&amp;nbsp; in useEffect, the &lt;b&gt;max&lt;/b&gt;&amp;nbsp;attribute is set using the getTodaysDate() utility method.&lt;br&gt;- use Daisy UI classNames to style the input field.&lt;div&gt;- use handleChangeDate internally to call the onChangeDate prop method&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="-3070" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="VtMBsyxWqacc9NsLCDqm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="OBTDateSelector&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="110" x="-2675" y="2240" as="geometry" />
