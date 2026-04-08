@@ -1245,6 +1245,9 @@
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsSuspenseFallback" vertex="1">
           <mxGeometry height="40" width="190" x="-1500" y="-1360" as="geometry" />
         </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsListView" vertex="1">
+          <mxGeometry height="40" width="140" x="-1270" y="-1360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
