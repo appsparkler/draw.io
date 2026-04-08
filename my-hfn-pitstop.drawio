@@ -1176,8 +1176,14 @@
         <mxCell id="stZ51Iag58iLqfmiKJ-D-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ViewAndEditOBTBookmarkButton" vertex="1">
           <mxGeometry height="60" width="240" x="-1840" y="-990" as="geometry" />
         </mxCell>
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-17" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="stZ51Iag58iLqfmiKJ-D-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ViewAndEditOBTBookmarkDialog" vertex="1">
           <mxGeometry height="60" width="240" x="-1840" y="-900" as="geometry" />
+        </mxCell>
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="EditOBTBookmark&amp;nbsp;&lt;br&gt;&lt;i&gt;(can be renamed to EditOBTBookmarkDialog)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="-1490" y="-860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
