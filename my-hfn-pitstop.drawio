@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_EIzilOybp2zT4jC05ue" name="OBT">
-    <mxGraphModel dx="5144" dy="2476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="4599" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,14 +1158,14 @@
         <mxCell id="stZ51Iag58iLqfmiKJ-D-18" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;curved=1;" target="stZ51Iag58iLqfmiKJ-D-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="stZ51Iag58iLqfmiKJ-D-19" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="stZ51Iag58iLqfmiKJ-D-6">
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-19" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-20" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" target="stZ51Iag58iLqfmiKJ-D-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Quote" vertex="1">
-          <mxGeometry height="60" width="120" x="-2290" y="-430" as="geometry" />
+          <mxGeometry height="60" width="120" x="-2430" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ViewOBTBookmarkDialog" vertex="1">
           <mxGeometry height="60" width="180" x="-2200" y="-810" as="geometry" />
@@ -1190,6 +1190,21 @@
         </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="EditOBTBookmark&amp;nbsp;&lt;br&gt;&lt;i&gt;(can be renamed to EditOBTBookmarkDialog)&lt;/i&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="-1490" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-2" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="stZ51Iag58iLqfmiKJ-D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="OBTQuoteView" vertex="1">
+          <mxGeometry height="60" width="120" x="-2480" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="OBTQuoteSuspenseFallback" vertex="1">
+          <mxGeometry height="60" width="200" x="-2710" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="OBTQuoteErrorBoundary" vertex="1">
+          <mxGeometry height="60" width="200" x="-2930" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ErrorBoundary" vertex="1">
+          <mxGeometry height="60" width="200" x="-2950" y="-610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
