@@ -1242,8 +1242,19 @@
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsList" vertex="1">
           <mxGeometry height="40" width="160" x="-1690" y="-1360" as="geometry" />
         </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-24" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsSuspenseFallback" vertex="1">
-          <mxGeometry height="40" width="190" x="-1500" y="-1360" as="geometry" />
+          <mxGeometry height="40" width="190" x="-1490" y="-1360" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-23" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1200" y="-1380" />
+              <mxPoint x="-1610" y="-1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsListView" vertex="1">
           <mxGeometry height="40" width="140" x="-1270" y="-1360" as="geometry" />
