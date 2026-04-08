@@ -1224,11 +1224,20 @@
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AddNewOBTLabel" vertex="1">
           <mxGeometry height="40" width="160" x="-1890" y="-1200" as="geometry" />
         </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-17" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AddOBTLabelsDialog" vertex="1">
           <mxGeometry height="40" width="160" x="-1710" y="-1200" as="geometry" />
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsField" vertex="1">
-          <mxGeometry height="40" width="160" x="-1525" y="-1200" as="geometry" />
+          <mxGeometry height="40" width="160" x="-1540" y="-1270" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsList" vertex="1">
+          <mxGeometry height="40" width="160" x="-1340" y="-1200" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-19" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
