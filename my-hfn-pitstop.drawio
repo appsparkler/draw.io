@@ -1164,8 +1164,8 @@
         <mxCell id="stZ51Iag58iLqfmiKJ-D-20" edge="1" parent="1" source="stZ51Iag58iLqfmiKJ-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" target="stZ51Iag58iLqfmiKJ-D-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="stZ51Iag58iLqfmiKJ-D-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Quote" vertex="1">
-          <mxGeometry height="60" width="120" x="-2290" y="-470" as="geometry" />
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Quote" vertex="1">
+          <mxGeometry height="60" width="120" x="-2290" y="-430" as="geometry" />
         </mxCell>
         <mxCell id="stZ51Iag58iLqfmiKJ-D-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ViewOBTBookmarkDialog" vertex="1">
           <mxGeometry height="60" width="180" x="-2200" y="-810" as="geometry" />
