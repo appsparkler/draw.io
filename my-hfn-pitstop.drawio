@@ -1173,10 +1173,10 @@
         <mxCell id="stZ51Iag58iLqfmiKJ-D-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ViewAndEditOBTBookmark" vertex="1">
           <mxGeometry height="60" width="180" x="-2200" y="-920" as="geometry" />
         </mxCell>
-        <mxCell id="stZ51Iag58iLqfmiKJ-D-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ViewAndEditOBTBookmarkButton" vertex="1">
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ViewAndEditOBTBookmarkButton" vertex="1">
           <mxGeometry height="60" width="240" x="-1840" y="-990" as="geometry" />
         </mxCell>
-        <mxCell id="stZ51Iag58iLqfmiKJ-D-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ViewAndEditOBTBookmarkDialog" vertex="1">
+        <mxCell id="stZ51Iag58iLqfmiKJ-D-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ViewAndEditOBTBookmarkDialog" vertex="1">
           <mxGeometry height="60" width="240" x="-1840" y="-900" as="geometry" />
         </mxCell>
       </root>
