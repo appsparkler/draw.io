@@ -1265,6 +1265,21 @@
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTDateField" vertex="1">
           <mxGeometry height="40" width="160" x="-1310" y="-1100" as="geometry" />
         </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-29" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTBookmarkButton" vertex="1">
+          <mxGeometry height="40" width="160" x="-1160" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-32" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTBookmarkButtonSuspenseFallback" vertex="1">
+          <mxGeometry height="40" width="240" x="-1430" y="-1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-34" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="common/SignInRequiredModalWithTrigger" vertex="1">
+          <mxGeometry height="40" width="280" x="-1460" y="-1590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
