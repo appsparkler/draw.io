@@ -1227,6 +1227,9 @@
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AddOBTLabelsDialog" vertex="1">
           <mxGeometry height="40" width="160" x="-1710" y="-1200" as="geometry" />
         </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsField" vertex="1">
+          <mxGeometry height="40" width="160" x="-1525" y="-1200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
