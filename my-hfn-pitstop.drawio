@@ -1219,10 +1219,10 @@
           <mxGeometry height="40" width="110" x="-2170" y="-1310" as="geometry" />
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AddAndViewOBTLabels" vertex="1">
-          <mxGeometry height="40" width="160" x="-2010" y="-1260" as="geometry" />
+          <mxGeometry height="40" width="160" x="-2040" y="-1310" as="geometry" />
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AddNewOBTLabel" vertex="1">
-          <mxGeometry height="40" width="160" x="-1890" y="-1200" as="geometry" />
+          <mxGeometry height="40" width="160" x="-1830" y="-1280" as="geometry" />
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-17" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1232,9 +1232,6 @@
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsField" vertex="1">
           <mxGeometry height="40" width="160" x="-1540" y="-1270" as="geometry" />
-        </mxCell>
-        <mxCell id="0gIIEjGPUd-3ciDMp9rY-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTLabelsList" vertex="1">
-          <mxGeometry height="40" width="160" x="-1340" y="-1200" as="geometry" />
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-19" edge="1" parent="1" source="0gIIEjGPUd-3ciDMp9rY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="0gIIEjGPUd-3ciDMp9rY-13">
           <mxGeometry relative="1" as="geometry" />
@@ -1264,6 +1261,9 @@
         </mxCell>
         <mxCell id="0gIIEjGPUd-3ciDMp9rY-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="common/ErrorBoundary" vertex="1">
           <mxGeometry height="60" width="120" x="-1690" y="-1600" as="geometry" />
+        </mxCell>
+        <mxCell id="0gIIEjGPUd-3ciDMp9rY-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OBTDateField" vertex="1">
+          <mxGeometry height="40" width="160" x="-1310" y="-1100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
