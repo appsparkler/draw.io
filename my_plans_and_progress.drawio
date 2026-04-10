@@ -13,6 +13,12 @@
         <mxCell id="6-i9YCuxwFYCTsfjL1ks-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MHP" vertex="1">
           <mxGeometry height="60" width="120" x="464" y="157" as="geometry" />
         </mxCell>
+        <mxCell id="ABo58RYE0-GnNggzj9Da-1" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" value="" vertex="1">
+          <mxGeometry height="30" width="24" x="141" y="151" as="geometry" />
+        </mxCell>
+        <mxCell id="ABo58RYE0-GnNggzj9Da-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="96" y="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
