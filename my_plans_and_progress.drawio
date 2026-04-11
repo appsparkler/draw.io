@@ -23,10 +23,10 @@
           <mxGeometry height="60" width="120" x="-33" y="392" as="geometry" />
         </mxCell>
         <mxCell id="ABo58RYE0-GnNggzj9Da-1" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;rotation=0;" value="" vertex="1">
-          <mxGeometry height="30" width="24" x="112" y="236" as="geometry" />
+          <mxGeometry height="30" width="24" x="189" y="167" as="geometry" />
         </mxCell>
         <mxCell id="ABo58RYE0-GnNggzj9Da-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" value="Bookmark OBT and WFTBW (without re-rendering issues)" vertex="1">
-          <mxGeometry height="60" width="120" x="96" y="171" as="geometry" />
+          <mxGeometry height="60" width="120" x="141" y="86" as="geometry" />
         </mxCell>
         <mxCell id="ABo58RYE0-GnNggzj9Da-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" value="Maxim of the day with audio" vertex="1">
           <mxGeometry height="60" width="120" x="758" y="307" as="geometry" />
