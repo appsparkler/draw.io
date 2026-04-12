@@ -1345,7 +1345,7 @@
           <mxGeometry height="120" width="200" x="600" y="90" as="geometry" />
         </mxCell>
         <mxCell id="IT3i97hn3QLs1bp0HOEr-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Returns {&lt;br&gt;&lt;div&gt;text: string,&lt;/div&gt;&lt;div&gt;images: [&lt;/div&gt;&lt;div&gt;signedURL1,&lt;br&gt;signedURL2,&lt;br&gt;signedURL3,&lt;br&gt;...&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;}" vertex="1">
-          <mxGeometry height="150" width="420" x="490" y="300" as="geometry" />
+          <mxGeometry height="150" width="130" x="635" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
