@@ -1338,8 +1338,8 @@
         <mxCell id="IT3i97hn3QLs1bp0HOEr-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save text to:&lt;br&gt;wftbw-web/&amp;lt;language&amp;gt;-&amp;lt;date&amp;gt;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp;text: &quot;...&quot;&lt;br&gt;}" vertex="1">
           <mxGeometry height="140" width="260" x="250" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="IT3i97hn3QLs1bp0HOEr-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save images to:&lt;br&gt;&lt;br&gt;my-hfn-pitstop" vertex="1">
-          <mxGeometry height="60" width="120" x="660" y="120" as="geometry" />
+        <mxCell id="IT3i97hn3QLs1bp0HOEr-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save images to:&lt;br&gt;&lt;br&gt;my-hfn-pitstop/wftbw/&amp;lt;language&amp;gt;/&amp;lt;date&amp;gt;/&amp;lt;image-number&amp;gt;.&amp;lt;ext&amp;gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="600" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
