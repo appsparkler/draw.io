@@ -1316,7 +1316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a06l6CgmGaEMHh9jb6YZ" name="Read Web Version">
-    <mxGraphModel dx="1720" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1334,7 +1334,7 @@
         <mxCell id="IT3i97hn3QLs1bp0HOEr-5" edge="1" parent="1" source="IT3i97hn3QLs1bp0HOEr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IT3i97hn3QLs1bp0HOEr-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IT3i97hn3QLs1bp0HOEr-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="parses PDF, gets text and images for the PDF" vertex="1">
+        <mxCell id="IT3i97hn3QLs1bp0HOEr-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="parses PDF, gets text and images for the PDF" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
         </mxCell>
         <mxCell id="IT3i97hn3QLs1bp0HOEr-7" edge="1" parent="1" source="IT3i97hn3QLs1bp0HOEr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IT3i97hn3QLs1bp0HOEr-6" value="">
