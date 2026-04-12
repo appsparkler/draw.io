@@ -1335,7 +1335,7 @@
         <mxCell id="IT3i97hn3QLs1bp0HOEr-7" edge="1" parent="1" source="IT3i97hn3QLs1bp0HOEr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IT3i97hn3QLs1bp0HOEr-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IT3i97hn3QLs1bp0HOEr-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save text to:&lt;br&gt;wftbw-web/&amp;lt;language&amp;gt;-&amp;lt;date&amp;gt;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp;text: &quot;...&quot;&lt;br&gt;}" vertex="1">
+        <mxCell id="IT3i97hn3QLs1bp0HOEr-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save text to &quot;wftbw-web&quot; collection&lt;br&gt;wftbw-web/&amp;lt;language&amp;gt;-&amp;lt;date&amp;gt;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp;text: &quot;...&quot;&lt;br&gt;}" vertex="1">
           <mxGeometry height="140" width="260" x="250" y="80" as="geometry" />
         </mxCell>
         <mxCell id="IT3i97hn3QLs1bp0HOEr-9" edge="1" parent="1" source="IT3i97hn3QLs1bp0HOEr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IT3i97hn3QLs1bp0HOEr-8" value="">
