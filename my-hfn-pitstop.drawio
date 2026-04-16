@@ -1392,6 +1392,9 @@
         <mxCell id="ff9RbL6EfTrHaIcChQAy-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Please select a label to view bookmarks&amp;nbsp; for it" vertex="1">
           <mxGeometry height="30" width="250" x="-70" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="ff9RbL6EfTrHaIcChQAy-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-140" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
