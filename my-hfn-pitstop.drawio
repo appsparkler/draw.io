@@ -1301,20 +1301,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C9gMJQU4YfmXqPahIqGl" name="components">
-    <mxGraphModel dx="849" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="wkIYgzn0zMQl5fy7u31j-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;Props&lt;/div&gt;" vertex="1">
-          <mxGeometry height="77.5" width="320" x="150" y="340" as="geometry" />
-        </mxCell>
-        <mxCell id="eSeSUMzbcWP3hsQAVxtO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="150" y="210" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="a06l6CgmGaEMHh9jb6YZ" name="Read Web Version">
     <mxGraphModel dx="2800" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -1375,6 +1361,20 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="C9gMJQU4YfmXqPahIqGl" name="components">
+    <mxGraphModel dx="972" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wkIYgzn0zMQl5fy7u31j-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;Props&lt;/div&gt;" vertex="1">
+          <mxGeometry height="77.5" width="320" x="150" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="eSeSUMzbcWP3hsQAVxtO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="150" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
     <mxGraphModel dx="1372" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -1409,6 +1409,21 @@
         </mxCell>
         <mxCell id="efQf8KOis1UmGGP-qHkl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="OBT Bookmarks" vertex="1">
           <mxGeometry height="30" width="180" x="330" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Please select a label to view bookmarks&amp;nbsp; for it" vertex="1">
+          <mxGeometry height="30" width="250" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-12" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="unassigned" vertex="1">
+          <mxGeometry height="20" width="90" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-14" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="unassigned" vertex="1">
+          <mxGeometry height="20" width="90" x="60" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-15" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="View All Bookmarks" vertex="1">
+          <mxGeometry height="40" width="160" x="330" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aS0kLSZXmCD93ctNyc7o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="When there are no labels.&amp;nbsp; When user has created bookmarks without assigning any labels to them" vertex="1">
+          <mxGeometry height="80" width="280" x="370" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
