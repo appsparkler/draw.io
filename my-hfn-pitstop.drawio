@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="1372" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1422,7 +1422,7 @@
         <mxCell id="efQf8KOis1UmGGP-qHkl-15" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="View All Bookmarks" vertex="1">
           <mxGeometry height="40" width="160" x="330" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="aS0kLSZXmCD93ctNyc7o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="When there are no labels.&amp;nbsp; When user has created bookmarks without assigning any labels to them" vertex="1">
+        <mxCell id="aS0kLSZXmCD93ctNyc7o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="When there are no labels.&amp;nbsp; i.e. when user has created bookmarks without assigning any labels to them" vertex="1">
           <mxGeometry height="80" width="280" x="360" y="120" as="geometry" />
         </mxCell>
       </root>
