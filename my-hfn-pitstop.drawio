@@ -1376,12 +1376,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="1103" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KKvr7Z5XrkLgdS6uM-T2-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=4;fontColor=#007FFF;" value="View All Bookmarks" vertex="1">
-          <mxGeometry height="20" width="120" x="-40" y="140" as="geometry" />
+          <mxGeometry height="20" width="120" x="-60" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="ff9RbL6EfTrHaIcChQAy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="200" width="360" x="-80" y="240" as="geometry" />
@@ -1394,6 +1394,21 @@
         </mxCell>
         <mxCell id="ff9RbL6EfTrHaIcChQAy-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" value="" vertex="1">
           <mxGeometry height="40" width="40" x="-140" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MaoTYmsVryTW0d5l9WSd-1" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="love" vertex="1">
+          <mxGeometry height="20" width="40" x="-70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MaoTYmsVryTW0d5l9WSd-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="harmony" vertex="1">
+          <mxGeometry height="20" width="70" x="-20" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-1" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="View All Bookmarks" vertex="1">
+          <mxGeometry height="40" width="160" x="-70" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="360" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="efQf8KOis1UmGGP-qHkl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="OBT Bookmarks" vertex="1">
+          <mxGeometry height="30" width="180" x="330" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
