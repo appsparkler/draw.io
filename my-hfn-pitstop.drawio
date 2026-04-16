@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="1103" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1372" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1393,7 +1393,7 @@
           <mxGeometry height="30" width="250" x="-70" y="290" as="geometry" />
         </mxCell>
         <mxCell id="ff9RbL6EfTrHaIcChQAy-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="-140" y="190" as="geometry" />
+          <mxGeometry height="40" width="40" x="70" y="140" as="geometry" />
         </mxCell>
         <mxCell id="MaoTYmsVryTW0d5l9WSd-1" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="love" vertex="1">
           <mxGeometry height="20" width="40" x="-70" y="320" as="geometry" />
