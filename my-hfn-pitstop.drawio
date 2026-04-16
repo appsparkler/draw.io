@@ -1425,7 +1425,7 @@
         <mxCell id="aS0kLSZXmCD93ctNyc7o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;spacing=12;" value="When there are no labels.&amp;nbsp; i.e. when user has created bookmarks without assigning any labels to them" vertex="1">
           <mxGeometry height="80" width="280" x="360" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="aS0kLSZXmCD93ctNyc7o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Please use the &quot;Signin with Google&quot; button to signin to use this feature." vertex="1">
+        <mxCell id="aS0kLSZXmCD93ctNyc7o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Please use the &quot;Signin with Google&quot; button above and try again." vertex="1">
           <mxGeometry height="200" width="360" x="-80" y="480" as="geometry" />
         </mxCell>
       </root>
