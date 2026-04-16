@@ -1386,6 +1386,12 @@
         <mxCell id="ff9RbL6EfTrHaIcChQAy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="200" width="360" x="-80" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="ff9RbL6EfTrHaIcChQAy-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="OBT Bookmarks" vertex="1">
+          <mxGeometry height="30" width="180" x="-70" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ff9RbL6EfTrHaIcChQAy-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Please select a label to view bookmarks&amp;nbsp; for it" vertex="1">
+          <mxGeometry height="30" width="250" x="-70" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
