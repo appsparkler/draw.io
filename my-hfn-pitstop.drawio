@@ -1426,7 +1426,7 @@
           <mxGeometry height="80" width="280" x="360" y="120" as="geometry" />
         </mxCell>
         <mxCell id="aS0kLSZXmCD93ctNyc7o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Please use the &quot;Signin with Google&quot; button above and try again." vertex="1">
-          <mxGeometry height="200" width="360" x="-80" y="480" as="geometry" />
+          <mxGeometry height="100" width="360" x="-80" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
