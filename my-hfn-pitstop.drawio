@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="2150" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2450" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1458,8 +1458,14 @@
         <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="{date}" vertex="1">
           <mxGeometry height="30" width="100" x="145" y="880" as="geometry" />
         </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-20" edge="1" parent="1" source="xv3ZoVWvUR6D5Jz0wVLJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2eAOpmcHq80wSq9jGIOj-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-12" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Read web version" vertex="1">
           <mxGeometry height="30" width="140" x="210" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-18" edge="1" parent="1" source="xv3ZoVWvUR6D5Jz0wVLJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2eAOpmcHq80wSq9jGIOj-17" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-13" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Download message" vertex="1">
           <mxGeometry height="30" width="165" x="360" y="930" as="geometry" />
@@ -1562,6 +1568,12 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Doesn&#39;t have notes" vertex="1">
           <mxGeometry height="30" width="190" x="1280" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=5;" value="This is a simple &amp;lt;a&amp;gt; tag.&amp;nbsp; I will provide the link separately." vertex="1">
+          <mxGeometry height="105" width="197.5" x="343.75" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-19" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=5;" value="This uses the @ReadWebVersion component.&amp;nbsp; The props it needs are drilled down from the parent prop" vertex="1">
+          <mxGeometry height="120" width="220" x="70" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
