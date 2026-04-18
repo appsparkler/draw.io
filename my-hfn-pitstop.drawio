@@ -1426,10 +1426,10 @@
           <mxGeometry height="80" width="280" x="360" y="120" as="geometry" />
         </mxCell>
         <mxCell id="aS0kLSZXmCD93ctNyc7o-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Please use the &quot;Signin with Google&quot; button above and try again." vertex="1">
-          <mxGeometry height="100" width="360" x="-80" y="480" as="geometry" />
+          <mxGeometry height="100" width="360" x="-120" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;&lt;b&gt;Props&lt;/b&gt;&lt;/div&gt;&lt;div&gt;title: string&lt;/div&gt;&lt;div&gt;labels: string&lt;br&gt;ViewAllBookmarksLink: LinkType&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="220" x="-320" y="240" as="geometry" />
+        <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=12;" value="&lt;div&gt;&lt;b&gt;Props&lt;/b&gt;&lt;/div&gt;&lt;div&gt;title: string&lt;/div&gt;&lt;div&gt;labels: string[]&lt;br&gt;ViewAllBookmarksLink: LinkType (this is for the View All Bookmarks Link)&lt;br&gt;LabelLink: LinkType (this is passed to the Label component)&lt;br&gt;&lt;br&gt;&lt;b&gt;Behaviour&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Add an extra label for unassigned.&amp;nbsp; This one is for all the bookmarks that don&#39;t have a label.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="220" x="-320" y="240" as="geometry" />
         </mxCell>
         <mxCell id="xv3ZoVWvUR6D5Jz0wVLJ-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" value="{label}" vertex="1">
           <mxGeometry height="20" width="50" x="-590" y="530" as="geometry" />
