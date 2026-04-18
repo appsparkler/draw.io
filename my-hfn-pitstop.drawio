@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="2306" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2168" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1759,6 +1759,9 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Please select another label" vertex="1">
           <mxGeometry height="40" width="210" x="1795" y="1439" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-128" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Props:&lt;br&gt;selectedLabel&lt;br&gt;listOfBookmarks" vertex="1">
+          <mxGeometry height="160" width="160" x="630" y="1352" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
