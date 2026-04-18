@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="1618" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1763,6 +1763,9 @@
         <mxCell id="2eAOpmcHq80wSq9jGIOj-128" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="Props:&lt;br&gt;&lt;b&gt;selectedLabel:&lt;/b&gt;string&lt;br&gt;&lt;b&gt;listOfBookmarks:&lt;/b&gt; same as the bookmark prop used for&amp;nbsp;&lt;br&gt;@WFTBWBookmarkCard" vertex="1">
           <mxGeometry height="170" width="170" x="630" y="1380" as="geometry" />
         </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-135" edge="1" parent="1" source="2eAOpmcHq80wSq9jGIOj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2eAOpmcHq80wSq9jGIOj-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-129" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="66" width="66" x="1660" y="1680" as="geometry" />
         </mxCell>
@@ -1774,6 +1777,9 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-133" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.loading_circle;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="1783" y="1693" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-134" parent="1" style="whiteSpace=wrap;html=1;" value="Props&lt;br&gt;onClickDelete:() =&amp;gt; void&lt;br&gt;isPending:boolean" vertex="1">
+          <mxGeometry height="87" width="167" x="1440" y="1683" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
