@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="2391" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1729,6 +1729,24 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="list of bookmarks" vertex="1">
           <mxGeometry height="30" width="250" x="724" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WFTBWBookmakrsPage" vertex="1">
+          <mxGeometry height="30" width="220" x="1360" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Has Bookmarks" vertex="1">
+          <mxGeometry height="30" width="220" x="1064" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Doesn&#39;t have bookmarks" vertex="1">
+          <mxGeometry height="30" width="220" x="1790" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-122" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="1360" as="sourcePoint" />
+            <mxPoint x="2100" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="There are no bookmarks for&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="210" x="1795" y="1372" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
