@@ -1820,6 +1820,15 @@
         <mxCell id="2eAOpmcHq80wSq9jGIOj-148" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="uses the @components/DeleteButton" vertex="1">
           <mxGeometry height="60" width="120" x="2613" y="1305" as="geometry" />
         </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;fontStyle=2" value="{notes}" vertex="1">
+          <mxGeometry height="53" width="430" x="2330" y="1727" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Date:" vertex="1">
+          <mxGeometry height="30" width="60" x="2330" y="1771" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="{displayDate}" vertex="1">
+          <mxGeometry height="30" width="245" x="2375" y="1771" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
