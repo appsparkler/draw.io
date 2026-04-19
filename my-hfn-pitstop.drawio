@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="1904" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1780,6 +1780,12 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-134" parent="1" style="whiteSpace=wrap;html=1;" value="Props&lt;br&gt;onClickDelete:() =&amp;gt; void&lt;br&gt;isPending:boolean" vertex="1">
           <mxGeometry height="87" width="167" x="1440" y="1683" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="isPending is false" vertex="1">
+          <mxGeometry height="30" width="60" x="1660" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="isPending is true" vertex="1">
+          <mxGeometry height="30" width="60" x="1770" y="1630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
