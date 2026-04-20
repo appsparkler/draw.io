@@ -1847,11 +1847,17 @@
         <mxCell id="2eAOpmcHq80wSq9jGIOj-162" edge="1" parent="1" source="2eAOpmcHq80wSq9jGIOj-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2eAOpmcHq80wSq9jGIOj-161" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-164" edge="1" parent="1" source="2eAOpmcHq80wSq9jGIOj-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2eAOpmcHq80wSq9jGIOj-163" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-160" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Delete Label" vertex="1">
           <mxGeometry height="40" width="116" x="1920" y="2440" as="geometry" />
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-161" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;" value="&lt;div&gt;new props:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;deleteLabel: () =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="290" x="2070" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-163" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=5;" value="const [isDeletingLabel, startDeletingLabel] = useTransition()&lt;br&gt;&lt;br&gt;- Show a confirm dialog before deleting&lt;br&gt;- disable the label button while it is deleting" vertex="1">
+          <mxGeometry height="130" width="360" x="1930" y="2640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
