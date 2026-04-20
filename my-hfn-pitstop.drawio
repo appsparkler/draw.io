@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="2916" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2164" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1856,8 +1856,8 @@
         <mxCell id="2eAOpmcHq80wSq9jGIOj-166" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;verticalAlign=top;" value="- Create an backend API with Firestore Admin SDK to update the &lt;b&gt;obtLabels&lt;/b&gt; array in document located at &lt;b&gt;users/&amp;lt;user-id&amp;gt;/user-data/labels&amp;nbsp;&lt;/b&gt;document with key &lt;b&gt;obtLabels.&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;- userId&lt;/b&gt;&amp;nbsp;and &lt;b&gt;updatedO&lt;/b&gt;&lt;b&gt;btLabels&lt;/b&gt; will be passed as arguments&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="480" x="2560" y="2320" as="geometry" />
         </mxCell>
-        <mxCell id="2eAOpmcHq80wSq9jGIOj-167" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;verticalAlign=top;" value="- Create an backend API with Firestore Admin SDK to update the &lt;b&gt;obtLabels&lt;/b&gt; array in document located at &lt;b&gt;users/&amp;lt;user-id&amp;gt;/user-data/labels&amp;nbsp;&lt;/b&gt;document with key &lt;b&gt;obtLabels.&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;- userId&lt;/b&gt;&amp;nbsp;and &lt;b&gt;updatedO&lt;/b&gt;&lt;b&gt;btLabels&lt;/b&gt; will be passed as arguments&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="480" x="3160" y="2320" as="geometry" />
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-167" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;verticalAlign=top;" value="&lt;div&gt;- create a &lt;b&gt;action&lt;/b&gt;&amp;nbsp;on path&amp;nbsp;&lt;b&gt;routes/api/labels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Add this path to&amp;nbsp;&lt;b&gt;routes.ts&lt;/b&gt;&amp;nbsp;as &lt;b&gt;route(&quot;api/labels&quot;, &quot;routes/api/labels&quot;)&lt;/b&gt;.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="480" x="3160" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-168" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=36;" value="1" vertex="1">
           <mxGeometry height="80" width="80" x="2020" y="2200" as="geometry" />
@@ -1867,6 +1867,18 @@
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-170" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=36;" value="3" vertex="1">
           <mxGeometry height="80" width="80" x="3360" y="2210" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-171" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;verticalAlign=top;" value="&lt;div&gt;- create an API service in &lt;b&gt;.client/apis&lt;/b&gt;&amp;nbsp;in file&amp;nbsp;&lt;b&gt;updateLabels.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- This service use fetch with method PUT and pass the updatedLabels in the body as JSON.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="480" x="3760" y="2310" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-172" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=36;" value="4" vertex="1">
+          <mxGeometry height="80" width="80" x="3960" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-173" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;verticalAlign=top;" value="- integrate the&amp;nbsp;&lt;b&gt;updateLabels&amp;nbsp;&lt;/b&gt;method with&amp;nbsp;" vertex="1">
+          <mxGeometry height="120" width="480" x="4390" y="2310" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-174" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=36;" value="5" vertex="1">
+          <mxGeometry height="80" width="80" x="4590" y="2220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
