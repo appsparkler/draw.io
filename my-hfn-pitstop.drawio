@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11rGh-4L4oGEHiK6MOjm" name="View All Bookmarks Feature">
-    <mxGraphModel dx="2058" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1751" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1847,11 +1847,14 @@
         <mxCell id="2eAOpmcHq80wSq9jGIOj-160" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Delete Label" vertex="1">
           <mxGeometry height="40" width="116" x="1920" y="2440" as="geometry" />
         </mxCell>
-        <mxCell id="2eAOpmcHq80wSq9jGIOj-161" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;" value="&lt;div&gt;new props:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;deleteLabel: (label: string) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-161" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;" value="&lt;div&gt;new props:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;deleteLabel: (updatedLabels: string[]) =&amp;gt; Promise&amp;lt;void&amp;gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="350" x="2070" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="2eAOpmcHq80wSq9jGIOj-163" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;" value="const [isDeletingLabel, startDeletingLabel] = useTransition()&lt;br&gt;&lt;br&gt;- Show a confirm dialog before deleting&lt;br&gt;&lt;div&gt;- disable the label button while it is deleting with &quot;isDeletingLabel&quot;&lt;/div&gt;&lt;div&gt;- Inside startDeletingLabel, call the deleteLabel prop&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="360" x="1930" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAOpmcHq80wSq9jGIOj-166" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;dashed=0;strokeWidth=1;spacingLeft=0;fontStyle=0;spacing=12;align=left;" value="Create an backend API with Firestore Admin SDK to delete the label from the array.&amp;nbsp; The label is located in &lt;b&gt;users/&amp;lt;user-id&amp;gt;/user-data/labels&amp;nbsp;&lt;/b&gt;document with key obtLabels" vertex="1">
+          <mxGeometry height="350" width="480" x="2560" y="2320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
