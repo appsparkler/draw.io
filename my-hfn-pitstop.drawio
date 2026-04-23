@@ -1884,12 +1884,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B6P0jm3MRFP6akyQw2qU" name="Maxim Of The Day">
-    <mxGraphModel dx="1172" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fim42V1WZoX9llrHR7qm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="450" width="360" x="-40" as="geometry" />
+          <mxGeometry height="480" width="360" x="-40" as="geometry" />
         </mxCell>
         <mxCell id="fim42V1WZoX9llrHR7qm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Maxim of The Day" vertex="1">
           <mxGeometry height="30" width="320" x="-20" y="20" as="geometry" />
@@ -1919,10 +1919,10 @@
           <mxGeometry height="46.16" width="320" x="-20" y="160" as="geometry" />
         </mxCell>
         <mxCell id="fim42V1WZoX9llrHR7qm-11" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Make Notes" vertex="1">
-          <mxGeometry height="40" width="310" x="-15" y="370" as="geometry" />
+          <mxGeometry height="40" width="310" x="-15" y="420" as="geometry" />
         </mxCell>
         <mxCell id="fim42V1WZoX9llrHR7qm-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="450" width="360" x="360" as="geometry" />
+          <mxGeometry height="430" width="360" x="360" as="geometry" />
         </mxCell>
         <mxCell id="fim42V1WZoX9llrHR7qm-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Maxim of The Day" vertex="1">
           <mxGeometry height="30" width="320" x="380" y="20" as="geometry" />
@@ -1953,6 +1953,18 @@
         </mxCell>
         <mxCell id="fim42V1WZoX9llrHR7qm-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="Please sign in to make notes" vertex="1">
           <mxGeometry height="30" width="260" x="380" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="agerE97G1H1zfZiSqHK3-1" edge="1" parent="1" source="fim42V1WZoX9llrHR7qm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" target="fim42V1WZoX9llrHR7qm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agerE97G1H1zfZiSqHK3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Read all Maxims" vertex="1">
+          <mxGeometry height="30" width="240" x="-20" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="agerE97G1H1zfZiSqHK3-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Signed in user" vertex="1">
+          <mxGeometry height="30" width="100" x="60" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="agerE97G1H1zfZiSqHK3-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="guest user" vertex="1">
+          <mxGeometry height="30" width="100" x="480" y="-60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
