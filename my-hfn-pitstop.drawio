@@ -2010,6 +2010,17 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="600" width="400" x="40" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-13" parent="1" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Select Date" vertex="1">
+          <mxGeometry height="20" width="240" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-14" parent="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="28/04/2026" vertex="1">
+          <mxGeometry height="33" width="150" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-15" parent="fZSThvGURrUop7yl7CZZ-14" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
