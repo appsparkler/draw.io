@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="10">
   <diagram name="Bookmark feature" id="K3uxj2zXtTJAAZsMOvJO">
     <mxGraphModel dx="2289" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -1965,6 +1965,29 @@
         </mxCell>
         <mxCell id="agerE97G1H1zfZiSqHK3-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="guest user" vertex="1">
           <mxGeometry height="30" width="100" x="480" y="-60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GaRt-krNQjAiAtKUnWOK" name="JOB-Create-Edit-PDF-Workflow">
+    <mxGraphModel dx="1649" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fZSThvGURrUop7yl7CZZ-3" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Job starts" vertex="1">
+          <mxGeometry height="60" width="120" x="-440" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-5" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Generate link for the day" vertex="1">
+          <mxGeometry height="60" width="120" x="-440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Parse the PDF" vertex="1">
+          <mxGeometry height="60" width="120" x="-440" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
