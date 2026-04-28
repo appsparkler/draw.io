@@ -2085,6 +2085,12 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-43" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="wrap it with div having className&amp;nbsp;&lt;b&gt;prose &lt;/b&gt;for styling." vertex="1">
           <mxGeometry height="40" width="220" x="-600" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor" vertex="1">
+          <mxGeometry height="30" width="140" x="210" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor/:date" vertex="1">
+          <mxGeometry height="30" width="230" x="560" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
