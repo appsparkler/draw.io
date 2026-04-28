@@ -2076,8 +2076,14 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-39" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="sanitize with &lt;b&gt;DOMPurify&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="-550" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="fZSThvGURrUop7yl7CZZ-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Render it using&amp;nbsp;&lt;b&gt;prose&lt;/b&gt;" vertex="1">
-          <mxGeometry height="46.5" width="120" x="-550" y="320.25" as="geometry" />
+        <mxCell id="fZSThvGURrUop7yl7CZZ-44" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Render it using&amp;nbsp;&lt;b&gt;dangerouslySetInnerHtml&lt;/b&gt;" vertex="1">
+          <mxGeometry height="46.5" width="230" x="-605" y="320.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-43" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="wrap it with div having className&amp;nbsp;&lt;b&gt;prose &lt;/b&gt;for styling." vertex="1">
+          <mxGeometry height="40" width="220" x="-600" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
