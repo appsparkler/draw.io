@@ -1970,7 +1970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GaRt-krNQjAiAtKUnWOK" name="JOB-Create-Edit-PDF-Workflow">
-    <mxGraphModel dx="4000" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2131,6 +2131,9 @@
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="318.47" width="400" x="1240" y="1.53" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Quill JS&lt;br&gt;&lt;br&gt;https://quilljs.com/docs/modules/toolbar/" vertex="1">
+          <mxGeometry height="80" width="320" x="520" y="-440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
