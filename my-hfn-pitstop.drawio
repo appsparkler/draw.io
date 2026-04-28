@@ -2052,10 +2052,10 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="There is no message saved for this date" vertex="1">
           <mxGeometry height="30" width="180" x="590" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="fZSThvGURrUop7yl7CZZ-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Saving the HTML" vertex="1">
+        <mxCell id="fZSThvGURrUop7yl7CZZ-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Saving the HTML" vertex="1">
           <mxGeometry height="30" width="60" x="-1120" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="fZSThvGURrUop7yl7CZZ-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rendering the HTML" vertex="1">
+        <mxCell id="fZSThvGURrUop7yl7CZZ-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Rendering the HTML" vertex="1">
           <mxGeometry height="30" width="60" x="-520" y="110" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-40" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-39" value="">
