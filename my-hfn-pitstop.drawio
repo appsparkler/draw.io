@@ -1978,16 +1978,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Job starts" vertex="1">
-          <mxGeometry height="60" width="120" x="-440" y="160" as="geometry" />
+          <mxGeometry height="40" width="120" x="-440" y="120" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-5" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Generate link for the day" vertex="1">
-          <mxGeometry height="60" width="120" x="-440" y="300" as="geometry" />
+          <mxGeometry height="40" width="120" x="-440" y="200" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Parse the PDF" vertex="1">
-          <mxGeometry height="60" width="120" x="-440" y="440" as="geometry" />
+          <mxGeometry height="40" width="120" x="-440" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
