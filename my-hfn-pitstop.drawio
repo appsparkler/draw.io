@@ -1970,7 +1970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GaRt-krNQjAiAtKUnWOK" name="JOB-Create-Edit-PDF-Workflow">
-    <mxGraphModel dx="2950" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="3564" dy="1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2056,13 +2056,13 @@
           <mxGeometry height="30" width="60" x="-1120" y="110" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Rendering the HTML" vertex="1">
-          <mxGeometry height="30" width="60" x="-520" y="110" as="geometry" />
+          <mxGeometry height="30" width="60" x="-655" y="113.5" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-40" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-39" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retrieve HTML from Firestore" vertex="1">
-          <mxGeometry height="40" width="120" x="-550" y="160" as="geometry" />
+          <mxGeometry height="40" width="120" x="-685" y="163.5" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-38" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2074,22 +2074,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-39" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="sanitize with &lt;b&gt;DOMPurify&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="-550" y="240" as="geometry" />
+          <mxGeometry height="40" width="120" x="-685" y="243.5" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-44" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-43" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Render it using&amp;nbsp;&lt;b&gt;dangerouslySetInnerHtml&lt;/b&gt;" vertex="1">
-          <mxGeometry height="46.5" width="230" x="-605" y="320.25" as="geometry" />
+          <mxGeometry height="46.5" width="230" x="-740" y="323.75" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-43" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="wrap it with div having className&amp;nbsp;&lt;b&gt;prose &lt;/b&gt;for styling." vertex="1">
-          <mxGeometry height="40" width="220" x="-600" y="400" as="geometry" />
+          <mxGeometry height="40" width="220" x="-735" y="403.5" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor" vertex="1">
           <mxGeometry height="30" width="140" x="210" y="10" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor/:date" vertex="1">
           <mxGeometry height="30" width="230" x="560" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="400" x="-400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-49" parent="1" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Select Date" vertex="1">
+          <mxGeometry height="20" width="240" x="-380" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-50" parent="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="28/04/2026" vertex="1">
+          <mxGeometry height="33" width="150" x="-380" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-51" parent="fZSThvGURrUop7yl7CZZ-50" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor" vertex="1">
+          <mxGeometry height="30" width="140" x="-250" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
