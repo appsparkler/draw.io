@@ -2106,7 +2106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="/wftbw-message-editor" vertex="1">
-          <mxGeometry height="30" width="140" x="-250" y="10" as="geometry" />
+          <mxGeometry height="30" width="140" x="-270" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
