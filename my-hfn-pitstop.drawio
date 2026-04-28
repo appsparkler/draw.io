@@ -2007,6 +2007,9 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="End Job" vertex="1">
           <mxGeometry height="40" width="120" x="-460" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="400" x="40" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
