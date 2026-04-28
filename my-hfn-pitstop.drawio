@@ -1986,8 +1986,14 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Generate link for the day" vertex="1">
           <mxGeometry height="40" width="120" x="-440" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-7" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Parse the PDF" vertex="1">
           <mxGeometry height="40" width="120" x="-440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;compose the HTML for Quill&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-440" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
