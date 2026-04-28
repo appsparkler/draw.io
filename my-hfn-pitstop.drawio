@@ -1992,8 +1992,10 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Parse the PDF" vertex="1">
           <mxGeometry height="40" width="120" x="-1155" y="323.5" as="geometry" />
         </mxCell>
-        <mxCell id="fZSThvGURrUop7yl7CZZ-9" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-8" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fZSThvGURrUop7yl7CZZ-9" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;compose the HTML for Quill&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="-1155" y="403.5" as="geometry" />
@@ -2002,10 +2004,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="save it in DB in the document &lt;b&gt;wftbwMessages/english--2026-04-28&lt;/b&gt;/{html: &quot;&amp;lt;p&amp;gt;...&amp;lt;/p&amp;gt;&quot;}" vertex="1">
-          <mxGeometry height="40" width="610" x="-1400" y="483.5" as="geometry" />
+          <mxGeometry height="40" width="610" x="-1400" y="560" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="End Job" vertex="1">
-          <mxGeometry height="40" width="120" x="-1155" y="563.5" as="geometry" />
+          <mxGeometry height="40" width="120" x="-1155" y="640" as="geometry" />
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="600" width="400" x="40" y="120" as="geometry" />
@@ -2056,8 +2058,26 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rendering the HTML" vertex="1">
           <mxGeometry height="30" width="60" x="-520" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="fZSThvGURrUop7yl7CZZ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Job starts" vertex="1">
+        <mxCell id="fZSThvGURrUop7yl7CZZ-40" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retrieve HTML from Firestore" vertex="1">
           <mxGeometry height="40" width="120" x="-550" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-38" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-37" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Sanitize HTML with DOMPurify" vertex="1">
+          <mxGeometry height="40" width="120" x="-1155" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-42" edge="1" parent="1" source="fZSThvGURrUop7yl7CZZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fZSThvGURrUop7yl7CZZ-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-39" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="sanitize with DOMPurify" vertex="1">
+          <mxGeometry height="40" width="120" x="-550" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="46.5" width="120" x="-550" y="320.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
