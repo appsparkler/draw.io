@@ -2027,6 +2027,9 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-18" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Save" vertex="1">
           <mxGeometry height="33" width="86" x="330" y="367" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="If message is available for the date:" vertex="1">
+          <mxGeometry height="30" width="230" x="125" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
