@@ -2047,6 +2047,9 @@
         <mxCell id="fZSThvGURrUop7yl7CZZ-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="If message is not available for the date:" vertex="1">
           <mxGeometry height="30" width="230" x="565" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="There is no message saved for this date" vertex="1">
+          <mxGeometry height="30" width="180" x="590" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
