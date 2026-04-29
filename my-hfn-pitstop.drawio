@@ -1970,7 +1970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GaRt-krNQjAiAtKUnWOK" name="JOB-Create-Edit-PDF-Workflow">
-    <mxGraphModel dx="2663" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="3415" dy="2365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2146,6 +2146,12 @@
         </mxCell>
         <mxCell id="fZSThvGURrUop7yl7CZZ-70" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Close" vertex="1">
           <mxGeometry height="33" width="80" x="1570" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-71" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" value="" vertex="1">
+          <mxGeometry height="100" width="85" x="-290" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fZSThvGURrUop7yl7CZZ-72" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Miscellaneous-2232/check-646.svg" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="-1050" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
