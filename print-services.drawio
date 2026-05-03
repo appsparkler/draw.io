@@ -68,8 +68,14 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;gradientColor=none;fillColor=default;fillColor3=default;" value="" vertex="1">
           <mxGeometry height="430" width="240" x="240" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="jqtpzIa5nws7BcRoHNry-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="260" y="410" as="geometry" />
+        <mxCell id="jqtpzIa5nws7BcRoHNry-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="41" x="260" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-15" parent="jqtpzIa5nws7BcRoHNry-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=12;" value="Orders" vertex="1">
+          <mxGeometry height="20" width="41" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-18" parent="jqtpzIa5nws7BcRoHNry-20" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA20lEQVRYCe1WMQoCMRA8xc5GEHySWFpZ+AMV0c7aSju1El8ofkKdhQyMIcYoQppdWHY2O2Qvc3dLmsbNFShXYAGqeRU7oOsj+OSfT9BJbDbD2h1+CbUd4jpgC13Bc+CB5J/gDYRzjjRFkSfdA28lt/UjnGZKkPtNHHMDi7ECPSluBBs8wVWJVlQvTdtKTG1ip1wpCThuzvISoM+kIF7B4avN0vWjM1zFRug6rNL5TVOfAxTG5wCVSP3CrOWiz4GcOi81nwMqh45mvw9QGb8PmBJ+H+D34NEV+FmBJ7Spc4Frpf7AAAAAAElFTkSuQmCC;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="4.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
