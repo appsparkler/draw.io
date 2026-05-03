@@ -248,7 +248,7 @@
           <mxGeometry height="25" width="200" x="1130" y="245" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=top;rounded=0;" value="&lt;b&gt;Order number:&lt;/b&gt; 882332111" vertex="1">
-          <mxGeometry height="25" width="200" x="1120" y="277.5" as="geometry" />
+          <mxGeometry height="25" width="200" x="1130" y="285" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#007FFF;" value="Click here to view all your orders" vertex="1">
           <mxGeometry height="30" width="190" x="1135" y="380" as="geometry" />
