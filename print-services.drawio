@@ -77,6 +77,15 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-18" parent="jqtpzIa5nws7BcRoHNry-20" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA20lEQVRYCe1WMQoCMRA8xc5GEHySWFpZ+AMV0c7aSju1El8ofkKdhQyMIcYoQppdWHY2O2Qvc3dLmsbNFShXYAGqeRU7oOsj+OSfT9BJbDbD2h1+CbUd4jpgC13Bc+CB5J/gDYRzjjRFkSfdA28lt/UjnGZKkPtNHHMDi7ECPSluBBs8wVWJVlQvTdtKTG1ip1wpCThuzvISoM+kIF7B4avN0vWjM1zFRug6rNL5TVOfAxTG5wCVSP3CrOWiz4GcOi81nwMqh45mvw9QGb8PmBJ+H+D34NEV+FmBJ7Spc4Frpf7AAAAAAElFTkSuQmCC;" value="" vertex="1">
           <mxGeometry height="32" width="32" x="4.5" as="geometry" />
         </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Printouts" vertex="1">
+          <mxGeometry height="40" width="180" x="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan Documents" vertex="1">
+          <mxGeometry height="40" width="180" x="270" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan Documents" vertex="1">
+          <mxGeometry height="40" width="180" x="270" y="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
