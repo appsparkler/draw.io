@@ -119,6 +119,18 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PRINT OUTS&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="540" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-38" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" value="Please upload the file" vertex="1">
+          <mxGeometry height="40" width="150" x="550" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-39" parent="1" style="fillColor=#FEFEFE;strokeColor=#AAAAAA;fontSize=14;gradientColor=#F0F0F0;" value="Choose File" vertex="1">
+          <mxGeometry height="30" width="90" x="550" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-40" parent="1" style="fillColor=none;strokeColor=none;align=left;fontSize=14;spacing=5;" value="No file chosen" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Maximum 100 MB" vertex="1">
+          <mxGeometry height="30" width="110" x="550" y="205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
