@@ -317,6 +317,12 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SIGN IN&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="-30" y="960" as="geometry" />
         </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Customer Flow" vertex="1">
+          <mxGeometry height="140" width="160" x="-320" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Provider&lt;br&gt;Flow" vertex="1">
+          <mxGeometry height="140" width="160" x="-260" y="1050" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
