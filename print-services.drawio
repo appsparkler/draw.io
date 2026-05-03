@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IvSaFdt7yURqxlwewDJL">
-    <mxGraphModel dx="2215" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
           <mxGeometry height="25" width="200" x="1120" y="277.5" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#007FFF;" value="Click here to view all your orders" vertex="1">
-          <mxGeometry height="30" width="190" x="1135" y="330" as="geometry" />
+          <mxGeometry height="30" width="190" x="1135" y="380" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-86" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;gradientColor=none;fillColor=default;fillColor3=default;" value="" vertex="1">
           <mxGeometry height="430" width="240" x="-40" y="920" as="geometry" />
@@ -350,6 +350,9 @@
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Razorpay Payment Gateway" vertex="1">
           <mxGeometry height="60" width="120" x="1080" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Estimated Delivery:&lt;/b&gt; Between 5 and 7 pm today" vertex="1">
+          <mxGeometry height="30" width="200" x="1130" y="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
