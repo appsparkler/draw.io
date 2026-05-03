@@ -92,7 +92,7 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Any other needs?" vertex="1">
           <mxGeometry height="40" width="180" x="270" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="jqtpzIa5nws7BcRoHNry-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6FFCC;fillColor=#E6FFCC;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="jqtpzIa5nws7BcRoHNry-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="250" y="100" as="geometry" />
         </mxCell>
       </root>
