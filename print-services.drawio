@@ -93,7 +93,7 @@
           <mxGeometry height="40" width="180" x="270" y="350" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="250" y="100" as="geometry" />
+          <mxGeometry height="30" width="220" x="250" y="95" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-27" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="41" x="260" y="400" as="geometry" />
