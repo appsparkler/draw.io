@@ -114,7 +114,7 @@
           <mxGeometry height="32" width="32" x="4.5" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-36" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;gradientColor=none;fillColor=default;fillColor3=default;" value="" vertex="1">
-          <mxGeometry height="630" width="240" x="530" y="55" as="geometry" />
+          <mxGeometry height="865" width="240" x="530" y="55" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PRINT OUTS&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="540" y="95" as="geometry" />
@@ -188,13 +188,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-63" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Place Order" vertex="1">
-          <mxGeometry height="30" width="110" x="640" y="575" as="geometry" />
+          <mxGeometry height="30" width="110" x="640" y="770" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#333333;fillColor=#333333;fontColor=#FFFFFF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SIGN IN&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="-30" y="100" as="geometry" />
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-65" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fff2cc;whiteSpace=wrap;" value="Cancel" vertex="1">
-          <mxGeometry height="30" width="70" x="550" y="575" as="geometry" />
+          <mxGeometry height="30" width="70" x="550" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Special Instructions" vertex="1">
+          <mxGeometry height="30" width="120" x="550" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
