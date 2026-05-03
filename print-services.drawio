@@ -83,8 +83,14 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan Documents" vertex="1">
           <mxGeometry height="40" width="180" x="270" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="jqtpzIa5nws7BcRoHNry-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan Documents" vertex="1">
+        <mxCell id="jqtpzIa5nws7BcRoHNry-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Lamination" vertex="1">
           <mxGeometry height="40" width="180" x="270" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ID Card Duplication" vertex="1">
+          <mxGeometry height="40" width="180" x="270" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Any other needs?" vertex="1">
+          <mxGeometry height="40" width="180" x="270" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
