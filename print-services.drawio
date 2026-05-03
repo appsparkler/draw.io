@@ -232,6 +232,9 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="1805.00" vertex="1">
           <mxGeometry height="30" width="60" x="960" y="285" as="geometry" />
         </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-78" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Make payment" vertex="1">
+          <mxGeometry height="30" width="150" x="855" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
