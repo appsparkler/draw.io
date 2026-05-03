@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IvSaFdt7yURqxlwewDJL">
-    <mxGraphModel dx="1368" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,6 +112,9 @@
         </mxCell>
         <mxCell id="jqtpzIa5nws7BcRoHNry-34" parent="jqtpzIa5nws7BcRoHNry-31" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABlUlEQVRYCe2Wu0oFMRCGj1ewEMRCvGDpBbQQESzOI4iWtoLv4INYKYidla2lVjZWdoKCjSJ4bywUVFC/gbMYwiY7O5sVRAd+kuzM/PNnmWS30fjr1lHhBbSTOwEGwSP4BD9ii1Q5AM9AigpewD6YArXaJuxZ0bzxFf9qXQrWCoq7gpZSixiF8K2EgDtiezUipJE0tkxQlyawFTPAuKCJ1wqY1pB5MfPeOnepFWA5rn25Fb2HWgGXXp5mackJ8jbxuF2umc8F2YyO4xIijow1omnSiHLjFe3+iZjxKFMFp7zWCxAScYqv1HVctruvKbAF3lvoZ5QdH4JtsAJuwb+p30CbOvI7cIjpGPDvkA+enYF7kNzkw7IBhDzUgNnzG2LWQQ9IYjOwyK2WFdCO5+RMVlUwAsGDoXgm8opcOSlm2yMzI7OOcjxNJs1mLermyW9ad0iB38lu3Ky7qDCX4kGumIBkXYyA4dAGYgLkXNduMQFyqaSyEyvRLoluQ1nmO7HiRVex+JugM0YS8ckJqOXnJFLzl7m+ADxKwb+cT1dsAAAAAElFTkSuQmCC;" value="" vertex="1">
           <mxGeometry height="32" width="32" x="4.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-36" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;gradientColor=none;fillColor=default;fillColor3=default;" value="" vertex="1">
+          <mxGeometry height="430" width="240" x="530" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
