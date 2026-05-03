@@ -181,6 +181,15 @@
         <mxCell id="jqtpzIa5nws7BcRoHNry-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Delivery between 5pm and 7pm if you book before 3pm today" vertex="1">
           <mxGeometry height="50" width="190" x="550" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="186" as="sourcePoint" />
+            <mxPoint x="580" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqtpzIa5nws7BcRoHNry-63" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Place Order" vertex="1">
+          <mxGeometry height="30" width="110" x="640" y="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
