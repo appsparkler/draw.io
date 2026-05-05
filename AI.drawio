@@ -1,4 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" pages="2">
+  <diagram id="xfc_pkhUsen6Ezh46vnN" name="flow">
+    <mxGraphModel dx="726" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-3" edge="1" parent="1" source="oKs-0R7jSXA_KWGLNjGW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oKs-0R7jSXA_KWGLNjGW-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Get inspiration from Dribble and similar sites" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-5" edge="1" parent="1" source="oKs-0R7jSXA_KWGLNjGW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oKs-0R7jSXA_KWGLNjGW-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Feed it to UI generator like Banani" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-7" edge="1" parent="1" source="oKs-0R7jSXA_KWGLNjGW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oKs-0R7jSXA_KWGLNjGW-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Connect UI generator with IDE via MCP" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKs-0R7jSXA_KWGLNjGW-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Generate the UI layer." vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Page-1" id="a0K6ydJRpvlYdGSrwwLg">
     <mxGraphModel dx="1127" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
