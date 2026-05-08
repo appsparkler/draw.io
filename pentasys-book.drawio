@@ -3796,7 +3796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yN99VMTxdS51TC_vd0d-" name="Calendar-Format 1">
-    <mxGraphModel dx="1210" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1815" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3838,9 +3838,6 @@
             <mxPoint x="220" y="410" as="sourcePoint" />
             <mxPoint x="431" y="527" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vxnZwV1_TIOfVOwzJuYk-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="large font-size for date" vertex="1">
-          <mxGeometry height="50" width="60" x="160" y="370" as="geometry" />
         </mxCell>
         <mxCell id="11mq1-jVA1x8hfcWLcHb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Large font size for date and day of the week.&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="330" x="390" y="620" as="geometry" />
