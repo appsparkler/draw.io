@@ -3821,9 +3821,6 @@
             <mxPoint x="1276" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_EqCnDyK2sRk4Xpk2Ky-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Writing space for each set" vertex="1">
-          <mxGeometry height="50" width="100" x="1490" y="405" as="geometry" />
-        </mxCell>
         <mxCell id="vxnZwV1_TIOfVOwzJuYk-1" edge="1" parent="1" source="11mq1-jVA1x8hfcWLcHb-1" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="220" y="390" as="sourcePoint" />
@@ -3848,8 +3845,17 @@
         <mxCell id="11mq1-jVA1x8hfcWLcHb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Large font size for date and day of the week.&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="330" x="390" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="11mq1-jVA1x8hfcWLcHb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Large font size for date and day of the week.&lt;/font&gt;" vertex="1">
+        <mxCell id="11mq1-jVA1x8hfcWLcHb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Writing space for each set.&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="330" x="1160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R4AkHwSHM-tphQml4j4S-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Additional writing space.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="1130" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="R4AkHwSHM-tphQml4j4S-2" edge="1" parent="1" source="R4AkHwSHM-tphQml4j4S-1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1335" y="310" as="sourcePoint" />
+            <mxPoint x="883" y="826" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
