@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iMmVTYed4h1aN_pzg3ix-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Q" vertex="1">
-          <mxGeometry height="59" width="60" x="-120" y="61" as="geometry" />
+        <mxCell id="iMmVTYed4h1aN_pzg3ix-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Net Qty." vertex="1">
+          <mxGeometry height="59" width="60" x="-120" y="72" as="geometry" />
         </mxCell>
         <mxCell id="iMmVTYed4h1aN_pzg3ix-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="AVG. PRICE" vertex="1">
           <mxGeometry height="59" width="60" x="149" y="61" as="geometry" />
@@ -45,6 +45,36 @@
         </mxCell>
         <mxCell id="7si3vGMUa6yKKs87A3T9-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Red color if negative, blue color if positive" vertex="1">
           <mxGeometry height="70" width="129" x="681" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Will receive the following props:&lt;br&gt;netQuantity: number;&lt;br&gt;&lt;div&gt;averagePrice: number&lt;/div&gt;&lt;div&gt;ltp: number;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="101" width="203" x="-25" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PnL needs to be calculated by the component" vertex="1">
+          <mxGeometry height="101" width="203" x="-21" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Net Qty." vertex="1">
+          <mxGeometry height="59" width="60" x="-186" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="AVG. PRICE" vertex="1">
+          <mxGeometry height="59" width="60" x="83" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="LTP" vertex="1">
+          <mxGeometry height="59" width="60" x="352" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="PnL" vertex="1">
+          <mxGeometry height="59" width="60" x="621" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="{props.netQuantity}" vertex="1">
+          <mxGeometry height="30" width="60" x="-186" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="&lt;div&gt;{props.averagePrice}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="83" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="{props.ltp}" vertex="1">
+          <mxGeometry height="30" width="60" x="352" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="7si3vGMUa6yKKs87A3T9-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="{pnl}" vertex="1">
+          <mxGeometry height="30" width="60" x="621" y="955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
