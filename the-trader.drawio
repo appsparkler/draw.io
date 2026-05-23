@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5MV4RERJIjpIYta4IkZD">
-    <mxGraphModel dx="2013" dy="1391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="321" width="1097" x="-296" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="321" width="1097" x="-287" y="732" as="geometry" />
+        </mxCell>
         <mxCell id="iMmVTYed4h1aN_pzg3ix-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Net Qty." vertex="1">
           <mxGeometry height="59" width="60" x="-120" y="72" as="geometry" />
         </mxCell>
