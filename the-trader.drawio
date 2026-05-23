@@ -85,7 +85,7 @@
         <mxCell id="ExlUUjPYo0Ii6ma58Pc_-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Utilized Margin" vertex="1">
           <mxGeometry height="59" width="168" x="330" y="1295" as="geometry" />
         </mxCell>
-        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Available Margin" vertex="1">
+        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=48;fontColor=light-dark(#7a7978, #ededed);" value="Net Margin" vertex="1">
           <mxGeometry height="59" width="168" x="813" y="1289" as="geometry" />
         </mxCell>
         <mxCell id="ExlUUjPYo0Ii6ma58Pc_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=42;" value="₹2000" vertex="1">
