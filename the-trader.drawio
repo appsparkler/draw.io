@@ -103,6 +103,12 @@
         <mxCell id="ExlUUjPYo0Ii6ma58Pc_-10" parent="ExlUUjPYo0Ii6ma58Pc_-9" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=#1CA5B8;strokeColor=none;resizeHeight=1;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="250" as="geometry" />
         </mxCell>
+        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="The max value on the progress bar is the total margin and the filled in part is the utilized margin" vertex="1">
+          <mxGeometry height="92" width="269" x="175" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="ExlUUjPYo0Ii6ma58Pc_-12" edge="1" parent="1" source="ExlUUjPYo0Ii6ma58Pc_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.412;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" target="ExlUUjPYo0Ii6ma58Pc_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
