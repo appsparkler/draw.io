@@ -119,15 +119,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmkDPsUycKQvBsQ4H3Di" name="Page-2">
-    <mxGraphModel dx="1126" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FDZGNOtkY16CQce4NqAR-3" edge="1" parent="1" source="FDZGNOtkY16CQce4NqAR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FDZGNOtkY16CQce4NqAR-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDZGNOtkY16CQce4NqAR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Client posts a request - for example:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;fetch(&quot;/api/ltp&quot;, () =&amp;gt; {&lt;/div&gt;&lt;div&gt;method: &quot;POST&quot;,&lt;/div&gt;&lt;div&gt;body: JSON.stringify({&lt;/div&gt;&lt;div&gt;instrument: &quot;WIPRO&quot;,&lt;br&gt;ltp: 128.10&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;" vertex="1">
-          <mxGeometry height="167" width="345" x="-33" y="45" as="geometry" />
+        <mxCell id="FDZGNOtkY16CQce4NqAR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Client posts a request - for example:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;fetch(&quot;http://localhost:3000/api/ltp&quot;, () =&amp;gt; {&lt;/div&gt;&lt;div&gt;method: &quot;POST&quot;,&lt;/div&gt;&lt;div&gt;body: JSON.stringify({&lt;/div&gt;&lt;div&gt;instrument: &quot;WIPRO&quot;,&lt;br&gt;ltp: 128.10&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;div&gt;})&lt;br&gt;&lt;br&gt;The call is made from another site - for ex. https://kite.zerodha.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="236" width="345" x="-33" y="45" as="geometry" />
         </mxCell>
         <mxCell id="FDZGNOtkY16CQce4NqAR-5" edge="1" parent="1" source="FDZGNOtkY16CQce4NqAR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FDZGNOtkY16CQce4NqAR-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -135,13 +135,16 @@
         <mxCell id="FDZGNOtkY16CQce4NqAR-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="SERVER" vertex="1">
           <mxGeometry height="60" width="120" x="504.5" y="98.5" as="geometry" />
         </mxCell>
+        <mxCell id="FDZGNOtkY16CQce4NqAR-8" edge="1" parent="1" source="FDZGNOtkY16CQce4NqAR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="FDZGNOtkY16CQce4NqAR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FDZGNOtkY16CQce4NqAR-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Websocket" vertex="1">
           <mxGeometry height="60" width="120" x="504.5" y="265" as="geometry" />
         </mxCell>
         <mxCell id="FDZGNOtkY16CQce4NqAR-7" edge="1" parent="1" source="FDZGNOtkY16CQce4NqAR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FDZGNOtkY16CQce4NqAR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDZGNOtkY16CQce4NqAR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="new Websocket()&lt;br&gt;// receive the data which is sent from /api/ltp" vertex="1">
+        <mxCell id="FDZGNOtkY16CQce4NqAR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="On another client,&lt;div&gt;new Websocket()&lt;/div&gt;// receive the data which is sent from /api/ltp" vertex="1">
           <mxGeometry height="167" width="345" x="1" y="392" as="geometry" />
         </mxCell>
       </root>
