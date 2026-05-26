@@ -22,8 +22,8 @@
         <mxCell id="pPH6oVQiPgVcm9OUePWL-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="User logins to Zerodha" vertex="1">
           <mxGeometry height="60" width="120" x="423" y="101" as="geometry" />
         </mxCell>
-        <mxCell id="pPH6oVQiPgVcm9OUePWL-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="423" y="241" as="geometry" />
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Redirected to callback URL with request_token&lt;br&gt;&lt;b&gt;http://localhost:3000/api/auth/kite/callback&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="262" x="352" y="244" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
