@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="4KjMPYYtLXdBkkJX1B08" name="Auth">
-    <mxGraphModel dx="957" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,14 +28,38 @@
         <mxCell id="pPH6oVQiPgVcm9OUePWL-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Redirected to callback URL with request_token&lt;br&gt;&lt;b&gt;http://localhost:3000/api/auth/kite/callback&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="262" x="352" y="244" as="geometry" />
         </mxCell>
-        <mxCell id="pPH6oVQiPgVcm9OUePWL-11" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-10" value="">
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-13" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pPH6oVQiPgVcm9OUePWL-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="In loader for this route, generate the session" vertex="1">
           <mxGeometry height="60" width="120" x="17" y="244" as="geometry" />
         </mxCell>
-        <mxCell id="pPH6oVQiPgVcm9OUePWL-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="pass the session to the client side" vertex="1">
-          <mxGeometry height="60" width="120" x="17" y="396" as="geometry" />
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-15" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Serialize and save the access token in cookie" vertex="1">
+          <mxGeometry height="60" width="120" x="17" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-17" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="redirect to /dashboard" vertex="1">
+          <mxGeometry height="60" width="120" x="217" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-19" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="in dashboard loader, get the access token from the cookie and send it to client" vertex="1">
+          <mxGeometry height="60" width="120" x="417" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-21" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="front-end creates the kc client with api_key and access_token.&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="617" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="use kc client for calling Kite APIs" vertex="1">
+          <mxGeometry height="60" width="120" x="617" y="524" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
