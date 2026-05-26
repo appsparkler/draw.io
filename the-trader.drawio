@@ -1,6 +1,35 @@
-<mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Page-1" id="5MV4RERJIjpIYta4IkZD">
-    <mxGraphModel dx="2013" dy="1791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" background="#ffffff" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="3">
+  <diagram id="4KjMPYYtLXdBkkJX1B08" name="Auth">
+    <mxGraphModel dx="726" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-3" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User clicks &quot;Login&quot; Button" vertex="1">
+          <mxGeometry height="60" width="120" x="23" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-5" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Open the Login URL" vertex="1">
+          <mxGeometry height="60" width="120" x="223" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-7" edge="1" parent="1" source="pPH6oVQiPgVcm9OUePWL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pPH6oVQiPgVcm9OUePWL-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="User logins to Zerodha" vertex="1">
+          <mxGeometry height="60" width="120" x="423" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="pPH6oVQiPgVcm9OUePWL-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="423" y="241" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="UI/UX" id="5MV4RERJIjpIYta4IkZD">
+    <mxGraphModel dx="3134" dy="2189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,8 +147,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dmkDPsUycKQvBsQ4H3Di" name="Page-2">
-    <mxGraphModel dx="1610" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+  <diagram id="dmkDPsUycKQvBsQ4H3Di" name="Kite-Fly-Ticker-Architecture">
+    <mxGraphModel dx="1357" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
