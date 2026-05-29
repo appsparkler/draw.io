@@ -1,4 +1,33 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram id="YVkBlKKJ4RNEtawBKbZk" name="Session">
+    <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-3" edge="1" parent="1" source="b8iQl_XISdQ6rZ6kNcMQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b8iQl_XISdQ6rZ6kNcMQ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start session" vertex="1">
+          <mxGeometry height="60" width="120" x="-200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-5" edge="1" parent="1" source="b8iQl_XISdQ6rZ6kNcMQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b8iQl_XISdQ6rZ6kNcMQ-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="place orders&amp;nbsp;&lt;br&gt;(all or none)" vertex="1">
+          <mxGeometry height="60" width="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-7" edge="1" parent="1" source="b8iQl_XISdQ6rZ6kNcMQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b8iQl_XISdQ6rZ6kNcMQ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="update margins" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b8iQl_XISdQ6rZ6kNcMQ-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="create session" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="4KjMPYYtLXdBkkJX1B08" name="Auth">
     <mxGraphModel dx="1276" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
