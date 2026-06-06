@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="4">
+<mxfile host="app.diagrams.net" pages="5">
   <diagram id="YVkBlKKJ4RNEtawBKbZk" name="Session">
     <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -249,6 +249,51 @@
         </mxCell>
         <mxCell id="FDZGNOtkY16CQce4NqAR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="On another client,&lt;div&gt;new Websocket()&lt;/div&gt;// receive the data which is sent from /api/ltp" vertex="1">
           <mxGeometry height="167" width="345" x="1" y="392" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wPQbEJP3DVO_ncDqMHqx" name="Sessions Page">
+    <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-6" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-8" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="210" />
+              <mxPoint x="250" y="210" />
+              <mxPoint x="250" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-10" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add-scrip" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-4" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add-session-cta" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="select-exchange" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="NSE Scrip" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="NFO Scrip" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
