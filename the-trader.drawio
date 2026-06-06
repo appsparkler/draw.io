@@ -283,6 +283,13 @@
         <mxCell id="DB1AKVm6qyutKQlFYAWD-4" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-12" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DB1AKVm6qyutKQlFYAWD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="add-session-cta" vertex="1">
           <mxGeometry height="60" width="120" x="-160" y="130" as="geometry" />
         </mxCell>
@@ -294,6 +301,9 @@
         </mxCell>
         <mxCell id="DB1AKVm6qyutKQlFYAWD-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="NFO Scrip Form" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="scrip-list" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
