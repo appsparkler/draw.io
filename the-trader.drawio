@@ -264,9 +264,7 @@
         <mxCell id="DB1AKVm6qyutKQlFYAWD-8" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DB1AKVm6qyutKQlFYAWD-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="210" />
-              <mxPoint x="250" y="210" />
-              <mxPoint x="250" y="270" />
+              <mxPoint x="120" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
