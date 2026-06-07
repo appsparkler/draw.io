@@ -1,4 +1,77 @@
 <mxfile host="app.diagrams.net" pages="5">
+  <diagram id="wPQbEJP3DVO_ncDqMHqx" name="Sessions Page">
+    <mxGraphModel dx="1757" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-6" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-8" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-10" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="add-scrip" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-4" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-12" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="add-session-cta" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="select-exchange" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="NSE Scrip Form" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="NFO Scrip Form" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="scrip-list" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="session-list" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-15" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#095C86;fillColor=#F694C1;" target="DB1AKVm6qyutKQlFYAWD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-360" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-18" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#095C86;fillColor=#F694C1;" target="DB1AKVm6qyutKQlFYAWD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-360" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB1AKVm6qyutKQlFYAWD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="sessions-page" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="YVkBlKKJ4RNEtawBKbZk" name="Session">
     <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
@@ -249,79 +322,6 @@
         </mxCell>
         <mxCell id="FDZGNOtkY16CQce4NqAR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="On another client,&lt;div&gt;new Websocket()&lt;/div&gt;// receive the data which is sent from /api/ltp" vertex="1">
           <mxGeometry height="167" width="345" x="1" y="392" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="wPQbEJP3DVO_ncDqMHqx" name="Sessions Page">
-    <mxGraphModel dx="1996" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-6" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-8" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-7" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-10" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-9" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="add-scrip" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-4" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-12" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;" target="DB1AKVm6qyutKQlFYAWD-11" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-100" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="add-session-cta" vertex="1">
-          <mxGeometry height="60" width="120" x="-160" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="select-exchange" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="NSE Scrip Form" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="NFO Scrip Form" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="scrip-list" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="session-list" vertex="1">
-          <mxGeometry height="60" width="120" x="-160" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-15" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#095C86;fillColor=#F694C1;" target="DB1AKVm6qyutKQlFYAWD-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-360" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-18" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#095C86;fillColor=#F694C1;" target="DB1AKVm6qyutKQlFYAWD-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-360" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="sessions-page" vertex="1">
-          <mxGeometry height="60" width="120" x="-420" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
