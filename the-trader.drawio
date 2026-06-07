@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="5">
   <diagram id="wPQbEJP3DVO_ncDqMHqx" name="Sessions Page">
-    <mxGraphModel dx="2640" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2975" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,12 +72,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DB1AKVm6qyutKQlFYAWD-18" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60E696;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#095C86;fillColor=#F694C1;" target="ouMAoqMrmdJ_XqpmxOQB-19">
+        <mxCell id="ouMAoqMrmdJ_XqpmxOQB-28" edge="1" parent="1" source="DB1AKVm6qyutKQlFYAWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="ouMAoqMrmdJ_XqpmxOQB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-360" y="880" />
             </Array>
-            <mxPoint x="-160" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DB1AKVm6qyutKQlFYAWD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;" value="sessions-page" vertex="1">
