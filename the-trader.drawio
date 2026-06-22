@@ -19,8 +19,14 @@
         <mxCell id="Dn79RjD0hEObntO6noCi-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="convert CSV to JSON" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="Dn79RjD0hEObntO6noCi-8" edge="1" parent="1" source="Dn79RjD0hEObntO6noCi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Dn79RjD0hEObntO6noCi-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dn79RjD0hEObntO6noCi-5" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Send the data to the WSS running on localhost:8080&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Dn79RjD0hEObntO6noCi-7" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="display data in UI" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
