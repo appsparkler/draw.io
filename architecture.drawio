@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="DUEtG0Wcje9HvlHXMRfN">
+    <mxGraphModel dx="1198" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XK4CYRICbNCdkGbWFszJ-6" parent="1" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=light-dark(#FFFFFF,#1A1A1A);" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QUESTION:&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What is the application trying to achieve?&lt;br&gt;&lt;br&gt;&lt;/div&gt;Assume that UI is rendered in the terminal (ui), the data is coming via kiteconnect or FlatTrade APIs (infrastructure).&amp;nbsp; Irrespective of how the UI is rendered or where the data comes from, the application will do what it is supposed to.&lt;br&gt;&lt;br&gt;So what is it that the application is trying to achieve?" vertex="1">
+          <mxGeometry height="210" width="390" x="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="XK4CYRICbNCdkGbWFszJ-7" parent="1" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=light-dark(#FFFFFF,#333333);align=left;spacing=14;" value="&lt;div&gt;ANSWER:&lt;br&gt;&lt;br&gt;&lt;/div&gt;- To display the underlying scrip as it ticks&lt;br&gt;- To display specific data from the option chain table&lt;br&gt;- To be able to see the difference between two periods.&lt;br&gt;- To select a visible range (so that users don&#39;t have too much data on their screen)&lt;br&gt;- To be able to upload the data on the database for replay&lt;br&gt;- A replay screen where user can replay the data stored on the database." vertex="1">
+          <mxGeometry height="210" width="330" x="250" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
