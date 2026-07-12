@@ -59,7 +59,7 @@
           <mxGeometry height="80" width="200" x="440" y="280" as="geometry" />
         </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-20" parent="1" style="whiteSpace=wrap;html=1;" value="If it is authenticated, it will subscribe/unsubscribe the tokens" vertex="1">
-          <mxGeometry height="120" width="190" x="445" y="400" as="geometry" />
+          <mxGeometry height="60" width="190" x="445" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
