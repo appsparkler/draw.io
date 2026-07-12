@@ -52,8 +52,14 @@
         <mxCell id="7IPFf-S3zAzNSelsHzBC-17" parent="1" style="whiteSpace=wrap;html=1;" value="Listens for event.&lt;br&gt;When it receives a tick-event, it broadcasts the tick to all connected clients" vertex="1">
           <mxGeometry height="100" width="120" x="30" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-21" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-19" parent="1" style="whiteSpace=wrap;html=1;" value="/smart-web-socket&lt;br&gt;path will receive the subscribe/unsubscribe requests" vertex="1">
           <mxGeometry height="80" width="200" x="440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-20" parent="1" style="whiteSpace=wrap;html=1;" value="If it is un-authenticated,&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
