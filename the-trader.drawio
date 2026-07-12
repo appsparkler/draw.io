@@ -31,6 +31,21 @@
         <mxCell id="7IPFf-S3zAzNSelsHzBC-10" parent="1" style="whiteSpace=wrap;html=1;" value="WebSocket API" vertex="1">
           <mxGeometry height="60" width="120" x="690" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-16" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-12" parent="1" style="whiteSpace=wrap;html=1;" value="Initialize WSS" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-14" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-13" parent="1" style="whiteSpace=wrap;html=1;" value="Initialize Express server" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-15" parent="1" style="whiteSpace=wrap;html=1;" value="Start Server" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
