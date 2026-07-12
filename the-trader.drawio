@@ -58,8 +58,14 @@
         <mxCell id="7IPFf-S3zAzNSelsHzBC-19" parent="1" style="whiteSpace=wrap;html=1;" value="/smart-web-socket&lt;br&gt;path will receive the subscribe/unsubscribe requests" vertex="1">
           <mxGeometry height="80" width="200" x="440" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-23" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-20" parent="1" style="whiteSpace=wrap;html=1;" value="If it is authenticated, it will subscribe/unsubscribe the tokens" vertex="1">
           <mxGeometry height="60" width="190" x="445" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-22" parent="1" style="whiteSpace=wrap;html=1;" value="on receiving the ticks, it will send the tick via the tick-event." vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
