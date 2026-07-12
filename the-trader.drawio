@@ -34,6 +34,9 @@
         <mxCell id="7IPFf-S3zAzNSelsHzBC-16" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-18" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-12" parent="1" style="whiteSpace=wrap;html=1;" value="Initialize WSS" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="360" as="geometry" />
         </mxCell>
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-15" parent="1" style="whiteSpace=wrap;html=1;" value="Start Server" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-17" parent="1" style="whiteSpace=wrap;html=1;" value="Listens for event" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
