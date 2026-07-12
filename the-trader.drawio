@@ -1,4 +1,39 @@
-<mxfile host="app.diagrams.net" pages="7">
+<mxfile host="app.diagrams.net" pages="8">
+  <diagram id="TwIUTC1935_kegxPwZt4" name="Page-8">
+    <mxGraphModel dx="911" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-1" parent="1" style="whiteSpace=wrap;html=1;" value="SmartAPI&lt;br&gt;WebSocketV2" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-4" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-9" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;startArrow=classic;startFill=1;" target="7IPFf-S3zAzNSelsHzBC-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-2" parent="1" style="whiteSpace=wrap;html=1;" value="My Server" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-7" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7IPFf-S3zAzNSelsHzBC-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-5" parent="1" style="whiteSpace=wrap;html=1;" value="wss node module&lt;br&gt;integrated on &lt;b&gt;/stream&lt;/b&gt;&amp;nbsp;path" vertex="1">
+          <mxGeometry height="60" width="160" x="270" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-11" edge="1" parent="1" source="7IPFf-S3zAzNSelsHzBC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="7IPFf-S3zAzNSelsHzBC-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-8" parent="1" style="whiteSpace=wrap;html=1;" value="Web Client" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPFf-S3zAzNSelsHzBC-10" parent="1" style="whiteSpace=wrap;html=1;" value="WebSocket API" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="DJJglXgiiesMZdZrMfj2" name="NSE OI Ticker">
     <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
