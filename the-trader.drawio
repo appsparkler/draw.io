@@ -82,11 +82,29 @@
         <mxCell id="rv1kC-MxuDM34dOyLYuB-3" parent="1" style="whiteSpace=wrap;html=1;" value="WSS" vertex="1">
           <mxGeometry height="40" width="80" x="50" y="690" as="geometry" />
         </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-10" edge="1" parent="1" source="rv1kC-MxuDM34dOyLYuB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rv1kC-MxuDM34dOyLYuB-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rv1kC-MxuDM34dOyLYuB-6" parent="1" style="whiteSpace=wrap;html=1;" value="SmartSocketService" vertex="1">
           <mxGeometry height="40" width="130" x="220" y="690" as="geometry" />
         </mxCell>
         <mxCell id="rv1kC-MxuDM34dOyLYuB-7" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFCC);fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;connect&lt;/div&gt;&lt;div&gt;disconnect&lt;/div&gt;&lt;div&gt;subscribe&lt;/div&gt;&lt;div&gt;unsubscribe&lt;/div&gt;&lt;div&gt;onTick&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="340" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-9" parent="1" style="whiteSpace=wrap;html=1;" value="WebSocket&lt;br&gt;ws://localhost:3000/stream" vertex="1">
+          <mxGeometry height="60" width="100" x="250" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-11" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="210" y="709.5" as="sourcePoint" />
+            <mxPoint x="140" y="709.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-12" connectable="0" parent="rv1kC-MxuDM34dOyLYuB-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;send&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.1143" y="3" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
