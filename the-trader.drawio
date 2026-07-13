@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="8">
   <diagram id="TwIUTC1935_kegxPwZt4" name="SmartAPI -&gt; WebSocket Integration">
-    <mxGraphModel dx="911" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,21 @@
         </mxCell>
         <mxCell id="7IPFf-S3zAzNSelsHzBC-22" parent="1" style="whiteSpace=wrap;html=1;" value="on receiving the ticks, it will send the tick via the tick-event." vertex="1">
           <mxGeometry height="60" width="120" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-1" parent="1" style="whiteSpace=wrap;html=1;" value="when server starts, setup the wss" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-5" edge="1" parent="1" source="rv1kC-MxuDM34dOyLYuB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rv1kC-MxuDM34dOyLYuB-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-2" parent="1" style="whiteSpace=wrap;html=1;" value="web client" vertex="1">
+          <mxGeometry height="60" width="160" x="120" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="320" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-3" parent="1" style="whiteSpace=wrap;html=1;" value="WSS" vertex="1">
+          <mxGeometry height="40" width="80" x="50" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
