@@ -76,11 +76,14 @@
         <mxCell id="rv1kC-MxuDM34dOyLYuB-2" parent="1" style="whiteSpace=wrap;html=1;" value="web client" vertex="1">
           <mxGeometry height="60" width="160" x="120" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="rv1kC-MxuDM34dOyLYuB-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-4" parent="1" style="whiteSpace=wrap;html=1;" value="NODE SERVER" vertex="1">
           <mxGeometry height="160" width="320" x="40" y="680" as="geometry" />
         </mxCell>
         <mxCell id="rv1kC-MxuDM34dOyLYuB-3" parent="1" style="whiteSpace=wrap;html=1;" value="WSS" vertex="1">
           <mxGeometry height="40" width="80" x="50" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="rv1kC-MxuDM34dOyLYuB-6" parent="1" style="whiteSpace=wrap;html=1;" value="SmartSocketService" vertex="1">
+          <mxGeometry height="40" width="130" x="220" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
