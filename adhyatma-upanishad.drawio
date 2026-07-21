@@ -58,6 +58,15 @@
         <mxCell id="qUPWXYtOiRJ4m_q6CNJX-12" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" value="" vertex="1">
           <mxGeometry height="60" width="60" x="100" y="235" as="geometry" />
         </mxCell>
+        <mxCell id="qUPWXYtOiRJ4m_q6CNJX-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=1;rotation=0;fontColor=light-dark(#000000,#000000);labelBorderColor=none;textShadow=1;" value="causal body" vertex="1">
+          <mxGeometry height="20" width="80" x="94" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="qUPWXYtOiRJ4m_q6CNJX-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=1;rotation=0;fontColor=light-dark(#000000,#000000);labelBorderColor=none;textShadow=1;" value="causal body" vertex="1">
+          <mxGeometry height="20" width="80" x="90" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="qUPWXYtOiRJ4m_q6CNJX-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=1;rotation=0;fontColor=light-dark(#000000,#000000);labelBorderColor=none;textShadow=1;" value="soul" vertex="1">
+          <mxGeometry height="20" width="30" x="115" y="255" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
