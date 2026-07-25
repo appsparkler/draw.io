@@ -10,7 +10,7 @@
         <mxCell id="V086_N9c7kt_d0ZYeGmk-2" parent="1" style="whiteSpace=wrap;html=1;" value="Soul" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="V086_N9c7kt_d0ZYeGmk-4" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+        <mxCell id="V086_N9c7kt_d0ZYeGmk-4" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="50" width="40" x="260" y="120" as="geometry" />
         </mxCell>
         <mxCell id="V086_N9c7kt_d0ZYeGmk-5" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="V086_N9c7kt_d0ZYeGmk-10" parent="1" style="whiteSpace=wrap;html=1;" value="Soul" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="V086_N9c7kt_d0ZYeGmk-11" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+        <mxCell id="V086_N9c7kt_d0ZYeGmk-11" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="50" width="40" x="540" y="100" as="geometry" />
         </mxCell>
         <mxCell id="V086_N9c7kt_d0ZYeGmk-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="RE PRIORITIZE" vertex="1">
