@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="yb83xSOOJBh7PakNSa16" name="Page-2">
-    <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,13 +26,16 @@
           <mxGeometry height="50" width="40" x="-40" y="340" as="geometry" />
         </mxCell>
         <mxCell id="V086_N9c7kt_d0ZYeGmk-9" parent="1" style="whiteSpace=wrap;html=1;" value="Everything else" vertex="1">
-          <mxGeometry height="80" width="160" x="480" y="160" as="geometry" />
+          <mxGeometry height="80" width="160" x="480" y="150" as="geometry" />
         </mxCell>
         <mxCell id="V086_N9c7kt_d0ZYeGmk-10" parent="1" style="whiteSpace=wrap;html=1;" value="Soul" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="50" as="geometry" />
+          <mxGeometry height="60" width="120" x="500" y="40" as="geometry" />
         </mxCell>
         <mxCell id="V086_N9c7kt_d0ZYeGmk-11" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
-          <mxGeometry height="50" width="40" x="540" y="110" as="geometry" />
+          <mxGeometry height="50" width="40" x="540" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V086_N9c7kt_d0ZYeGmk-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="RE PRIORITIZE" vertex="1">
+          <mxGeometry height="30" width="110" x="370" y="-20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
