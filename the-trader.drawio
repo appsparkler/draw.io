@@ -85,7 +85,7 @@
             <mxRectangle height="41" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-87" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Tahoma;" value="Create Basket" vertex="1">
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-87" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Tahoma;" value="Create Cart" vertex="1">
           <mxGeometry height="33" width="106" x="-227.5" y="746" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;" value="&lt;b&gt;Basket ID:&lt;/b&gt; ZdYaGd9NbgSMrzXj8NJjG" vertex="1">
