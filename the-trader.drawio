@@ -13,6 +13,18 @@
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-64" parent="1" style="triangle;whiteSpace=wrap;html=1;shapeInside=1;rotation=90;" value="" vertex="1">
           <mxGeometry height="24" width="13" x="-209" y="188" as="geometry" />
         </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-66" parent="1" style="whiteSpace=wrap;html=1;align=left;spacing=8;" value="23800PE" vertex="1">
+          <mxGeometry height="28" width="75" x="-148" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Search" vertex="1">
+          <mxGeometry height="30" width="60" x="-156" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-68" parent="1" style="whiteSpace=wrap;html=1;align=left;spacing=8;" value="23800PE" vertex="1">
+          <mxGeometry height="28" width="75" x="-45" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Select Instrument" vertex="1">
+          <mxGeometry height="30" width="105" x="-50" y="163" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
