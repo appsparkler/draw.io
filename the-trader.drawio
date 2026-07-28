@@ -139,6 +139,9 @@
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;" value="Baskets" vertex="1">
           <mxGeometry height="30" width="120" x="-366" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=34;" value="..." vertex="1">
+          <mxGeometry height="30" width="144" x="-79.25" y="649.88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
