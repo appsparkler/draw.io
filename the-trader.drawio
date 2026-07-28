@@ -152,7 +152,7 @@
           <mxGeometry height="30" width="120" x="-288" y="-149" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-109" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- these will usually live for a week or so&lt;/div&gt;&lt;div&gt;- we can consider storing to DB as we may need them for a week.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="344" x="310" y="536" as="geometry" />
+          <mxGeometry height="93" width="344" x="284" y="536" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-110" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Delete" vertex="1">
           <mxGeometry height="33" width="80" x="-315" y="746" as="geometry" />
