@@ -718,6 +718,9 @@
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-281" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;fontFamily=Tahoma;" value="ARCHIVE" vertex="1">
           <mxGeometry height="33" width="98" x="153.11" y="1902" as="geometry" />
         </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-283" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=34;" value="..." vertex="1">
+          <mxGeometry height="30" width="144" x="830" y="1453" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
