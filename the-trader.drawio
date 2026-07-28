@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="9">
   <diagram id="rXFRduw3DooU5-taX8_e" name="Page-9">
-    <mxGraphModel dx="1308" dy="1183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2215" dy="1965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,13 +293,13 @@
           <mxGeometry height="30" width="210" x="-364" y="929" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-182" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;&lt;b&gt;interface ICart&lt;/b&gt;&amp;nbsp;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       id: string;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       instrument: SmartInstrument&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       type: TradeType&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="344" x="339" y="896.5" as="geometry" />
+          <mxGeometry height="93" width="203" x="339" y="896.5" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=34;" value="..." vertex="1">
           <mxGeometry height="30" width="144" x="339" y="1016.25" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-184" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- these are not expected to live long.&amp;nbsp; Maximum for a day.&lt;/div&gt;&lt;div&gt;- we don&#39;t need to store it on DB&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="344" x="701" y="896.5" as="geometry" />
+          <mxGeometry height="93" width="344" x="555" y="897.5" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=24;" value="LIVE Positions" vertex="1">
           <mxGeometry height="30" width="193" x="-400" y="1215" as="geometry" />
