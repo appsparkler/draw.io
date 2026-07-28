@@ -154,11 +154,11 @@
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-110" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Delete" vertex="1">
           <mxGeometry height="33" width="80" x="-315" y="746" as="geometry" />
         </mxCell>
-        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;" value="Carts" vertex="1">
-          <mxGeometry height="30" width="120" x="-360" y="877" as="geometry" />
-        </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=24;" value="Creating a basket" vertex="1">
           <mxGeometry height="30" width="216" x="-275" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=24;" value="Carts" vertex="1">
+          <mxGeometry height="30" width="120" x="-395" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
