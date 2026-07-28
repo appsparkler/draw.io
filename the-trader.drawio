@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-282" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" value="" vertex="1">
-          <mxGeometry height="269.5" width="1187" x="-386" y="1746" as="geometry" />
+          <mxGeometry height="261" width="1187" x="-388" y="1702" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" value="" vertex="1">
           <mxGeometry height="269.5" width="1169" x="-386" y="1267" as="geometry" />
@@ -515,7 +515,7 @@
           <mxGeometry height="30" width="304" x="-384" y="1655" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-238" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontFamily=Tahoma;" value="" vertex="1">
-          <mxGeometry height="117.74999999999955" width="1102.2261904761904" x="-347" y="1798" as="geometry" />
+          <mxGeometry height="117.74999999999955" width="1102.2261904761904" x="-349" y="1754" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-239" parent="rqWBeaK9SX4Bb5OFPvzx-238" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontFamily=Tahoma;" value="" vertex="1">
           <mxGeometry height="40" width="1102.2261904761904" as="geometry" />
@@ -707,7 +707,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-278" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;" value="&lt;b&gt;Position ID:&lt;/b&gt;&amp;nbsp;M1_11gnNIpRkP7Ex_cDEg" vertex="1">
-          <mxGeometry height="30" width="275" x="-348" y="1761" as="geometry" />
+          <mxGeometry height="30" width="275" x="-350" y="1717" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-279" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- these could live long; especially, if the trade makes a loss.&amp;nbsp; Maximum for a week though.&lt;/div&gt;&lt;div&gt;- we need to store it on DB&lt;/div&gt;&lt;div&gt;- the instruments listed here should be subscribed to on SmartSocket&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="344" x="1154" y="1267" as="geometry" />
@@ -716,7 +716,7 @@
           <mxGeometry height="178" width="286" x="828" y="1267" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-281" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;fontFamily=Tahoma;" value="ARCHIVE" vertex="1">
-          <mxGeometry height="33" width="98" x="155.11" y="1946" as="geometry" />
+          <mxGeometry height="33" width="98" x="153.11" y="1902" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
