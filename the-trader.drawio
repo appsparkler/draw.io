@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="9">
   <diagram id="rXFRduw3DooU5-taX8_e" name="Page-9">
-    <mxGraphModel dx="1126" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-99" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontFamily=Tahoma;" value="Create Basket" vertex="1">
           <mxGeometry height="33" width="106" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;" value="Baskets" vertex="1">
+          <mxGeometry height="30" width="120" x="-366" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
