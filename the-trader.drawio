@@ -142,8 +142,8 @@
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=34;" value="..." vertex="1">
           <mxGeometry height="30" width="144" x="-79.25" y="649.88" as="geometry" />
         </mxCell>
-        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-103" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;id: string;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;instrument: SmartInstrument&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;type: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
-          <mxGeometry height="122" width="344" x="-70" y="536" as="geometry" />
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-103" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;interface IBasket {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       id: string;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       instrument: SmartInstrument&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;       type: TradeType&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="93" width="344" x="-70" y="536" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-105" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="TradeType = &quot;BUY&quot; | &quot;SELL&quot;" vertex="1">
           <mxGeometry height="60" width="271" x="-288" y="-115" as="geometry" />
