@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="9">
   <diagram id="rXFRduw3DooU5-taX8_e" name="Page-9">
-    <mxGraphModel dx="1852" dy="1652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="2189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="402" pageHeight="874" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,6 +507,12 @@
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;" value="&lt;b&gt;Position ID:&lt;/b&gt;&amp;nbsp;M1_11gnNIpRkP7Ex_cDEg" vertex="1">
           <mxGeometry height="30" width="238" x="-358" y="1303" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" value="" vertex="1">
+          <mxGeometry height="269.5" width="1169" x="-391.39" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="rqWBeaK9SX4Bb5OFPvzx-237" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=24;" value="Exited Positions" vertex="1">
+          <mxGeometry height="30" width="304" x="-384" y="1655" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
