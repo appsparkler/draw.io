@@ -302,7 +302,7 @@
           <mxGeometry height="30" width="144" x="339" y="1016.25" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-184" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- these are not expected to live long.&amp;nbsp; Maximum for a day.&lt;/div&gt;&lt;div&gt;- we don&#39;t need to store it on DB&lt;/div&gt;&lt;div&gt;- the instruments listed here should be subscribed to on SmartSocket&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="344" x="590" y="897.5" as="geometry" />
+          <mxGeometry height="93" width="344" x="578" y="896.5" as="geometry" />
         </mxCell>
         <mxCell id="rqWBeaK9SX4Bb5OFPvzx-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=24;" value="LIVE Positions" vertex="1">
           <mxGeometry height="30" width="193" x="-400" y="1215" as="geometry" />
