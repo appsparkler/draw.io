@@ -4400,12 +4400,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PrNJ5gxVUhDOH7I1GIr5" name="A MONTH IN REAL MOON CALENDAR">
-    <mxGraphModel dx="2124" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PrAKEDunX-OYsNFspCVM-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
-          <mxGeometry height="960" width="320" x="240" y="120" as="geometry" />
+          <mxGeometry height="880" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-45" parent="PrAKEDunX-OYsNFspCVM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
           <mxGeometry height="109" width="320" as="geometry" />
@@ -4499,23 +4499,136 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-20" parent="PrAKEDunX-OYsNFspCVM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
-          <mxGeometry height="200" width="320" y="760" as="geometry" />
+          <mxGeometry height="120" width="320" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="PrAKEDunX-OYsNFspCVM-21" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;rowspan=1;colspan=2;verticalAlign=middle;spacing=0;spacingBottom=18;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Poornima&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;OR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Amavasya&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="320" as="geometry">
-            <mxRectangle height="200" width="160" as="alternateBounds" />
+        <mxCell id="PrAKEDunX-OYsNFspCVM-21" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;rowspan=1;colspan=2;verticalAlign=middle;spacing=0;spacingBottom=18;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Amavasya&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="320" as="geometry">
+            <mxRectangle height="120" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-22" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="14" vertex="1" visible="0">
-          <mxGeometry height="200" width="160" x="160" as="geometry">
-            <mxRectangle height="200" width="160" as="alternateBounds" />
+          <mxGeometry height="120" width="160" x="160" as="geometry">
+            <mxRectangle height="120" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrAKEDunX-OYsNFspCVM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Shukla/Krishna&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="320" x="240" y="40" as="geometry" />
+        <mxCell id="PrAKEDunX-OYsNFspCVM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Shukla&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Paksh&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="320" x="240" y="80" as="geometry" />
+          <mxGeometry height="30" width="320" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-50" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="880" width="320" x="440" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-51" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="109" width="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-52" parent="PrAKEDunX-OYsNFspCVM-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="1" vertex="1">
+          <mxGeometry height="109" width="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-53" parent="PrAKEDunX-OYsNFspCVM-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="8" vertex="1">
+          <mxGeometry height="109" width="160" x="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-54" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="109" width="320" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-55" parent="PrAKEDunX-OYsNFspCVM-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="2" vertex="1">
+          <mxGeometry height="109" width="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-56" parent="PrAKEDunX-OYsNFspCVM-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="9" vertex="1">
+          <mxGeometry height="109" width="160" x="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-57" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="108" width="320" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-58" parent="PrAKEDunX-OYsNFspCVM-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="3" vertex="1">
+          <mxGeometry height="108" width="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-59" parent="PrAKEDunX-OYsNFspCVM-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="10" vertex="1">
+          <mxGeometry height="108" width="160" x="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-60" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="109" width="320" y="326" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-61" parent="PrAKEDunX-OYsNFspCVM-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="4" vertex="1">
+          <mxGeometry height="109" width="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-62" parent="PrAKEDunX-OYsNFspCVM-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="11" vertex="1">
+          <mxGeometry height="109" width="160" x="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-63" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="108" width="320" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-64" parent="PrAKEDunX-OYsNFspCVM-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="5" vertex="1">
+          <mxGeometry height="108" width="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-65" parent="PrAKEDunX-OYsNFspCVM-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="12" vertex="1">
+          <mxGeometry height="108" width="160" x="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-66" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="109" width="320" y="543" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-67" parent="PrAKEDunX-OYsNFspCVM-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="6" vertex="1">
+          <mxGeometry height="109" width="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-68" parent="PrAKEDunX-OYsNFspCVM-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="13" vertex="1">
+          <mxGeometry height="109" width="160" x="160" as="geometry">
+            <mxRectangle height="109" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-69" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="108" width="320" y="652" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-70" parent="PrAKEDunX-OYsNFspCVM-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="7" vertex="1">
+          <mxGeometry height="108" width="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-71" parent="PrAKEDunX-OYsNFspCVM-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="14" vertex="1">
+          <mxGeometry height="108" width="160" x="160" as="geometry">
+            <mxRectangle height="108" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-72" parent="PrAKEDunX-OYsNFspCVM-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
+          <mxGeometry height="120" width="320" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-73" parent="PrAKEDunX-OYsNFspCVM-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;rowspan=1;colspan=2;verticalAlign=middle;spacing=0;spacingBottom=18;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Poornima&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="320" as="geometry">
+            <mxRectangle height="120" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-74" parent="PrAKEDunX-OYsNFspCVM-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="14" vertex="1" visible="0">
+          <mxGeometry height="120" width="160" x="160" as="geometry">
+            <mxRectangle height="120" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Krishna&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Paksh&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="440" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
