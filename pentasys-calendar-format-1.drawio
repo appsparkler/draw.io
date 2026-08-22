@@ -4405,7 +4405,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PrAKEDunX-OYsNFspCVM-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
-          <mxGeometry height="990" width="320" x="240" y="80" as="geometry" />
+          <mxGeometry height="960" width="320" x="240" y="120" as="geometry" />
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-45" parent="PrAKEDunX-OYsNFspCVM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
           <mxGeometry height="109" width="320" as="geometry" />
@@ -4499,17 +4499,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-20" parent="PrAKEDunX-OYsNFspCVM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="" vertex="1">
-          <mxGeometry height="230" width="320" y="760" as="geometry" />
+          <mxGeometry height="200" width="320" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="PrAKEDunX-OYsNFspCVM-21" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;rowspan=1;colspan=2;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Poornima&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;OR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Amavasya&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="320" as="geometry">
-            <mxRectangle height="230" width="160" as="alternateBounds" />
+        <mxCell id="PrAKEDunX-OYsNFspCVM-21" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;rowspan=1;colspan=2;verticalAlign=middle;spacing=0;spacingBottom=18;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Poornima&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;OR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot;&gt;Amavasya&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="320" as="geometry">
+            <mxRectangle height="200" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PrAKEDunX-OYsNFspCVM-22" parent="PrAKEDunX-OYsNFspCVM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=64;fontFamily=Calistoga;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCalistoga;" value="14" vertex="1" visible="0">
-          <mxGeometry height="230" width="160" x="160" as="geometry">
-            <mxRectangle height="230" width="160" as="alternateBounds" />
+          <mxGeometry height="200" width="160" x="160" as="geometry">
+            <mxRectangle height="200" width="160" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Shukla/Krishna&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PrAKEDunX-OYsNFspCVM-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px; line-height: 70%;&quot; face=&quot;Calistoga&quot;&gt;Paksh&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="240" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
