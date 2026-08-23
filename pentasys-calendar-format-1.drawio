@@ -485,7 +485,7 @@
         <mxCell id="jo84JIhuI6SSs8-6PpCY-21" parent="lOyCMnNdG6nIWHgQT3tQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Calistoga;spacing=0;" value="&lt;div&gt;&lt;font&gt;&amp;nbsp;6am&lt;/font&gt;&lt;/div&gt;&lt;div&gt;North&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="77" x="17" y="550.5" as="geometry" />
         </mxCell>
-        <mxCell id="jo84JIhuI6SSs8-6PpCY-22" parent="lOyCMnNdG6nIWHgQT3tQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Calistoga;spacing=0;" value="&lt;div&gt;&lt;font&gt;&amp;nbsp;12am&lt;/font&gt;&lt;/div&gt;&lt;div&gt;South&lt;/div&gt;" vertex="1">
+        <mxCell id="jo84JIhuI6SSs8-6PpCY-22" parent="lOyCMnNdG6nIWHgQT3tQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Calistoga;spacing=0;" value="&lt;div&gt;&lt;font&gt;&amp;nbsp;12am&lt;/font&gt;&lt;/div&gt;&lt;div&gt;East&lt;/div&gt;" vertex="1">
           <mxGeometry height="41.31" width="77" x="377" y="1.69" as="geometry" />
         </mxCell>
       </root>
