@@ -445,7 +445,7 @@
           <mxGeometry height="30" width="39" x="-613" y="132" as="geometry" />
         </mxCell>
         <mxCell id="Vnfq0jMSJ5O13w7QwEoB-4" parent="VlAyQcZvXyH6RdakJyYl-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;fontColor=#3333FF;" value="&lt;font face=&quot;Calistoga&quot;&gt;&lt;b&gt;26&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="39" x="-252" y="214" as="geometry" />
+          <mxGeometry height="25" width="39" x="-252" y="217" as="geometry" />
         </mxCell>
         <mxCell id="Vnfq0jMSJ5O13w7QwEoB-6" edge="1" parent="VlAyQcZvXyH6RdakJyYl-1" style="endArrow=none;html=1;rounded=0;strokeColor=#3333FF;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
