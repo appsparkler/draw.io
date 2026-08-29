@@ -137,6 +137,9 @@
         <mxCell id="ig3A5U-k7rate7H3WvN1-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="was it successful?" vertex="1">
           <mxGeometry height="90" width="110" x="265" y="850" as="geometry" />
         </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Check validity by calling the user profile API" vertex="1">
+          <mxGeometry height="60" width="170" x="600" y="760" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
