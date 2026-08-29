@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" pages="29">
   <diagram name="A REAL MONTH - usage" id="25ijD1U_tifLRNjcNN4R">
-    <mxGraphModel dx="1533" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2111" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VlAyQcZvXyH6RdakJyYl-0" />
         <mxCell id="VlAyQcZvXyH6RdakJyYl-1" parent="VlAyQcZvXyH6RdakJyYl-0" />
@@ -503,6 +503,9 @@
         </mxCell>
         <mxCell id="VlAyQcZvXyH6RdakJyYl-87" parent="VlAyQcZvXyH6RdakJyYl-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="89" x="-751" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="nkFbuI5kheX643blqjbj-0" parent="VlAyQcZvXyH6RdakJyYl-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-430" y="1125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
