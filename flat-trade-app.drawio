@@ -46,8 +46,8 @@
         <mxCell id="ig3A5U-k7rate7H3WvN1-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="do search params have&amp;nbsp;&lt;b&gt;code&lt;/b&gt;&amp;nbsp;and&amp;nbsp;&lt;b&gt;client?&lt;/b&gt;" vertex="1">
           <mxGeometry height="110" width="180" x="230" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="ig3A5U-k7rate7H3WvN1-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Get the API" vertex="1">
-          <mxGeometry height="60" width="120" x="260" y="735" as="geometry" />
+        <mxCell id="ig3A5U-k7rate7H3WvN1-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Make a &lt;b&gt;POST&lt;/b&gt; call to&amp;nbsp;&lt;code class=&quot;higlighted&quot;&gt;&lt;b&gt;https://authapi.flattrade.in/trade/apitoken&lt;/b&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="50" width="290" x="175" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
