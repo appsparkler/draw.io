@@ -43,11 +43,44 @@
             <mxPoint x="-2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-21" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-25" connectable="0" parent="ig3A5U-k7rate7H3WvN1-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.125" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ig3A5U-k7rate7H3WvN1-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="do search params have&amp;nbsp;&lt;b&gt;code&lt;/b&gt;&amp;nbsp;and&amp;nbsp;&lt;b&gt;client?&lt;/b&gt;" vertex="1">
           <mxGeometry height="110" width="180" x="230" y="520" as="geometry" />
         </mxCell>
         <mxCell id="ig3A5U-k7rate7H3WvN1-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Make a &lt;b&gt;POST&lt;/b&gt; call to&amp;nbsp;&lt;code class=&quot;higlighted&quot;&gt;&lt;b&gt;https://authapi.flattrade.in/trade/apitoken&lt;/b&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="50" width="290" x="175" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-23" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-24" connectable="0" parent="ig3A5U-k7rate7H3WvN1-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.1429" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-27" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-28" connectable="0" parent="ig3A5U-k7rate7H3WvN1-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.0909" y="-4" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="is API token available in cookie?" vertex="1">
+          <mxGeometry height="110" width="180" x="490" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="is the API Token valid?" vertex="1">
+          <mxGeometry height="110" width="180" x="490" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="User is not logged in&lt;br&gt;Show Logged Out UI" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="545" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
