@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Od6aEM1_ThqS1FwPGTHX">
-    <mxGraphModel dx="945" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,8 +26,28 @@
         <mxCell id="ig3A5U-k7rate7H3WvN1-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Flat Trade Auth&lt;br&gt;&lt;code class=&quot;higlighted&quot;&gt;https://auth.flattrade.in/?app_key=APIKEY&lt;/code&gt;" vertex="1">
           <mxGeometry height="120" width="160" x="580" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="ig3A5U-k7rate7H3WvN1-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+        <mxCell id="ig3A5U-k7rate7H3WvN1-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="it will get redirected to home page&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="220" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-13" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="home page loading begins" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-15" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-16" connectable="0" parent="ig3A5U-k7rate7H3WvN1-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="2" as="geometry">
+            <mxPoint x="-2" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="do search params have&amp;nbsp;&lt;b&gt;code&lt;/b&gt;&amp;nbsp;and&amp;nbsp;&lt;b&gt;client?&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="180" x="230" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Get the API" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="735" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
