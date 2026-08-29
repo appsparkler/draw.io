@@ -76,6 +76,14 @@
         <mxCell id="ig3A5U-k7rate7H3WvN1-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="is API token available in cookie?" vertex="1">
           <mxGeometry height="110" width="180" x="490" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-29" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ig3A5U-k7rate7H3WvN1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-30" connectable="0" parent="ig3A5U-k7rate7H3WvN1-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.3742" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ig3A5U-k7rate7H3WvN1-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="is the API Token valid?" vertex="1">
           <mxGeometry height="110" width="180" x="490" y="690" as="geometry" />
         </mxCell>
