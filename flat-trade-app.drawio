@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ig3A5U-k7rate7H3WvN1-3" edge="1" parent="1" source="ig3A5U-k7rate7H3WvN1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ig3A5U-k7rate7H3WvN1-2" value="on click login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ig3A5U-k7rate7H3WvN1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="home page&lt;br&gt;- it has the login button" vertex="1">
           <mxGeometry height="120" width="160" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ig3A5U-k7rate7H3WvN1-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Flat Trade Auth&lt;br&gt;&lt;code class=&quot;higlighted&quot;&gt;https://auth.flattrade.in/?app_key=APIKEY&lt;/code&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="580" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
