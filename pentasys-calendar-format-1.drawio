@@ -25,11 +25,11 @@
         <mxCell id="ucB27Kb50TglpTBVGHCz-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#808080;fontFamily=Tahoma;fontSize=24;" value="SUNDAY" vertex="1">
           <mxGeometry height="30" width="280" x="160" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="ucB27Kb50TglpTBVGHCz-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontFamily=Tahoma;fontSize=36;" value="2083" vertex="1">
-          <mxGeometry height="50" width="90" x="160" y="115" as="geometry" />
+        <mxCell id="ucB27Kb50TglpTBVGHCz-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontFamily=Tahoma;fontSize=34;" value="2083" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="ucB27Kb50TglpTBVGHCz-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontFamily=Tahoma;fontSize=36;" value="Ashwina" vertex="1">
-          <mxGeometry height="50" width="148" x="292" y="115" as="geometry" />
+        <mxCell id="ucB27Kb50TglpTBVGHCz-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontFamily=Tahoma;fontSize=34;" value="Ashwina" vertex="1">
+          <mxGeometry height="50" width="148" x="292" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
