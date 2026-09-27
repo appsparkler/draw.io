@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jMpi4Q2jK1h7JkVB7cXF-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;" value="server receives isoDateString" vertex="1">
-          <mxGeometry height="80" width="120" x="40" y="120" as="geometry" />
+          <mxGeometry height="43" width="120" x="40" y="157" as="geometry" />
         </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-3" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-2" value="">
           <mxGeometry relative="1" as="geometry" />
