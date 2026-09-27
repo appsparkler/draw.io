@@ -19,8 +19,36 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;spacing=8;" value="get daily panchang for the given date" vertex="1">
           <mxGeometry height="40" width="120" x="100" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-7" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="iterate over the tithis and get the panchang data for the isoString" vertex="1">
           <mxGeometry height="59" width="169" x="15.5" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-9" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-12" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-15" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-16" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1818" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-6" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="returns null?" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-8" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-14" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;direction=south;" value="is the&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="534" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
