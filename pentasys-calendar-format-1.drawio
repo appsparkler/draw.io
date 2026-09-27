@@ -5,7 +5,7 @@
         <mxCell id="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="QiYpTjZTEt7y_RQu70gT-1" parent="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="KuaArKpq_Do60fUo7DYZ-5" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="pass the actual date to getDailyPanchang method instead of the ISO string.&amp;nbsp; For ex. isoString may be 20260926 20:00 Z; however, the actual date is 20260907.&amp;nbsp; So we can pass new Date(&quot;2026-09-07&quot;)" vertex="1">
-          <mxGeometry height="170" width="200" x="170" y="110" as="geometry" />
+          <mxGeometry height="112" width="200" x="184.5" y="141" as="geometry" />
         </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-1" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="jMpi4Q2jK1h7JkVB7cXF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-0" value="">
           <mxGeometry relative="1" as="geometry" />
