@@ -19,8 +19,8 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="get daily panchang for the given date" vertex="1">
           <mxGeometry height="40" width="120" x="100" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="KuaArKpq_Do60fUo7DYZ-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="iterate over the tithis" vertex="1">
-          <mxGeometry height="40" width="120" x="40" y="320" as="geometry" />
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="iterate over the tithis and get the panchang data for the isoString" vertex="1">
+          <mxGeometry height="91" width="169" x="15.5" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
