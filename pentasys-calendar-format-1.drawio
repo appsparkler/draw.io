@@ -1,11 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" pages="34">
   <diagram name="MoonCentric" id="U2loy4p-3RQtpoHKl7Ov">
-    <mxGraphModel dx="1195" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="QiYpTjZTEt7y_RQu70gT-1" parent="QiYpTjZTEt7y_RQu70gT-0" />
-        <mxCell id="jMpi4Q2jK1h7JkVB7cXF-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;" value="server receives date" vertex="1">
-          <mxGeometry height="120" width="240" x="40" y="120" as="geometry" />
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-5" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="pass the actual date to getDailyPanchang method instead of the ISO string.&amp;nbsp; For ex. isoString may be 20260926 20:00 Z; however, the actual date is 20260907.&amp;nbsp; So we can pass new Date(&quot;2026-09-07&quot;)" vertex="1">
+          <mxGeometry height="170" width="200" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-1" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="jMpi4Q2jK1h7JkVB7cXF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMpi4Q2jK1h7JkVB7cXF-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;" value="server receives isoDateString" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-3" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-0" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="get daily panchang for the given date" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="iterate over the tithis" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
