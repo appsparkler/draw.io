@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" pages="34">
   <diagram name="MoonCentric" id="U2loy4p-3RQtpoHKl7Ov">
-    <mxGraphModel dx="1006" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="QiYpTjZTEt7y_RQu70gT-1" parent="QiYpTjZTEt7y_RQu70gT-0" />
@@ -64,8 +64,30 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-19" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="736" as="geometry" />
         </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-26" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-29" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.104" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-28" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-30" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1519" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-23" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;direction=south;" value="Does that tithi have number &amp;lt;= 2?" vertex="1">
           <mxGeometry height="145" width="169" x="264.5" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-25" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="493" y="581.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-27" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="289" y="736" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
