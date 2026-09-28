@@ -47,14 +47,6 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-8" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="get previous days tithis and find a tithi from it." vertex="1">
           <mxGeometry height="60" width="120" x="274" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="KuaArKpq_Do60fUo7DYZ-18" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-17" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KuaArKpq_Do60fUo7DYZ-21" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
-          <mxGeometry relative="1" x="-0.3156" y="-1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-20" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -63,14 +55,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-24" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-14" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;direction=south;" value="is the tithi data from non-zero index&amp;nbsp; &amp;nbsp;" vertex="1">
           <mxGeometry height="145" width="169" x="15.5" y="539" as="geometry" />
         </mxCell>
-        <mxCell id="KuaArKpq_Do60fUo7DYZ-17" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="274" y="581.5" as="geometry" />
-        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-19" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="736" as="geometry" />
+        </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-23" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;direction=south;" value="Does that tithi have number &amp;lt;= 2?" vertex="1">
+          <mxGeometry height="145" width="169" x="264.5" y="539" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
