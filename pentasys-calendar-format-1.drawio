@@ -58,6 +58,11 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-24" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="KuaArKpq_Do60fUo7DYZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KuaArKpq_Do60fUo7DYZ-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-31" connectable="0" parent="KuaArKpq_Do60fUo7DYZ-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.0925" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-14" parent="QiYpTjZTEt7y_RQu70gT-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;direction=south;" value="is the tithi data from non-zero index&amp;nbsp; &amp;nbsp;" vertex="1">
           <mxGeometry height="145" width="169" x="15.5" y="539" as="geometry" />
         </mxCell>
@@ -86,7 +91,7 @@
         <mxCell id="KuaArKpq_Do60fUo7DYZ-25" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="get chandramasa and samvat data from next day panchang" vertex="1">
           <mxGeometry height="60" width="120" x="493" y="581.5" as="geometry" />
         </mxCell>
-        <mxCell id="KuaArKpq_Do60fUo7DYZ-27" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+        <mxCell id="KuaArKpq_Do60fUo7DYZ-27" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="return this data" vertex="1">
           <mxGeometry height="60" width="120" x="289" y="736" as="geometry" />
         </mxCell>
       </root>
