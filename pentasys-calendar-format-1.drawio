@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" pages="34">
   <diagram name="MoonCentric" id="U2loy4p-3RQtpoHKl7Ov">
-    <mxGraphModel dx="885" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="QiYpTjZTEt7y_RQu70gT-1" parent="QiYpTjZTEt7y_RQu70gT-0" />
@@ -115,8 +115,8 @@
         <mxCell id="TBjDktUtzebtD3PQT8Xe-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="find the tithi in which the date falls between the startTime and endTime.&amp;nbsp; Use 4 days of data (only 3 days for finding tithi and 1 day for getting calendar info" vertex="1">
           <mxGeometry height="80" width="258" x="733" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="TBjDktUtzebtD3PQT8Xe-4" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="if a tithi is found, compose panchang data.&amp;nbsp; If the tithi is on the&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="802" y="257" as="geometry" />
+        <mxCell id="TBjDktUtzebtD3PQT8Xe-4" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="if a tithi is found, compose panchang data.&amp;nbsp; If the tithi is on the ." vertex="1">
+          <mxGeometry height="98" width="273" x="725.5" y="253" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
