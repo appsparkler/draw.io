@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" pages="34">
   <diagram name="MoonCentric" id="U2loy4p-3RQtpoHKl7Ov">
-    <mxGraphModel dx="824" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="QiYpTjZTEt7y_RQu70gT-0" />
         <mxCell id="QiYpTjZTEt7y_RQu70gT-1" parent="QiYpTjZTEt7y_RQu70gT-0" />
@@ -102,6 +102,15 @@
         </mxCell>
         <mxCell id="KuaArKpq_Do60fUo7DYZ-32" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="add it to the data" vertex="1">
           <mxGeometry height="60" width="120" x="493" y="736" as="geometry" />
+        </mxCell>
+        <mxCell id="TBjDktUtzebtD3PQT8Xe-3" edge="1" parent="QiYpTjZTEt7y_RQu70gT-1" source="TBjDktUtzebtD3PQT8Xe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TBjDktUtzebtD3PQT8Xe-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBjDktUtzebtD3PQT8Xe-1" parent="QiYpTjZTEt7y_RQu70gT-1" style="rounded=1;whiteSpace=wrap;html=1;" value="receive the isoString and timezone on the server" vertex="1">
+          <mxGeometry height="60" width="120" x="802" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="TBjDktUtzebtD3PQT8Xe-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="find the tithi in which the date falls between the startTime and endTime.&amp;nbsp; Use 4 days of data (only 3 days for finding tithi and 1 day for getting calendar info" vertex="1">
+          <mxGeometry height="140" width="258" x="733" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
