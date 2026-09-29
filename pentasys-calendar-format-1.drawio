@@ -115,7 +115,7 @@
         <mxCell id="TBjDktUtzebtD3PQT8Xe-2" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="find the tithi in which the date falls between the startTime and endTime.&amp;nbsp; Use 4 days of data (only 3 days for finding tithi and 1 day for getting calendar info" vertex="1">
           <mxGeometry height="80" width="258" x="733" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="TBjDktUtzebtD3PQT8Xe-4" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="if a tithi is found, compose panchang data.&amp;nbsp; If the tithi is on the ." vertex="1">
+        <mxCell id="TBjDktUtzebtD3PQT8Xe-4" parent="QiYpTjZTEt7y_RQu70gT-1" style="whiteSpace=wrap;html=1;rounded=1;" value="if a tithi is found, compose panchang data.&amp;nbsp; If the tithi is on the non-zero index, use calendar data from the next days panchang data." vertex="1">
           <mxGeometry height="98" width="273" x="725.5" y="253" as="geometry" />
         </mxCell>
       </root>
