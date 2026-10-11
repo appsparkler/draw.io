@@ -390,6 +390,18 @@
         <mxCell id="od3VCPCKxb93ZCUNEq4S-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontStyle=1;fontColor=light-dark(#000000,#EDEDED);" value="80% available for creative work" vertex="1">
           <mxGeometry height="30" width="190" x="385" y="220" as="geometry" />
         </mxCell>
+        <mxCell id="od3VCPCKxb93ZCUNEq4S-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="JIVANMUKTA" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="od3VCPCKxb93ZCUNEq4S-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="TOO MUCH THINKING" vertex="1">
+          <mxGeometry height="50" width="60" x="210" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="od3VCPCKxb93ZCUNEq4S-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="RECLAIMING" vertex="1">
+          <mxGeometry height="25" width="60" x="450" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="od3VCPCKxb93ZCUNEq4S-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="BANDWIDTH" vertex="1">
+          <mxGeometry height="25" width="60" x="450" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
