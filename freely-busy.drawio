@@ -16,10 +16,25 @@
           <mxGeometry height="40" width="40" x="480" y="150" as="geometry" />
         </mxCell>
         <mxCell id="392FqbwRfOenW6sa_OsT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HDFCBANK" vertex="1">
-          <mxGeometry height="30" width="110" x="-70" y="50" as="geometry" />
+          <mxGeometry height="30" width="80" x="-80" y="40" as="geometry" />
         </mxCell>
         <mxCell id="392FqbwRfOenW6sa_OsT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF9933);" value="₹207.50" vertex="1">
+          <mxGeometry height="30" width="60" x="-70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF3333);" value="₹207.45" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3399FF);" value="₹207.55" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-12" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="-40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-13" parent="1" style="whiteSpace=wrap;html=1;" value="+" vertex="1">
+          <mxGeometry height="30" width="30" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-14" parent="1" style="whiteSpace=wrap;html=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="30" x="-40" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
