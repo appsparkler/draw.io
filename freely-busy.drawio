@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 1024 1024&quot;&gt;&#x9;&lt;path d=&quot;M0 0h1024v1024H0z&quot; fill=&quot;none&quot; /&gt;&#x9;&lt;path fill=&quot;currentColor&quot; d=&quot;M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35&quot; /&gt;&lt;/svg&gt;" id="392FqbwRfOenW6sa_OsT-1">
           <mxCell parent="1" style="whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="520" width="360" x="200" y="280" as="geometry" />
+            <mxGeometry height="520" width="360" x="440" y="120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="392FqbwRfOenW6sa_OsT-2" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
