@@ -1,11 +1,25 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="xl0X8JZWfI5bVmwJ5tK7">
-    <mxGraphModel dx="954" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="392FqbwRfOenW6sa_OsT-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="520" width="360" x="40" y="80" as="geometry" />
+        <UserObject label="" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 1024 1024&quot;&gt;&#x9;&lt;path d=&quot;M0 0h1024v1024H0z&quot; fill=&quot;none&quot; /&gt;&#x9;&lt;path fill=&quot;currentColor&quot; d=&quot;M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35&quot; /&gt;&lt;/svg&gt;" id="392FqbwRfOenW6sa_OsT-1">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="520" width="360" x="200" y="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="392FqbwRfOenW6sa_OsT-2" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="340" x="-80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-6" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIHZpZXdCb3g9IjAgMCAyNCAyNCI+JiN4YTsJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiYjeGE7CTxwYXRoIGZpbGw9IiM0MDQwNDAiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE2LjUzIDE0LjAzYS43NS43NSAwIDAgMS0xLjA2IDBMMTIgMTAuNTZsLTMuNDcgMy40N2EuNzUuNzUgMCAwIDEtMS4wNi0xLjA2bDQtNGEuNzUuNzUgMCAwIDEgMS4wNiAwbDQgNGEuNzUuNzUgMCAwIDEgMCAxLjA2IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="480" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HDFCBANK" vertex="1">
+          <mxGeometry height="30" width="110" x="-70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF9933);" value="₹207.50" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
