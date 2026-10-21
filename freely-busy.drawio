@@ -22,19 +22,19 @@
           <mxGeometry height="30" width="60" x="-70" y="60" as="geometry" />
         </mxCell>
         <mxCell id="392FqbwRfOenW6sa_OsT-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF3333);" value="₹207.45" vertex="1">
-          <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
+          <mxGeometry height="30" width="60" x="20" y="50" as="geometry" />
         </mxCell>
         <mxCell id="392FqbwRfOenW6sa_OsT-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3399FF);" value="₹207.55" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="392FqbwRfOenW6sa_OsT-12" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="120" x="-40" y="160" as="geometry" />
+        <mxCell id="392FqbwRfOenW6sa_OsT-12" parent="1" style="whiteSpace=wrap;html=1;" value="1" vertex="1">
+          <mxGeometry height="30" width="90" x="90" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="392FqbwRfOenW6sa_OsT-13" parent="1" style="whiteSpace=wrap;html=1;" value="+" vertex="1">
-          <mxGeometry height="30" width="30" x="50" y="160" as="geometry" />
+        <mxCell id="392FqbwRfOenW6sa_OsT-13" parent="1" style="whiteSpace=wrap;html=1;fontSize=18;" value="+" vertex="1">
+          <mxGeometry height="30" width="30" x="150" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="392FqbwRfOenW6sa_OsT-14" parent="1" style="whiteSpace=wrap;html=1;" value="-" vertex="1">
-          <mxGeometry height="30" width="30" x="-40" y="160" as="geometry" />
+        <mxCell id="392FqbwRfOenW6sa_OsT-14" parent="1" style="whiteSpace=wrap;html=1;fontSize=18;" value="-" vertex="1">
+          <mxGeometry height="30" width="30" x="90" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
