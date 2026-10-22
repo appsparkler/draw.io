@@ -70,6 +70,9 @@
         <mxCell id="392FqbwRfOenW6sa_OsT-34" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.settings;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="230" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="392FqbwRfOenW6sa_OsT-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="Max Loss: ₹200" vertex="1">
+          <mxGeometry height="30" width="90" x="55" y="215" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
