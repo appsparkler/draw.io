@@ -215,6 +215,11 @@
         <mxCell id="2oVUuD03p2qremUUW-w2-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Initial State&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="-160" y="-30" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;119&quot;&gt;&lt;col width=&quot;119&quot;&gt;&lt;col width=&quot;119&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Time&lt;/td&gt;&lt;td&gt;Qty.&lt;/td&gt;&lt;td&gt;Avg. Price&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:right;&quot;&gt;9:32 AM&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;20&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;190&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:right;&quot;&gt;9:45 AM&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;20&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;195&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:right;&quot;&gt;9:32 AM&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;40&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;198&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:right;&quot;&gt;9:25 AM&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;-20&lt;/td&gt;&lt;td style=&quot;text-align:right;&quot;&gt;200&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" id="2oVUuD03p2qremUUW-w2-18">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="110" width="370" x="-520" y="150" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
