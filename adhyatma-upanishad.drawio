@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YGMopllHbxgMzekdvkB0" name="Page-5">
-    <mxGraphModel dx="1841" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,8 +419,8 @@
         <mxCell id="qvR7CAca-mn9SClXDu_j-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;verticalAlign=top;fontSize=18;fillColor=light-dark(#FFFFFF,#4D4D4D);" value="&lt;div&gt;&lt;b&gt;Dreaming at body/mind complex level (Mindfulness):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- is well aware of the body and mind consciousness.&lt;/div&gt;&lt;div&gt;- doesn&#39;t believe in atman/soul or any life beyond death.&lt;/div&gt;&lt;div&gt;- focuses on mental and physical health.&lt;/div&gt;&lt;div&gt;- also cares for the body and minds of other people&lt;/div&gt;&lt;div&gt;- easily moved by what is happening in their own mind and body rather than what is happening in the world.&lt;/div&gt;" vertex="1">
           <mxGeometry height="183.5" width="520" x="330" y="-28.5" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;verticalAlign=top;fontSize=18;fillColor=light-dark(#FFFFFF,#999999);fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Awareness about the soul and God (Heartfulness):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- At this level, one is well aware of the spiritual aspects of the human being and having knowledge of it is also aware of Paramatman (God/Brahman).&lt;/div&gt;&lt;div&gt;- Doesn&#39;t believe or know anything beyond God.&lt;/div&gt;&lt;div&gt;- Leads a very satvik life full of love and devotion&lt;/div&gt;" vertex="1">
-          <mxGeometry height="155" width="480" x="580" y="210" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;verticalAlign=top;fontSize=18;fillColor=light-dark(#FFFFFF,#999999);fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Awareness about the soul and God (Heartfulness):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- At this point, one is well aware of the spiritual aspects of the human being and having knowledge of it is also aware of Paramatman (God/Brahman).&lt;/div&gt;&lt;div&gt;- Doesn&#39;t believe or know anything beyond God.&lt;/div&gt;&lt;div&gt;- Leads a very satvik life full of love and devotion&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="480" x="640" y="210" as="geometry" />
         </mxCell>
         <mxCell id="qvR7CAca-mn9SClXDu_j-29" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="590" width="720" x="1310" y="200" as="geometry" />
