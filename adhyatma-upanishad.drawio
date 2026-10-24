@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YGMopllHbxgMzekdvkB0" name="Page-5">
-    <mxGraphModel dx="2570" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4648" dy="3370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,6 +502,36 @@
         </mxCell>
         <mxCell id="qvR7CAca-mn9SClXDu_j-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;verticalAlign=top;fontSize=18;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;b&gt;Awareness about The Source:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The Source is what remains after Mahapralaya or before the beginning of a new creation cycle (Shrishti Rachna).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;THIS IS MOST REAL (i.e. it is the least IMPERMANENT PHENOMENA)&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="480" x="660" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-47" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="1800" width="750" x="2190" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-36" edge="1" parent="qvR7CAca-mn9SClXDu_j-47" source="qvR7CAca-mn9SClXDu_j-40" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;strokeWidth=8;" value="">
+          <mxGeometry relative="1" width="100" x="-0.2719" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1800" />
+            </Array>
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="80" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-37" parent="qvR7CAca-mn9SClXDu_j-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=60;" value="&lt;font&gt;Dream&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="390" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-42" edge="1" parent="qvR7CAca-mn9SClXDu_j-47" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;strokeWidth=8;" target="qvR7CAca-mn9SClXDu_j-40" value="">
+          <mxGeometry relative="1" width="100" x="-0.2719" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" />
+            </Array>
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="80" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-40" parent="qvR7CAca-mn9SClXDu_j-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=60;" value="&lt;font&gt;Waking up&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="580" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-43" parent="qvR7CAca-mn9SClXDu_j-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=60;" value="&lt;font&gt;Fully Awake&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="370" y="1610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
