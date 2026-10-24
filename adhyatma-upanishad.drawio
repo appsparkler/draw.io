@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YGMopllHbxgMzekdvkB0" name="Page-5">
-    <mxGraphModel dx="1926" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1506" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,13 +480,16 @@
           <mxGeometry height="70" width="90" x="-15" y="845" as="geometry" />
         </mxCell>
         <mxCell id="qvR7CAca-mn9SClXDu_j-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Soul" vertex="1">
-          <mxGeometry height="30" width="70" x="-10" y="965" as="geometry" />
+          <mxGeometry height="30" width="70" x="-10" y="948" as="geometry" />
         </mxCell>
         <mxCell id="qvR7CAca-mn9SClXDu_j-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Body/Mind Complex" vertex="1">
           <mxGeometry height="90" width="70" x="-10" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="qvR7CAca-mn9SClXDu_j-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="&lt;div&gt;The&lt;/div&gt;&lt;div&gt;World&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="90" x="-20" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="atman" vertex="1">
+          <mxGeometry height="30" width="90" x="-20" y="978" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
