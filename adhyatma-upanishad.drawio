@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YGMopllHbxgMzekdvkB0" name="Page-5">
-    <mxGraphModel dx="1506" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,41 +455,44 @@
         <mxCell id="qvR7CAca-mn9SClXDu_j-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;verticalAlign=top;" value="&lt;div&gt;&lt;b&gt;Dreaming at soul level:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- At this level, one is well aware of the spiritual aspects of the human being and having knowledge of it is also aware of&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="330" x="280" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="390" width="720" x="-325" y="845" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-29" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="590" width="720" x="-280" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="280" width="630" x="-285" y="945" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-17" parent="qvR7CAca-mn9SClXDu_j-29" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="390" width="720" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="210" width="470" x="-210" y="1060" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-18" parent="qvR7CAca-mn9SClXDu_j-29" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="280" width="630" x="40" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="150" width="390" x="-170" y="1130" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-19" parent="qvR7CAca-mn9SClXDu_j-29" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="210" width="470" x="115" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="90" width="250" x="-100" y="1230" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-20" parent="qvR7CAca-mn9SClXDu_j-29" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="150" width="390" x="155" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="The Source" vertex="1">
-          <mxGeometry height="30" width="140" x="-35" y="730" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-21" parent="qvR7CAca-mn9SClXDu_j-29" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="90" width="250" x="225" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="God" vertex="1">
-          <mxGeometry height="30" width="70" x="-5" y="810" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-22" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="The Source" vertex="1">
+          <mxGeometry height="30" width="140" x="290" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="&lt;div&gt;Brahma&lt;/div&gt;&lt;div&gt;Vishnu&lt;/div&gt;&lt;div&gt;Mahesha&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Paramatman&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="90" x="-15" y="845" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-23" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="God" vertex="1">
+          <mxGeometry height="30" width="70" x="320" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Soul" vertex="1">
-          <mxGeometry height="30" width="70" x="-10" y="948" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-24" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="&lt;div&gt;Brahma&lt;/div&gt;&lt;div&gt;Vishnu&lt;/div&gt;&lt;div&gt;Mahesha&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Paramatman&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="310" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Body/Mind Complex" vertex="1">
-          <mxGeometry height="90" width="70" x="-10" y="1040" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-25" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Soul" vertex="1">
+          <mxGeometry height="30" width="70" x="315" y="218" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="&lt;div&gt;The&lt;/div&gt;&lt;div&gt;World&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="90" x="-20" y="1220" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-26" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="Body/Mind Complex" vertex="1">
+          <mxGeometry height="90" width="70" x="315" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="atman" vertex="1">
-          <mxGeometry height="30" width="90" x="-20" y="978" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-27" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="&lt;div&gt;The&lt;/div&gt;&lt;div&gt;World&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="90" x="305" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="qvR7CAca-mn9SClXDu_j-28" parent="qvR7CAca-mn9SClXDu_j-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="atman" vertex="1">
+          <mxGeometry height="30" width="90" x="305" y="248" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
