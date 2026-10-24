@@ -437,8 +437,8 @@
         <mxCell id="qvR7CAca-mn9SClXDu_j-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontStyle=1;fontSize=22;" value="God" vertex="1">
           <mxGeometry height="30" width="70" x="300" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="qvR7CAca-mn9SClXDu_j-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;Brahma&lt;/div&gt;&lt;div&gt;Vishnu&lt;/div&gt;&lt;div&gt;Mahesha&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="255" y="305" as="geometry" />
+        <mxCell id="qvR7CAca-mn9SClXDu_j-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#000000,#666666);" value="&lt;div&gt;Brahma&lt;/div&gt;&lt;div&gt;Vishnu&lt;/div&gt;&lt;div&gt;Mahesha&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="290" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
