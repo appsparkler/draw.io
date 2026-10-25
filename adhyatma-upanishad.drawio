@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram id="T-I97SUkViIPb_9BF73e" name="Page-6">
-    <mxGraphModel dx="1664" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,15 @@
         </mxCell>
         <mxCell id="Sm-tw6CNz2H9RIncrtrt-13" parent="Sm-tw6CNz2H9RIncrtrt-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=42;fillColor=light-dark(#000000,#333333);" value="I-NESS or MINE-NESS begins here, towards the world" vertex="1">
           <mxGeometry height="190" width="450" x="590" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm-tw6CNz2H9RIncrtrt-15" edge="1" parent="Sm-tw6CNz2H9RIncrtrt-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;curved=1;dashed=1;strokeWidth=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.0249" y="-1.9" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="380" />
+            </Array>
+            <mxPoint x="38" y="-30" as="sourcePoint" />
+            <mxPoint x="604" y="-40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
