@@ -55,6 +55,17 @@
             <mxPoint x="604" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Sm-tw6CNz2H9RIncrtrt-17" edge="1" parent="Sm-tw6CNz2H9RIncrtrt-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;curved=1;strokeWidth=7;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#00FF00);" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.0572" y="114.73" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="190" />
+              <mxPoint x="340" y="190" />
+              <mxPoint x="480" y="170" />
+            </Array>
+            <mxPoint y="710" as="sourcePoint" />
+            <mxPoint x="630" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
