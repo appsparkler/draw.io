@@ -35,10 +35,7 @@
           <mxGeometry height="250" width="420" x="-110" y="160" as="geometry" />
         </mxCell>
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-17" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-100" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="2JwCaDGtm6nMnUVtgoy1-15" parent="2JwCaDGtm6nMnUVtgoy1-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#999999);" value="Select Interval" vertex="1">
-          <mxGeometry height="30" width="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="-30" y="140" as="geometry" />
         </mxCell>
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-16" connectable="0" parent="2JwCaDGtm6nMnUVtgoy1-17" style="group" value="" vertex="1">
           <mxGeometry height="30" width="120" y="30" as="geometry" />
@@ -71,6 +68,15 @@
             <mxPoint x="25" y="55.93000000000001" as="sourcePoint" />
             <mxPoint x="335" y="55.93000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;curved=1;curveGeometry=1;" value="">
+          <mxGeometry relative="1" width="100" x="-0.2368" as="geometry">
+            <mxPoint x="30" y="590" as="sourcePoint" />
+            <mxPoint x="390" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NIFTY" vertex="1">
+          <mxGeometry height="30" width="60" x="-100" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
