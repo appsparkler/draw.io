@@ -34,11 +34,23 @@
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-11" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="210" width="420" x="-110" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="2JwCaDGtm6nMnUVtgoy1-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=8;" value="1_MINUTE" vertex="1">
-          <mxGeometry height="30" width="120" x="-100" y="170" as="geometry" />
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=8;" value="&lt;div align=&quot;left&quot;&gt;NIFTY&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="2JwCaDGtm6nMnUVtgoy1-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="10" width="20" x="-10" y="180" as="geometry" />
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-15" parent="2JwCaDGtm6nMnUVtgoy1-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#999999);" value="Select Interval" vertex="1">
+          <mxGeometry height="30" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-16" connectable="0" parent="2JwCaDGtm6nMnUVtgoy1-17" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-12" parent="2JwCaDGtm6nMnUVtgoy1-16" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=8;" value="1_MINUTE" vertex="1">
+          <mxGeometry height="30" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-13" parent="2JwCaDGtm6nMnUVtgoy1-16" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="90" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
