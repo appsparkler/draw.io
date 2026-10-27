@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="dZzYn4c3mKmMwlUcHD-B" name="Page-2">
-    <mxGraphModel dx="1354" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#999999);" value="Select Scrip" vertex="1">
           <mxGeometry height="30" width="80" x="100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="190" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
