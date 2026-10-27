@@ -31,6 +31,9 @@
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Add Setup" vertex="1">
           <mxGeometry height="30" width="80" x="230" y="110" as="geometry" />
         </mxCell>
+        <mxCell id="2JwCaDGtm6nMnUVtgoy1-11" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="420" x="-110" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
