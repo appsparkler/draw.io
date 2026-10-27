@@ -34,9 +34,6 @@
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-11" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="210" width="420" x="-110" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="2JwCaDGtm6nMnUVtgoy1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=8;" value="&lt;div align=&quot;left&quot;&gt;NIFTY&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="360" y="190" as="geometry" />
-        </mxCell>
         <mxCell id="2JwCaDGtm6nMnUVtgoy1-17" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="120" x="-100" y="170" as="geometry" />
         </mxCell>
