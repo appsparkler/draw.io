@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="dZzYn4c3mKmMwlUcHD-B" name="Page-2">
-    <mxGraphModel dx="2445" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,6 +225,37 @@
         </mxCell>
         <mxCell id="_eBteY_1zPnamcWrcmrR-57" parent="_eBteY_1zPnamcWrcmrR-36" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/UIDesign_Icons-2224/delete-1017.png;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="373" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-4" edge="1" parent="1" source="owdhsVhXAv8qNfX2EJsi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="owdhsVhXAv8qNfX2EJsi-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-2" parent="1" style="whiteSpace=wrap;html=1;" value="historical candles" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-8" edge="1" parent="1" source="owdhsVhXAv8qNfX2EJsi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="owdhsVhXAv8qNfX2EJsi-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-9" connectable="0" parent="owdhsVhXAv8qNfX2EJsi-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.0793" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-11" edge="1" parent="1" source="owdhsVhXAv8qNfX2EJsi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="owdhsVhXAv8qNfX2EJsi-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-12" connectable="0" parent="owdhsVhXAv8qNfX2EJsi-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.2335" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="should include last candle?" vertex="1">
+          <mxGeometry height="100" width="120" x="-520" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-7" parent="1" style="whiteSpace=wrap;html=1;" value="Pop the candle out" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-10" parent="1" style="whiteSpace=wrap;html=1;" value="Reduce the candle data to chart data" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
