@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="dZzYn4c3mKmMwlUcHD-B" name="Page-2">
-    <mxGraphModel dx="1848" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="_eBteY_1zPnamcWrcmrR-56" parent="_eBteY_1zPnamcWrcmrR-36" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="50" x="358" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_eBteY_1zPnamcWrcmrR-57" parent="_eBteY_1zPnamcWrcmrR-36" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/UIDesign_Icons-2224/delete-1017.png;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="373" y="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
