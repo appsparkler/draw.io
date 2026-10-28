@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram id="dZzYn4c3mKmMwlUcHD-B" name="Page-2">
-    <mxGraphModel dx="1393" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,18 @@
         </mxCell>
         <mxCell id="owdhsVhXAv8qNfX2EJsi-10" parent="1" style="whiteSpace=wrap;html=1;" value="Reduce the candle data to chart data" vertex="1">
           <mxGeometry height="60" width="120" x="-520" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="refineCandles method" vertex="1">
+          <mxGeometry height="30" width="260" x="-360" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-16" edge="1" parent="1" source="owdhsVhXAv8qNfX2EJsi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="owdhsVhXAv8qNfX2EJsi-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-14" parent="1" style="whiteSpace=wrap;html=1;" value="parameters: candles, interval" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="owdhsVhXAv8qNfX2EJsi-15" parent="1" style="whiteSpace=wrap;html=1;" value="this method removes the last candle conditionally.&amp;nbsp; The condition is that if the difference between the current time and the last candles timestamp is less than the interval time (for a THREE_MINUTE candle, its 3 minutes, for a 1 minute candle its one minute, so on and so forth; then remove the last candle (basically it is a live candle)." vertex="1">
+          <mxGeometry height="160" width="450" x="-630" y="1520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
