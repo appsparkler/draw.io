@@ -269,9 +269,6 @@
         <mxCell id="owdhsVhXAv8qNfX2EJsi-15" parent="1" style="whiteSpace=wrap;html=1;" value="this method removes the last candle conditionally.&amp;nbsp; The condition is that if the difference between the current time and the last candles timestamp is less than the interval time (for a THREE_MINUTE candle, its 3 minutes, for a 1 minute candle its one minute, so on and so forth; then remove the last candle (basically it is a live candle)." vertex="1">
           <mxGeometry height="160" width="450" x="-630" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="4CiVwYZrsoqLrHMzkZm3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Min:&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="-1780" y="380" as="geometry" />
-        </mxCell>
         <mxCell id="4CiVwYZrsoqLrHMzkZm3-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="" vertex="1">
           <mxGeometry height="60" width="200" x="-1680" y="280" as="geometry" />
         </mxCell>
@@ -328,6 +325,9 @@
           <mxGeometry height="20" width="67" x="133" as="geometry">
             <mxRectangle height="20" width="67" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4CiVwYZrsoqLrHMzkZm3-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Hii!&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-1800" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
