@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="851" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="624" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K9rEuhpHs81XYy2NQ1EC-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="680" width="280" x="40" y="40" as="geometry" />
+          <mxGeometry height="920" width="280" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="K9rEuhpHs81XYy2NQ1EC-2" parent="1" style="whiteSpace=wrap;html=1;" value="SCAN YOUR BILL&lt;br&gt;(Video or Pic)" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="130" as="geometry" />
@@ -32,7 +32,13 @@
           <mxGeometry height="30" width="240" x="50" y="330" as="geometry" />
         </mxCell>
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Inflation&lt;/b&gt; - The inflation numbers we read in newspapers are personally irrelevant.&amp;nbsp; When you have saved receipts over a few months or years, you can really look back at the change in your spending over time.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;2. Expense Tracking&amp;nbsp;&lt;/b&gt;- Lets say you use this app to track household expenses.&amp;nbsp; You&#39;ll be able to easily and quickly get information on how much your spending is in any period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Stock management&lt;/b&gt; -&amp;nbsp; Again, taking the example of household expenses, you can very easily understand the amount of groceries yo&lt;b&gt;u &lt;/b&gt;need in every category.&amp;nbsp; This helps you plan your purchases and benefit from&amp;nbsp;wholesale purchases; for example.&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="350" width="260" x="50" y="360" as="geometry" />
+          <mxGeometry height="260" width="260" x="50" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How are we different?" vertex="1">
+          <mxGeometry height="30" width="240" x="50" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Pay as you go: &lt;/b&gt;We don&#39;t have a monthly subscription; instead you pay on the go.&amp;nbsp; Moreover, we help you get started with 100 credits (which is roughly equivalent to $1).&amp;nbsp; You get to add credits as an when you prefer and also get an instant refund when you no longer want to use our app.&lt;br&gt;&lt;br&gt;&lt;b&gt;2.&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="200" width="260" x="50" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
