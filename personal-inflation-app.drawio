@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="K9rEuhpHs81XYy2NQ1EC-3" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="280" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="80" y="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
