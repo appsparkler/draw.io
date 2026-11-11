@@ -22,8 +22,14 @@
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="LOGIN" vertex="1">
           <mxGeometry height="20" width="60" x="250" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How It Works?" vertex="1">
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How It Works?" vertex="1">
           <mxGeometry height="30" width="150" x="50" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;You scan your bills. Our AI engine structures the data for you; which you can edit, if needed.&amp;nbsp; Finally you save your bill.&amp;nbsp; Many such bills helps you track your expenditure over time.&amp;nbsp; It also helps you understand your stock needs so that you can buy efficiently every month.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="50" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="What&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="150" x="50" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
