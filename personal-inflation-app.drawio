@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="640" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Why we created this?" vertex="1">
           <mxGeometry height="30" width="190" x="50" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="1.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="260" x="50" y="350" as="geometry" />
+        <mxCell id="u2aHrqAUeqZqV6IxxZCq-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Inflation&lt;/b&gt; - The inflation numbers we read in newspapers are personally irrelevant.&amp;nbsp; When you have saved receipts over a few months or years, you can really look back at the change in your spending over time.&lt;br&gt;&lt;br&gt;2.&amp;nbsp;" vertex="1">
+          <mxGeometry height="160" width="260" x="50" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
