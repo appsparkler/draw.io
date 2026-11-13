@@ -127,6 +127,12 @@
         <mxCell id="jWdtguDpcv2BsNuPijOO-38" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="29.4" width="29.4" x="200" y="5.600000000000001" as="geometry" />
         </mxCell>
+        <mxCell id="jWdtguDpcv2BsNuPijOO-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="SCAN YOUR INVOICE" vertex="1">
+          <mxGeometry height="40" width="140" x="1190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jWdtguDpcv2BsNuPijOO-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="For long invoices, please take multiple pictures that cover each line item." vertex="1">
+          <mxGeometry height="60" width="260" x="1130" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
