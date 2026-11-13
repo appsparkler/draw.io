@@ -11,10 +11,10 @@
           <mxGeometry height="100" width="260" x="50" y="90" as="geometry" />
         </mxCell>
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How It Works?" vertex="1">
-          <mxGeometry height="30" width="150" x="50" y="190" as="geometry" />
+          <mxGeometry height="30" width="150" x="50" y="200" as="geometry" />
         </mxCell>
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;You scan your bills. Our AI engine structures the data for you; which you can edit, if needed.&amp;nbsp; Finally you save your bill.&amp;nbsp; Many such bills helps you track your expenditure over time, plan your purchases; household or other, and also provide meaningful data whenever you need it.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="260" x="50" y="210" as="geometry" />
+          <mxGeometry height="100" width="260" x="50" y="220" as="geometry" />
         </mxCell>
         <mxCell id="u2aHrqAUeqZqV6IxxZCq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Why we created this app?" vertex="1">
           <mxGeometry height="30" width="240" x="50" y="330" as="geometry" />
