@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="1480" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,8 +121,11 @@
         <mxCell id="jWdtguDpcv2BsNuPijOO-37" parent="jWdtguDpcv2BsNuPijOO-34" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="jWdtguDpcv2BsNuPijOO-39" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="5" as="geometry" />
+        </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-38" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="29.4" width="29.4" x="240" y="5" as="geometry" />
+          <mxGeometry height="29.4" width="29.4" x="200" y="5.600000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
