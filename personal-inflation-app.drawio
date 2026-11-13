@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="personal-inflation-app" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="803" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-130" parent="M7DZ3o5dQ0OdRvJbJULQ-111" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="340" width="260" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-131" parent="M7DZ3o5dQ0OdRvJbJULQ-111" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="Invoice images captured" vertex="1">
+          <mxGeometry height="30" width="260" x="10" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
