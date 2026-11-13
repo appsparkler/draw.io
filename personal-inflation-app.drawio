@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="personal-inflation-app" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="1018" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,6 +438,30 @@
         </mxCell>
         <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-150" parent="M7DZ3o5dQ0OdRvJbJULQ-152" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="20" width="22.5" x="8.75" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-153" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="280" x="2440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-154" parent="M7DZ3o5dQ0OdRvJbJULQ-153" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-155" connectable="0" parent="M7DZ3o5dQ0OdRvJbJULQ-153" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-156" parent="M7DZ3o5dQ0OdRvJbJULQ-155" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-157" parent="M7DZ3o5dQ0OdRvJbJULQ-155" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-158" parent="M7DZ3o5dQ0OdRvJbJULQ-155" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-159" parent="M7DZ3o5dQ0OdRvJbJULQ-155" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;direction=east;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-160" parent="M7DZ3o5dQ0OdRvJbJULQ-155" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="29.4" width="29.4" x="200" y="5.600000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
