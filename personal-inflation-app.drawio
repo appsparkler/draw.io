@@ -1,53 +1,14 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="u5GOwVcvOEgGclWRSTyD">
-    <mxGraphModel dx="1081" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="personal-inflation-app" id="u5GOwVcvOEgGclWRSTyD">
+    <mxGraphModel dx="1231" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K9rEuhpHs81XYy2NQ1EC-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1040" width="280" x="40" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="K9rEuhpHs81XYy2NQ1EC-2" parent="1" style="whiteSpace=wrap;html=1;" value="VIDEO of how the app works" vertex="1">
-          <mxGeometry height="100" width="260" x="50" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How It Works?" vertex="1">
-          <mxGeometry height="30" width="150" x="50" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;You scan your bills. Our AI engine structures the data for you; which you can edit, if needed.&amp;nbsp; Finally you save your bill.&amp;nbsp; Many such bills helps you track your expenditure over time, plan your purchases; household or other, and also provide meaningful data whenever you need it.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="260" x="50" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Why we created this app?" vertex="1">
-          <mxGeometry height="30" width="240" x="50" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Inflation&lt;/b&gt; - The inflation numbers we read in newspapers are personally irrelevant.&amp;nbsp; When you have saved receipts over a few months or years, you can really look back at the change in your spending over time.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;2. Expense Tracking&amp;nbsp;&lt;/b&gt;- Lets say you use this app to track household expenses.&amp;nbsp; You&#39;ll be able to easily and quickly get information on how much your spending is in any period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Stock management&lt;/b&gt; -&amp;nbsp; Again, taking the example of household expenses, you can very easily understand the amount of groceries yo&lt;b&gt;u &lt;/b&gt;need in every category.&amp;nbsp; This helps you plan your purchases and benefit from&amp;nbsp;wholesale purchases; for example.&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="260" x="50" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How are we different?" vertex="1">
-          <mxGeometry height="30" width="240" x="50" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Pay as you go: &lt;/b&gt;We don&#39;t have a monthly subscription; instead you pay on the go.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;2. 100 free credits: &lt;/b&gt;As a &quot;thankyou&quot; for choosing our app, we help you get started with 100 credits (which roughly is equivalent to $1).&amp;nbsp; You can add credits as an when you prefer and also get an instant refund when you no longer want to use our app.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Excellent Reporting:&lt;/b&gt;&amp;nbsp;We provide you with several reports that can help you with in-depth analysis of your invoices and expenses.&lt;br&gt;&lt;br&gt;&lt;b&gt;4. Its your app: &lt;/b&gt;We have a Feedback button and its a very active button.&amp;nbsp; You can share your ideas and your feedback which we take in very sincerely and improve the app to make it more useful for everyone.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="290" width="260" x="50" y="650" as="geometry" />
-        </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="360" width="280" x="400" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="jWdtguDpcv2BsNuPijOO-2" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="280" x="40" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="K9rEuhpHs81XYy2NQ1EC-3" parent="jWdtguDpcv2BsNuPijOO-2" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="280" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-1" parent="jWdtguDpcv2BsNuPijOO-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
-          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-4" parent="jWdtguDpcv2BsNuPijOO-2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="u2aHrqAUeqZqV6IxxZCq-5" parent="jWdtguDpcv2BsNuPijOO-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="LOGIN" vertex="1">
-          <mxGeometry height="20" width="60" x="210" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="280" x="950" y="-200" as="geometry" />
+          <mxGeometry height="40" width="280" x="1160" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-4" parent="jWdtguDpcv2BsNuPijOO-3" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="280" as="geometry" />
@@ -60,9 +21,6 @@
         </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-19" parent="jWdtguDpcv2BsNuPijOO-3" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="29.4" width="29.4" x="240" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="jWdtguDpcv2BsNuPijOO-8" parent="1" style="whiteSpace=wrap;html=1;" value="SCAN YOUR BILL&lt;br&gt;(Video or Pic)" vertex="1">
-          <mxGeometry height="40" width="110" x="520" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="Login to scan your invoice" vertex="1">
           <mxGeometry height="40" width="190" x="445" y="130" as="geometry" />
@@ -121,7 +79,7 @@
         <mxCell id="jWdtguDpcv2BsNuPijOO-37" parent="jWdtguDpcv2BsNuPijOO-34" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="jWdtguDpcv2BsNuPijOO-39" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;" value="" vertex="1">
+        <mxCell id="jWdtguDpcv2BsNuPijOO-39" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;direction=east;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="240" y="5" as="geometry" />
         </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-38" parent="jWdtguDpcv2BsNuPijOO-34" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
@@ -132,6 +90,113 @@
         </mxCell>
         <mxCell id="jWdtguDpcv2BsNuPijOO-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="For long invoices, please take multiple pictures that cover each line item." vertex="1">
           <mxGeometry height="60" width="260" x="1130" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-2" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="1160" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-3" parent="M7DZ3o5dQ0OdRvJbJULQ-2" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-4" parent="M7DZ3o5dQ0OdRvJbJULQ-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-5" parent="M7DZ3o5dQ0OdRvJbJULQ-2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-6" parent="M7DZ3o5dQ0OdRvJbJULQ-2" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="29.4" width="29.4" x="240" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-13" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="280" x="400" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="400" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-15" parent="M7DZ3o5dQ0OdRvJbJULQ-14" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-16" parent="M7DZ3o5dQ0OdRvJbJULQ-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-17" parent="M7DZ3o5dQ0OdRvJbJULQ-14" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-18" parent="M7DZ3o5dQ0OdRvJbJULQ-14" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;direction=east;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-19" parent="M7DZ3o5dQ0OdRvJbJULQ-14" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="29.4" width="29.4" x="200" y="5.600000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="280" x="840" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-1" parent="M7DZ3o5dQ0OdRvJbJULQ-20" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-7" connectable="0" parent="M7DZ3o5dQ0OdRvJbJULQ-20" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-8" parent="M7DZ3o5dQ0OdRvJbJULQ-7" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-9" parent="M7DZ3o5dQ0OdRvJbJULQ-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-10" parent="M7DZ3o5dQ0OdRvJbJULQ-7" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-11" parent="M7DZ3o5dQ0OdRvJbJULQ-7" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;labelPerimeter=1;direction=east;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="M7DZ3o5dQ0OdRvJbJULQ-12" parent="M7DZ3o5dQ0OdRvJbJULQ-7" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.moon;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="29.4" width="29.4" x="200" y="5.600000000000001" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="idZNhypwtRiS9Pw6-PyO" name="archive">
+    <mxGraphModel dx="962" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1040" width="280" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-2" parent="1" style="whiteSpace=wrap;html=1;" value="VIDEO of how the app works" vertex="1">
+          <mxGeometry height="100" width="260" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How It Works?" vertex="1">
+          <mxGeometry height="30" width="150" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;You scan your bills. Our AI engine structures the data for you; which you can edit, if needed.&amp;nbsp; Finally you save your bill.&amp;nbsp; Many such bills helps you track your expenditure over time, plan your purchases; household or other, and also provide meaningful data whenever you need it.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="180" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Why we created this app?" vertex="1">
+          <mxGeometry height="30" width="240" x="180" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Inflation&lt;/b&gt; - The inflation numbers we read in newspapers are personally irrelevant.&amp;nbsp; When you have saved receipts over a few months or years, you can really look back at the change in your spending over time.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;2. Expense Tracking&amp;nbsp;&lt;/b&gt;- Lets say you use this app to track household expenses.&amp;nbsp; You&#39;ll be able to easily and quickly get information on how much your spending is in any period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Stock management&lt;/b&gt; -&amp;nbsp; Again, taking the example of household expenses, you can very easily understand the amount of groceries yo&lt;b&gt;u &lt;/b&gt;need in every category.&amp;nbsp; This helps you plan your purchases and benefit from&amp;nbsp;wholesale purchases; for example.&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="260" x="180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="How are we different?" vertex="1">
+          <mxGeometry height="30" width="240" x="180" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;1. Pay as you go: &lt;/b&gt;We don&#39;t have a monthly subscription; instead you pay on the go.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;2. 100 free credits: &lt;/b&gt;As a &quot;thankyou&quot; for choosing our app, we help you get started with 100 credits (which roughly is equivalent to $1).&amp;nbsp; You can add credits as an when you prefer and also get an instant refund when you no longer want to use our app.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Excellent Reporting:&lt;/b&gt;&amp;nbsp;We provide you with several reports that can help you with in-depth analysis of your invoices and expenses.&lt;br&gt;&lt;br&gt;&lt;b&gt;4. Its your app: &lt;/b&gt;We have a Feedback button and its a very active button.&amp;nbsp; You can share your ideas and your feedback which we take in very sincerely and improve the app to make it more useful for everyone.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="260" x="180" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="280" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-10" parent="cq23WIchvqrzxKAR0oyZ-9" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-11" parent="cq23WIchvqrzxKAR0oyZ-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PERSONAL INFLATION APP" vertex="1">
+          <mxGeometry height="30" width="180" x="30" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-12" parent="cq23WIchvqrzxKAR0oyZ-9" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_UI-2597/Menu-2-1472.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cq23WIchvqrzxKAR0oyZ-13" parent="cq23WIchvqrzxKAR0oyZ-9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="LOGIN" vertex="1">
+          <mxGeometry height="20" width="60" x="210" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
